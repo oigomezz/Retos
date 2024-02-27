@@ -11,5 +11,3 @@ Notas:
     Las cadenas de entrada siempre estarán bien formadas con paréntesis que coinciden correctamente, no necesitas validarlos.
     En el mensaje final no deben quedar paréntesis.
     El nivel máximo de anidamiento es 2.
-
-[EOF]

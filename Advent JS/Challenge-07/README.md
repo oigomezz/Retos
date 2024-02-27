@@ -39,5 +39,3 @@ Las líneas de los regalos se dibujan con # y las caras con el símbolo que nos 
 Importante: Nos han dicho que siempre hay que dejar un salto de línea al final del dibujo.
 
 Nota: Ten en cuenta que, en los tests, la primera línea se ve empujada por el caracter ".
-
-[EOF]

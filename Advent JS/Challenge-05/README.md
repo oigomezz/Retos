@@ -2,7 +2,6 @@
 
 Santa 🎅 está probando su nuevo trineo eléctrico, el CyberReindeer, en una carretera del Polo Norte. La carretera se representa con una cadena de caracteres, donde:
 
-
     . = Carretera
     S = Trineo de Santa
     * = Barrera abierta
@@ -38,5 +37,3 @@ Crea una función que simule el movimiento del trineo durante un tiempo dado y d
 El resultado es un array donde cada elemento muestra la carretera en cada unidad de tiempo.
 
 Ten en cuenta que si el trineo está en la misma posición que una barrera, entonces toma su lugar en el array.
-
-[EOF]

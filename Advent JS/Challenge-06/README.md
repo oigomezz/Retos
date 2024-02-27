@@ -29,5 +29,3 @@ Crea una función maxDistance que reciba la cadena de texto movements y devuelva
     console.log(result3) // -> 5
 
 Ten en cuenta que no importa si es a la izquierda o la derecha, la distancia es el valor absoluto de la distancia recorrida máxima al finalizar los movimientos.
-
-[EOF]
