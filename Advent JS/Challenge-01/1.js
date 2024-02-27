@@ -1,11 +1,11 @@
 function findFirstRepeated(gifts) {
   // Code here
   let noRepetidos = [];
-  for (let i = 0; i < gifts.length; i++) {
-    if (!noRepetidos.includes(gifts[i])) {
-      noRepetidos.push(gifts[i]);
+  for (const element of gifts) {
+    if (!noRepetidos.includes(element)) {
+      noRepetidos.push(element);
     } else {
-      return gifts[i];
+      return element;
     }
   }
   return -1;

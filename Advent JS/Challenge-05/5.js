@@ -25,8 +25,6 @@ function cyberReindeer(road, time) {
 
 console.log(cyberReindeer("S..|...|..", 10));
 
-// el nivel que piden esos retos cada vez es más alto y estoy empezando a perder cordura
-
 /* -> result:
 [
   'S..|...|..', // 0 estado inicial
