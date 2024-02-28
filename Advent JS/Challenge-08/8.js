@@ -35,5 +35,3 @@ console.log(result1);
       resultando en 1 caja suelta {b} y una bolsa con 1 regalo (b) 
 
 */
-
-// solucion al reto de hoy, mas facil q el de ayer
