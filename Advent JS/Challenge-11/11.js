@@ -4,12 +4,12 @@ function getIndexsForPalindrome(word) {
   for (let i = 0; i < word.length; i++) {
     for (let j = 0; j < word.length; j++) {
       if (i === j) continue;
-      newWord = word.split('');
+      newWord = word.split("");
       const aux = newWord[i];
       newWord[i] = newWord[j];
       newWord[j] = aux;
-      const newBaseWord = newWord.join('');
-      if(newWord.reverse().join('') === newBaseWord) return [i,j];
+      const newBaseWord = newWord.join("");
+      if (newWord.reverse().join("") === newBaseWord) return [i, j];
     }
   }
   return null;
