@@ -9,4 +9,5 @@ def is_anagram(one, two):
     word_two_to_array.sort()
     return word_one_to_array == word_two_to_array
 
+
 print(is_anagram("amor", "roma"))

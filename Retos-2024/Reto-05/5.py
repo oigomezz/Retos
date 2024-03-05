@@ -7,6 +7,7 @@ class Polygon:
         # This method should be overridden in subclasses.
         pass
 
+
 class Triangle(Polygon):
     def __init__(self, base, height):
         self.base = base
@@ -17,6 +18,7 @@ class Triangle(Polygon):
 
     def print_area(self):
         print(f"El área del triángulo es {self.area()}")
+
 
 class Rectangle(Polygon):
     def __init__(self, length, width):
@@ -29,6 +31,7 @@ class Rectangle(Polygon):
     def print_area(self):
         print(f"El área del rectángulo es {self.area()}")
 
+
 class Square(Polygon):
     def __init__(self, side):
         self.side = side
@@ -38,6 +41,7 @@ class Square(Polygon):
 
     def print_area(self):
         print(f"El área del cuadrado es {self.area()}")
+
 
 def area(polygon):
     polygon.print_area()

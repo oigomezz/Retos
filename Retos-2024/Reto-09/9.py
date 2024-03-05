@@ -7,5 +7,6 @@ def decimal_to_binary(decimal):
         binary = str(reminder) + binary
     return binary if binary else "0"
 
+
 print(decimal_to_binary(387))
 print(decimal_to_binary(0))
