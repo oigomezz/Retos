@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Reto #08 CONTANDO PALABRAS
 
 Crea un programa que cuente cuantas veces se repite cada palabra y que muestre el recuento final de todas ellas.

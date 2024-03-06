@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Reto #01 EL FAMOSO "FIZZ BUZZ"
 
 Escribe un programa que muestre por consola (con un print) los números de 1 a 1000 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:

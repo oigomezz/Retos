@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Reto #06 ASPECT RATIO DE UNA IMAGEN
 
 Crea un programa que se encargue de calcular el aspect ratio de una imagen a partir de una url.

@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Reto #02 ¿ES UN ANAGRAMA?
 
 Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Bool) según sean o no anagramas.

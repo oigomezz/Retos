@@ -1,3 +1,4 @@
+<!-- trunk-ignore-all(prettier) -->
 # Reto #05 ÁREA DE UN POLÍGONO
 
 Crea UNA ÚNICA FUNCIÓN (importante que sólo sea una) que sea capaz de calcular y retornar el área de un polígono.
