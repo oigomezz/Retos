@@ -1,17 +1,19 @@
-import datetime
+# Crea una función que sea capaz de detectar si existe un viernes 13
+# en el mes y el año indicados.
+# - La función recibirá el mes y el año y retornará verdadero o falso.
+from datetime import date
 
-
-def friday_13(year: int, month: int) -> bool:
+def viernes_13(anio:int, mes:int):
     try:
-        return datetime.date(year, month, 13).weekday() == 4
-    except:
+        semana = date(anio,mes,13).weekday()
+        return True if semana == 4 else False
+    except Exception:
         return False
 
-
-print(friday_13(2023, 3))
-print(friday_13(2023, 1))
-print(friday_13(2023, 13))
-print(friday_13(-2023, 1))
-print(friday_13(2023, "1"))
-print(friday_13(2023, 0))
-print(friday_13("Brais", "Moure"))
+print(viernes_13(2023, 10))
+print(viernes_13(2023, 3))
+print(viernes_13(2023, 1))
+print(viernes_13(2023, 13))
+print(viernes_13(-2023, 1))
+# print(viernes_13(2023, "1"))
+print(viernes_13(2023, 0))
