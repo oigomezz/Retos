@@ -1,5 +1,2 @@
-number = input()
-print(int(number)*2)
-
-name = input()
-print('%s' % name)
+n = input()
+print(n.swapcase())
