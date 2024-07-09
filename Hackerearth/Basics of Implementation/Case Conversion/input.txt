@@ -1,0 +1,7 @@
+6
+HackerEarth
+primeCheck
+OddOrEven
+random
+getRandom
+macOS
