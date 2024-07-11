@@ -1,10 +1,7 @@
-def find_k(k, score, n):
-    # Write your code here
-    pass
+n, k = map(int, input().split())
+arr = list(map(int, input().split()))
+mp = {x: i+1 for i, x in enumerate(arr)}
+arr.sort(reverse=True)
 
-
-N, K = map(int, input().split())
-score = list(map(int, input().split()))
-
-out_ = find_k(K, score, N)
-print(' '.join(map(str, out_)))
+for i in range(k):
+    print(mp[arr[i]], end=" ")
