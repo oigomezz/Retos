@@ -1,0 +1,10 @@
+9
+Tom 6
+Jim 7
+Tom 19
+Phil 8
+Rick 12
+Jim 22
+Rick 18
+Phil 22
+Tom 36
