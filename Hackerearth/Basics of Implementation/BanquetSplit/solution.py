@@ -1,12 +1,5 @@
 from collections import defaultdict
 
-N = 100000
-LG = 22
-
-lvl = [0] * N
-P = [[-1] * LG for _ in range(N)]
-g = defaultdict(list)
-
 
 def clear(n):
     global lvl, P, g
@@ -60,8 +53,15 @@ def dis(u, v):
     return lvl[u] + lvl[v] - 2 * lvl[w]
 
 
-def solve():
-    global g
+N = 800000
+LG = 22
+
+lvl = [0] * N
+P = [[-1] * LG for _ in range(N)]
+g = defaultdict(list)
+
+T = int(input())
+while (T > 0):
     n = int(input())
     clear(n)
 
@@ -82,14 +82,4 @@ def solve():
         else:
             print("No")
             print(1, l)
-
-
-def main():
-    T = int(input())
-
-    for _ in range(T):
-        solve()
-
-
-if __name__ == "__main__":
-    main()
+    T -= 1
