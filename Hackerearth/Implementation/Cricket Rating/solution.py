@@ -16,4 +16,4 @@ if n == 0:
     print("0")
 else:
     a = list(map(int, input().split()))
-print(max_sum(a, len(a)))
+    print(max_sum(a, len(a)))
