@@ -1,4 +1,4 @@
-# Read from STDIN, Write to STDOUT
+# Rook Attack
 
 Given a N x M chessboard, where every cell has a value assigned to it denoted by A[i] [j] (Cell in the ith row from top and jth column from left).
 
@@ -8,9 +8,8 @@ If there are more than one positions for (x,y), return the position where x is a
 
 ## Input format
 
-First line contains two space separated integers denoting N and M.
-
-Next N lines contains M space separated integers denoting the values of array A.
+- First line contains two space separated integers denoting N and M.
+- Next N lines contains M space separated integers denoting the values of array A.
 
 ## Output format
 
