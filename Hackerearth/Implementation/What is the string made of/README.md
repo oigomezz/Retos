@@ -2,7 +2,7 @@
 
 You are given a string, which contains entirely of decimal digits (0-9). Each digit is made of a certain number of dashes, as shown in the image below. For instance 1 is made of 2 dashes, 8 is made of 7 dashes and so on.
 
-![digits made of dashes](https://github.com/oigomezz/Retos/blob/main/Hackerearth/Implementation/What%20is%20the%20string%20made%20of%3F/image.png)
+![digits made of dashes](https://github.com/oigomezz/Retos/blob/main/Hackerearth/Implementation/What%20is%20the%20string%20made%20of/image.png)
 
 You have to write a function that takes this string message as an input and returns a corresponding value in terms of a number. This number is the count of dashes in the string message.
 
