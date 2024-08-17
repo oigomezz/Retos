@@ -1,0 +1,5 @@
+4 10
+aacbaac
+acbdabc
+abcdcba
+abcbd
