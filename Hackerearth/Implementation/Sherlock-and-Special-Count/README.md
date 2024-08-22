@@ -1,14 +1,14 @@
-# Excursion
+# Sherlock and Special Count
 
-A group of students wants to visit a tour in some city X. In total, the group has N boys and M girls. To do this, they need to stay in a hotel.
+Let's say P= [P1, P2 . . . PN] is a permutations of all positive integers less than or equal to N. A function called "special count" F(P)
 
-Calculate the number of rooms you need to book in the hotel, if each hotel room has K seats, provided that the boys can not live with the girls in the same room.
+Now Watson gives a N and K to Sherlock and asks if K is a possible special count for any permutation of first N positive integers.
 
 ## Input format
 
-- The first line specifies a number T denoting the number of test cases.
-- In each line of the test case, there are three numbers, N,M,K.
+- First line contains T, the number of test cases.
+- Each test case consists of N and K in one line.
 
 ## Output format
 
-For each test case, print one number denoting the number of rooms to be booked at the hotel.
+For each test case, print "YES" or "NO", denoting whether K is a possible special count or not.
