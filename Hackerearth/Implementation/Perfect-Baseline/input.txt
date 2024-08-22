@@ -1,0 +1,11 @@
+2
+3 3
+aaa
+ccc
+ddd
+5 1
+a
+a
+b
+b
+a
