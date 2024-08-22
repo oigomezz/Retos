@@ -1,19 +1,20 @@
-n = int(input())
-buildings = [0] * n
-for i in range(n):
-    a = int(input())
-    buildings[i] = a
+from collections import Counter
 
-queries = {}
+n = int(input())
+heights = [int(input()) for _ in range(n)]
+counter = Counter(heights)
+highest = max(heights)
+highest += 1
+cache = {}
 q = int(input())
-for i in range(q):
-    count = 0
+for _ in range(q):
     k = int(input())
-    if (k in queries):
-        count = queries[k]
-    else :
-        for j in range(n):
-            if buildings[j] % k == 0:
-                count += 1
-        queries[k] = count
-    print(count)
+    if k in cache:
+        print(cache[k])
+    else:
+        count = 0
+        for i in range(k, highest, k):
+            if i in counter:
+                count += counter[i]
+        cache[k] = count
+        print(count)
