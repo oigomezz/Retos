@@ -1,9 +1,11 @@
-n, q = map(int, input().split())
-arr = list(map(int, input().split()))
-
+n, q = map(int, input().strip().split())
+a = list(map(int, input().strip().split()))
+sub = set()
+counter = [0] * n
+for i in range(n - 1, -1, -1):
+    sub.add(a[i])
+    counter[i] = len(sub)
 for _ in range(q):
-    query = int(input())
-    distinct = set()
-    for i in range(query, n+1):
-        distinct.add(arr[i-1])
-    print(len(distinct))
+    j = int(input())
+    j -= 1
+    print(counter[j])
