@@ -22,3 +22,8 @@ So, if we want to solve a problem using recursion, then we need to make sure tha
 - The problem can broken down into smaller problems of same type.
 - Problem has some base case(s).
 - Base case is reached before the stack size limit exceeds.
+
+## Backtracking
+
+So, while solving a problem using recursion, we break the given problem into smaller ones. Let's say we have a problem A and we divided it into three smaller problems B, C and D. Now it may be the case that the solution to A does not depend on all the three subproblems, in fact we don't even know on which one it depends.
+Let's take a situation. Suppose you are standing in front of three tunnels, one of which is having a bag of gold at its end, but you don't know which one. So you'll try all three. First go in tunnel 1, if that is not the one, then come out of it, and go into tunnel 2, and again if that is not the one, come out of it and go into tunnel 3. So basically in backtracking we attempt solving a subproblem, and if we don't reach the desired solution, then undo whatever we did for solving that subproblem, and try solving another subproblem.
