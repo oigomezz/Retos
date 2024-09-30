@@ -35,7 +35,7 @@ broken_pots = int(input())
 pots = [[False for _ in range(cols)] for _ in range(rows)]
 for _ in range(broken_pots):
     row, col = map(int, input().split())
-    pots[row][col] = 1
+    pots[row][col] = True
 
 max_plants = calculate_max_plants(rows, cols, pots)
 min_coverage = calculate_min_coverage(rows, cols, pots)
