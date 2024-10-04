@@ -1,0 +1,5 @@
+4
+1000000000 https://www.google.com gg1 25
+1000000004 https://www.youtube.com yt 26
+1000000004 https://HackerEarth.com he 50 
+1000000005 https://www.facebook.com F!B 25
