@@ -1,0 +1,13 @@
+2
+6 3
+arjit
+tijra
+genius
+chanda
+ashish
+arjit
+4 2
+bond
+coder
+bond
+lol
