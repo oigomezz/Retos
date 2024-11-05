@@ -43,7 +43,7 @@ Let’s use an example to understand how BIT[] stores partial sums.
 int a[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16};
 ```
 
-![example](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![example](https://github.com/oigomezz/Retos/blob/main/Hackerearth/Data-Structures/Advanced-Data-Structures/Fenwick-(Binary-Indexed)-Trees/68f2369.jpg)
 
 The above picture shows the binary indexed tree, each enclosed box of which denotes the value BIT[index] and each BIT[index] stores partial sum of some numbers.
 
