@@ -1,67 +1,80 @@
 #include <bits/stdc++.h>
 using namespace std;
+int n, q, maxx, par[100005], len[100005];
 
-struct dsu
+int find(int x)
 {
-  int parent, max_val, min_val, rank;
-} s[1000001];
-
-int find_parent(int x)
-{
-  if (s[x].parent != x)
-    return s[x].parent = find_parent(s[x].parent);
-  return x;
+  if (x == par[x])
+    return par[x];
+  return par[x] = find(par[x]);
 }
 
-void join(int x, int y)
+void unionset(int a, int b)
 {
-  int px = find_parent(x), py = find_parent(y);
-  if (px == py)
+  int para = find(a), parb = find(b);
+  if (para == parb)
     return;
-  if (s[px].rank < s[py].rank)
+  if (len[para] < len[parb])
   {
-    swap(px, py);
-    swap(x, y);
+    par[para] = parb;
+    len[parb] += len[para];
+    maxx = max(maxx, len[parb]);
   }
-  s[py].parent = px;
-  s[px].min_val = min(s[px].min_val, s[py].min_val);
-  s[px].max_val = max(s[px].max_val, s[py].max_val);
-  if (s[px].rank == s[py].rank)
-    ++s[px].rank;
+  else
+  {
+    par[parb] = para;
+    len[para] += len[parb];
+    maxx = max(maxx, len[para]);
+  }
 }
 
 int main()
 {
-  ios_base::sync_with_stdio(0);
-  cin.tie(0);
-  cout.tie(0);
-  int n, q;
-  cin >> n;
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+  cin >> n >> q;
+  string s;
+  cin >> s;
+  s = "0" + s + "0";
   for (int i = 1; i <= n; i++)
   {
-    int val;
-    cin >> val;
-    s[i].parent = i;
-    s[i].min_val = val;
-    s[i].max_val = val;
+    if (s[i] == '1')
+    {
+      len[i] = 1;
+      par[i] = i;
+      maxx = 1;
+    }
   }
-  cin >> q;
+  for (int i = 1; i <= n; i++)
+  {
+    if (s[i] == '1')
+    {
+      if (s[i - 1] == '1')
+        unionset(i - 1, i);
+    }
+  }
   while (q--)
   {
-    int query_type;
-    cin >> query_type;
-    if (query_type == 1)
-    {
-      int x, y;
-      cin >> x >> y;
-      join(x, y);
-    }
+    int type;
+    cin >> type;
+    if (type == 1)
+      cout << maxx << endl;
     else
     {
-      int x;
-      cin >> x;
-      int p = find_parent(x);
-      cout << s[p].max_val - s[p].min_val << endl;
+      int ind;
+      cin >> ind;
+      if (s[ind] == '1')
+        continue;
+      s[ind] = '1';
+      len[ind] = 1;
+      par[ind] = ind;
+      maxx = max(maxx, 1);
+      if (s[ind - 1] == '1')
+        unionset(ind - 1, ind);
+      if (s[ind + 1] == '1')
+        unionset(ind, ind + 1);
     }
   }
+  return 0;
 }
