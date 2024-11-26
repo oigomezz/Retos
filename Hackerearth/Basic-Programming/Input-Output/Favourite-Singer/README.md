@@ -1,4 +1,4 @@
-# Favourite Singer
+# [Favourite Singer][link]
 
 Bob has a playlist of N songs, each song has a singer associated with it (denoted by an integer)
 
@@ -8,10 +8,11 @@ Count the number of Favourite Singers of Bob
 
 ## Input Format
 
-The first line contains an integer N, denoting the number of songs in Bob's playlist.
-
-The following input contains N integers, ith integer denoting the singer of the ith song.
+- The first line contains an integer N, denoting the number of songs in Bob's playlist.
+- The following input contains N integers, ith integer denoting the singer of the ith song.
 
 ## Output Format
 
 Output a single integer, the number of favourite singers of Bob
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/favourite-singer-a18e086a/
