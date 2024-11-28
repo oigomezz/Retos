@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #10 CÓDIGO MORSE
 
 Crea un programa que sea capaz de transformar texto natural a código morse y viceversa.
