@@ -10,9 +10,10 @@ Proyecto de retos de la comunidad para practicar lógica de programación utiliz
 
 Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
-| N°     | Dificualtad | Enunciado                                      | Solucion                        |
-| ------ | ----------- | ---------------------------------------------- | ------------------------------- |
-| **#1** | Fácil       | [`EL FAMOSO "FIZZ BUZZ"`](./Reto-01/README.md) | [[MI SOLUCIÓN](./Reto-01/1.py)] |
-| **#1** | Medio       | [`¿ES UN ANAGRAMA?`](./Reto-02/README.md)      | [[MI SOLUCIÓN](./Reto-02/2.py)] |
+| N°     | Dificualtad | Enunciado                                         | Solución                               |
+| ------ | ----------- | ------------------------------------------------- | -------------------------------------- |
+| **#1** | Fácil       | [`EL FAMOSO "FIZZ BUZZ"`](./Reto-01/README.md)    | [[MI SOLUCIÓN](./Reto-01/1.py)]        |
+| **#2** | Medio       | [`¿ES UN ANAGRAMA?`](./Reto-02/README.md)         | [[MI SOLUCIÓN](./Reto-02/2.py)]        |
+| **#3** | Difícil     | [`LA SUCESIÓN DE FIBONACCI`](./Reto-03/README.md) | [[MI SOLUCIÓN](./Reto-03/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
