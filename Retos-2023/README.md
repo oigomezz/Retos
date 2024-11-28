@@ -19,5 +19,6 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 | **#5** | Fácil       | [`ÁREA DE UN POLÍGONO`](./Reto-05/README.md)        | [[MI SOLUCIÓN](./Reto-05/solution.py)] |
 | **#6** | Difícil     | [`ASPECT RATIO DE UNA IMAGEN`](./Reto-06/README.md) | [[MI SOLUCIÓN](./Reto-06/solution.py)] |
 | **#7** | Fácil       | [`INVIRTIENDO CADENAS`](./Reto-07/README.md)        | [[MI SOLUCIÓN](./Reto-07/solution.py)] |
+| **#8** | Medio       | [`CONTANDO PALABRAS`](./Reto-08/README.md)          | [[MI SOLUCIÓN](./Reto-08/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
