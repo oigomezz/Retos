@@ -12,7 +12,7 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 
 | N°     | Dificualtad | Enunciado                                         | Solución                               |
 | ------ | ----------- | ------------------------------------------------- | -------------------------------------- |
-| **#1** | Fácil       | [`EL FAMOSO "FIZZ BUZZ"`](./Reto-01/README.md)    | [[MI SOLUCIÓN](./Reto-01/1.py)]        |
+| **#1** | Fácil       | [`EL FAMOSO "FIZZ BUZZ"`](./Reto-01/README.md)    | [[MI SOLUCIÓN](./Reto-01/solution.py)] |
 | **#2** | Medio       | [`¿ES UN ANAGRAMA?`](./Reto-02/README.md)         | [[MI SOLUCIÓN](./Reto-02/2.py)]        |
 | **#3** | Difícil     | [`LA SUCESIÓN DE FIBONACCI`](./Reto-03/README.md) | [[MI SOLUCIÓN](./Reto-03/solution.py)] |
 
