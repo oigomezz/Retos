@@ -13,5 +13,6 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 | N°     | Dificualtad | Enunciado                                      | Solucion                        |
 | ------ | ----------- | ---------------------------------------------- | ------------------------------- |
 | **#1** | Fácil       | [`EL FAMOSO "FIZZ BUZZ"`](./Reto-01/README.md) | [[MI SOLUCIÓN](./Reto-01/1.py)] |
+| **#1** | Medio       | [`¿ES UN ANAGRAMA?`](./Reto-02/README.md)      | [[MI SOLUCIÓN](./Reto-02/2.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
