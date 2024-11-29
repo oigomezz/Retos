@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #21 PARANDO EL TIEMPO
 
 Crea una función que sume 2 números y retorne su resultado pasados unos segundos.
