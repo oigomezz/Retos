@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #19 TRES EN RAYA
 
 Crea una función que analice una matriz 3x3 compuesta por "X" y "O" y retorne lo siguiente:
