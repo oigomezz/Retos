@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #18 LA CARRERA DE OBSTÁCULOS
 
 Crea una función que evalúe si un/a atleta ha superado correctamente una carrera de obstáculos.
