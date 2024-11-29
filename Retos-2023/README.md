@@ -34,5 +34,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#20** | Fácil       | [`CONVERSOR TIEMPO`](./Reto-20/README.md)            | [[MI SOLUCIÓN](./Reto-20/solution.py)] |
 | **#21** | Medio       | [`PARANDO EL TIEMPO`](./Reto-21/README.md)           | [[MI SOLUCIÓN](./Reto-21/solution.py)] |
 | **#22** | Medio       | [`CALCULADORA .TXT`](./Reto-22/README.md)            | [[MI SOLUCIÓN](./Reto-22/solution.py)] |
+| **#23** | Fácil       | [`CONJUNTOS`](./Reto-23/README.md)                   | [[MI SOLUCIÓN](./Reto-23/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**

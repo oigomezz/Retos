@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #23 CONJUNTOS
 
 Crea una función que reciba dos array, un booleano y retorne un array.
