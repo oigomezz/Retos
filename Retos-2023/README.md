@@ -36,5 +36,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#22** | Medio       | [`CALCULADORA .TXT`](./Reto-22/README.md)            | [[MI SOLUCIÓN](./Reto-22/solution.py)] |
 | **#23** | Fácil       | [`CONJUNTOS`](./Reto-23/README.md)                   | [[MI SOLUCIÓN](./Reto-23/solution.py)] |
 | **#24** | Medio       | [`MCD Y MCM`](./Reto-24/README.md)                   | [[MI SOLUCIÓN](./Reto-24/solution.py)] |
+| **#25** | Fácil       | [`ITERATION MASTER`](./Reto-25/README.md)            | [[MI SOLUCIÓN](./Reto-25/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
