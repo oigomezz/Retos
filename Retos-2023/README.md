@@ -28,5 +28,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#14** | Fácil       | [`FACTORIAL RECURSIVO`](./Reto-14/README.md)         | [[MI SOLUCIÓN](./Reto-14/solution.py)] |
 | **#15** | Fácil       | [`¿ES UN NÚMERO DE ARMSTRONG?`](./Reto-15/README.md) | [[MI SOLUCIÓN](./Reto-15/solution.py)] |
 | **#16** | Difícil     | [`¿CUÁNTOS DÍAS?`](./Reto-16/README.md)              | [[MI SOLUCIÓN](./Reto-16/solution.py)] |
+| **#17** | Fácil       | [`EN MAYÚSCULA`](./Reto-17/README.md)                | [[MI SOLUCIÓN](./Reto-17/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
