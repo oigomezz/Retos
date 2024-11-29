@@ -22,6 +22,7 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#8**  | Medio       | [`CONTANDO PALABRAS`](./Reto-08/README.md)          | [[MI SOLUCIÓN](./Reto-08/solution.py)] |
 | **#9**  | Fácil       | [`DECIMAL A BINARIO`](./Reto-09/README.md)          | [[MI SOLUCIÓN](./Reto-09/solution.py)] |
 | **#10** | Medio       | [`CÓDIGO MORSE`](./Reto-10/README.md)               | [[MI SOLUCIÓN](./Reto-10/solution.py)] |
-| **#11** | Medio       | [`EXPRESIONES EQUILIBRADAS`](./Reto-11/README.md)               | [[MI SOLUCIÓN](./Reto-11/solution.py)] |
+| **#11** | Medio       | [`EXPRESIONES EQUILIBRADAS`](./Reto-11/README.md)   | [[MI SOLUCIÓN](./Reto-11/solution.py)] |
+| **#12** | Fácil       | [`ELIMINANDO CARACTERES`](./Reto-12/README.md)      | [[MI SOLUCIÓN](./Reto-12/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
