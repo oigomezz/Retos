@@ -33,5 +33,5 @@ def calculate(file_path):
         print("El archivo no existe")
 
 
-path_name = "Retos-2024/Reto-22/example.txt"
+path_name = "Retos-2023/Reto-22/example.txt"
 print(calculate(path_name))
