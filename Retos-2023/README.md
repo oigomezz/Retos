@@ -30,6 +30,7 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#16** | Difícil     | [`¿CUÁNTOS DÍAS?`](./Reto-16/README.md)              | [[MI SOLUCIÓN](./Reto-16/solution.py)] |
 | **#17** | Fácil       | [`EN MAYÚSCULA`](./Reto-17/README.md)                | [[MI SOLUCIÓN](./Reto-17/solution.py)] |
 | **#18** | Medio       | [`LA CARRERA DE OBSTÁCULOS`](./Reto-18/README.md)    | [[MI SOLUCIÓN](./Reto-18/solution.py)] |
-| **#19** | Medio       | [`TRES EN RAYA`](./Reto-19/README.md)                | [[MI SOLUCIÓN](./Reto-19/solution.py)] |
+| **#19** | Difícil     | [`TRES EN RAYA`](./Reto-19/README.md)                | [[MI SOLUCIÓN](./Reto-19/solution.py)] |
+| **#20** | Fácil       | [`CONVERSOR TIEMPO`](./Reto-19/README.md)            | [[MI SOLUCIÓN](./Reto-19/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
