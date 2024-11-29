@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #13 ¿ES UN PALÍNDROMO?
 
 Escribe una función que reciba un texto y retorne verdadero o falso (Boolean) según sean o no palíndromos.
