@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #36 BATALLA POKÉMON
 
 Crea un programa que calcule el daño de un ataque durante una batalla Pokémon.
