@@ -41,5 +41,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#27** | Fácil       | [`CUADRADO Y TRIÁNGULO 2D`](./Reto-27/README.md)     | [[MI SOLUCIÓN](./Reto-27/solution.py)] |
 | **#28** | Fácil       | [`VECTORES ORTOGONALES`](./Reto-28/README.md)        | [[MI SOLUCIÓN](./Reto-28/solution.py)] |
 | **#29** | Medio       | [`MÁQUINA EXPENDEDORA`](./Reto-29/README.md)         | [[MI SOLUCIÓN](./Reto-29/solution.py)] |
+| **#30** | Fácil       | [`ORDENA LA LISTA`](./Reto-30/README.md)             | [[MI SOLUCIÓN](./Reto-30/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
