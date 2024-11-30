@@ -46,5 +46,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#32** | Fácil       | [`EL SEGUNDO`](./Reto-32/README.md)                  | [[MI SOLUCIÓN](./Reto-32/solution.py)] |
 | **#33** | Fácil       | [`AÑOS BISIESTOS`](./Reto-33/README.md)              | [[MI SOLUCIÓN](./Reto-33/solution.py)] |
 | **#34** | Medio       | [`CICLO SEXAGENARIO CHINO`](./Reto-34/README.md)     | [[MI SOLUCIÓN](./Reto-34/solution.py)] |
+| **#35** | Medio       | [`LOS NÚMEROS PERDIDOS`](./Reto-35/README.md)        | [[MI SOLUCIÓN](./Reto-35/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
