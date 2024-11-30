@@ -44,5 +44,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#30** | Fácil       | [`ORDENA LA LISTA`](./Reto-30/README.md)             | [[MI SOLUCIÓN](./Reto-30/solution.py)] |
 | **#31** | Fácil       | [`MARCO DE PALABRAS`](./Reto-31/README.md)           | [[MI SOLUCIÓN](./Reto-31/solution.py)] |
 | **#32** | Fácil       | [`EL SEGUNDO`](./Reto-32/README.md)                  | [[MI SOLUCIÓN](./Reto-32/solution.py)] |
+| **#33** | Fácil       | [`AÑOS BISIESTOS`](./Reto-33/README.md)              | [[MI SOLUCIÓN](./Reto-33/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
