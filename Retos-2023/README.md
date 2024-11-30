@@ -40,5 +40,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#26** | Medio       | [`PIEDRA, PAPEL, TIJERA`](./Reto-26/README.md)       | [[MI SOLUCIÓN](./Reto-26/solution.py)] |
 | **#27** | Fácil       | [`CUADRADO Y TRIÁNGULO 2D`](./Reto-27/README.md)     | [[MI SOLUCIÓN](./Reto-27/solution.py)] |
 | **#28** | Fácil       | [`VECTORES ORTOGONALES`](./Reto-28/README.md)        | [[MI SOLUCIÓN](./Reto-28/solution.py)] |
+| **#29** | Medio       | [`MÁQUINA EXPENDEDORA`](./Reto-29/README.md)         | [[MI SOLUCIÓN](./Reto-29/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
