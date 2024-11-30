@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #26 PIEDRA, PAPEL, TIJERA
 
 Crea un programa que calcule quien gana más partidas al piedra, papel, tijera.
