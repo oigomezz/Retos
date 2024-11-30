@@ -38,5 +38,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#24** | Medio       | [`MCD Y MCM`](./Reto-24/README.md)                   | [[MI SOLUCIÓN](./Reto-24/solution.py)] |
 | **#25** | Fácil       | [`ITERATION MASTER`](./Reto-25/README.md)            | [[MI SOLUCIÓN](./Reto-25/solution.py)] |
 | **#26** | Medio       | [`PIEDRA, PAPEL, TIJERA`](./Reto-26/README.md)       | [[MI SOLUCIÓN](./Reto-26/solution.py)] |
+| **#27** | Fácil       | [`CUADRADO Y TRIÁNGULO 2D`](./Reto-27/README.md)     | [[MI SOLUCIÓN](./Reto-27/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
