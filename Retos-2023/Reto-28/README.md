@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #28 VECTORES ORTOGONALES
 
 Crea un programa que determine si dos vectores son ortogonales.
