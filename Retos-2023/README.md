@@ -51,5 +51,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#37** | Medio       | [`LOS ANILLOS DE PODER`](./Reto-37/README.md)                      | [[MI SOLUCIÓN](./Reto-37/solution.py)] |
 | **#38** | Medio       | [`LOS LANZAMIENTOS DE "THE LEGEND OF ZELDA"`](./Reto-38/README.md) | [[MI SOLUCIÓN](./Reto-38/solution.py)] |
 | **#39** | Medio       | [`BINARIO A DECIMAL"`](./Reto-39/README.md)                        | [[MI SOLUCIÓN](./Reto-39/solution.py)] |
+| **#40** | Medio       | [`TOP ALGORITMOS: QUICK SORT"`](./Reto-40/README.md)               | [[MI SOLUCIÓN](./Reto-40/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
