@@ -55,5 +55,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#41** | Medio       | [`TRIÁNGULO DE PASCAL`](./Reto-41/README.md)                       | [[MI SOLUCIÓN](./Reto-41/solution.py)] |
 | **#42** | Fácil       | [`LA LEY DE OHM`](./Reto-42/README.md)                             | [[MI SOLUCIÓN](./Reto-42/solution.py)] |
 | **#43** | Fácil       | [`CONVERSOR DE TEMPERATURA`](./Reto-43/README.md)                  | [[MI SOLUCIÓN](./Reto-43/solution.py)] |
+| **#44** | Medio       | [`TRUCO O TRATO`](./Reto-44/README.md)                             | [[MI SOLUCIÓN](./Reto-44/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
