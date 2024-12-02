@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #43 CONVERSOR DE TEMPERATURA
 
 Crea una función que transforme grados Celsius en Fahrenheit y viceversa.
