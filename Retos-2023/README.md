@@ -64,6 +64,7 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#50** | Fácil       | [`EL DETECTOR DE HANDLES`](./Reto-50/README.md)                    | [[MI SOLUCIÓN](./Reto-50/solution.py)] |
 | **#51** | Fácil       | [`LA ENCRIPTACIÓN DE KARACA`](./Reto-51/README.md)                 | [[MI SOLUCIÓN](./Reto-51/solution.py)] |
 | **#52** | Fácil       | [`EL RETO RANDOM`](./Reto-52/README.md)                            | [[MI SOLUCIÓN](./Reto-52/solution.py)] |
-| **#53** | Fácil       | [`EL FAMOSO "FIZZ BUZZ" (v2)`](./Reto-51/README.md)                | [[MI SOLUCIÓN](./Reto-53/solution.py)] |
+| **#53** | Fácil       | [`EL FAMOSO "FIZZ BUZZ" (v2)`](./Reto-53/README.md)                | [[MI SOLUCIÓN](./Reto-53/solution.py)] |
+| **#54** | Fácil       | [`EL "LENGUAJE HACKER"`](./Reto-54/README.md)                      | [[MI SOLUCIÓN](./Reto-54/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
