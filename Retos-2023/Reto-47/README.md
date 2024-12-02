@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #47 ¿DÓNDE ESTÁ EL ROBOT?
 
 Calcula dónde estará un robot (sus coordenadas finales) que se encuentra en una cuadrícula representada por los ejes "x" e "y".
