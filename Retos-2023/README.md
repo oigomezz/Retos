@@ -62,5 +62,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#48** | Fácil       | [`VOCAL MÁS COMÚN`](./Reto-48/README.md)                           | [[MI SOLUCIÓN](./Reto-48/solution.py)] |
 | **#49** | Fácil       | [`EL CALENDARIO DE ADEVIENTO 2022`](./Reto-49/README.md)           | [[MI SOLUCIÓN](./Reto-49/solution.py)] |
 | **#50** | Fácil       | [`EL DETECTOR DE HANDLES`](./Reto-50/README.md)                    | [[MI SOLUCIÓN](./Reto-50/solution.py)] |
+| **#51** | Fácil       | [`LA ENCRIPTACIÓN DE KARACA`](./Reto-51/README.md)                 | [[MI SOLUCIÓN](./Reto-51/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
