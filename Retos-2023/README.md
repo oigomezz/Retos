@@ -57,5 +57,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#43** | Fácil       | [`CONVERSOR DE TEMPERATURA`](./Reto-43/README.md)                  | [[MI SOLUCIÓN](./Reto-43/solution.py)] |
 | **#44** | Medio       | [`TRUCO O TRATO`](./Reto-44/README.md)                             | [[MI SOLUCIÓN](./Reto-44/solution.py)] |
 | **#45** | Fácil       | [`BUMERANES`](./Reto-45/README.md)                                 | [[MI SOLUCIÓN](./Reto-45/solution.py)] |
+| **#46** | Medio       | [`CONTENEDOR DE AGUA`](./Reto-46/README.md)                        | [[MI SOLUCIÓN](./Reto-46/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
