@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #49 EL CALENDARIO DE ADEVIENTO 2022
 
 ¿Conoces el calendario de adviento de la comunidad (<https://adviento.dev>)?
@@ -7,11 +6,11 @@
 
 Crea una función que reciba un objeto de tipo "Date" y retorne lo siguiente:
 
-* Si la fecha coincide con el calendario de aDEViento 2022: Retornará el regalo de ese día (a tu elección) y cuánto queda para que finalice el sorteo de ese día.
-* Si la fecha es anterior: Cuánto queda para que comience el calendario.
-* Si la fecha es posterior: Cuánto tiempo ha pasado desde que ha finalizado.
+- Si la fecha coincide con el calendario de aDEViento 2022: Retornará el regalo de ese día (a tu elección) y cuánto queda para que finalice el sorteo de ese día.
+- Si la fecha es anterior: Cuánto queda para que comience el calendario.
+- Si la fecha es posterior: Cuánto tiempo ha pasado desde que ha finalizado.
 
 Notas:
 
-* Tenemos en cuenta que cada día del calendario comienza a medianoche 00:00:00 y finaliza a las 23:59:59.
-* Debemos trabajar con fechas que tengan año, mes, día, horas, minutos y segundos.
+- Tenemos en cuenta que cada día del calendario comienza a medianoche 00:00:00 y finaliza a las 23:59:59.
+- Debemos trabajar con fechas que tengan año, mes, día, horas, minutos y segundos.
