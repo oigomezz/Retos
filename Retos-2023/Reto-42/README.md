@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #42 LA LEY DE OHM
 
 Crea una función que calcule el valor del parámetro perdido correspondiente a la ley de Ohm.
