@@ -59,5 +59,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#45** | Fácil       | [`BUMERANES`](./Reto-45/README.md)                                 | [[MI SOLUCIÓN](./Reto-45/solution.py)] |
 | **#46** | Medio       | [`CONTENEDOR DE AGUA`](./Reto-46/README.md)                        | [[MI SOLUCIÓN](./Reto-46/solution.py)] |
 | **#47** | Medio       | [`¿DÓNDE ESTÁ EL ROBOT?`](./Reto-47/README.md)                     | [[MI SOLUCIÓN](./Reto-47/solution.py)] |
+| **#48** | Fácil       | [`VOCAL MÁS COMÚN`](./Reto-48/README.md)                           | [[MI SOLUCIÓN](./Reto-48/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
