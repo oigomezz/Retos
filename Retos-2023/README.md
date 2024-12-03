@@ -70,5 +70,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#56** | Medio       | [`EL GENERADOR DE CONTRASEÑAS`](./Reto-56/README.md)               | [[MI SOLUCIÓN](./Reto-56/solution.py)] |
 | **#57** | Medio       | [`PRIMO, FIBONACCI Y PAR`](./Reto-57/README.md)                    | [[MI SOLUCIÓN](./Reto-57/solution.py)] |
 | **#58** | Fácil       | [`Hola Mundo`](./Reto-58/README.md)                                | [[MI SOLUCIÓN](./Reto-58/solution.py)] |
+| **#59** | Medio       | [`Piedra, Papel, Tijera, Lagarto, Spock`](./Reto-59/README.md)     | [[MI SOLUCIÓN](./Reto-59/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
