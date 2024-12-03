@@ -2,9 +2,7 @@ import math
 
 
 def check_prime_fibonacci_even(number):
-
     result = f"{number} "
-
     # Primo
     if number > 1:
         for index in range(2, number):
@@ -13,7 +11,6 @@ def check_prime_fibonacci_even(number):
                 break
         else:
             result += "es primo, "
-
     else:
         result += "no es primo, "
 
