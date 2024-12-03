@@ -80,5 +80,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#66** | Fácil       | [`ADIVINA LA PALABRA`](./Reto-66/README.md)                        | [[MI SOLUCIÓN](./Reto-66/solution.py)] |
 | **#67** | Fácil       | [`OCTAL Y HEXADECIMAL`](./Reto-67/README.md)                       | [[MI SOLUCIÓN](./Reto-67/solution.py)] |
 | **#68** | Fácil       | [`AUREBESH`](./Reto-68/README.md)                                  | [[MI SOLUCIÓN](./Reto-68/solution.py)] |
+| **#69** | Medio       | [`LA ESCALERA`](./Reto-69/README.md)                               | [[MI SOLUCIÓN](./Reto-69/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
