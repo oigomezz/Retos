@@ -1,5 +1,4 @@
 def to_octal_and_hex(decimal: int):
-
     current_decimal = decimal
 
     # Octal
