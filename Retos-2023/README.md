@@ -77,5 +77,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#63** | Medio       | [`LA API`](./Reto-63/README.md)                                    | [[MI SOLUCIÓN](./Reto-63/solution.py)] |
 | **#64** | Fácil       | [`URL PARAMS`](./Reto-64/README.md)                                | [[MI SOLUCIÓN](./Reto-64/solution.py)] |
 | **#65** | Fácil       | [`VIERNES 13`](./Reto-65/README.md)                                | [[MI SOLUCIÓN](./Reto-65/solution.py)] |
+| **#66** | Fácil       | [`ADIVINA LA PALABRA`](./Reto-66/README.md)                        | [[MI SOLUCIÓN](./Reto-66/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
