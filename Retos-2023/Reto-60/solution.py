@@ -97,4 +97,5 @@ for house, points in houses.items():
 if len(selected_house) == 1:
     print(f"Lo tengo claro... ¡{selected_house[0].capitalize()}!")
 else:
-    print(f"Ha estado complicado... ¡{random.choice(selected_house).capitalize()}!")
+    print(f"Ha estado complicado... ¡{
+          random.choice(selected_house).capitalize()}!")
