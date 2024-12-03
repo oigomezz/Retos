@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #64 URL PARAMS
 
 Dada una URL con parámetros, crea una función que obtenga sus valores.
