@@ -74,5 +74,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#60** | Medio       | [`EL SOMBRERO SELECCIONADOR`](./Reto-60/README.md)                 | [[MI SOLUCIÓN](./Reto-60/solution.py)] |
 | **#61** | Medio       | [`EL GENERADOR PSEUDOALEATORIO`](./Reto-61/README.md)              | [[MI SOLUCIÓN](./Reto-61/solution.py)] |
 | **#62** | Fácil       | [`HETEROGRAMA, ISOGRAMA Y PANGRAMA`](./Reto-62/README.md)          | [[MI SOLUCIÓN](./Reto-62/solution.py)] |
+| **#63** | Medio       | [`LA API`](./Reto-63/README.md)                                    | [[MI SOLUCIÓN](./Reto-63/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**

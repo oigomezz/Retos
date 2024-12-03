@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #63 LA API
 
 Llamar a una API es una de las tareas más comunes en programación.
@@ -7,4 +6,4 @@ Implementa una llamada HTTP a una API (la que tú quieras) y muestra su resultad
 
 Aquí tienes un listado de posibles APIs:
 
-* <https://github.com/public-apis/public-apis>
+- <https://github.com/public-apis/public-apis>
