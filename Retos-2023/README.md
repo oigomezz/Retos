@@ -76,5 +76,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#62** | Fácil       | [`HETEROGRAMA, ISOGRAMA Y PANGRAMA`](./Reto-62/README.md)          | [[MI SOLUCIÓN](./Reto-62/solution.py)] |
 | **#63** | Medio       | [`LA API`](./Reto-63/README.md)                                    | [[MI SOLUCIÓN](./Reto-63/solution.py)] |
 | **#64** | Fácil       | [`URL PARAMS`](./Reto-64/README.md)                                | [[MI SOLUCIÓN](./Reto-64/solution.py)] |
+| **#65** | Fácil       | [`VIERNES 13`](./Reto-65/README.md)                                | [[MI SOLUCIÓN](./Reto-65/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
