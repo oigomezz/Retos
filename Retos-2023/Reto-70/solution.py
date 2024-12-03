@@ -14,7 +14,8 @@ def get_date(datetime: str) -> str:
 
 def read_last_10_commits(repo: str) -> None:
     url = f"https://api.github.com/repos/mouredev/{repo}/commits"
-    headers = {"Accept": "application/json", "Content-Type": "application/json"}
+    headers = {"Accept": "application/json",
+               "Content-Type": "application/json"}
 
     page = requests.get(url, headers)
     commits = json.loads(page.text)
