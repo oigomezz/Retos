@@ -72,5 +72,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#58** | Fácil       | [`Hola Mundo`](./Reto-58/README.md)                                | [[MI SOLUCIÓN](./Reto-58/solution.py)] |
 | **#59** | Medio       | [`Piedra, Papel, Tijera, Lagarto, Spock`](./Reto-59/README.md)     | [[MI SOLUCIÓN](./Reto-59/solution.py)] |
 | **#60** | Medio       | [`EL SOMBRERO SELECCIONADOR`](./Reto-60/README.md)                 | [[MI SOLUCIÓN](./Reto-60/solution.py)] |
+| **#61** | Medio       | [`EL GENERADOR PSEUDOALEATORIO`](./Reto-61/README.md)              | [[MI SOLUCIÓN](./Reto-61/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
