@@ -69,9 +69,10 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#55** | Medio       | [`EL PARTIDO DE TENNIS`](./Reto-55/README.md)                      | [[MI SOLUCIÓN](./Reto-55/solution.py)] |
 | **#56** | Medio       | [`EL GENERADOR DE CONTRASEÑAS`](./Reto-56/README.md)               | [[MI SOLUCIÓN](./Reto-56/solution.py)] |
 | **#57** | Medio       | [`PRIMO, FIBONACCI Y PAR`](./Reto-57/README.md)                    | [[MI SOLUCIÓN](./Reto-57/solution.py)] |
-| **#58** | Fácil       | [`Hola Mundo`](./Reto-58/README.md)                                | [[MI SOLUCIÓN](./Reto-58/solution.py)] |
+| **#58** | Fácil       | [`HOLA MUNDO`](./Reto-58/README.md)                                | [[MI SOLUCIÓN](./Reto-58/solution.py)] |
 | **#59** | Medio       | [`Piedra, Papel, Tijera, Lagarto, Spock`](./Reto-59/README.md)     | [[MI SOLUCIÓN](./Reto-59/solution.py)] |
 | **#60** | Medio       | [`EL SOMBRERO SELECCIONADOR`](./Reto-60/README.md)                 | [[MI SOLUCIÓN](./Reto-60/solution.py)] |
 | **#61** | Medio       | [`EL GENERADOR PSEUDOALEATORIO`](./Reto-61/README.md)              | [[MI SOLUCIÓN](./Reto-61/solution.py)] |
+| **#62** | Fácil       | [`HETEROGRAMA, ISOGRAMA Y PANGRAMA`](./Reto-62/README.md)          | [[MI SOLUCIÓN](./Reto-62/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
