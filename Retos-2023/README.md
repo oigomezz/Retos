@@ -67,5 +67,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#53** | Fácil       | [`EL FAMOSO "FIZZ BUZZ" (v2)`](./Reto-53/README.md)                | [[MI SOLUCIÓN](./Reto-53/solution.py)] |
 | **#54** | Fácil       | [`EL "LENGUAJE HACKER"`](./Reto-54/README.md)                      | [[MI SOLUCIÓN](./Reto-54/solution.py)] |
 | **#55** | Medio       | [`EL PARTIDO DE TENNIS`](./Reto-55/README.md)                      | [[MI SOLUCIÓN](./Reto-55/solution.py)] |
+| **#56** | Medio       | [`EL GENERADOR DE CONTRASEÑAS`](./Reto-56/README.md)               | [[MI SOLUCIÓN](./Reto-56/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**

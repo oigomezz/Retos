@@ -2,9 +2,7 @@ import random
 
 
 def password_generator(length=8, capital=False, numbers=False, symbols=False):
-
     # Fuente: https://www.ascii-code.com
-
     characters = list(range(97, 123))
 
     if capital:
@@ -14,7 +12,8 @@ def password_generator(length=8, capital=False, numbers=False, symbols=False):
         characters += list(range(48, 58))
 
     if symbols:
-        characters += list(range(33, 48)) + list(range(58, 65)) + list(range(91, 97))
+        characters += list(range(33, 48)) + \
+            list(range(58, 65)) + list(range(91, 97))
 
     password = ""
 
