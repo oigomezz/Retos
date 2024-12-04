@@ -90,5 +90,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#76** | Medio       | [`LA BASE DE DATOS`](./Reto-76/README.md)                          | [[MI SOLUCIÓN](./Reto-76/solution.py)] |
 | **#77** | Fácil       | [`CIFRADO CÉSAR`](./Reto-77/README.md)                             | [[MI SOLUCIÓN](./Reto-77/solution.py)] |
 | **#78** | Medio       | [`EL CÓDIGO KONAMI`](./Reto-78/README.md)                          | [[MI SOLUCIÓN](./Reto-78/solution.py)] |
+| **#79** | Medio       | [`TESTING`](./Reto-79/README.md)                                   | [[MI SOLUCIÓN](./Reto-79/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
