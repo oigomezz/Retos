@@ -2,7 +2,6 @@ import re
 
 
 def parse(text: str):
-
     words_count = 0
     letter_count = 0
     sentences_count = 0
@@ -11,15 +10,12 @@ def parse(text: str):
     words = text.replace("\n", " ").split(" ")
 
     for word in words:
-
         if len(word) != 0:
-
             if "." in word:
                 sentences_count += 1
 
             current_word = re.sub(r"[^\w]", "", word)
-
-            #print(current_word)
+            # print(current_word)
 
             words_count += 1
             letter_count += len(current_word)

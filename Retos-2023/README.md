@@ -83,5 +83,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#69** | Medio       | [`LA ESCALERA`](./Reto-69/README.md)                               | [[MI SOLUCIÓN](./Reto-69/solution.py)] |
 | **#70** | Difícil     | [`GIT Y GITHUB`](./Reto-70/README.md)                              | [[MI SOLUCIÓN](./Reto-70/solution.py)] |
 | **#71** | Difícil     | [`WEB SCRAPING`](./Reto-71/README.md)                              | [[MI SOLUCIÓN](./Reto-71/solution.py)] |
+| **#72** | Medio       | [`ANALISIS DE TEXTO`](./Reto-72/README.md)                         | [[MI SOLUCIÓN](./Reto-72/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
