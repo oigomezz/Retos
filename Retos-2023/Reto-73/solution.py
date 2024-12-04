@@ -1,5 +1,4 @@
 def print_triforce(rows: int):
-
     for row in range(0, rows * 2):
         if row < rows:
             start_space = " " * (((2 * rows) - 1) - row)
