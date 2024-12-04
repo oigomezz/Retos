@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #71 WEB SCRAPING
 
 El día 128 del año celebramos en la comunidad el "Hola Mundo day"
