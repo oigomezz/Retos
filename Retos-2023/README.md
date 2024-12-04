@@ -94,5 +94,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#80** | Medio       | [`CUENTA ATRÁS`](./Reto-80/README.md)                              | [[MI SOLUCIÓN](./Reto-80/solution.py)] |
 | **#81** | Medio       | [`EXPRESIÓN MATEMÁTICA`](./Reto-81/README.md)                      | [[MI SOLUCIÓN](./Reto-81/solution.py)] |
 | **#82** | Fácil       | [`EL CARÁCTER INFILTRADO`](./Reto-82/README.md)                    | [[MI SOLUCIÓN](./Reto-82/solution.py)] |
+| **#83** | Medio       | [`EL TECLADO T9`](./Reto-83/README.md)                             | [[MI SOLUCIÓN](./Reto-83/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
