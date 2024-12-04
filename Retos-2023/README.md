@@ -92,5 +92,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#78** | Medio       | [`EL CÓDIGO KONAMI`](./Reto-78/README.md)                          | [[MI SOLUCIÓN](./Reto-78/solution.py)] |
 | **#79** | Medio       | [`TESTING`](./Reto-79/README.md)                                   | [[MI SOLUCIÓN](./Reto-79/solution.py)] |
 | **#80** | Medio       | [`CUENTA ATRÁS`](./Reto-80/README.md)                              | [[MI SOLUCIÓN](./Reto-80/solution.py)] |
+| **#81** | Medio       | [`EXPRESIÓN MATEMÁTICA`](./Reto-81/README.md)                      | [[MI SOLUCIÓN](./Reto-81/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**

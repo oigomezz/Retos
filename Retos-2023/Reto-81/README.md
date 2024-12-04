@@ -1,11 +1,10 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #81 EXPRESIÓN MATEMÁTICA
 
 Crea una función que reciba una expresión matemática (String) y compruebe si es correcta. Retornará true o false.
 
-* Para que una expresión matemática sea correcta debe poseer un número, una operación y otro número separados por espacios. Tantos números y operaciones como queramos.
-* Números positivos, negativos, enteros o decimales.
-* Operaciones soportadas: + - * / %
+- Para que una expresión matemática sea correcta debe poseer un número, una operación y otro número separados por espacios. Tantos números y operaciones como queramos.
+- Números positivos, negativos, enteros o decimales.
+- Operaciones soportadas: + - \* / %
 
 Ejemplos:
 

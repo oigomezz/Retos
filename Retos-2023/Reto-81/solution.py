@@ -1,5 +1,4 @@
 def check_math_exp(expression: str) -> bool:
-
     components = expression.split(" ")
 
     if len(components) < 3 or len(components) % 2 == 0:
