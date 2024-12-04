@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #77 CIFRADO CÉSAR
 
 Crea un programa que realize el cifrado César de un texto y lo imprima.

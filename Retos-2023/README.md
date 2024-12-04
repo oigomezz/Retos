@@ -88,5 +88,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#74** | Medio       | [`NÚMEROS PRIMOS GEMELOS`](./Reto-74/README.md)                    | [[MI SOLUCIÓN](./Reto-74/solution.py)] |
 | **#75** | Medio       | [`LA ESPIRAL`](./Reto-75/README.md)                                | [[MI SOLUCIÓN](./Reto-75/solution.py)] |
 | **#76** | Medio       | [`LA BASE DE DATOS`](./Reto-76/README.md)                          | [[MI SOLUCIÓN](./Reto-76/solution.py)] |
+| **#77** | Fácil       | [`CIFRADO CÉSAR`](./Reto-77/README.md)                             | [[MI SOLUCIÓN](./Reto-77/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
