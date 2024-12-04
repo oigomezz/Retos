@@ -2,7 +2,6 @@ import time
 
 
 def countdown(start: int, seconds: int):
-
     if (
         isinstance(start, int)
         and isinstance(seconds, int)
