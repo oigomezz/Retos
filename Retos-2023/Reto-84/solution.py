@@ -1,10 +1,8 @@
 def read_abacus_number(abacus: list) -> str:
-
     if len(abacus) != 7:
         raise ValueError("Tamaño total incorrecto")
 
     number = ""
-
     for row in abacus:
         if len(row) == 12 and "---" in row and row.replace("---", "") == "OOOOOOOOO":
             number += str(len(row.split("---")[0]))
