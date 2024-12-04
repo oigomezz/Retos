@@ -1,5 +1,4 @@
 def draw_spiral(size):
-
     for row in range(0, size):
         spiral = ""
         horizontal = row == 0
