@@ -89,5 +89,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#75** | Medio       | [`LA ESPIRAL`](./Reto-75/README.md)                                | [[MI SOLUCIÓN](./Reto-75/solution.py)] |
 | **#76** | Medio       | [`LA BASE DE DATOS`](./Reto-76/README.md)                          | [[MI SOLUCIÓN](./Reto-76/solution.py)] |
 | **#77** | Fácil       | [`CIFRADO CÉSAR`](./Reto-77/README.md)                             | [[MI SOLUCIÓN](./Reto-77/solution.py)] |
+| **#78** | Medio       | [`EL CÓDIGO KONAMI`](./Reto-78/README.md)                          | [[MI SOLUCIÓN](./Reto-78/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**

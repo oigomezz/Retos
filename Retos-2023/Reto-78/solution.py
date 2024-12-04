@@ -18,7 +18,6 @@ last_key = Key.esc
 
 
 def on_press(key):
-
     global key_position, last_key
 
     if key == Key.esc:
