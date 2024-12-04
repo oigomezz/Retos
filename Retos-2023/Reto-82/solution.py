@@ -1,5 +1,4 @@
 def infiltrated_characters(first_text: str, second_text: str) -> list:
-
     characters = []
 
     if len(first_text) == len(second_text):
