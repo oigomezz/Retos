@@ -112,5 +112,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#098** | Fácil      | [`EL CALENDARIO DE ADEVIENTO 2023`](./Reto-98/README.md)           | [[SOLUCIÓN](./Reto-98/solution.py)]  |
 | **#099** | Medio      | [`LA CARRERA DE COCHES`](./Reto-99/README.md)                      | [[SOLUCIÓN](./Reto-99/solution.py)]  |
 | **#100** | Fácil      | [`LA PALABRA DE 100 PUNTOS`](./Reto-100/README.md)                 | [[SOLUCIÓN](./Reto-100/solution.py)] |
+| **#101** | Difícil    | [`EL RANKING`](./Reto-101/README.md)                               | [[SOLUCIÓN](./Reto-101/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
