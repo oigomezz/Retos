@@ -34,6 +34,7 @@ Si quieres ayudarnos, comparte el proyecto en las redes sociales y con tus amigo
 
 Aquí encontrarás el listado de retos y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
-| N°     | Reto                                                      | Dificultad | Solucion                          |
-| ------ | --------------------------------------------------------- | ---------- | --------------------------------- |
-| **#1** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md) | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-01/1.js)] |
+| N°      | Reto                                                          | Dificultad | Solucion                                 |
+| ------- | ------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| **#01** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md)     | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-01/solution.js)] |
+| **#02** | [`🏭 Ponemos en marcha la fábrica`](./2023/Reto-02/README.md) | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-02/solution.js)] |
