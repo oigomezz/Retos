@@ -100,5 +100,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#86** | Medio       | [`TETRIS`](./Reto-86/README.md)                                    | [[SOLUCIÓN](./Reto-86/solution.py)] |
 | **#87** | Medio       | [`TXT`](./Reto-87/README.md)                                       | [[SOLUCIÓN](./Reto-87/solution.py)] |
 | **#88** | Fácil       | [`MIS PRIMEROS PASOS`](./Reto-88/README.md)                        | [[SOLUCIÓN](./Reto-88/solution.py)] |
+| **#89** | Medio       | [`PERMUTACIONES`](./Reto-89/README.md)                             | [[SOLUCIÓN](./Reto-89/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
