@@ -2,9 +2,7 @@ import random
 
 
 def create_house():
-
     house = [list(["⬜️"] * 4) for _ in range(4)]
-
     if random.choice([True, False]):
         # Columnas perímetro
         door = [random.randint(0, 3), random.choice([0, 3])]
@@ -21,9 +19,7 @@ def create_house():
         return candy
 
     candy = generate_candy(door)
-
     house[candy[0]][candy[1]] = "🍭"
-
     for row in house:
         print("".join(map(str, row)))
 
@@ -31,11 +27,8 @@ def create_house():
 
 
 def move(position: list) -> list:
-
     row, col = position[0], position[1]
-
     movements = "N S E O "
-
     if row == 0:
         movements = movements.replace("N ", "")
     if row == 3:
@@ -45,7 +38,8 @@ def move(position: list) -> list:
     if col == 3:
         movements = movements.replace("E ", "")
 
-    movement = input(f"¿Hacia dónde te quieres desplazar [ {movements}]?: ").upper()
+    movement = input(
+        f"¿Hacia dónde te quieres desplazar [ {movements}]?: ").upper()
 
     if movement in movements:
         if movement == "N":
@@ -125,14 +119,10 @@ print(
 )
 
 while True:
-
     position = move(position)
     print(f"Posición: {position}\n")
-
     house_room = house[position[0]][position[1]]
-
     if house_room == "⬜️":
-
         print("Responde correctamente a esta pregunta.")
         riddle()
 

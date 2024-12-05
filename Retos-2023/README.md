@@ -105,5 +105,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#91** | Medio       | [`LAS SUMAS`](./Reto-91/README.md)                                 | [[SOLUCIÓN](./Reto-91/solution.py)] |
 | **#92** | Medio       | [`TRIPLES PITAGÓRICOS`](./Reto-92/README.md)                       | [[SOLUCIÓN](./Reto-92/solution.py)] |
 | **#93** | Fácil       | [`TABLA DE MULTIPLICAR`](./Reto-93/README.md)                      | [[SOLUCIÓN](./Reto-93/solution.py)] |
+| **#94** | Difícil     | [`TRES EN RAYA`](./Reto-94/README.md)                              | [[SOLUCIÓN](./Reto-94/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
