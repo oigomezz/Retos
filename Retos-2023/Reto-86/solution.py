@@ -1,5 +1,4 @@
 from enum import Enum
-
 from pynput.keyboard import Key, Events
 
 
@@ -17,9 +16,7 @@ def print_screen(screen: list):
 
 
 def move_piece(screen: list, movement: Movement, rotation: int):
-
     new_screen = [["🔲"] * 10 for _ in range(10)]
-
     rotation_item = 0
     rotations = [
         [(1, 1), (0, 0), (-2, 0), (-1, -1)],
@@ -34,9 +31,7 @@ def move_piece(screen: list, movement: Movement, rotation: int):
 
     for row_index, row in enumerate(screen):
         for column_index, item in enumerate(row):
-
             if item == "🔳":
-
                 new_row_index = 0
                 new_column_index = 0
 
@@ -68,7 +63,6 @@ def move_piece(screen: list, movement: Movement, rotation: int):
                     new_screen[new_row_index][new_column_index] = "🔳"
 
     print_screen(new_screen)
-
     return (new_screen, new_rotation)
 
 

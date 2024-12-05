@@ -97,5 +97,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#83** | Medio       | [`EL TECLADO T9`](./Reto-83/README.md)                             | [[MI SOLUCIÓN](./Reto-83/solution.py)] |
 | **#84** | Fácil       | [`EL ÁBACO`](./Reto-84/README.md)                                  | [[MI SOLUCIÓN](./Reto-84/solution.py)] |
 | **#85** | Medio       | [`LA COLUMNA DE EXCEL`](./Reto-85/README.md)                       | [[MI SOLUCIÓN](./Reto-85/solution.py)] |
+| **#86** | Medio       | [`TETRIS`](./Reto-86/README.md)                                    | [[MI SOLUCIÓN](./Reto-86/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
