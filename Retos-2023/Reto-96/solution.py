@@ -2,7 +2,6 @@ import random
 
 
 def weather_simulator(temperature: int, rain: int, days: int):
-
     rainy_days = 0
     min_temperature = temperature
     max_temperature = temperature
