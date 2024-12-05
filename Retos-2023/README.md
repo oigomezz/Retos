@@ -8,7 +8,7 @@ Proyecto de retos de la comunidad para practicar lógica de programación utiliz
 
 ## Listado de retos
 
-Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
+Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio.
 
 | N°       | Dificultad | Enunciado                                                          | Solución                             |
 | -------- | ---------- | ------------------------------------------------------------------ | ------------------------------------ |
