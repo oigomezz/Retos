@@ -4,16 +4,12 @@ import time
 
 
 def race(track_length: int):
-
     track1, track2 = create_tracks(track_length)
-
     print_race(track1, track2)
-
     position1, position2 = len(track1) - 1, len(track2) - 1
     crash1, crash2 = False, False
 
     while position1 > 0 and position2 > 0:
-
         time.sleep(0.5)
 
         track1[position1] = "_"
@@ -36,12 +32,10 @@ def race(track_length: int):
         track2[position2] = "💥" if crash2 else "🚗"
 
         print_race(track1, track2)
-
         check_race(position1, position2)
 
 
 def create_tracks(track_length: int):
-
     track = ["_"] * track_length
 
     def add_trees(track: list) -> list:
@@ -49,7 +43,6 @@ def create_tracks(track_length: int):
         for _ in range(trees):
             position = random.randint(0, len(track) - 1)
             track[position] = "🌲"
-
         return track
 
     track1, track2 = add_trees(track.copy()), add_trees(track.copy())
