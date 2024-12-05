@@ -9,8 +9,8 @@ alphabet.insert(alphabet.index("n") + 1, "ñ")
 while True:
 
     word = input("Introduce una palabra: ")
-
-    unicode_word = unidecode(word.lower().replace("ñ", "_$_")).replace("_$_", "ñ")
+    unicode_word = unidecode(word.lower().replace(
+        "ñ", "_$_")).replace("_$_", "ñ")
 
     value = 0
 
