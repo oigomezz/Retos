@@ -102,5 +102,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#88** | Fácil       | [`MIS PRIMEROS PASOS`](./Reto-88/README.md)                        | [[SOLUCIÓN](./Reto-88/solution.py)] |
 | **#89** | Medio       | [`PERMUTACIONES`](./Reto-89/README.md)                             | [[SOLUCIÓN](./Reto-89/solution.py)] |
 | **#90** | Medio       | [`COLORES HEX Y RGB`](./Reto-90/README.md)                         | [[SOLUCIÓN](./Reto-90/solution.py)] |
+| **#91** | Medio       | [`LAS SUMAS`](./Reto-91/README.md)                                 | [[SOLUCIÓN](./Reto-91/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
