@@ -1,11 +1,9 @@
 import random
 
 participants = []
-
 print("Calendario de aDEViento 2023")
 
 while True:
-
     print("\n1. Añadir | 2. Eliminar | 3. Listar | 4. Sortear | 5. Salir")
     option = input("Selecciona una opción: ")
 

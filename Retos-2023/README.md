@@ -109,5 +109,6 @@ Aquí encontrarás el listado de retos, dificultad y enunciado del ejercicio. En
 | **#95** | Difícil     | [`PUNTO DE ENCUENTRO`](./Reto-95/README.md)                        | [[SOLUCIÓN](./Reto-95/solution.py)] |
 | **#96** | Fácil       | [`SIMULADOR DE CLIMA`](./Reto-96/README.md)                        | [[SOLUCIÓN](./Reto-96/solution.py)] |
 | **#97** | Medio       | [`ADIVINANZAS MATEMÁTICAS`](./Reto-97/README.md)                   | [[SOLUCIÓN](./Reto-97/solution.py)] |
+| **#98** | Fácil       | [`EL CALENDARIO DE ADEVIENTO 2023`](./Reto-98/README.md)           | [[SOLUCIÓN](./Reto-98/solution.py)] |
 
 > Tienes toda la información en **[retosdeprogramacion.com/ejercicios](https://retosdeprogramacion.com/ejercicios)**
