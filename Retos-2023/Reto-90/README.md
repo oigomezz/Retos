@@ -1,4 +1,3 @@
-<!-- trunk-ignore-all(prettier) -->
 # Reto #90 COLORES HEX Y RGB
 
 Crea las funciones capaces de transformar colores HEX a RGB y viceversa.
