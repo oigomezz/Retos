@@ -7,7 +7,6 @@ def random_int(digits) -> int:
 
 
 def input_with_timeout():
-
     def on_timeout():
         print("\n¡El tiempo ha finalizado! Pulsa enter.")
         global game_on
@@ -31,7 +30,6 @@ num2_digits = 1
 game_on = True
 
 while game_on:
-
     num1 = random_int(num1_digits)
     num2 = random_int(num2_digits)
     operation = random.choice(operations)
@@ -55,13 +53,11 @@ while game_on:
     elif answer == str(result):
         print("Respuesta correcta!")
         correct_answers += 1
-
         if correct_answers % 5 == 0:
             if correct_answers % 2 == 0:
                 num2_digits += 1
             else:
                 num1_digits += 1
-
     else:
         print("Respuesta incorrecta!")
         game_on = False
