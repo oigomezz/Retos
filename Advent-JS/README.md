@@ -34,8 +34,6 @@ Si quieres ayudarnos, comparte el proyecto en las redes sociales y con tus amigo
 
 Aquí encontrarás el listado de retos y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
-| N°     | Enunciado                              |
-| ------ | -------------------------------------- |
-| **#1** | [`Retos-2023`](./Retos-2023/README.md) |
-| **#2** | `Advent JS`                            |
-| **#3** | `Hackerearth`                          |
+| N°     | Reto                                                      | Dificultad | Solucion                          |
+| ------ | --------------------------------------------------------- | ---------- | --------------------------------- |
+| **#1** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md) | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-01/1.js)] |
