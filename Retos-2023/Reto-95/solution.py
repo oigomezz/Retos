@@ -1,5 +1,4 @@
 def collision(position_a, speed_a, position_b, speed_b):
-
     xa, ya = position_a
     xb, yb = position_b
     sxa, sya = speed_a
