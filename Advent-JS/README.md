@@ -38,3 +38,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | ------- | ------------------------------------------------------------- | ---------- | ---------------------------------------- |
 | **#01** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md)     | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-01/solution.js)] |
 | **#02** | [`🏭 Ponemos en marcha la fábrica`](./2023/Reto-02/README.md) | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-02/solution.js)] |
+| **#03** | [`😏 El elfo travieso`](./2023/Reto-03/README.md)             | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-03/solution.js)] |
