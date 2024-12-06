@@ -36,9 +36,10 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 
 | N°     | Reto                                                             | Dificultad | Solucion                                 |
 | ------ | ---------------------------------------------------------------- | ---------- | ---------------------------------------- |
-| **01** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md)        | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-01/solution.js)] |
-| **02** | [`🏭 Ponemos en marcha la fábrica`](./2023/Reto-02/README.md)    | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-02/solution.js)] |
-| **03** | [`😏 El elfo travieso`](./2023/Reto-03/README.md)                | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-03/solution.js)] |
-| **04** | [`😵‍💫 Dale la vuelta a los paréntesis`](./2023/Reto-04/README.md) | 🟠 Medio   | [[SOLUCIÓN](./2023/Reto-04/solution.js)] |
-| **05** | [`🛷 El CyberTruck de Santa`](./2023/Reto-05/README.md)          | 🟠 Medio   | [[SOLUCIÓN](./2023/Reto-05/solution.js)] |
-| **06** | [`🦌 Los renos a prueba`](./2023/Reto-06/README.md)              | 🟢 Fácil   | [[SOLUCIÓN](./2023/Reto-06/solution.js)] |
+| **01** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md)        | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-01/solution.js)] |
+| **02** | [`🏭 Ponemos en marcha la fábrica`](./2023/Reto-02/README.md)    | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-02/solution.js)] |
+| **03** | [`😏 El elfo travieso`](./2023/Reto-03/README.md)                | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-03/solution.js)] |
+| **04** | [`😵‍💫 Dale la vuelta a los paréntesis`](./2023/Reto-04/README.md) | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-04/solution.js)] |
+| **05** | [`🛷 El CyberTruck de Santa`](./2023/Reto-05/README.md)          | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-05/solution.js)] |
+| **06** | [`🦌 Los renos a prueba`](./2023/Reto-06/README.md)              | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-06/solution.js)] |
+| **07** | [`📦 Las cajas en 3D`](./2023/Reto-07/README.md)                 | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-07/solution.js)] |
