@@ -43,3 +43,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **05** | [`🛷 El CyberTruck de Santa`](./2023/Reto-05/README.md)          | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-05/solution.js)] |
 | **06** | [`🦌 Los renos a prueba`](./2023/Reto-06/README.md)              | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-06/solution.js)] |
 | **07** | [`📦 Las cajas en 3D`](./2023/Reto-07/README.md)                 | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-07/solution.js)] |
+| **08** | [`🏬 Ordenando el almacén`](./2023/Reto-08/README.md)            | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-08/solution.js)] |
