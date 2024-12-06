@@ -47,3 +47,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **09** | [`🚦 Alterna las luces`](./2023/Reto-09/README.md)               | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-09/solution.js)] |
 | **10** | [`🎄 Crea tu propio árbol de navidad`](./2023/Reto-10/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-10/solution.js)] |
 | **11** | [`📖 Los elfos estudiosos`](./2023/Reto-11/README.md)            | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-11/solution.js)] |
+| **12** | [`📸 ¿Es una copia válida?`](./2023/Reto-12/README.md)           | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-12/solution.js)] |
