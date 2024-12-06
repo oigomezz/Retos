@@ -44,4 +44,5 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **06** | [`🦌 Los renos a prueba`](./2023/Reto-06/README.md)              | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-06/solution.js)] |
 | **07** | [`📦 Las cajas en 3D`](./2023/Reto-07/README.md)                 | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-07/solution.js)] |
 | **08** | [`🏬 Ordenando el almacén`](./2023/Reto-08/README.md)            | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-08/solution.js)] |
-| **09** | [`🚦 Alterna las luces`](./2023/Reto-09/README.md)                 | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-09/solution.js)] |
+| **09** | [`🚦 Alterna las luces`](./2023/Reto-09/README.md)               | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-09/solution.js)] |
+| **10** | [`🎄 Crea tu propio árbol de navidad`](./2023/Reto-10/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-10/solution.js)] |
