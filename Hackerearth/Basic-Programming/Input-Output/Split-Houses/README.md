@@ -1,4 +1,4 @@
-# Split Houses
+# [Split Houses][link]
 
 You live in a village. The village can be represented as a line that contains n grids. Each grid can be denoted as a house that is marked as H or a blank space that is marked as .
 
@@ -25,3 +25,5 @@ The output must be printed in the following format:
 
 - First line: If possible, then print Yes. Otherwise, print No.
 - Second line: If the answer is Yes, then print the way to do so.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/

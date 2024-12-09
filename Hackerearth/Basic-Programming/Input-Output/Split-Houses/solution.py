@@ -1,6 +1,5 @@
 houses = int(input())
-village = input()
-
+village = input().strip()
 if 'HH' in village:
     print('NO')
 else:
