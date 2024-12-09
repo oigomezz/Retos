@@ -51,3 +51,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **13** | [`⌚️ Calculando el tiempo`](./2023/Reto-13/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-13/solution.js)] |
 | **14** | [`🚨 Evita la alarma`](./2023/Reto-14/README.md)                 | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-14/solution.js)] |
 | **15** | [`↔️ Robot autónomo`](./2023/Reto-15/README.md)                  | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-15/solution.js)] |
+| **16** | [`❌ Despliegue en viernes`](./2023/Reto-16/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-16/solution.js)] |
