@@ -50,3 +50,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **12** | [`📸 ¿Es una copia válida?`](./2023/Reto-12/README.md)           | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-12/solution.js)] |
 | **13** | [`⌚️ Calculando el tiempo`](./2023/Reto-13/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-13/solution.js)] |
 | **14** | [`🚨 Evita la alarma`](./2023/Reto-14/README.md)                 | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-14/solution.js)] |
+| **15** | [`↔️ Robot autónomo`](./2023/Reto-15/README.md)                  | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-15/solution.js)] |
