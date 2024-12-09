@@ -34,22 +34,23 @@ Si quieres ayudarnos, comparte el proyecto en las redes sociales y con tus amigo
 
 Aquí encontrarás el listado de retos y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
 
-| N°     | Reto                                                             | Dificultad | Solucion                                 |
-| ------ | ---------------------------------------------------------------- | ---------- | ---------------------------------------- |
-| **01** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md)        | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-01/solution.js)] |
-| **02** | [`🏭 Ponemos en marcha la fábrica`](./2023/Reto-02/README.md)    | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-02/solution.js)] |
-| **03** | [`😏 El elfo travieso`](./2023/Reto-03/README.md)                | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-03/solution.js)] |
-| **04** | [`😵‍💫 Dale la vuelta a los paréntesis`](./2023/Reto-04/README.md) | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-04/solution.js)] |
-| **05** | [`🛷 El CyberTruck de Santa`](./2023/Reto-05/README.md)          | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-05/solution.js)] |
-| **06** | [`🦌 Los renos a prueba`](./2023/Reto-06/README.md)              | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-06/solution.js)] |
-| **07** | [`📦 Las cajas en 3D`](./2023/Reto-07/README.md)                 | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-07/solution.js)] |
-| **08** | [`🏬 Ordenando el almacén`](./2023/Reto-08/README.md)            | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-08/solution.js)] |
-| **09** | [`🚦 Alterna las luces`](./2023/Reto-09/README.md)               | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-09/solution.js)] |
-| **10** | [`🎄 Crea tu propio árbol de navidad`](./2023/Reto-10/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-10/solution.js)] |
-| **11** | [`📖 Los elfos estudiosos`](./2023/Reto-11/README.md)            | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-11/solution.js)] |
-| **12** | [`📸 ¿Es una copia válida?`](./2023/Reto-12/README.md)           | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-12/solution.js)] |
-| **13** | [`⌚️ Calculando el tiempo`](./2023/Reto-13/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-13/solution.js)] |
-| **14** | [`🚨 Evita la alarma`](./2023/Reto-14/README.md)                 | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-14/solution.js)] |
-| **15** | [`↔️ Robot autónomo`](./2023/Reto-15/README.md)                  | 🟠 _Medio_ | [[SOLUCIÓN](./2023/Reto-15/solution.js)] |
-| **16** | [`❌ Despliegue en viernes`](./2023/Reto-16/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-16/solution.js)] |
-| **17** | [`🛷 Optimizando el alquiler`](./2023/Reto-17/README.md)         | 🟢 _Fácil_ | [[SOLUCIÓN](./2023/Reto-17/solution.js)] |
+| N°     | Reto                                                             | Dificultad   | Solucion                                 |
+| ------ | ---------------------------------------------------------------- | ------------ | ---------------------------------------- |
+| **01** | [`🎁 ¡Primer regalo repetido!`](./2023/Reto-01/README.md)        | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-01/solution.js)] |
+| **02** | [`🏭 Ponemos en marcha la fábrica`](./2023/Reto-02/README.md)    | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-02/solution.js)] |
+| **03** | [`😏 El elfo travieso`](./2023/Reto-03/README.md)                | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-03/solution.js)] |
+| **04** | [`😵‍💫 Dale la vuelta a los paréntesis`](./2023/Reto-04/README.md) | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-04/solution.js)] |
+| **05** | [`🛷 El CyberTruck de Santa`](./2023/Reto-05/README.md)          | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-05/solution.js)] |
+| **06** | [`🦌 Los renos a prueba`](./2023/Reto-06/README.md)              | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-06/solution.js)] |
+| **07** | [`📦 Las cajas en 3D`](./2023/Reto-07/README.md)                 | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-07/solution.js)] |
+| **08** | [`🏬 Ordenando el almacén`](./2023/Reto-08/README.md)            | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-08/solution.js)] |
+| **09** | [`🚦 Alterna las luces`](./2023/Reto-09/README.md)               | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-09/solution.js)] |
+| **10** | [`🎄 Crea tu propio árbol de navidad`](./2023/Reto-10/README.md) | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-10/solution.js)] |
+| **11** | [`📖 Los elfos estudiosos`](./2023/Reto-11/README.md)            | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-11/solution.js)] |
+| **12** | [`📸 ¿Es una copia válida?`](./2023/Reto-12/README.md)           | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-12/solution.js)] |
+| **13** | [`⌚️ Calculando el tiempo`](./2023/Reto-13/README.md)           | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-13/solution.js)] |
+| **14** | [`🚨 Evita la alarma`](./2023/Reto-14/README.md)                 | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-14/solution.js)] |
+| **15** | [`↔️ Robot autónomo`](./2023/Reto-15/README.md)                  | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-15/solution.js)] |
+| **16** | [`❌ Despliegue en viernes`](./2023/Reto-16/README.md)           | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-16/solution.js)] |
+| **17** | [`🛷 Optimizando el alquiler`](./2023/Reto-17/README.md)         | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-17/solution.js)] |
+| **18** | [`🔢 El reloj digital`](./2023/Reto-18/README.md)                | 🔴 _Dificil_ | [[SOLUCIÓN](./2023/Reto-18/solution.js)] |
