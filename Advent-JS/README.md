@@ -59,3 +59,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **21** | [`🪐 Mensaje binario`](./2023/Reto-21/README.md)                 | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-21/solution.js)] |
 | **22** | [`🚂 Lenguaje de programación`](./2023/Reto-22/README.md)        | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-22/solution.js)] |
 | **23** | [`🍽️ La comida de Navidad`](./2023/Reto-23/README.md)            | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-23/solution.js)] |
+| **24** | [`🪜 Brincos en la escalera`](./2023/Reto-24/README.md)          | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-24/solution.js)] |
