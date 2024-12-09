@@ -58,3 +58,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **20** | [`🏋️‍♂️ Distribuye el peso`](./2023/Reto-20/README.md)              | 🔴 _Dificil_ | [[SOLUCIÓN](./2023/Reto-20/solution.js)] |
 | **21** | [`🪐 Mensaje binario`](./2023/Reto-21/README.md)                 | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-21/solution.js)] |
 | **22** | [`🚂 Lenguaje de programación`](./2023/Reto-22/README.md)        | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-22/solution.js)] |
+| **23** | [`🍽️ La comida de Navidad`](./2023/Reto-23/README.md)            | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-23/solution.js)] |
