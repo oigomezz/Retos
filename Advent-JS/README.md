@@ -55,3 +55,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **17** | [`🛷 Optimizando el alquiler`](./2023/Reto-17/README.md)         | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-17/solution.js)] |
 | **18** | [`🔢 El reloj digital`](./2023/Reto-18/README.md)                | 🔴 _Dificil_ | [[SOLUCIÓN](./2023/Reto-18/solution.js)] |
 | **19** | [`💣 Enfrenta el sabotaje`](./2023/Reto-19/README.md)            | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-19/solution.js)] |
+| **20** | [`🏋️‍♂️ Distribuye el peso`](./2023/Reto-20/README.md)              | 🔴 _Dificil_ | [[SOLUCIÓN](./2023/Reto-20/solution.js)] |
