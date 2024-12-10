@@ -1,5 +1,2 @@
-n = input()
-if n == n[::-1]:
-    print('YES')
-else:
-    print('NO')
+s = input().strip()
+print('YES' if s == s[::-1] else 'NO')
