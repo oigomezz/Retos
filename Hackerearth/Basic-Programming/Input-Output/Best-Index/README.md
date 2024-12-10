@@ -1,4 +1,4 @@
-# Best Index
+# [Best Index][link]
 
 You are given an array A of N elements. Now you need to choose the best index of this array A. An index of the array is called best if the special sum of this index is maximum across the special sum of all the other indices.
 
@@ -17,3 +17,5 @@ First line contains an integer N as input. Next line contains N space separated 
 ## Output format
 
 In the output you have to print an integer that denotes the maximum special sum.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/best-index-1-45a2f8ff/

@@ -11,7 +11,7 @@ while start <= n:
 start -= k-1
 k -= 2
 initialSum = sum(a[:start])
-ma = initialSum
+maximum = initialSum
 
 for i in range(1, n):
     initialSum -= a[i-1]
@@ -22,6 +22,6 @@ for i in range(1, n):
         k -= 1
         initialSum -= sum(a[n-k:n])
         start -= k
-    if initialSum > ma:
-        ma = initialSum
-print(ma)
+    if initialSum > maximum:
+        maximum = initialSum
+print(maximum)
