@@ -1,4 +1,4 @@
-# Minimize Cost
+# [Minimize Cost][link]
 
 You are given an array of numbers Ai which contains positive as well as negative numbers . The cost of the array can be defined as C(X).
 
@@ -21,10 +21,11 @@ then you can distribute the value 5 across many other array elements provided th
 
 ## Input format
 
-First line contains N and K separated by space.
-
-Second line denotes an array of size N.
+- First line contains N and K separated by space.
+- Second line denotes an array of size N.
 
 ## Output format
 
 Minimum value of C(X)
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/minimise-cost-89b54cb9/
