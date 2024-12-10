@@ -1,4 +1,4 @@
-# Seven-Segment Display
+# [Seven-Segment Display][link]
 
 You all must have seen a seven segment display.If not here it is:
 
@@ -19,3 +19,5 @@ Next T lines contain a Number N.
 ## Output format
 
 Print the largest possible number numerically that can be generated using at max that many number of matchsticks which was used to generate N.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/

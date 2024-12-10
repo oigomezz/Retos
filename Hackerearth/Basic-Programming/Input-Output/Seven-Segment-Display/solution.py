@@ -12,23 +12,10 @@ d = {
 }
 
 t = int(input())
-
 for _ in range(t):
     n = input().strip()
-    matchsticks = 0
-    for i in n:
-        matchsticks += d[i]
-
-    # Case 1 Max number when the number of Matchstick is even
-    if matchsticks % 2 == 0:
-        x = int(matchsticks/2)
-        number = ''
-        for j in range(x):
-            number = number + '1'
+    cnt = sum(d[i] for i in n)
+    if cnt % 2:
+        print('7' + ((cnt - 3) // 2) * '1')
     else:
-        x = int((matchsticks-3)/2)
-        number = '7'
-        for j in range(x):
-            number = number + '1'
-
-    print(number)
+        print((cnt // 2) * '1')
