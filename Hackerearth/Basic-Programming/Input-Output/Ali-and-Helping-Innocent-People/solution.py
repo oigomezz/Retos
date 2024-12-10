@@ -1,4 +1,4 @@
-tag = input()
+tag = input().strip()
 vowel = ("A", "E", "I", "O", "U", "Y")
 
 first = (int(tag[0])+int(tag[1])) % 2 == 0
