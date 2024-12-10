@@ -1,4 +1,4 @@
-# Cost of Balloons
+# [Cost of Balloons][link]
 
 You are conducting a contest at your college. This contest consists of two problems and n participants. You know the problem that a candidate will solve during the contest.
 
@@ -22,3 +22,5 @@ For each test case:
 ## Output format
 
 For each test case, print the minimum cost that you have to pay to purchase balloons.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/
