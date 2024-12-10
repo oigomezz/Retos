@@ -1,2 +1,2 @@
-n = input()
-print(n.swapcase())
+s = input()
+print(s.swapcase())
