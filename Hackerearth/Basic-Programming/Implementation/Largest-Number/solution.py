@@ -6,8 +6,8 @@ for i in range(0, k):
     while n // i > 0:
         temp = (n//(i * 10))*i + (n % i)
         i *= 10
-
         if temp > ans:
             ans = temp
+
     n = ans
 print(ans)
