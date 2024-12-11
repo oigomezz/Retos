@@ -1,4 +1,4 @@
-# Update the Array
+# [Update the Array][link]
 
 Given an array A of N integers and an integer K. You can perform the following operation any number of times on the given array:
 
@@ -24,7 +24,6 @@ If the above conditions cannot be met after any number of operations, return -1.
 
 - The first line contains a single integer T, which denotes the number of test cases. T also specifies the number of times you have to run the minUpdates function on a different set of inputs.
 - For each test case:
-
   - First line contains an integer N.
   - Next line contains N space-separated integers denoting the elements of array A.
   - Next line contains an integer K.
@@ -32,3 +31,5 @@ If the above conditions cannot be met after any number of operations, return -1.
 ## Output format
 
 For each test case in a new line, print an integer denoting the minimum number of operations required or print -1, if the conditions cannot be met.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/update-the-array-3fcbf307/
