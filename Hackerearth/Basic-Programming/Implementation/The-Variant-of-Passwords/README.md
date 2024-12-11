@@ -1,4 +1,4 @@
-# The Variant of Passwords
+# [The Variant of Passwords][link]
 
 Bob has a string password S of length N consists only of digits 0, 1, and 2. The password needs to follow the given requirements:
 
@@ -12,14 +12,13 @@ Help Bob find the minimum number of replacements and print the corresponding pos
 
 ## Input format
 
-The first line contains an integer T denoting the number of test cases.
-
-The first line of each test case contains an integer N denoting the length of the password.
-
-The second line of each test case contains two space-separated integers A and B.
-
-The third line of each test case contains a string S denoting the password
+- The first line contains an integer T denoting the number of test cases.
+- The first line of each test case contains an integer N denoting the length of the password.
+- The second line of each test case contains two space-separated integers A and B.
+- The third line of each test case contains a string S denoting the password
 
 ## Output format
 
 For each test case, print the minimum replacements required in a new line. In the next line, print the updated lexicographically smallest password S.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/stringify-2-304b51ea/
