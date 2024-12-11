@@ -1,4 +1,4 @@
-# Rook Attack
+# [Rook Attack][link]
 
 Given a N x M chessboard, where every cell has a value assigned to it denoted by A[i] [j] (Cell in the ith row from top and jth column from left).
 
@@ -14,3 +14,5 @@ If there are more than one positions for (x,y), return the position where x is a
 ## Output format
 
 Print two space separated integers (x,y) denoting the rook's position.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rook-attack-b899b655/
