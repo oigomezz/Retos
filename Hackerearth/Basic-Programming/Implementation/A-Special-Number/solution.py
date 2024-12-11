@@ -6,8 +6,8 @@ def suma_de_digitos(numero):
     return suma
 
 
-T = int(input())
-for i in range(T):
+t = int(input())
+for _ in range(t):
     a = input().strip()
     suma = suma_de_digitos(a)
     while suma % 4 != 0:
