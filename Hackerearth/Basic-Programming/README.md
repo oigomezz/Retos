@@ -54,3 +54,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#17** | [`Special matrix`](./Implementation/Special-Matrix/README.md)                     |
 | **#18** | [`Lunch boxes`](./Implementation/Lunch-Boxes/README.md)                           |
 | **#19** | [`Erasing an array`](./Implementation/Erasing-an-Array/README.md)                 |
+| **#20** | [`Path queries`](./Implementation/Path-Queries/README.md)                         |

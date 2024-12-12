@@ -1,4 +1,4 @@
-# Path Queries
+# [Path Queries][link]
 
 You are given an undirected tree G with N nodes. Every node is assigned a value denoted by A[i]
 
@@ -20,3 +20,5 @@ Given Q queries of the form:
 ## Output format
 
 For each test case in a new line, print the answer for queries in a space-separated format.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/path-queries-4-28f3e1a7/
