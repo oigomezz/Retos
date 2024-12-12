@@ -1,4 +1,4 @@
-# TUTORIAL
+# TUTORIAL Basics of Implementation
 
 Questions that are based on ad-hoc ideas and brute-force solutions are usually classified under the implementation category. The objective of such questions is to help users to improve their ability of converting English statements into code implementation.
 
@@ -9,11 +9,8 @@ This tutorial discusses 2 kinds of problems that will help you get started with 
 Approach:
 
 - Store the difference of N and M in a temporary variable result.
-
 - Check if the value of result is negative.
-
 - The question is to print the absolute difference. Therefore, if the value is negative, then make it positive by multiplying it with -1.
-
 - Print out the value of result.
 
 Implementation
@@ -45,9 +42,7 @@ int main() {
 Approach:
 
 - There are five vowels in English alphabet. Declare variables for five integers and initialize them as 0.
-
 - Traverse the string S, character by character, check if the character is vowel. If it is, increment the count of that vowel by 1.
-
 - Print out the count of each vowel after the iteration over the string is done.
 
 Implementation
