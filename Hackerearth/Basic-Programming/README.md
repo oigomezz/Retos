@@ -52,4 +52,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`A special number`](./Implementation/A-Special-Number/README.md)                 |
 | **#16** | [`Excursion`](./Implementation/Excursion/README.md)                               |
 | **#17** | [`Special matrix`](./Implementation/Special-Matrix/README.md)                     |
-| **#18** | [`Lunch boxes`](./Implementation/Zoos/README.md)                               |
+| **#18** | [`Lunch boxes`](./Implementation/Lunch-Boxes/README.md)                           |
+| **#19** | [`Erasing an array`](./Implementation/Erasing-an-Array/README.md)                 |
