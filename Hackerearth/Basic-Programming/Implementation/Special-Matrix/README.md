@@ -1,4 +1,4 @@
-# Special matrix
+# [Special matrix][link]
 
 You have an N x M matrix, where 1 to N are rows and 1 to M are columns.
 
@@ -14,3 +14,5 @@ Determine the sum of all the elements of the matrix.
 ## Output format
 
 For each test case, print the sum of all the elements of the matrix in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/special-matrix-2-e2e9f0f4/

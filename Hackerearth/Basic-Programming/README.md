@@ -51,3 +51,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#14** | [`The variant of passwords`](./Implementation/The-Variant-of-Passwords/README.md) |
 | **#15** | [`A special number`](./Implementation/A-Special-Number/README.md)                 |
 | **#16** | [`Excursion`](./Implementation/Excursion/README.md)                               |
+| **#17** | [`Special matrix`](./Implementation/Special-Matrix/README.md)                     |
