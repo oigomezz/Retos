@@ -1,4 +1,4 @@
-# Digit Cube
+# [Digit Cube][link]
 
 Let n be an integer. We define a function f(n) which returns the cube of sum of digits of n.
 
@@ -14,3 +14,5 @@ Formally, you have to find the value of fk(n).
 ## Output format
 
 The output should consist of T lines each containing a single integer corresponding to the required value fk(n).
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-cube-1cc1e002/
