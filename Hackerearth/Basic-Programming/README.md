@@ -57,3 +57,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#20** | [`Path queries`](./Implementation/Path-Queries/README.md)                         |
 | **#21** | [`Simon cannot sleep`](./Implementation/Simon-Cannot-Sleep/README.md)             |
 | **#22** | [`Digit cube`](./Implementation/Digit-Cube/README.md)                             |
+| **#23** | [`Robotic moves`](./Implementation/Robotic-Moves/README.md)                       |

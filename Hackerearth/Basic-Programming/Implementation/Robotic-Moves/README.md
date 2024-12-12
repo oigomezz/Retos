@@ -1,4 +1,4 @@
-# Robotic Moves
+# [Robotic Moves][link]
 
 A robot's initial position is (0,0) and it can only move along X-axis. It has N moves to make and in each move, it will select one of the following options:
 
@@ -20,3 +20,5 @@ See the sample explanation for better understanding.
 ## Output format
 
 Print T lines. For each test case, print a single integer as described in the problem statement.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/robotic-moves-98b936fb/

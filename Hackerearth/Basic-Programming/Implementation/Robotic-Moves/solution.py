@@ -1,4 +1,4 @@
 t = int(input())
-for i in range(t):
+for _ in range(t):
     n = int(input())
-    print(n*(n+1))
+    print(n * (n + 1))
