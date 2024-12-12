@@ -59,3 +59,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`Digit cube`](./Implementation/Digit-Cube/README.md)                                             |
 | **#23** | [`Robotic moves`](./Implementation/Robotic-Moves/README.md)                                       |
 | **#24** | [`Mathematically beautiful numbers`](./Implementation/Mathematically-Beautiful-Numbers/README.md) |
+| **#25** | [`Multiple occurrences`](./Implementation/Multiple-Occurrences/README.md)                         |

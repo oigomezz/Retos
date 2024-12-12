@@ -1,15 +1,11 @@
-T = int(input())
-for t in range(T):
-    n = int(input())
-    k = list(map(int, input().split()))
-    dic = {}
-    total = 0
-
-    for i in range(len(k)):
-        if k[i] in dic:
-            total += i-dic[k[i]]
-            dic[k[i]] = i
-        else:
-            dic[k[i]] = i
-
-    print(total)
+t = int(input())
+for _ in range(t):
+    x = int(input())
+    a = input().strip().split()
+    idxes = {}
+    ans = 0
+    for i in range(x):
+        if a[i] in idxes:
+            ans += i - idxes[a[i]]
+        idxes[a[i]] = i
+    print(ans)

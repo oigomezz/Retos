@@ -1,4 +1,4 @@
-# Multiple Occurrences
+# [Multiple Occurrences][link]
 
 You are given an integer array A. Your task is to calculate the sum of absolute difference of indices of first and last occurrence for every integer that is present in array A.
 
@@ -17,3 +17,5 @@ Refer to sample notes and explanations for better understanding.
 ## Output format
 
 For each test case, print a single line as described in the problem statement.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/multiple-occurence-97c00160/
