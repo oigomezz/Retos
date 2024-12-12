@@ -8,10 +8,8 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ## Listado de retos
 
-Aquí encontrarás el listado de retos y enunciado del ejercicio.
-
-| N°     | Enunciado                              |
-| ------ | -------------------------------------- |
-| **#1** | [`Retos-2023`](./Retos-2023/README.md) |
-| **#2** | [`Advent JS`](./Advent-JS/README.md)   |
-| **#3** | `Hackerearth`                          |
+| N°     | Sitio                                   |
+| ------ | --------------------------------------- |
+| **#1** | [`Retos-2023`](./Retos-2023/README.md)  |
+| **#2** | [`Advent JS`](./Advent-JS/README.md)    |
+| **#3** | [`Hackerearth`](./Hackerearth/README.md)|
