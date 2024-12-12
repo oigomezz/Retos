@@ -33,28 +33,29 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Implementation](./Implementation/README.md)
 
-| N°      | Enunciado                                                                         |
-| ------- | --------------------------------------------------------------------------------- |
-| **#01** | [`BanquetSplit`](./Implementation/Banquet-Split/README.md)                        |
-| **#02** | [`Find pairs`](./Implementation/Find-Pairs/README.md)                             |
-| **#03** | [`Find Pairs`](./Implementation/Find-Pairs-2/README.md)                           |
-| **#04** | [`Perfect Cube`](./Implementation/Perfect-Cube/README.md)                         |
-| **#05** | [`Largest Number`](./Implementation/Largest-Number/README.md)                     |
-| **#06** | [`Domain name`](./Implementation/Domain-Name/README.md)                           |
-| **#07** | [`Rook Attack`](./Implementation/Rook-Attack/README.md)                           |
-| **#08** | [`ASME to SAME`](./Implementation/ASME-to-SAME/README.md)                         |
-| **#09** | [`Count in string`](./Implementation/Count-in-String/README.md)                   |
-| **#10** | [`OR-XOR`](./Implementation/OR-XOR/README.md)                                     |
-| **#11** | [`Cannibal Characters`](./Implementation/Cannibal-Characters/README.md)           |
-| **#12** | [`Update the array`](./Implementation/Update-the-Array/README.md)                 |
-| **#13** | [`Zoo creatures`](./Implementation/Zoo-creatures/README.md)                       |
-| **#14** | [`The variant of passwords`](./Implementation/The-Variant-of-Passwords/README.md) |
-| **#15** | [`A special number`](./Implementation/A-Special-Number/README.md)                 |
-| **#16** | [`Excursion`](./Implementation/Excursion/README.md)                               |
-| **#17** | [`Special matrix`](./Implementation/Special-Matrix/README.md)                     |
-| **#18** | [`Lunch boxes`](./Implementation/Lunch-Boxes/README.md)                           |
-| **#19** | [`Erasing an array`](./Implementation/Erasing-an-Array/README.md)                 |
-| **#20** | [`Path queries`](./Implementation/Path-Queries/README.md)                         |
-| **#21** | [`Simon cannot sleep`](./Implementation/Simon-Cannot-Sleep/README.md)             |
-| **#22** | [`Digit cube`](./Implementation/Digit-Cube/README.md)                             |
-| **#23** | [`Robotic moves`](./Implementation/Robotic-Moves/README.md)                       |
+| N°      | Enunciado                                                                                         |
+| ------- | ------------------------------------------------------------------------------------------------- |
+| **#01** | [`BanquetSplit`](./Implementation/Banquet-Split/README.md)                                        |
+| **#02** | [`Find pairs`](./Implementation/Find-Pairs/README.md)                                             |
+| **#03** | [`Find Pairs`](./Implementation/Find-Pairs-2/README.md)                                           |
+| **#04** | [`Perfect Cube`](./Implementation/Perfect-Cube/README.md)                                         |
+| **#05** | [`Largest Number`](./Implementation/Largest-Number/README.md)                                     |
+| **#06** | [`Domain name`](./Implementation/Domain-Name/README.md)                                           |
+| **#07** | [`Rook Attack`](./Implementation/Rook-Attack/README.md)                                           |
+| **#08** | [`ASME to SAME`](./Implementation/ASME-to-SAME/README.md)                                         |
+| **#09** | [`Count in string`](./Implementation/Count-in-String/README.md)                                   |
+| **#10** | [`OR-XOR`](./Implementation/OR-XOR/README.md)                                                     |
+| **#11** | [`Cannibal Characters`](./Implementation/Cannibal-Characters/README.md)                           |
+| **#12** | [`Update the array`](./Implementation/Update-the-Array/README.md)                                 |
+| **#13** | [`Zoo creatures`](./Implementation/Zoo-creatures/README.md)                                       |
+| **#14** | [`The variant of passwords`](./Implementation/The-Variant-of-Passwords/README.md)                 |
+| **#15** | [`A special number`](./Implementation/A-Special-Number/README.md)                                 |
+| **#16** | [`Excursion`](./Implementation/Excursion/README.md)                                               |
+| **#17** | [`Special matrix`](./Implementation/Special-Matrix/README.md)                                     |
+| **#18** | [`Lunch boxes`](./Implementation/Lunch-Boxes/README.md)                                           |
+| **#19** | [`Erasing an array`](./Implementation/Erasing-an-Array/README.md)                                 |
+| **#20** | [`Path queries`](./Implementation/Path-Queries/README.md)                                         |
+| **#21** | [`Simon cannot sleep`](./Implementation/Simon-Cannot-Sleep/README.md)                             |
+| **#22** | [`Digit cube`](./Implementation/Digit-Cube/README.md)                                             |
+| **#23** | [`Robotic moves`](./Implementation/Robotic-Moves/README.md)                                       |
+| **#24** | [`Mathematically beautiful numbers`](./Implementation/Mathematically-Beautiful-Numbers/README.md) |

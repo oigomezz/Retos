@@ -1,4 +1,4 @@
-# Mathematically Beautiful Numbers
+# [Mathematically Beautiful Numbers][link]
 
 While playing a mental math game, you realize that the number k is mathematically beautiful.
 
@@ -14,3 +14,5 @@ Your **task** is to determine whether the number is mathematically beautiful.
 ## Output format
 
 For each test case, output "YES" if x is "mathematically beautiful" and "NO" otherwise.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mathematically-beautiful-numbers-174a158e/
