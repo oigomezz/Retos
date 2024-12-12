@@ -1,4 +1,4 @@
-# Excursion
+# [Excursion][link]
 
 A group of students wants to visit a tour in some city X. In total, the group has N boys and M girls. To do this, they need to stay in a hotel.
 
@@ -12,3 +12,5 @@ Calculate the number of rooms you need to book in the hotel, if each hotel room 
 ## Output format
 
 For each test case, print one number denoting the number of rooms to be booked at the hotel.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/excursion-2d080f3a/

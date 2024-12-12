@@ -1,4 +1,4 @@
-# Excursion
+# Hackers with Bits
 
 Hackers love bits, so does Alex. Alex has just started his career as hacker and found a special binary array A (containing and 0s and 1s).
 

@@ -1,4 +1,4 @@
-# Excursion
+# City Group
 
 You are living in a town consisting of N cities. Furthurmore, in this town there are K city-groups. You can reach any city from any city in a same city-group instantaneously. you can go from any city in ith city-group to any city in i+1th city-group in 1 second and from any city in i+1th city-group to any city in ith city-group in 1 second for each i between 1 and K-1, you can also go from any city in first city-group to any city in Kth city-group in 1 second and from any city in Kth city-group to any city in first city-group in 1 second.
 

@@ -1,4 +1,4 @@
-# Excursion
+# Elevator Overload
 
 A corporate building has n floors numbered from 1 to n. An elevator starts moving from the floor 1 and goes upward until it reaches floor the n. It has the maximum capacity of weight (W) and persons (P) it can lift. It will stop at every floor and there will be some number of employees who will get into the elevator and also some of the employees will leave it as they have reached their desired floors. At every floor, those who have reached the desired floor will leave first and then those who were waiting for the elevator will get in. As the elevator has a maximum limit of weight and persons (when any one of the limits is exceeded, the overload sign is displayed), it will permanently stop where the overload situation happens or it will permanently stop at floor n if no overload situation happens. You need to find the floor, where the elevator will stop permanently.
 

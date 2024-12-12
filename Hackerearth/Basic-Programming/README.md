@@ -30,3 +30,24 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Factorial!`](./Input-Output/Factorial!/README.md)                                               |
 | **#17** | [`Roy and Profile Picture`](./Input-Output/Roy-and-Profile-Picture/README.md)                     |
 | **#18** | [`Life, the Universe, and Everything`](./Input-Output/Life,the-Universe,and-Everything/README.md) |
+
+### [Basics of Implementation](./Implementation/README.md)
+
+| N°      | Enunciado                                                                         |
+| ------- | --------------------------------------------------------------------------------- |
+| **#01** | [`BanquetSplit`](./Implementation/Banquet-Split/README.md)                        |
+| **#02** | [`Find pairs`](./Implementation/Find-Pairs/README.md)                             |
+| **#03** | [`Find Pairs`](./Implementation/Find-Pairs-2/README.md)                           |
+| **#04** | [`Perfect Cube`](./Implementation/Perfect-Cube/README.md)                         |
+| **#05** | [`Largest Number`](./Implementation/Largest-Number/README.md)                     |
+| **#06** | [`Domain name`](./Implementation/Domain-Name/README.md)                           |
+| **#07** | [`Rook Attack`](./Implementation/Rook-Attack/README.md)                           |
+| **#08** | [`ASME to SAME`](./Implementation/ASME-to-SAME/README.md)                         |
+| **#09** | [`Count in string`](./Implementation/Count-in-String/README.md)                   |
+| **#10** | [`OR-XOR`](./Implementation/OR-XOR/README.md)                                     |
+| **#11** | [`Cannibal Characters`](./Implementation/Cannibal-Characters/README.md)           |
+| **#12** | [`Update the array`](./Implementation/Update-the-Array/README.md)                 |
+| **#13** | [`Zoo creatures`](./Implementation/Zoo-creatures/README.md)                       |
+| **#14** | [`The variant of passwords`](./Implementation/The-Variant-of-Passwords/README.md) |
+| **#15** | [`A special number`](./Implementation/A-Special-Number/README.md)                 |
+| **#16** | [`Excursion`](./Implementation/Excursion/README.md)                               |

@@ -1,4 +1,4 @@
-# Excursion
+# Ways to a BST
 
 You are given N distinct numbers in the form of an array Arri. You can form a Binary Search Tree(BST) by inserting them in the order they are given.Now find the number of different permutations of the array, so that the BST formed in each permutation is same as that of the given array(including the given permutation). As the number can be large, output modulo (10^9 + 7).
 
