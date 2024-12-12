@@ -1,4 +1,4 @@
-# Simon Cannot Sleep
+# [Simon Cannot Sleep][link]
 
 It's 12 o'clock at midnight (00:00) and Simon cannot sleep! So he decided to stare at the clock on his wall until he falls asleep.
 
@@ -14,3 +14,5 @@ The first and only line you will get a time in the hh:mm format.
 ## Output format
 
 Print the number of times that the hour and minute hands pass each other from 00:00 to hh:mm.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
