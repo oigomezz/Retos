@@ -1,4 +1,4 @@
-# TUTORIAL
+# TUTORIAL Input/Output
 
 The very first step of getting started with online judge is to understand:
 
