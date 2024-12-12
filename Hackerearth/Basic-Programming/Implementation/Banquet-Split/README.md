@@ -21,4 +21,4 @@ Now, your task involves answering Q queries, each presenting a potential new rel
 
 For each test case, answer all the Q queries. For each query print Yes if it's possible to invite everyone to the party using the 2 banquets, after adding the current query's relationship to the initial existing N-1 relations, ensuring that no two people who know each other end up in the same banquet, otherwise print No. If the answer is No, in the next line, print 2 integers, the minimum number of relationships to remove so that everyone gets an invite, and the number of ways to do so.
 
-[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/banquetsplit-fd0116d8/
