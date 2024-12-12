@@ -15,4 +15,4 @@ The first and only line you will get a time in the hh:mm format.
 
 Print the number of times that the hour and minute hands pass each other from 00:00 to hh:mm.
 
-[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/simon-cant-sleep-3beb3241/
