@@ -1,4 +1,4 @@
-# Lunch Boxes
+# [Lunch Boxes][link]
 
 Alice works as a restaurant manager. The restaurant has prepared N lunch boxes and Alice plans to distribute them to some schools. Consider that there are M schools and an ith school orders Ai lunch boxes.
 
@@ -18,3 +18,5 @@ Your task is to help Alice to determine the maximum number of schools that can g
 ## Output format
 
 For each test case, you are required to print one integer that represents the maximum number of schools that can receive lunch boxes.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/lunch-boxes-019bf2a5/

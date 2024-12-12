@@ -1,13 +1,11 @@
-T = int(input())
-
-for _ in range(T):
-    s = 0
-    count = 0
-    N, M = map(int, input().split())
-    A = [int(x) for x in input().split()]
-    order_list_A = sorted(A)
-    for k in range(M):
-        s += order_list_A[k]
-        if order_list_A[k] < N and s <= N:
-            count += 1
+t = int(input())
+for _ in range(t):
+    n, m = map(int, input().strip().split())
+    a = sorted(map(int, input().strip().split()))
+    count = total = 0
+    for i in a:
+        total += i
+        if total > n:
+            break
+        count += 1
     print(count)
