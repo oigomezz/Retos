@@ -1,4 +1,4 @@
-# Summation Program
+# [Summation Program][link]
 
 You are given a number N. You are required to determine the value of the following function:
 
@@ -22,3 +22,5 @@ All divisions are integer divisions(i.e. N/i is actually floor(N/i)).
 ## Output format
 
 For each test case, print the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/floor-sum-45e7b417/
