@@ -1,5 +1,4 @@
 q = int(input())
-
-for i in range(q):
+for _ in range(q):
     n = int(input())
-    print(n*(n-1)+1)
+    print(n * (n - 1) + 1)

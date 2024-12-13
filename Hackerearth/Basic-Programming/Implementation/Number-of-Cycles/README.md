@@ -1,4 +1,4 @@
-# Number of Cycles
+# [Number of Cycles][link]
 
 You are given an N-sided regular polygon. You have connected the center of the polygon with all the vertices, thus dividing the polygon into N equal parts.
 
@@ -12,3 +12,5 @@ Your task is to find the count of simple cycles that exist in the modified struc
 ## Output format
 
 Print the count of simple cycles corresponding to each query in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/cycle-count-0644f309/
