@@ -1,4 +1,4 @@
-# Interest Degree of Vertices
+# [Interest Degree of Vertices][link]
 
 You are given a rooted tree with n vertices. There is a number written on each leaf (a vertex contains degree 1 and the root node can be a leaf if it has just one child). The interest degree of each vertex is the sum of numbers written on leaves in subtree on this vertex. In each step, you can change the number written on a leaf by 1. How many steps are required to make the interest degree of all of the nodes equal?
 
@@ -13,3 +13,5 @@ You are given a rooted tree with n vertices. There is a number written on each l
 ## Output format
 
 Print the minimum number of steps that are required to make the interest degree of all of the nodes equal.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/all-equal-tree-401d4399/
