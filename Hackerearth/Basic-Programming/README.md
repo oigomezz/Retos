@@ -65,3 +65,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#28** | [`Summation program`](./Implementation/Summation-Program/README.md)                               |
 | **#29** | [`Special numbers`](./Implementation/Special-Numbers/README.md)                                   |
 | **#30** | [`Finding vaccines`](./Implementation/Finding-Vaccines/README.md)                                 |
+| **#31** | [`The largest subnumber`](./Implementation/The-Largest-Subnumber/README.md)                       |
