@@ -1,4 +1,4 @@
-T = int(input())
-for _ in range(T):
-    i, j = map(int, input().split())
-    print(i) if (i >= j) and (j >= 0) else print(-1)
+t = int(input())
+for _ in range(t):
+    x, y = map(int, input().strip().split())
+    print(x if 0 <= y <= x else -1)

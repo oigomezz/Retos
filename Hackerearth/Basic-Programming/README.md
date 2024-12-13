@@ -67,3 +67,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`Finding vaccines`](./Implementation/Finding-Vaccines/README.md)                                 |
 | **#31** | [`The largest subnumber`](./Implementation/The-Largest-Subnumber/README.md)                       |
 | **#32** | [`Supernatural`](./Implementation/Supernatural/README.md)                                         |
+| **#33** | [`Minimum moves`](./Implementation/Minimum-Moves/README.md)                                       |
