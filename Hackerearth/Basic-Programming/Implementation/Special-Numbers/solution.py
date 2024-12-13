@@ -1,28 +1,22 @@
-import math
+from math import gcd
+
+
+def define_special_numbers(mx, vals, x=0):
+    if x > mx:
+        return
+    if x > 0:
+        vals.append(x)
+    define_special_numbers(mx, vals, 10 * x + 4)
+    define_special_numbers(mx, vals, 10 * x + 7)
+
 
 n = int(input())
-va = []
-
-
-def f(val):
-    if val > n:
-        return
-    if val > 0:
-        va.append(val)
-    f(10*val+4)
-    f(10*val+7)
-
-
-v = 0
-f(v)
-
-count = 0
-cou = 0
-
-for i in va:
-    cou += 1
-    for j in va[cou:]:
-        if (math.gcd(i, j) == 1):
+special_numbers = []
+define_special_numbers(n, special_numbers)
+count = k = 0
+for i in special_numbers:
+    k += 1
+    for j in special_numbers[k:]:
+        if gcd(i, j) == 1:
             count += 1
-
 print(count)

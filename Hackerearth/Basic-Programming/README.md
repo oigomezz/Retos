@@ -63,3 +63,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#26** | [`A beauty factor`](./Implementation/A-Beauty-Factor/README.md)                                   |
 | **#27** | [`Anti-palindrome strings`](./Implementation/Anti-Palindrome-Strings/README.md)                   |
 | **#28** | [`Summation program`](./Implementation/Summation-Program/README.md)                               |
+| **#29** | [`Special numbers`](./Implementation/Special-Numbers/README.md)                                   |
