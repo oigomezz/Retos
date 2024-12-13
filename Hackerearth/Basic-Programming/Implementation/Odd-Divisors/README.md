@@ -1,4 +1,4 @@
-# Odd Divisors
+# [Odd Divisors][link]
 
 You are given a positive integer N. f(N) is the greatest odd divisor of N.
 
@@ -12,3 +12,5 @@ Find the sum (f(1) + f(2) + ... + f(N)) % M.
 ## Output format
 
 For each value of N, print the value of (f(1) + f(2) + ... + f(N)) % M in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/odd-divisors-1-4939f17d/

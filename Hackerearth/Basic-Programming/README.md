@@ -69,3 +69,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`Supernatural`](./Implementation/Supernatural/README.md)                                         |
 | **#33** | [`Minimum moves`](./Implementation/Minimum-Moves/README.md)                                       |
 | **#34** | [`Number of triangles`](./Implementation/Number-of-Triangles/README.md)                           |
+| **#35** | [`Odd divisors`](./Implementation/Odd-Divisors/README.md)                                         |
