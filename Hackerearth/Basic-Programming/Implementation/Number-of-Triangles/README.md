@@ -1,4 +1,4 @@
-# Number of Triangles
+# [Number of Triangles][link]
 
 You are given a polygon of N sides with vertices numbered from 1,2,...,N. Now, exactly 2 vertices of the polygons are colored black and remaining are colored white. You are required to find the number of triangles denoted by A such that:
 
@@ -13,3 +13,5 @@ You are given a polygon of N sides with vertices numbered from 1,2,...,N. Now, e
 ## Output format
 
 For each test case, print the answer A representing the number of triangles that can be formed with the given conditions in the problem statement.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/number-of-triangles-6ac88eb2/

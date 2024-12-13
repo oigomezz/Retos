@@ -1,17 +1,16 @@
-T = int(input())
-for _ in range(T):
-    n, b1, b2 = map(int, input().split())
-    d = abs(b1-b2)
-
-    m = max(b1, b2)
-    m1 = min(b1, b2)
-    s = (n-4)**2
-
-    if (d == 1 or (m == n and m1 == 1)):
-        print(s)
-    elif (d == 2 or (m == n-1 and m1 == 1) or (m == n and m1 == 2)):
-        print(s-(n-5))
-    elif (n >= 6):
-        print(s-(n-6))
-    else:
-        print(s)
+t = int(input())
+for _ in range(t):
+    n, b1, b2 = map(int, input().strip().split())
+    x = abs(b1 - b2) - 1
+    y = n - x - 2
+    ans = 0
+    if x >= 2:
+        ans += (x - 1) * y
+        if x >= 3:
+            ans += x - 2
+            ans += (x - 2) * (x - 3)
+    if y >= 2:
+        ans += (y - 1) * x
+        ans += y - 2
+        ans += (y - 2) * (y - 3)
+    print(ans)
