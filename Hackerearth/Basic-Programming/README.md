@@ -60,3 +60,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#23** | [`Robotic moves`](./Implementation/Robotic-Moves/README.md)                                       |
 | **#24** | [`Mathematically beautiful numbers`](./Implementation/Mathematically-Beautiful-Numbers/README.md) |
 | **#25** | [`Multiple occurrences`](./Implementation/Multiple-Occurrences/README.md)                         |
+| **#26** | [`A beauty factor`](./Implementation/A-Beauty-Factor/README.md)                                   |

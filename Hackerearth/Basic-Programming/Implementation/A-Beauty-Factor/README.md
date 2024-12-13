@@ -1,4 +1,4 @@
-# A Beauty Factor
+# [A Beauty Factor][link]
 
 You are given a positive integer n. The beauty factor of a number is the sum of digits obtained till the obtained sum is a single digit.
 
@@ -18,3 +18,5 @@ Here, the length of a number is defined as the number of digits a number has.
 ## Output format
 
 Print the minimum number of length k whose beauty factor is b. If no such number is possible to make the beauty factor b with length k, then print -1.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/beauty-factor-bab8f334/
