@@ -1,11 +1,14 @@
-import math
+from itertools import product
+from math import prod
 
 n = int(input())
 count = 0
-
-for j in range(2, 1000000):
-    i = str(j)
-    if '1' not in i and '0' not in i and (n == math.prod([int(x) for x in i])):
-        count += 1
-
+d = []
+for i in range(2, 10):
+    if not n % i:
+        d.append(i)
+for i in range(1, 7):
+    for j in product(d, repeat=i):
+        if prod(list(j)) == n:
+            count += 1
 print(count)
