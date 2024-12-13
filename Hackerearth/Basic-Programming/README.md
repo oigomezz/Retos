@@ -61,3 +61,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#24** | [`Mathematically beautiful numbers`](./Implementation/Mathematically-Beautiful-Numbers/README.md) |
 | **#25** | [`Multiple occurrences`](./Implementation/Multiple-Occurrences/README.md)                         |
 | **#26** | [`A beauty factor`](./Implementation/A-Beauty-Factor/README.md)                                   |
+| **#27** | [`Anti-palindrome strings`](./Implementation/Anti-Palindrome-Strings/README.md)                   |

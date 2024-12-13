@@ -1,11 +1,7 @@
-T = int(input())
-
-for _ in range(T):
-    s = input()
-    if s == s[::-1]:
-        print("-1")
+t = int(input())
+for _ in range(t):
+    s = input().strip()
+    if s[::-1] == s:
+        print(-1)
     else:
-        s = list(s)
-        s = sorted(s)
-        temp = ("".join(s))
-        print(temp)
+        print(''.join(sorted(s)))
