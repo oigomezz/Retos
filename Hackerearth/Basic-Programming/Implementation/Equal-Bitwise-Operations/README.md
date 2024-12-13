@@ -1,4 +1,4 @@
-# Equal Bitwise Operations
+# [Equal Bitwise Operations][link]
 
 A sequence of integers is said to be beautiful if the bitwise AND, OR, and XOR of its elements are pairwise equal to each other.
 
@@ -12,3 +12,5 @@ You are given a sequence A of size N. Find the number of non-empty subsequences 
 ## Output format
 
 In a single line, print the number of non-empty subsequences of A that are beautiful.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/equal-bitwise-operations-33fa5acd/
