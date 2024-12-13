@@ -1,4 +1,4 @@
-# Count the Submatrices
+# [Count the Submatrices][link]
 
 A matrix of size M x N where M and N are integers that denote the number of rows and columns of the matrix respectively. The matrix contains integer elements only. You are given an integer P.
 
@@ -12,3 +12,5 @@ Write a program to determine the number of submatrices of this matrix such that 
 ## Output format
 
 Print the number of submatrices such that the sum of all the elements in those submatrices is divisible by P.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/magic-rectangles-646e0051/
