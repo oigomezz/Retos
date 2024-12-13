@@ -1,4 +1,4 @@
-# Finding Vaccines
+# [Finding Vaccines][link]
 
 You are creating a vaccine to fight against a worldwide novel pandemic virus. A vaccine contains a weakened virus that is injected inside people to produce antibodies to let it fight against the virus. The study of interaction among RNA of various viruses is quite necessary for this. An RNA consists of four types of molecules Guanine (G), Adenine (A), Cytosine (C), and Uracil (U).
 
@@ -26,3 +26,5 @@ You must find the best available vaccine.
 Print a single integer k if the kth vaccine is the best, that is, it has the maximum interaction with pandemic virus RNA, where 1 <= k <= n obviously holds.
 
 If there are more than one answers possible (in case of two or more have the maximum interaction value), then print the smallest answer possible.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-the-vaccine-a60e06ee/
