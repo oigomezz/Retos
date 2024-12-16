@@ -79,3 +79,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#42** | [`Set numbers`](./Implementation/Set-Numbers/README.md)                                           |
 | **#43** | [`Fitting circles`](./Implementation/Fitting-Circles/README.md)                                   |
 | **#44** | [`Case conversion`](./Implementation/Case-Conversion/README.md)                                   |
+| **#45** | [`Teachers and students`](./Implementation/Teachers-and-Students/README.md)                       |
