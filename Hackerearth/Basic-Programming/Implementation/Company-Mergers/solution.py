@@ -1,7 +1,5 @@
 from collections import Counter
-
 import numpy as np
-
 
 n = int(input())
 m = int(input())

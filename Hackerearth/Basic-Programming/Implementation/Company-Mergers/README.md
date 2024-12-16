@@ -1,4 +1,4 @@
-# Company Mergers
+# [Company Mergers][link]
 
 Several car companies exist in such a way that each company can control a large share of sales in different markets. You are required to perform a simulation that modifies the results after any mergers that happen between these companies.
 
@@ -15,3 +15,5 @@ Your task is to determine the minimum number of mergers that must be performed b
 ## Output format
 
 Print an integer denoting the minimum number of mergers.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/car-company-merger-125475cc/
