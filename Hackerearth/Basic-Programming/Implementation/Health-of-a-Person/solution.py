@@ -1,6 +1,5 @@
-T = int(input())
-
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     n, m = map(int, input().split())
     health_points = list(map(int, input().split()))
     reduction = [-1] * n
