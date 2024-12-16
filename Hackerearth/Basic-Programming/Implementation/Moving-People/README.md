@@ -1,4 +1,4 @@
-# Moving People
+# [Moving People][link]
 
 The people of your city are living in a N x M grid. If a person is out of the grid after multiple instructions, then that person is not counted in further steps.
 
@@ -17,3 +17,5 @@ Initially, there is at most one person in every cell of this grid. You can perfo
 ## Output format
 
 For each 2nd type of query, print the number of persons that are available in the grid at the time of that query.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mind-flayer-returns-68bb7306/
