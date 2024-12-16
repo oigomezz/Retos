@@ -1,4 +1,4 @@
-# Case Conversion
+# [Case Conversion][link]
 
 You are given a string S in the camel case format. Your task is to convert this string into the snake case format.
 
@@ -24,3 +24,5 @@ Examples of the snake case strings are as follows:
 ## Output format
 
 For each test case, print the snake case format of the given camel case in the string S in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/

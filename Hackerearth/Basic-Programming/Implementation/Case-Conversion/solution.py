@@ -9,8 +9,8 @@ def case_conversion(s):
     return ''.join(a)
 
 
-T = int(input())
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     s = input()
     out_ = case_conversion(s)
     print(out_)
