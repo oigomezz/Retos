@@ -1,12 +1,9 @@
-T = int(input())
-
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     n = int(input())
-    t = s = 1
-    while s <= n:
-        t = t*2
-        if s+t > n:
-            break
-        else:
-            s = s+t
-    print(s)
+    m = bin(n)[2:]
+    if not m.count('0'):
+        print(n)
+    else:
+        k = len(m)
+        print(2 ** (k - 1) - 1)

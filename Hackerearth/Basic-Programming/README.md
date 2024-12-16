@@ -76,3 +76,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#39** | [`Count the Submatrices`](./Implementation/Count-the-Submatrices/README.md)                       |
 | **#40** | [`Interest degree of vertices`](./Implementation/Interest-Degree-of-Vertices/README.md)           |
 | **#41** | [`Distribute chocolates`](./Implementation/Distribute-Chocolates/README.md)                       |
+| **#42** | [`Set numbers`](./Implementation/Zoos/README.md)                               |
