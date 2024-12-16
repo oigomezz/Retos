@@ -1,4 +1,4 @@
-# Fitting Circles
+# [Fitting Circles][link]
 
 You are given a rectangle of length a and width b. You are required to determine a circle that contains the maximum circumference that fits inside the rectangle. This type of circle is called a big circle. Your task is to determine the maximum number of big circles that can fit inside the rectangle.
 
@@ -10,3 +10,5 @@ You are given a rectangle of length a and width b. You are required to determine
 ## Output format
 
 For each test case, print the answer on a new line denoting the maximum number of big circles that can fit in the provided rectangle.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/
