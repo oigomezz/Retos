@@ -1,4 +1,4 @@
-# The Chocolate Rooms
+# [The Chocolate Rooms][link]
 
 Your task is to take some chocolates from N different rooms. Each room contains Pi number of chocolates of the same or different brands. You are given an integer K.
 
@@ -14,3 +14,5 @@ Write a program to determine whether you can visit each room and find K differen
 ## Output format
 
 For each test case, print Yes or No depending upon the result.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/milly-and-chocolates-ii-65198198/

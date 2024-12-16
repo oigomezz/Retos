@@ -83,3 +83,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#46** | [`Color the boxes`](./Implementation/Color-the-Boxes/README.md)                                   |
 | **#47** | [`Moving people`](./Implementation/Moving-People/README.md)                                       |
 | **#48** | [`Health of a person`](./Implementation/Health-of-a-Person/README.md)                             |
+| **#49** | [`The chocolate rooms`](./Implementation/The-Chocolate-Rooms/README.md)                           |
