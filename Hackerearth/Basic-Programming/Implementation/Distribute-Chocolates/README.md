@@ -1,4 +1,4 @@
-# Distribute Chocolates
+# [Distribute Chocolates][link]
 
 You have c number of chocolates that you want to distribute between your n students. The intelligence level of the students is not the same, therefore, you decide to distribute the chocolates in such a way that a smarter student gets strictly more chocolates than the ones who are less smarter.
 
@@ -15,3 +15,5 @@ It is mandatory to give chocolates to everyone if it is possible to do so. In ot
 ## Output format
 
 For each test case, print the minimum number of chocolates left in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/distribute-chocolates-70c2c2ab/

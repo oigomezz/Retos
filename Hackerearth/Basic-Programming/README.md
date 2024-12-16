@@ -75,3 +75,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#38** | [`Rain sound`](./Implementation/Rain-Sound/README.md)                                             |
 | **#39** | [`Count the Submatrices`](./Implementation/Count-the-Submatrices/README.md)                       |
 | **#40** | [`Interest degree of vertices`](./Implementation/Interest-Degree-of-Vertices/README.md)           |
+| **#41** | [`Distribute chocolates`](./Implementation/Distribute-Chocolates/README.md)                       |
