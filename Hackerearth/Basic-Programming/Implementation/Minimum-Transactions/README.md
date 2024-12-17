@@ -1,4 +1,4 @@
-# Minimum Transactions
+# [Minimum Transactions][link]
 
 There are n people living in a neighborhood. When in debt, neighbors borrow money from each other to clear their debts. A neighbor has already borrowed money from another neighbor for m times to clear a debt.
 
@@ -14,3 +14,5 @@ You are required to minimize the sum of the transaction amount.
 ## Output format
 
 Print only one integer that represents the minimum sum of the transaction amount.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/debts-429c5441/
