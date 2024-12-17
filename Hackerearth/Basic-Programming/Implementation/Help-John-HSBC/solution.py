@@ -1,17 +1,17 @@
+from bisect import bisect
+
 n = int(input())
-v = set()
-for _ in range(n):
-    X = int(input())
-    v.add(X)
-
-    it = [x for x in sorted(v) if X > x]
-    if len(it) == 0:
-        print(-1, end=" ")
+bag = [int(input())]
+print(-1, -1)
+for _ in range(n - 1):
+    x = int(input())
+    if x > bag[-1]:
+        print(bag[-1], -1)
+        bag.append(x)
+    elif x < bag[0]:
+        print(-1, bag[0])
+        bag.insert(0, x)
     else:
-        print(it[-1], end=" ")
-
-    it2 = [x for x in sorted(v) if x > X]
-    if len(it2) == 0:
-        print(-1)
-    else:
-        print(it2[0])
+        i = bisect(bag, x)
+        print(bag[i - 1], bag[i])
+        bag.insert(i, x)

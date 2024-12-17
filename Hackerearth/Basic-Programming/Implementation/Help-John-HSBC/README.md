@@ -1,4 +1,4 @@
-# Help John < HSBC >
+# [Help John < HSBC >][link]
 
 You are required to collect N numbers from a bag. Initially, the bag is empty. Whenever you put a number X in the bag, then the owner of the bag asks the question.
 
@@ -17,3 +17,5 @@ If you answer both the questions correctly, then you can put X inside the bag. Y
 ## Output format
 
 For every integer X, print the answers of the questions, in the form of space-separated integers, that are asked by the owner of the bag. If no such numbers exist in the bag, then print -1.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/not-decided-1ca0c947/
