@@ -94,3 +94,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#57** | [`Minimum transactions`](./Implementation/Minimum-Transactions/README.md)                         |
 | **#58** | [`Capitals and cities`](./Implementation/Capitals-and-Cities/README.md)                           |
 | **#59** | [`Deleting Numbers`](./Implementation/Deleting-Numbers/README.md)                                 |
+| **#60** | [`An equilateral triangle`](./Implementation/An-Equilateral-Triangle/README.md)                   |
