@@ -91,4 +91,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#54** | [`Tic-Tac-Toe`](./Implementation/Tic-Tac-Toe/README.md)                                           |
 | **#55** | [`Top contestants`](./Implementation/Top-Contestants/README.md)                                   |
 | **#56** | [`Help John`](./Implementation/Help-John-HSBC/README.md)                                          |
-| **#11** | [`Minimum transactions`](./Implementation/Minimum-Transactions/README.md)                         |
+| **#57** | [`Minimum transactions`](./Implementation/Minimum-Transactions/README.md)                         |
+| **#58** | [`Capitals and cities`](./Implementation/Capitals-and-Cities/README.md)                           |
