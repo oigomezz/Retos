@@ -87,3 +87,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#50** | [`Company mergers`](./Implementation/Company-Mergers/README.md)                                   |
 | **#51** | [`Chocolate distribution`](./Implementation/Chocolate-Distribution/README.md)                     |
 | **#52** | [`Super balanced bracket`](./Implementation/Super-Balanced-Bracket/README.md)                     |
+| **#53** | [`Notes and coins`](./Implementation/Notes-and-Coins/README.md)                                   |

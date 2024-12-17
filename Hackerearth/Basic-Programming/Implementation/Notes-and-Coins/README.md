@@ -1,4 +1,4 @@
-# Notes and Coins
+# [Notes and Coins][link]
 
 You are given M number of coins and P number of notes.
 
@@ -13,3 +13,5 @@ Write a program to separate the two forms of money without creating two separate
 
 - Print the string Coins : followed by M lines, each of which contains an integer denoting the denominations of the coins.
 - Print the string Notes : followed by P lines, each of which contains an integer denoting the denominations of the notes.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fla06-1-81b4419c/
