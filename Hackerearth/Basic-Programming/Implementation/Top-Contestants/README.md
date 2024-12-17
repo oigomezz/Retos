@@ -1,4 +1,4 @@
-# Top Contestants
+# [Top Contestants][link]
 
 You are given that N candidates participated in a contest. For each candidate, you are given Ai, representing the points scored by the ith candidate in the contest. You have to print the indexes of the top K candidates of the contest.
 
@@ -10,3 +10,5 @@ You are given that N candidates participated in a contest. For each candidate, y
 ## Output format
 
 Print K space-separated integers, denoting the indexes of the top K candidates.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/epiphany-coming-soon-43c4af4b/

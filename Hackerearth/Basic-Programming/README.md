@@ -89,3 +89,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#52** | [`Super balanced bracket`](./Implementation/Super-Balanced-Bracket/README.md)                     |
 | **#53** | [`Notes and coins`](./Implementation/Notes-and-Coins/README.md)                                   |
 | **#54** | [`Tic-Tac-Toe`](./Implementation/Tic-Tac-Toe/README.md)                                           |
+| **#55** | [`Top contestants`](./Implementation/Top-Contestants/README.md)                                   |
