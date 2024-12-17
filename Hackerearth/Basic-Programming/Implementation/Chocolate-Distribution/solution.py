@@ -1,8 +1,7 @@
-T = int(input())
-
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     n, m = map(int, input().split())
-    a = list(map(int, input().split()))
+    chocolates = list(map(int, input().split()))
 
     mp = {0: -1}
     prefix = [0] * n
@@ -10,7 +9,7 @@ for _ in range(T):
     max_val = 0
 
     for i in range(n):
-        sum_val += a[i]
+        sum_val += chocolates[i]
         prefix[i] = sum_val
         if sum_val % m not in mp:
             mp[sum_val % m] = i

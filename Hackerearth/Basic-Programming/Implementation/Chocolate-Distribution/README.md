@@ -1,4 +1,4 @@
-# Chocolate Distribution
+# [Chocolate Distribution][link]
 
 There are N people standing in a row with some counti (1 <= i <= N) number of chocolates in their hands. You have to select a range of people and take all their chocolates with the condition that you should be able to distribute those chocolates equally among M boxes.
 
@@ -13,3 +13,5 @@ Write a program to determine the maximum number of chocolates that can be placed
 ## Output format
 
 For each test case, print the maximum number of chocolates that can be placed in a box.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolate-distribution-709f61ec/
