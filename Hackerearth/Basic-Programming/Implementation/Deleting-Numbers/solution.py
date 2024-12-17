@@ -1,10 +1,4 @@
-n, k = map(int, input().split())
-A = [0]+[int(x) for x in input().split()]
-
-N = n-k
-Middle = (N+1)//2
-End = Middle+k
-
-a = A[Middle:End+1]
-
-print(max(a))
+n, k = map(int, input().strip().split())
+a = list(map(int, input().strip().split()))
+mid = ((n - k + 1) // 2) - 1
+print(max(a[mid:mid + k + 1]))
