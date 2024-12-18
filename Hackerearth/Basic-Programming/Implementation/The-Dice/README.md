@@ -1,4 +1,4 @@
-# The Dice
+# [The Dice][link]
 
 There are x number of girls and they rolled a dice in turns one after another.
 
@@ -14,3 +14,5 @@ A single line that contains a string s (1 <= s <= 10^5) denoting the sequence of
 
 - If the sequence is valid print the number of girls
 - If the sequence is invalid print -1
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-dice-d4dc5b11/
