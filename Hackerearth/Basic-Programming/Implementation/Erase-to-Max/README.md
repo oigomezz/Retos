@@ -1,4 +1,4 @@
-# Erase to Max
+# [Erase to Max][link]
 
 You are given an array A of size N. You have to select any value 'x' from A and remove its all occurrences. You need to perform this operation exactly once.
 
@@ -14,3 +14,5 @@ You need to obtain the maximum possible final sum of A.
 ## Output format
 
 Print the maximum possible sum of A after performing the operation exactly once.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/erase-to-max-7b8c0ca3/

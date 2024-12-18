@@ -101,3 +101,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#64** | [`Lexicographic Rows`](./Implementation/Lexicographic-Rows/README.md)                             |
 | **#65** | [`Array Game`](./Implementation/Array-Game/README.md)                                             |
 | **#66** | [`Pile of Coins`](./Implementation/Pile-of-Coins/README.md)                                       |
+| **#67** | [`Erase to max`](./Implementation/Erase-to-Max/README.md)                                         |
