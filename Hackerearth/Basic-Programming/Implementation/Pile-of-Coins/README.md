@@ -1,4 +1,4 @@
-# Pile of Coins
+# [Pile of Coins][link]
 
 Ashish and Jeel are playing a game. They are given two piles of coins with P and Q coins respectively. They take alterate turns. During each turn, the player can choose one pile and split it into two non-zero parts and discard the other pile that is not choosen. The discarded pile cannot be used further in the game. A player loses if he cannot make a move. Both the players play the game optimally.
 You are given P and Q. Determine who wins the game if Ashish plays first.
@@ -11,3 +11,5 @@ You are given P and Q. Determine who wins the game if Ashish plays first.
 ## Output format
 
 For each test case, print one number denoting the number of rooms to be booked at the hotel.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pile-of-coins-d33de897/
