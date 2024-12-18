@@ -12,8 +12,8 @@ def solve(a, u, n):
     return ans
 
 
-T = int(input())
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     N = int(input())
     U = list(map(int, input().split()))
     A = list(map(int, input().split()))

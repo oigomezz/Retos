@@ -1,4 +1,4 @@
-# Uniqueness Violation
+# [Uniqueness Violation][link]
 
 You are given with an integer N. You are provided with an array of exactly N integers denoted by Ai. Also, you are provided with the uniqueness value for each array element and is denoted as Ui. Your task is to pick the array elements in such a way that no two adjacent array elements picked have the same value of uniqueness and the sum of values picked is maximum.
 
@@ -13,3 +13,5 @@ You are given with an integer N. You are provided with an array of exactly N int
 ## Output format
 
 Print a single integer corresponding to each test case denoting the maximum possible sum of values that are selected.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/uniqueness-violation-b78b51ee/
