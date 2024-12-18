@@ -96,3 +96,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#59** | [`Deleting Numbers`](./Implementation/Deleting-Numbers/README.md)                                 |
 | **#60** | [`An equilateral triangle`](./Implementation/An-Equilateral-Triangle/README.md)                   |
 | **#61** | [`The Dice`](./Implementation/The-Dice/README.md)                                                 |
+| **#62** | [`One String No Trouble`](./Implementation/One-String-No-Trouble/README.md)                       |
