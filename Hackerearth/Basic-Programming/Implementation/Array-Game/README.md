@@ -1,4 +1,4 @@
-# Array Game
+# [Array Game][link]
 
 Ashish and Jeel are playing a game. They are given a multiset of arrays (initially only one array is present).
 A player has to make the following move in their turn:
@@ -24,3 +24,5 @@ A player loses if he cannot make a move. Both the players play the game optimall
 
 For each test case, print the winner of the game "Jeel" or "Ashish" (without quotes).
 Answer for each test case should come in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-game-1-3bdd5d12/

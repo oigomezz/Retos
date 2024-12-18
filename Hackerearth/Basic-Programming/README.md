@@ -99,3 +99,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#62** | [`One String No Trouble`](./Implementation/One-String-No-Trouble/README.md)                       |
 | **#63** | [`String Restoration`](./Implementation/String-Restoration/README.md)                             |
 | **#64** | [`Lexicographic Rows`](./Implementation/Lexicographic-Rows/README.md)                             |
+| **#65** | [`Array Game`](./Implementation/Array-Game/README.md)                                             |
