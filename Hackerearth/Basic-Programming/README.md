@@ -103,3 +103,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#66** | [`Pile of Coins`](./Implementation/Pile-of-Coins/README.md)                                       |
 | **#67** | [`Erase to max`](./Implementation/Erase-to-Max/README.md)                                         |
 | **#68** | [`Uniqueness violation`](./Implementation/Uniqueness-Violation/README.md)                         |
+| **#69** | [`Swapping positions`](./Implementation/Swapping-Positions/README.md)                             |
