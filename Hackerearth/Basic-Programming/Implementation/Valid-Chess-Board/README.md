@@ -1,4 +1,4 @@
-# Valid Chess Board
+# [Valid Chess Board][link]
 
 You are given a tiled chart paper of N rows and M columns. There are a total of N x M tiles in it. Each tile is colored either black or white. Now, you need to count how many ways are there to cut valid chessboards of size 8 x 8 out of this chart paper.
 
@@ -15,3 +15,5 @@ Notes
 ## Output format
 
 In the output, you need to print an integer that denotes the required count as stated in the problem statement.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/valid-chess-board-028343ac/

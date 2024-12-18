@@ -104,3 +104,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#67** | [`Erase to max`](./Implementation/Erase-to-Max/README.md)                                         |
 | **#68** | [`Uniqueness violation`](./Implementation/Uniqueness-Violation/README.md)                         |
 | **#69** | [`Swapping positions`](./Implementation/Swapping-Positions/README.md)                             |
+| **#70** | [`Valid Chess Board`](./Implementation/Valid-Chess-Board/README.md)                               |
