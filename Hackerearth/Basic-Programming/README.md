@@ -110,3 +110,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#73** | [`Addition Errors`](./Implementation/Addition-Errors/README.md)                                   |
 | **#74** | [`Ratio`](./Implementation/Ratio/README.md)                                                       |
 | **#75** | [`Compress the String`](./Implementation/Compress-the-String/README.md)                           |
+| **#76** | [`Total cost`](./Implementation/Total-Cost/README.md)                                             |

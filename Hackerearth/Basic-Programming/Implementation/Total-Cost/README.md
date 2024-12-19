@@ -1,4 +1,4 @@
-# Total Cost
+# [Total Cost][link]
 
 A family consists of x members. You are given the task to book flight tickets for these x members.
 You are given the following information about the airline in which you have to book the tickets:
@@ -14,8 +14,10 @@ Determine the total cost to book the tickets for all the family members.
 
 ## Input format
 
-First line: Five space-separated integers P,S,T,H and x respectively.
+- First line: Five space-separated integers P,S,T,H and x respectively.
 
 ## Output format
 
 Print the total cost to book the tickets for all the members of the family.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/
