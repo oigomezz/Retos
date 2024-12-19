@@ -1,4 +1,4 @@
-# Ratio
+# [Ratio][link]
 
 There are 2 types of chocolates in Chocoland denoted by A and B.
 
@@ -14,3 +14,5 @@ Therefore you have to find the maximum number of friends that can be satisfied.
 ## Output format
 
 For each test case, output a single line containing the maximum number of friends that can be satisfied.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/ratio-d0549bb2/

@@ -108,3 +108,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#71** | [`Binary associativity`](./Implementation/Binary-Associativity/README.md)                         |
 | **#72** | [`String Clash`](./Implementation/String-Clash/README.md)                                         |
 | **#73** | [`Addition Errors`](./Implementation/Addition-Errors/README.md)                                   |
+| **#74** | [`Ratio`](./Implementation/Ratio/README.md)                                                       |
