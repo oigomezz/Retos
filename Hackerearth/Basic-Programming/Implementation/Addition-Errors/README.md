@@ -1,4 +1,4 @@
-# Addition Errors
+# [Addition Errors][link]
 
 Bob is a noob mathematician and he is not very comfortable with addition of numbers.He is unaware of the concept of carry that the addition of 2 numbers possess.He everytime forgets to take a carry while performing addition.
 
@@ -16,3 +16,5 @@ Error is defined as the absolute difference between Bob's answer and the actual 
 ## Output format
 
 For each testcase print the error value in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/addition-errors-68e27044/
