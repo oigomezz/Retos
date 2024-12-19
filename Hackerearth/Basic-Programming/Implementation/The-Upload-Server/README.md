@@ -1,4 +1,4 @@
-# The Upload Server
+# [The Upload Server][link]
 
 A new website to host video and music is built up by the company X. The engineers at X are facing a major issue in identifying whether the data they receive in one of their API is of video or music.
 
@@ -22,3 +22,5 @@ For each line of data, if it satisfies the constraints of a music then print M, 
 ## Output format
 
 For each data, you need to print either of the three characters N, V or M.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-upload-server-15bac95e/

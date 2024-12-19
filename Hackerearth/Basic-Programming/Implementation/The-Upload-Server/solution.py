@@ -1,30 +1,20 @@
-def is_name(name):
-    flag = 0
-    for digit in name:
-        if digit.isalpha():
-            flag = 1
-            break
-    return flag
-
-
-t = int(input())
-while t > 0:
-    arr = input().split()
-    fg = 0
-    if len(arr) == 3:
-        x, y, z = arr[0], arr[1], arr[2]
-        if (x.isdigit() and x[0] != '0' and y.isdigit() and y[0] != '0' and is_name(z)) or (x.isdigit() and x[0] != '0' and z.isdigit() and z[0] != '0' and is_name(y)) or (y.isdigit() and y[0] != '0' and z.isdigit() and z[0] != '0' and is_name(x)):
-            fg = 1
-    elif len(arr) == 2:
-        x, y = arr[0], arr[1]
-        if (x.isdigit() and x[0] != '0' and not y.isdigit()) or (y.isdigit() and y[0] != '0' and not x.isdigit()):
-            fg = 2
-
-    if fg == 1:
-        print('V')
-    elif fg == 2:
+n = int(input())
+for _ in range(n):
+    strings = input().strip().split()
+    ln = len(strings)
+    names = integers = 0
+    for string in strings:
+        flag = False
+        for c in string:
+            if c.isalpha():
+                names += 1
+                break
+        else:
+            if string[0] != '0':
+                integers += 1
+    if ln == 2 and names == integers == 1:
         print('M')
+    elif ln == 3 and names == 1 and integers == 2:
+        print('V')
     else:
         print('N')
-
-    t -= 1

@@ -111,3 +111,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#74** | [`Ratio`](./Implementation/Ratio/README.md)                                                       |
 | **#75** | [`Compress the String`](./Implementation/Compress-the-String/README.md)                           |
 | **#76** | [`Total cost`](./Implementation/Total-Cost/README.md)                                             |
+| **#77** | [`The Upload Server`](./Implementation/The-Upload-Server/README.md)                               |
