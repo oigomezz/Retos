@@ -1,4 +1,4 @@
-# New Language
+# [New Language][link]
 
 A new mathematical language (let's call it Ninja) is discovered, in which 8 is completely missing.
 
@@ -22,3 +22,5 @@ For division operation, you have to answer integer division.
 ## Output format
 
 For each test case, print the output of operation in Ninja.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/new-language-8c0781c4/

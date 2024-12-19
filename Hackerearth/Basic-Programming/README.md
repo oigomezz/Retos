@@ -114,3 +114,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#77** | [`The Upload Server`](./Implementation/The-Upload-Server/README.md)                               |
 | **#78** | [`Challenging Track`](./Implementation/Challenging-Track/README.md)                               |
 | **#79** | [`City Travel`](./Implementation/City-Travel/README.md)                                           |
+| **#80** | [`New Language`](./Implementation/New-Language/README.md)                                         |
