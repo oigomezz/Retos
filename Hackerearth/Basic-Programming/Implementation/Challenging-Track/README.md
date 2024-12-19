@@ -1,4 +1,4 @@
-# Challenging Track
+# [Challenging Track][link]
 
 Alice and Bob saw a challenging track which consists of N hurdles of variable heights Hi. Now, Bob challenges Alice to complete this track with a given amount of jump power P.
 
@@ -21,3 +21,5 @@ If P < 0 at any moment, Alice cannot move further. Find out if Alice can complet
 ## Output format
 
 For each test case, if it is possible for Alice to complete the challenge, print Yes and the remaining value of jump power P or No if it is not possible.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/challenging-track-0d6a36ad/
