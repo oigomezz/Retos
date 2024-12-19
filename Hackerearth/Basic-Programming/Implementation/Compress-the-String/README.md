@@ -1,4 +1,4 @@
-# Compress the String
+# [Compress the String][link]
 
 Given a string S of lowercase english alphabets of length N. You need to compress the string with the following rules:
 
@@ -17,3 +17,5 @@ Given a string S of lowercase english alphabets of length N. You need to compres
 ## Output format
 
 For each test case print the compressed string according to the above-mentioned rules.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/compress-the-string-capillary-82bf96a4/
