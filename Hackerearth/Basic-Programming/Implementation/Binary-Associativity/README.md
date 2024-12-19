@@ -1,4 +1,4 @@
-# Binary Associativity
+# [Binary Associativity][link]
 
 A binary operation \* on a set S is called associative if it satisfies the associative law:
 
@@ -15,3 +15,5 @@ For the binary set S = {0,1} and a particular binary operator \*, you are given 
 ## Output format
 
 For each test case, print 'Yes' (without quotes) in a new line if the binary operation is associative in nature. Otherwise, print 'No' (without quotes).
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/binary-associativity-fc8ca73f/

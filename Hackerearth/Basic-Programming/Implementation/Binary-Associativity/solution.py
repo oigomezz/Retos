@@ -1,8 +1,7 @@
 a = ["0 1 1 0", "0 1 1 1", "0 0 0 1", "1 1 1 1",
      "0 0 1 1", "0 0 0 0", "0 1 0 1", "1 0 0 1"]
-T = int(input())
-
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     s = input()
     if s in a:
         print("Yes")
