@@ -1,4 +1,4 @@
-# City Travel
+# [City Travel][link]
 
 You are going from City A to City B. The distance between A and B is S km. In the most days, you can go at most X km one day. But there are N exceptions, in the Tith day, you can go at most Yi km. You need to find out the minimum number of days required to reach city B from city A.
 
@@ -11,3 +11,5 @@ You are going from City A to City B. The distance between A and B is S km. In th
 ## Output format
 
 One integer represents the answer.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-travel-59bad87f/
