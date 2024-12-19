@@ -106,3 +106,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#69** | [`Swapping positions`](./Implementation/Swapping-Positions/README.md)                             |
 | **#70** | [`Valid Chess Board`](./Implementation/Valid-Chess-Board/README.md)                               |
 | **#71** | [`Binary associativity`](./Implementation/Binary-Associativity/README.md)                         |
+| **#72** | [`String Clash`](./Implementation/String-Clash/README.md)                                         |
