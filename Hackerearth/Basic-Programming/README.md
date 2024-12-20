@@ -118,3 +118,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#81** | [`Vegetable Market`](./Implementation/Vegetable-Market/README.md)                                 |
 | **#82** | [`The Alphabet Chocolate`](./Implementation/The-Alphabet-Chocolate/README.md)                     |
 | **#83** | [`Kth Character`](./Implementation/Kth-Character/README.md)                                       |
+| **#84** | [`Equal Median`](./Implementation/Equal-Median/README.md)                                         |
