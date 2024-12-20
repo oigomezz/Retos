@@ -117,3 +117,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#80** | [`New Language`](./Implementation/New-Language/README.md)                                         |
 | **#81** | [`Vegetable Market`](./Implementation/Vegetable-Market/README.md)                                 |
 | **#82** | [`The Alphabet Chocolate`](./Implementation/The-Alphabet-Chocolate/README.md)                     |
+| **#83** | [`Kth Character`](./Implementation/Kth-Character/README.md)                                       |

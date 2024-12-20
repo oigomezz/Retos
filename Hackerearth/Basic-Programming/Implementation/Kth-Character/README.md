@@ -1,4 +1,4 @@
-# Kth Character
+# [Kth Character][link]
 
 You are given a string S of lowercase alphabets. Now you need to remove all the instances of exactly one type of character such that the new string that is formed is lexicographically smallest across all the other strings that can be formed in a similar way.
 
@@ -20,3 +20,5 @@ First line contains a string S as input.
 ## Output format
 
 Print the lexicographically smallest string that can be formed using the process above.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/kth-character-60eed906/
