@@ -1,4 +1,4 @@
-# Leaderboard Standings
+# [Leaderboard Standings][link]
 
 There were N submissions made in a programming contest containing infinite problems. Each submission earned the contestant 100 points as none of the submissions is a wrong or a partial submission. You are given the details of the submissions - the username of the contestant and the time taken to solve the problem. Your task is to print the rank list according to the following rules:
 
@@ -17,3 +17,5 @@ Each of the N lines contains a string Ci, the username of the contestant corresp
 ## Output format
 
 Output the rank of the contestant and the username, in the increasing order of the ranks. Each rank should be displayed in a newline.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/leaderboard-standings-863c4cc2/

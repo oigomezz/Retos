@@ -119,3 +119,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#82** | [`The Alphabet Chocolate`](./Implementation/The-Alphabet-Chocolate/README.md)                     |
 | **#83** | [`Kth Character`](./Implementation/Kth-Character/README.md)                                       |
 | **#84** | [`Equal Median`](./Implementation/Equal-Median/README.md)                                         |
+| **#85** | [`Leaderboard Standings`](./Implementation/Leaderboard-Standings/README.md)                       |
