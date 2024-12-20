@@ -1,17 +1,16 @@
-from collections import defaultdict
-
-d = defaultdict(str)
-d['a'], d['e'], d['o'], d['i'], d['u'] = 'b', 'f', 'p', 'j', 'v'
-
+mapper = {'a': 'b', 'e': 'f', 'i': 'j', 'o': 'p', 'u': 'v'}
 t = int(input())
-while t > 0:
-    s = list(input())
-    n = int(input())
-    for i in range(len(s)):
-        if (n and d[s[i]]):
-            s[i] = d[s[i]]
-            n -= 1
-        elif (not n):
-            break
+for _ in range(t):
+    s = input().strip()
+    q = int(input())
+    if len(s) == 1 or q == 0:
+        print(s)
+        continue
+    s = list(s)
+    for i, c in enumerate(s):
+        if c in mapper:
+            s[i] = mapper[c]
+            q -= 1
+            if q == 0:
+                break
     print(''.join(s))
-    t -= 1

@@ -1,4 +1,4 @@
-# Greatest String
+# [Greatest String][link]
 
 You are given a string S and an integer Q. You are allowed to perform at most Q operations on the string. In one operation, you can change any vowel to it's next character (e.g., 'a'->'b', 'e'->'f', 'i'->'j', 'o'->'p', 'u'->'v'). Generate the lexicographically greatest string by performing at most Q operations on string S.
 
@@ -14,3 +14,5 @@ You are given a string S and an integer Q. You are allowed to perform at most Q 
 For each test case , print the lexicographically greatest string that can be formed after applying at most Q operations on the given string.
 
 Answer for each test case should come in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/greatest-string-fcf3e37c/
