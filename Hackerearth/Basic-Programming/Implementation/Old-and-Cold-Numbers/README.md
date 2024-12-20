@@ -1,4 +1,4 @@
-# Old and Cold Numbers
+# [Old and Cold Numbers][link]
 
 Let's define Old number as a number X, such that it is divisible by count of odd integers in the range 1 to X. If number does not hold this property, then such number is defined as Cold number.
 
@@ -22,3 +22,5 @@ Any subarray is said to be balanced if count of Old number(s) is not less than c
 For each task, print total number of steps needed to change the subarray such that subarray from L to R is balanced.
 
 Answer for each task should be printed in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/old-and-cold-numbers-d9326e6b/

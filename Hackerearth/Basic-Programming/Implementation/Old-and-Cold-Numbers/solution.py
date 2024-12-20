@@ -1,30 +1,23 @@
-t = int(input())
-while t > 0:
-    n = int(input())
-    old = [0] * (n + 1)
-    cold = [0] * (n + 1)
-    temp = list(map(int, input().split()))
-    for i in range(1, n + 1):
-        old[i] = old[i - 1]
-        cold[i] = cold[i - 1]
-        if temp[i-1] & 1:
-            if temp[i-1] == 1:
-                old[i] += 1
-            else:
-                cold[i] += 1
-        else:
-            old[i] += 1
+from itertools import accumulate
 
+
+def is_old(x):
+    x = int(x)
+    if x % sum(divmod(x, 2)):
+        return 0
+    return 1
+
+
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    a = list(accumulate([0] + list(map(is_old, input().strip().split()))))
     q = int(input())
-    for _ in range(q):
-        l, r = map(int, input().split())
-        o = old[r] - old[l - 1]
-        c = cold[r] - cold[l - 1]
-        tot = o - c
-        if tot < 0:
-            tot = -tot
-            print((tot + 1) // 2)
+    for tc in range(q):
+        l, r = map(int, input().strip().split())
+        o = a[r] - a[l - 1]
+        c = r - l + 1 - o
+        if c > o:
+            print((c - o + 1) // 2)
         else:
             print(0)
-
-    t -= 1

@@ -120,3 +120,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#83** | [`Kth Character`](./Implementation/Kth-Character/README.md)                                       |
 | **#84** | [`Equal Median`](./Implementation/Equal-Median/README.md)                                         |
 | **#85** | [`Leaderboard Standings`](./Implementation/Leaderboard-Standings/README.md)                       |
+| **#86** | [`Old and Cold Numbers`](./Implementation/Old-and-Cold-Numbers/README.md)                         |
