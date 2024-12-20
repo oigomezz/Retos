@@ -1,4 +1,4 @@
-# Perpendicular Lines
+# [Perpendicular Lines][link]
 
 Given 4 points of the form (xi, yi) in 2D plane, find out if the lines formed by (x1, y1), (x2, y2) and (x3, y3), (x4, y4) are perpendicular to each other.
 
@@ -17,3 +17,5 @@ For every test case:
 - print "YES" without quotes if the lines are perpendicular to each other
 - print "NO" without quotes if the lines are not perpendicular
 - print "INVALID" without quotes if there are less than 2 lines
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sam-in-trouble-2-131edb9c/

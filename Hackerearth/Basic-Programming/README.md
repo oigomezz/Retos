@@ -124,3 +124,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#87** | [`Fill the boxes`](./Implementation/Fill-the-Boxes/README.md)                                     |
 | **#88** | [`Greatest String`](./Implementation/Greatest-String/README.md)                                   |
 | **#89** | [`Palindromic grid`](./Implementation/Palindromic-Grid/README.md)                                 |
+| **#90** | [`Perpendicular Lines`](./Implementation/Perpendicular-Lines/README.md)                           |
