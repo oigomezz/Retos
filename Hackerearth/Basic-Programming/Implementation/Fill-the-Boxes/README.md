@@ -1,4 +1,4 @@
-# Fill the Boxes
+# [Fill the Boxes][link]
 
 You are given an array of size N, denoting capacity of N boxes, and an integer K, denoting extended capacity factor. You are also given the weights of M balls. Each ith box can accommodate exactly one ball having weight in range [capacityi, capacityi + K] (both inclusive). Find the maximum number of boxes that can be filled.
 
@@ -13,3 +13,5 @@ You are given an array of size N, denoting capacity of N boxes, and an integer K
 ## Output format
 
 For each test case, print the answer in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fill-the-boxes-922504c8/

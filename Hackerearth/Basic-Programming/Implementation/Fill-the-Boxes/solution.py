@@ -1,5 +1,5 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     n, m, k = list(map(int, input().split()))
     capacity = list(map(int, input().split()))
     weights = list(map(int, input().split()))
@@ -20,6 +20,4 @@ while t > 0:
             weights_count += 1
         else:
             capacity_count += 1
-
     print(count)
-    t -= 1

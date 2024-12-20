@@ -121,3 +121,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#84** | [`Equal Median`](./Implementation/Equal-Median/README.md)                                         |
 | **#85** | [`Leaderboard Standings`](./Implementation/Leaderboard-Standings/README.md)                       |
 | **#86** | [`Old and Cold Numbers`](./Implementation/Old-and-Cold-Numbers/README.md)                         |
+| **#87** | [`Fill the boxes`](./Implementation/Fill-the-Boxes/README.md)                                     |
