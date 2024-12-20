@@ -123,3 +123,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#86** | [`Old and Cold Numbers`](./Implementation/Old-and-Cold-Numbers/README.md)                         |
 | **#87** | [`Fill the boxes`](./Implementation/Fill-the-Boxes/README.md)                                     |
 | **#88** | [`Greatest String`](./Implementation/Greatest-String/README.md)                                   |
+| **#89** | [`Palindromic grid`](./Implementation/Palindromic-Grid/README.md)                                 |

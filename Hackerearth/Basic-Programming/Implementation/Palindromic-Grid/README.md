@@ -1,4 +1,4 @@
-# Palindromic Grid
+# [Palindromic Grid][link]
 
 You are given a 2-d grid of N rows and M columns containing lower case alphabets only. You need to check whether it is possible to rearrange the complete grid so that each row and column becomes palindromic.
 
@@ -11,3 +11,5 @@ You are given a 2-d grid of N rows and M columns containing lower case alphabets
 ## Output format
 
 Output YES if it is possible to rearrange the grid to make all the rows and columns palindromic. else output NO.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/palindromic-grid-e55f3027/
