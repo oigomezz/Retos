@@ -116,3 +116,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#79** | [`City Travel`](./Implementation/City-Travel/README.md)                                           |
 | **#80** | [`New Language`](./Implementation/New-Language/README.md)                                         |
 | **#81** | [`Vegetable Market`](./Implementation/Vegetable-Market/README.md)                                 |
+| **#82** | [`The Alphabet Chocolate`](./Implementation/The-Alphabet-Chocolate/README.md)                     |

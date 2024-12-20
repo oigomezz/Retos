@@ -1,4 +1,4 @@
-# The Alphabet Chocolate
+# [The Alphabet Chocolate][link]
 
 A long chocolate was given as a gift to Alice by Bob. The chocolate is a series of square tiles connected to each other in a straight line. Each chocolate piece contains an alphabet carved on it.
 
@@ -17,3 +17,5 @@ Since there are lots of ways for Alice to choose her chocolate part , find the s
 
 For each test case, print the value of taste sum as mentioned in the problem.
 Answer for each test case should be printed in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-vowels-1-1da7c4d0/

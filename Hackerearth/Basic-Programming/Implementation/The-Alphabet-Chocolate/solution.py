@@ -1,6 +1,10 @@
 t = int(input())
-while t > 0:
+vowels = 'aeiouAEIOU'
+for _ in range(t):
     s = input()
-    print(sum([(i+1)*(len(s)-i)
-          for i in range(len(s))if (s[i].lower() in "aeiou")]))
-    t -= 1
+    n = len(s)
+    ans = 0
+    for i, c in enumerate(s):
+        if c in vowels:
+            ans += (i + 1) * (n - i)
+    print(ans)
