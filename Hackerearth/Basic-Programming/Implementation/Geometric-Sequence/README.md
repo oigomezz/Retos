@@ -1,4 +1,4 @@
-# Geometric Sequence
+# [Geometric Sequence][link]
 
 Given a sequence a1,a2,...,an.
 You need to find a subsequence ab1,ab2,...,abm (b1 < b2 < ... < bm) and an integer k which satifies abi+1 = k abi for all 1 <= i <= m.
@@ -12,3 +12,5 @@ Your goal is to maximize m.
 ## Output format
 
 An integer representing the maximum value of m.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/geometric-sequence-39a5617d/
