@@ -1,4 +1,4 @@
-# Partitioning
+# [Partitioning][link]
 
 Given a binary string of length N(containing only 0's and 1's) and two integers C,P.
 
@@ -12,3 +12,5 @@ Put exactly 3 dividers in the string so that the integer between first and secon
 ## Output format
 
 In a single line, print the number of ways in which the 3 dividers can be put.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/partitioning-bd4c9574/
