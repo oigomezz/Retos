@@ -1,4 +1,4 @@
-# Cheapest Subarray
+# [Cheapest Subarray][link]
 
 Visuals can be deceptive, and so can be the titles of the contest, but not every time you'll be asked tough questions in an EASY contest.
 
@@ -15,3 +15,5 @@ A subarray is the sequence of consecutive elements of the array and the cost of 
 
 Print t lines each containing a single integer. ith integer denotes the cost of the cheapest subarray for the ith
 array.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/cheapest-subarray-d628cb65/

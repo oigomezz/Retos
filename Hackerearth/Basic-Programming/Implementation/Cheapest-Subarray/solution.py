@@ -1,13 +1,5 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     n = int(input())
-    arr = list(map(int, input().split()))
-    sum_ = sum(arr[:2])
-    minn = sum_
-
-    for i in range(2, n):
-        sum_ = sum_ + arr[i] - arr[i-2]
-        minn = min(minn, sum_)
-
-    print(minn)
-    t -= 1
+    a = tuple(map(int, input().strip().split()))
+    print(min(a[i] + a[i + 1] for i in range(n - 1)))
