@@ -1,4 +1,4 @@
-# Partial Digit Sequence
+# [Partial Digit Sequence][link]
 
 You are given an array A of length N. The partial digit subsequence of an array A is a subsequence of integers in which each consecutive integers have at least 1 digit in common. You are required to find the length of longest partial digit subsequence from the given array.
 
@@ -10,3 +10,5 @@ You are given an array A of length N. The partial digit subsequence of an array 
 ## Output format
 
 Print an integer representing the maximum length of the longest partial digit subsequence of the given array A.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/partial-digit-sequence-34fa8391/

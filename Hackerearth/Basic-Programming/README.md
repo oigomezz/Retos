@@ -125,4 +125,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#88** | [`Greatest String`](./Implementation/Greatest-String/README.md)                                   |
 | **#89** | [`Palindromic grid`](./Implementation/Palindromic-Grid/README.md)                                 |
 | **#90** | [`Perpendicular Lines`](./Implementation/Perpendicular-Lines/README.md)                           |
-| **#91** | [`Cheapest Subarray`](./Implementation/Cheapest-Subarray/README.md)                                                       |
+| **#91** | [`Cheapest Subarray`](./Implementation/Cheapest-Subarray/README.md)                               |
+| **#92** | [`Partial Digit Sequence`](./Implementation/Partial-Digit-Sequence/README.md)                     |
