@@ -1,4 +1,4 @@
-# Book-Cricket
+# [Book-Cricket][link]
 
 The rules of a cricket game are as follows:
 
@@ -34,3 +34,5 @@ If the player is currently not out, output a '\*' after the score.
 If the player has not yet come out to play, output 'DNB' (Did not bat) instead of the score.
 It is guaranteed that at the end of the match at least 2 players are still not out.
 It is guaranteed that the last ball of the match is not a "W".
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bookcricket-bd707e2d/
