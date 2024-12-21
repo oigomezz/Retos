@@ -131,3 +131,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#94** | [`Bob and K - Subset`](./Implementation/Bob-and-K-Subset/README.md)                               |
 | **#95** | [`Plus Plus`](./Implementation/Plus-Plus/README.md)                                               |
 | **#96** | [`Book-cricket`](./Implementation/Book-Cricket/README.md)                                         |
+| **#97** | [`Bob and Beauty of the Array`](./Implementation/Bob-and-Beauty-of-the-Array/README.md)           |

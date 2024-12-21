@@ -1,4 +1,4 @@
-# Bob and Beauty of the Array
+# [Bob and Beauty of the Array][link]
 
 Bob is having a array A of N elements . Bob wants to determine the beauty of the array and the beauty of the array is defned as:
 
@@ -14,3 +14,5 @@ As the answer can be quite large, you have to report it by taking modulo with 10
 ## Output format
 
 For each query you have to output single integer denoting beauty of the array.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bob-and-beauty-of-the-array-3b35ef14/
