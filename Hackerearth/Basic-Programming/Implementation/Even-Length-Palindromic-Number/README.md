@@ -1,4 +1,4 @@
-# Even Length Palindromic Number
+# [Even Length Palindromic Number][link]
 
 You have to design a new model which maps an even length palindromic number to some digit between 0 to 9.
 The number is mapped to a digit x on the basis of following criteria:
@@ -20,3 +20,5 @@ Given an integer N, you have to find the digit x for the Nth even length palindr
 For each test case, print the digit to which the Nth even length palindromic number is mapped.
 
 Answer for each test case should come in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pepper-and-palindromic-love-76ae8763/

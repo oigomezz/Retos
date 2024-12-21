@@ -127,3 +127,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#90** | [`Perpendicular Lines`](./Implementation/Perpendicular-Lines/README.md)                           |
 | **#91** | [`Cheapest Subarray`](./Implementation/Cheapest-Subarray/README.md)                               |
 | **#92** | [`Partial Digit Sequence`](./Implementation/Partial-Digit-Sequence/README.md)                     |
+| **#93** | [`Even Length Palindromic Number`](./Implementation/Even-Length-Palindromic-Number/README.md)     |
