@@ -129,3 +129,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#92** | [`Partial Digit Sequence`](./Implementation/Partial-Digit-Sequence/README.md)                     |
 | **#93** | [`Even Length Palindromic Number`](./Implementation/Even-Length-Palindromic-Number/README.md)     |
 | **#94** | [`Bob and K - Subset`](./Implementation/Bob-and-K-Subset/README.md)                               |
+| **#95** | [`Plus Plus`](./Implementation/Plus-Plus/README.md)                                               |
