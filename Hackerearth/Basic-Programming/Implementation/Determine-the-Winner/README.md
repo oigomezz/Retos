@@ -1,4 +1,4 @@
-# Determine the Winner
+# [Determine the Winner][link]
 
 Assume there are two programmers with their hacker names as "Flash" and "Cisco". They both took part in a contest. The rules of the contest are:
 
@@ -21,3 +21,5 @@ Flash submitted the solutions of the questions at time f_p, f_q, f_r and f_s. Ci
 ## Output format
 
 Print the winner of the competition **Flash** or **Cisco**. If both the problems have same score and took same time to solve the questions, then print **Tie**.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/problem-16-b45b3a5d/
