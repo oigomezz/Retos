@@ -160,3 +160,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#123** | [`Alex and Priority Requests`](./Implementation/Alex-and-Priority-Requests/README.md)             |
 | **#124** | [`Alex and Requests`](./Implementation/Alex-and-Requests/README.md)                               |
 | **#125** | [`Round Table Killers`](./Implementation/Round-Table-Killers/README.md)                           |
+| **#126** | [`Ways to a BST`](./Implementation/Ways-to-a-BST/README.md)                                         |
