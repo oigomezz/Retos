@@ -1,4 +1,4 @@
-# Holi And Colorful Houses
+# [Holi And Colorful Houses][link]
 
 This Holi, Monk wants to distribute sweets to the houses of his colony. The houses of the colony are present in a circular order (i.e. house 1 and house N are adjacent to each other).
 
@@ -19,3 +19,5 @@ Monk wants your help to find the minimum number of sweets he should carry to com
 
 For each test case print Q lines containing the minimum number of sweets he must carry with himself.
 Second line should contain the same string S.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/holi-and-colorful-houses-eb2049cb/
