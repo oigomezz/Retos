@@ -144,3 +144,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#107** | [`Exception Handling`](./Implementation/Exception-Handling/README.md)                             |
 | **#108** | [`String Operations`](./Implementation/String-Operations/README.md)                               |
 | **#109** | [`Game of sequence`](./Implementation/Game-of-Sequence/README.md)                                 |
+| **#110** | [`Group Photo`](./Implementation/Group-Photo/README.md)                                           |

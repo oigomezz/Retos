@@ -1,4 +1,4 @@
-# Group Photo
+# [Group Photo][link]
 
 You and your friends want to take group photos. The process of taking photos can be described as follows:
 
@@ -14,3 +14,5 @@ Print the minimum size of each made photo in pixels.
 ## Output format
 
 Print n space-separated numbers b1, b2, ..., bn, where bi — the total number of pixels on the minimum photo containing all friends expect for the ith one..
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/techfest-and-group-photo-06dfebc0/
