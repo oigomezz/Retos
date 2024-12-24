@@ -142,3 +142,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#105** | [`Number of arrays`](./Implementation/Number-of-Arrays/README.md)                                 |
 | **#106** | [`Pop-Up Orientation`](./Implementation/Pop-Up-Orientation/README.md)                             |
 | **#107** | [`Exception Handling`](./Implementation/Exception-Handling/README.md)                             |
+| **#108** | [`String Operations`](./Implementation/String-Operations/README.md)                               |

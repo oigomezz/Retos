@@ -1,4 +1,4 @@
-# String Operations
+# [String Operations][link]
 
 You are given a string S.
 
@@ -29,3 +29,5 @@ You have to print string str, string fin and the number of indices which have sa
 In first line, print string str.
 In second line, print string fin.
 In third line, print the number of indices which have same characters at them in both strings str and fin.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/string-operations-1-cd102cb6/
