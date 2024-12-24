@@ -1,4 +1,4 @@
-# The Final Quiz
+# [The Final Quiz][link]
 
 You, Bob and Alice are playing a quizzing game. Throughout the game you and the other two competitors have gained some points. Now at the end of the game, the three of you are given a final question. Before you hear the question you have to guess some special points.
 
@@ -18,3 +18,5 @@ You can assume that you and both the other participants each independently have 
 ## Output format
 
 Print the minimum guessed special points that maximizes your chance of winning.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-bet-1-dbc1acde/
