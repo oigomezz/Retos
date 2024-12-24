@@ -1,4 +1,4 @@
-# Array Sum
+# [Array Sum][link]
 
 You are given an array A consisting of N integers.
 
@@ -14,3 +14,5 @@ Print the sum of the elements in the array.
 ## Output format
 
 Print a single value representing the sum of the elements in the array.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/
