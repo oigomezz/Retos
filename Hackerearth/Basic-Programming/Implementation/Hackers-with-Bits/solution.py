@@ -1,20 +1,16 @@
 n = int(input())
-l = input()
-
-s1 = l.count('1')
-s2 = l.count('0')
-s = l.split('0')
-
-m = 0
-for i in range(len(s)-1):
-    z = s[i].count("1")+s[i+1].count("1")
-    if (z > m):
-        m = z
-if (s2 == 0):
-    print(s1)
-elif (s1 == 0):
+a = input().strip()
+s1 = a.count('1')
+if s1 == 0:
     print(0)
-elif (s1 > m):
-    print(m+1)
+elif a.count('0') == 0:
+    print(s1)
 else:
-    print(m)
+    counts = list(map(lambda x: x.count('1'), a.split('0')))
+    ans = 0
+    for i in range(len(counts) - 1):
+        ans = max(ans, counts[i] + counts[i + 1])
+    if s1 > ans:
+        print(ans + 1)
+    else:
+        print(ans)

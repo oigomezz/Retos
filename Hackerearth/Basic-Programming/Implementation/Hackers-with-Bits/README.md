@@ -1,4 +1,4 @@
-# Hackers with Bits
+# [Hackers with Bits][link]
 
 Hackers love bits, so does Alex. Alex has just started his career as hacker and found a special binary array A (containing and 0s and 1s).
 
@@ -16,3 +16,5 @@ As Alex is a newbie in his field, help him for the same, and output the required
 ## Output format
 
 Print the required length of the sub array containing only 1s.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/hack-the-string-9dce7834/
