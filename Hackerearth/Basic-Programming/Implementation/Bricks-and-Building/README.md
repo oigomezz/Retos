@@ -1,4 +1,4 @@
-# Bricks and Building
+# [Bricks and Building][link]
 
 An old planet called Alpha has been found but it is destructed completely. Archaeologists after expedition found out a map that depicts all the buildings that were in Alpha. In the map following facts were stated:
 
@@ -20,3 +20,5 @@ Each query contains an integer k. For every query you have to print the count of
 ## Output format
 
 Print the answer as per the description above for each query in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/brick-and-building-26cc28f2/
