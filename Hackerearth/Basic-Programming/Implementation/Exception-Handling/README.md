@@ -1,4 +1,4 @@
-# Exception Handling
+# [Exception Handling][link]
 
 You are given a piece of Java code. You have to complete the code by writing down the handlers for exceptions thrown by the code. The exceptions the code may throw along with the handler message are listed below:
 
@@ -24,3 +24,5 @@ The code handles all the input itself.
 
 If any exception is encountered in the code, print the respective handler code.
 The last line of output should be "Exception Handling Completed".
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/exception-handling-2-46f67551/
