@@ -162,3 +162,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#125** | [`Round Table Killers`](./Implementation/Round-Table-Killers/README.md)                           |
 | **#126** | [`Ways to a BST`](./Implementation/Ways-to-a-BST/README.md)                                       |
 | **#127** | [`Hackers with Bits`](./Implementation/Hackers-with-Bits/README.md)                               |
+| **#128** | [`Jump Out`](./Implementation/Jump-Out/README.md)                                                 |
