@@ -1,4 +1,4 @@
-# Pop-Up Orientation
+# [Pop-Up Orientation][link]
 
 In web application development, it is often required to draw a pop-up window on top of a web page when the user clicks on an icon on the page that brings up the pop-up.
 You are given a web page with width x and height y, a pop-up window with width l and height m, and an icon at distance a from the left of the page and distance b from the bottom of the page.
@@ -15,3 +15,5 @@ There are 4 possible orientations: bottom-right, bottom-left, top-right and top-
 ## Output format
 
 For each test case, print the orientation in which the pop-up can be rendered fully, relative to the icon, within the page dimensions.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pop-up-orientation-de6cf0ee/

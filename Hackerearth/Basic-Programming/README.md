@@ -140,3 +140,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#103** | [`Holi And Colorful houses`](./Implementation/Holi-and-Colorful-Houses/README.md)                 |
 | **#104** | [`String Game`](./Implementation/String-Game/README.md)                                           |
 | **#105** | [`Number of arrays`](./Implementation/Number-of-Arrays/README.md)                                 |
+| **#106** | [`Pop-Up Orientation`](./Implementation/Pop-Up-Orientation/README.md)                             |
