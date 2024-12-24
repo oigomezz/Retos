@@ -1,4 +1,4 @@
-# Even Odd Queries
+# [Even Odd Queries][link]
 
 You are given an array Arr of size N, containing integers. You have to answer Q queries where each query is of the form:
 
@@ -21,3 +21,5 @@ If p is 0 or p is equal to q print p / q alone.
 ## Output format
 
 Output the answer to each query in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/even-odd-queries-f52d76e2/

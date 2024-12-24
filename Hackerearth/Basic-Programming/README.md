@@ -148,3 +148,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#111** | [`Sorted Arrays`](./Implementation/Sorted-Arrays/README.md)                                       |
 | **#112** | [`Countries Grouping`](./Implementation/Countries-Grouping/README.md)                             |
 | **#113** | [`The Perfect Road`](./Implementation/The-Perfect-Road/README.md)                                 |
+| **#114** | [`Even Odd Queries`](./Implementation/Even-Odd-Queries/README.md)                                 |
