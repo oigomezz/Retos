@@ -1,18 +1,11 @@
-import math
+from math import ceil, sqrt
 
-
-def ceil_number(x, y):
-    x = abs(x)
-    y = abs(y)
-    root = math.sqrt((x * x) + (y * y))
-    root = math.ceil(root)
-    return int(root)
-
-
-n, k = map(int, input().split())
-x_arr = list(map(int, input().split()))
-y_arr = list(map(int, input().split()))
-
-distance = [ceil_number(x_arr[i], y_arr[i]) for i in range(n)]
-distance.sort()
-print(distance[k - 1])
+n, k = map(int, input().strip().split())
+x = list(map(int, input().strip().split()))
+y = list(map(int, input().strip().split()))
+dist = []
+for i in range(n):
+    d = sqrt(x[i] * x[i] + y[i] * y[i])
+    dist.append(ceil(d))
+dist.sort()
+print(dist[k - 1])

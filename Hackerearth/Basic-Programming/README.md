@@ -154,3 +154,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#117** | [`Coin Game`](./Implementation/Coin-Game/README.md)                                               |
 | **#118** | [`The Final Quiz`](./Implementation/The-Final-Quiz/README.md)                                     |
 | **#119** | [`Array Sum`](./Implementation/Array-Sum/README.md)                                               |
+| **#120** | [`K Devices`](./Implementation/K-Devices/README.md)                                               |
