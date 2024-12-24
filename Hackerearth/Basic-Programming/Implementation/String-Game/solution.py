@@ -1,7 +1,7 @@
 from collections import defaultdict
 
-test_case = int(input())
-for _ in range(test_case):
+t = int(input())
+for _ in range(t):
     str_input = input()
     A = defaultdict(int)
 

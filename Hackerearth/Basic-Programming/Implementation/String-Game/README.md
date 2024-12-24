@@ -1,4 +1,4 @@
-# String Game
+# [String Game][link]
 
 Player1 and Player2 decided to play a game. The game comprises of a String S which consist of lowercase English alphabets only and both players take alternative terms.
 
@@ -14,3 +14,5 @@ Your task is to find the winner of the game, if both the players play optimally 
 ## Output format
 
 Print "Player1" if Player1 Wins or "Player2" if Player2 Wins (without quotes). For each test case, print the output in new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/alice-and-string-game-dbd6adc3/
