@@ -158,3 +158,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#121** | [`Killjee and superdromes (Lowe)`](./Implementation/Killjee-and-Superdromes/README.md)            |
 | **#122** | [`The Prime Cells`](./Implementation/The-Prime-Cells/README.md)                                   |
 | **#123** | [`Alex and Priority Requests`](./Implementation/Alex-and-Priority-Requests/README.md)             |
+| **#124** | [`Alex and Requests`](./Implementation/Alex-and-Requests/README.md)                               |

@@ -1,4 +1,4 @@
-# Alex and Requests
+# [Alex and Requests][link]
 
 Alex is working in a firm, where he needs to process requests according to their priority. He has N allocation systems. At any instance, ith system can process only one request with priority i or above.
 
@@ -17,3 +17,5 @@ Alex needs to assign each request to the system optimally, such that he can assi
 ## Output format
 
 For each incoming request, in new line print YES, if Alex can assign a system to the request, else print NO.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/alex-and-requests-72568e72/
