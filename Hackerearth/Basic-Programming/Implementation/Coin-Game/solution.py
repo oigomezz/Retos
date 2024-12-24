@@ -1,12 +1,10 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     n = int(input())
-    l = list(map(int, input().split()))
-    count = 0
-    for i in l:
-        while (i % 2 != 1):
-            count += 1
+    a = list(map(int, input().strip().split()))
+    turn = 0
+    for i in a:
+        while not i % 2:
+            turn += 1
             i //= 2
-    print("Alan" if (count % 2 == 0) else "Charlie")
-
-    t -= 1
+    print('Charlie' if turn % 2 else 'Alan')

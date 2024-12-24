@@ -151,3 +151,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#114** | [`Even Odd Queries`](./Implementation/Even-Odd-Queries/README.md)                                 |
 | **#115** | [`Palindromic Sub-String <P2SME>`](./Implementation/Palindromic-Sub-String/README.md)             |
 | **#116** | [`Bricks and Building`](./Implementation/Bricks-and-Building/README.md)                           |
+| **#117** | [`Coin Game`](./Implementation/Coin-Game/README.md)                                               |

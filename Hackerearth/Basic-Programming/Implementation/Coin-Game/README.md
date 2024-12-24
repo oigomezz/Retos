@@ -1,4 +1,4 @@
-# Coin Game
+# [Coin Game][link]
 
 Charlie and Alan have challenged each other to a game of logic with coins.
 
@@ -16,3 +16,5 @@ Charlie makes the first move. Assuming both players play optimally, predict who 
 ## Output format
 
 Output T lines. For each case, output "Charlie" (without quotes) if Charlie wins the game, and "Alan"(without quotes) if Alan wins the game.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/coin-game-3-1762eeeb/
