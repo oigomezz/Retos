@@ -1,4 +1,4 @@
-# City Group
+# [City Group][link]
 
 You are living in a town consisting of N cities. Furthurmore, in this town there are K city-groups. You can reach any city from any city in a same city-group instantaneously. you can go from any city in ith city-group to any city in i+1th city-group in 1 second and from any city in i+1th city-group to any city in ith city-group in 1 second for each i between 1 and K-1, you can also go from any city in first city-group to any city in Kth city-group in 1 second and from any city in Kth city-group to any city in first city-group in 1 second.
 
@@ -18,3 +18,5 @@ Each city-group has a city which does not have a number (i.e. it is not one of t
 ## Output format
 
 For each of the query, print minimum time needed to reach city Y from city X.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/city-group-3/
