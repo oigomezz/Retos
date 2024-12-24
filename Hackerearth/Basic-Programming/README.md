@@ -149,3 +149,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#112** | [`Countries Grouping`](./Implementation/Countries-Grouping/README.md)                             |
 | **#113** | [`The Perfect Road`](./Implementation/The-Perfect-Road/README.md)                                 |
 | **#114** | [`Even Odd Queries`](./Implementation/Even-Odd-Queries/README.md)                                 |
+| **#115** | [`Palindromic Sub-String <P2SME>`](./Implementation/Palindromic-Sub-String/README.md)             |
