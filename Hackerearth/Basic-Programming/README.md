@@ -146,3 +146,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#109** | [`Game of sequence`](./Implementation/Game-of-Sequence/README.md)                                 |
 | **#110** | [`Group Photo`](./Implementation/Group-Photo/README.md)                                           |
 | **#111** | [`Sorted Arrays`](./Implementation/Sorted-Arrays/README.md)                                       |
+| **#112** | [`Countries Grouping`](./Implementation/Countries-Grouping/README.md)                             |

@@ -1,4 +1,4 @@
-# Countries Grouping
+# [Countries Grouping][link]
 
 People in the group, are sitting in a row numbered from 1 to N. Every person have been asked with a same question as
 
@@ -18,3 +18,5 @@ If all the given answers are correct, determine the number of distinct countries
 ## Output format
 
 For each test case output a single line containing a single integer denoting the distinct countries or "Invalid Data".
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/countries-grouping-1-5b13620a/

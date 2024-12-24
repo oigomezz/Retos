@@ -1,16 +1,14 @@
 from collections import Counter
 
-for _ in range(int(input())):
+t = int(input())
+for _ in range(t):
     n = int(input())
-    total = countries = 0
-
-    q = list(map(int, input().split()))
-    values = Counter(q)
-    q = list(set(q))
-
-    for i in q:
-        if values[i] % i == 0:
-            total += i*(values[i]//i)
-            countries += values[i]//i
-
-    print('Invalid Data') if (n != total) else print(countries)
+    a = list(map(int, input().strip().split()))
+    total = count = 0
+    counter = Counter(a)
+    for i in set(a):
+        if not counter[i] % i:
+            x = counter[i] // i
+            total += i * x
+            count += x
+    print('Invalid Data' if n != total else count)
