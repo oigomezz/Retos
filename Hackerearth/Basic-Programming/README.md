@@ -155,3 +155,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#118** | [`The Final Quiz`](./Implementation/The-Final-Quiz/README.md)                                     |
 | **#119** | [`Array Sum`](./Implementation/Array-Sum/README.md)                                               |
 | **#120** | [`K Devices`](./Implementation/K-Devices/README.md)                                               |
+| **#121** | [`Killjee and superdromes (Lowe)`](./Implementation/Killjee-and-Superdromes/README.md)            |

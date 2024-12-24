@@ -1,4 +1,4 @@
-# Killjee and Superdromes
+# [Killjee and Superdromes][link]
 
 Killjee has recently read about superdromes. Superdromes are those numbers which are palindromic in both binary and decimal representation.
 
@@ -16,3 +16,5 @@ Now killjee ask you to find number of Superdromes less than or equal to n for gi
 ## Output format
 
 Output a single integer, number of Superdromes <= n for each query. Print answer for each query in new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killjee-and-superdromes-1f1d31c3/
