@@ -1,4 +1,4 @@
-# The Prime Cells
+# [The Prime Cells][link]
 
 You are given a grid of size n x n filled with numbers in each of its cells. Now you need to count total cells in the grid such that the sum of the numbers on its top , left , right and bottom cells is a prime number. In case there is no cell in a particular direction assume the number to be as 0.
 
@@ -9,3 +9,5 @@ First line contains a number n as input denoting size of the grid. Next n lines 
 ## Output format
 
 In the output you have to give the count of total cells as described above.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pythagorean-triangles-0158a4c5/

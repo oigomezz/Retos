@@ -1,39 +1,27 @@
-def prime(p):
-    flag = True
-    if p == 1 or p == 0:
+def is_prime(x):
+    if x <= 1:
         return False
-    for i in range(2, p//2):
-        if (p % i == 0):
-            flag = False
-            break
-    return flag
+    if x == 2 or x == 3:
+        return True
+    if x % 2 == 0 or x % 3 == 0:
+        return False
+    for i in range(5, int(x ** .5) + 1, 6):
+        if x % i == 0 or x % (i + 2) == 0:
+            return False
+    return True
 
 
 n = int(input())
-a = []
-for i in range(n):
-    temp = list(map(int, input().split()))
-    a.append(temp)
-
-pa = []
-c = 0
+grid = []
+for _ in range(n):
+    grid.append(list(map(int, input().strip().split())))
+count = 0
 for i in range(n):
     for j in range(n):
-        ele = a[i][j]
-        s = 0
-        if i != 0:
-            s += a[i-1][j]
-        if i < n-1:
-            s += a[i+1][j]
-        if j != 0:
-            s += a[i][j-1]
-        if j < n-1:
-            s += a[i][j+1]
-        if s in pa:
-            c += 1
-        else:
-            if (prime(s)):
-                pa.append(s)
-                c += 1
-
-print(c)
+        top = grid[i - 1][j] if i > 0 else 0
+        left = grid[i][j - 1] if j > 0 else 0
+        right = grid[i][j + 1] if j < n - 1 else 0
+        bottom = grid[i + 1][j] if i < n - 1 else 0
+        if is_prime(top + left + right + bottom):
+            count += 1
+print(count)
