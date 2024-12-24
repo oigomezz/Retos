@@ -7,7 +7,7 @@ int main()
   long long n;
   long long m;
   cin >> n >> m;
-  long long array[n + 1][n + 1] = {0};
+  long long arr[n + 1][n + 1] = {0};
 
   while (m--)
   {
@@ -20,7 +20,7 @@ int main()
     {
       for (long j = b; j <= (b + range2); j++)
       {
-        array[i][j] = (array[i][j] ^ p);
+        arr[i][j] = (arr[i][j] ^ p);
       }
     }
   }
@@ -29,7 +29,7 @@ int main()
   {
     for (long j = 1; j <= n; j++)
     {
-      cout << array[i][j] << " ";
+      cout << arr[i][j] << " ";
     }
     cout << endl;
   }
