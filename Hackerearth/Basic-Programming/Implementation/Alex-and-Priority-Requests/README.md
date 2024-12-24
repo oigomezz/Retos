@@ -1,4 +1,4 @@
-# Alex and Priority Requests
+# [Alex and Priority Requests][link]
 
 Alex works in a firm that deals with the requests that come with their own Priority Value at different instants of time . Now he has to maintain a list of these requests with their Priority Value and the time at which they come. He updates the list according to the following queries:
 
@@ -31,3 +31,5 @@ Alex works in a firm that deals with the requests that come with their own Prior
 - For each query of type 4, output the Priority Value of the request of highest time, currently present in the list.
 
 **Note:** You can assume that whenever query of type 3,4 occurs, the data is not null i.e some answer exists.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/anil-and-stocks-628d668e/
