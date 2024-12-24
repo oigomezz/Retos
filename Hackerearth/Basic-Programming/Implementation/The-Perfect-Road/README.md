@@ -1,4 +1,4 @@
-# The Perfect Road
+# [The Perfect Road][link]
 
 Given that, there are N paths numbered from 1 to N, where each path connects the starting point S to the destination point X. The maximum speed limit is speed[i] for the ith path which can be used to reach the destination. Find the path to reach the destination as early as possible. If there are multiple paths from which you can choose, print Many Roads. Also, it is guaranteed that X will always be greater than S.
 
@@ -12,3 +12,5 @@ Given that, there are N paths numbered from 1 to N, where each path connects the
 ## Output format
 
 For each test case, output a single integer denoting the path chosen to reach the destination as early as possible. If there are multiple paths from which you can choose, you have to output "Many Roads" without quotes.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bobalice-and-the-perfect-road-1-3f60abdf/
