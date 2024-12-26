@@ -184,3 +184,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#147** | [`Sagar's Learning`](./Implementation/Sagar's-Learning/README.md)                                 |
 | **#148** | [`Confusion`](./Implementation/Confusion/README.md)                                               |
 | **#149** | [`Mancunian in Palindromia`](./Implementation/Mancunian-in-Palindromia/README.md)                 |
+| **#150** | [`Benny and Balls`](./Implementation/Benny-and-Balls/README.md)                                   |

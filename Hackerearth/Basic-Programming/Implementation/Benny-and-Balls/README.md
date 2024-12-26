@@ -1,4 +1,4 @@
-# Benny and Balls
+# [Benny and Balls][link]
 
 In this problem Benny is looking for your help as usual.
 
@@ -23,3 +23,5 @@ xi = (a \* xi-1 + b) % N;
 ## Output format
 
 Q lines - answers for each case
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/benny-and-balls/
