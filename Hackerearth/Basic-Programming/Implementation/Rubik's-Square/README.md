@@ -1,4 +1,4 @@
-# Rubik's Square
+# [Rubik's Square][link]
 
 Raj has bought a new Rubik's Cube and he try to solve it day and night. Seeing this , Vikas tried to help Raj by giving him problem based on cube Rotation . To make it easier for Raj , As Raj is a beginner Vikas gave problem in square matrix instead of cube. The problem is as follows :
 
@@ -18,3 +18,5 @@ Note: First all the rows will be rotated and then all the columns will be rotate
 ## Output format
 
 Output the N\*N matrix generated after above operation.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rubiks-square-2/

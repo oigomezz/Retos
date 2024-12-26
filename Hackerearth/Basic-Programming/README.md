@@ -176,3 +176,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#139** | [`Rhezo and character frequency`](./Implementation/Rhezo-and-Character-Frequency/README.md)       |
 | **#140** | [`Digit Problem`](./Implementation/Digit-Problem/README.md)                                       |
 | **#141** | [`Fredo is in a Hurry`](./Implementation/Fredo-is-in-a-Hurry/README.md)                           |
+| **#142** | [`Rubik's Square`](./Implementation/Rubik's-Square/README.md)                                     |
