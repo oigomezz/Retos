@@ -1,4 +1,4 @@
-# Utkarsh and Distributing Books
+# [Utkarsh and Distributing Books][link]
 
 Utkarsh's mother recently received N piles of books as a gift from someone. The ith pile contains Bi books.
 
@@ -25,3 +25,5 @@ You need to output 2 integers : The maximum value of K
 ## Output format
 
 For each test case, print two space separated integers: The maximum value of K if Utkarsh distributes and the maximum value of K if Saharsh distributes the books.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/utkarsh-and-distributing-books-february-easy/
