@@ -1,14 +1,14 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     n = int(input())
-    arr = [int(i) for i in input().split()]
-    ans = 0
-    carry = 0
-    for num in arr:
-        ans += (num+carry) % 2
-        carry = (num+carry)//2
-    while carry:
-        ans += carry % 2
-        carry = carry//2
+    a = list(map(int, input().strip().split()))
+    ans = f = 0
+    for i in a:
+        q, r = divmod(i + f, 2)
+        ans += r
+        f = q
+    while f:
+        q, r = divmod(f, 2)
+        ans += r
+        f = q
     print(ans)
-    t -= 1

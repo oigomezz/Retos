@@ -1,4 +1,4 @@
-# Optimization Game
+# [Optimization Game][link]
 
 Currently, Monk is playing a unique kind of strategy game called optimisation game. In this game we are provided with an array containing integral numbers. Now all these numbers represent the count of their respective index power of 2. The goal of the game is to minimize the total sum of the count of the array by converting lower powers of 2 into their higher powers i.e. for example 2. Note that we can extend the array beyond the final index i.e. N - 1 too in case it optimizes our result. Please see the below example for more understanding.
 
@@ -15,3 +15,5 @@ Now, we can convert 2 \* 2^1 into 1 2^2 as 2^1 \* 2 = 2^2. We get the new array 
 ## Output format
 
 Output the minimum value obtained after playing the optimization game in a separate line for each test case.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/optimization-game/
