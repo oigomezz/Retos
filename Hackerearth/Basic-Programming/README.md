@@ -173,3 +173,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#136** | [`Optimization Game`](./Implementation/Optimization-Game/README.md)                               |
 | **#137** | [`Good String`](./Implementation/Good-String/README.md)                                           |
 | **#138** | [`Jumping Tokens`](./Implementation/Jumping-Tokens/README.md)                                     |
+| **#139** | [`Rhezo and character frequency`](./Implementation/Rhezo-and-Character-Frequency/README.md)       |

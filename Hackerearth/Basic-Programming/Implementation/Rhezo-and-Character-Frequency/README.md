@@ -1,4 +1,4 @@
-# Rhezo and Character Frequency
+# [Rhezo and Character Frequency][link]
 
 Rhezo got a string S, a character C and an integer P as a birthday gift from his best friend JK.
 
@@ -17,3 +17,5 @@ If the answer is the position before the first character, output 0.
 ## Output format
 
 Print an answer in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rhezo-and-character-frequency-3/
