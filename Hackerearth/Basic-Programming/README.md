@@ -179,3 +179,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#142** | [`Rubik's Square`](./Implementation/Rubik's-Square/README.md)                                     |
 | **#143** | [`Min-Max`](./Implementation/Min-Max/README.md)                                                   |
 | **#144** | [`Sagar's Gift`](./Implementation/Sagar's-Gift/README.md)                                         |
+| **#145** | [`KillCode's Wish`](./Implementation/KillCode's-Wish/README.md)                                   |

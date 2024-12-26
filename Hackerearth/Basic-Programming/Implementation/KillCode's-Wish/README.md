@@ -1,4 +1,4 @@
-# KillCode's Wish
+# [KillCode's Wish][link]
 
 KillCode is very thrilled to have won unlimited ladoos in a programming competition . But being a generous programmer he decided to give away all his ladoos to small children. Now there are n children standing in a queue where a[i] denotes the hunger of ith child. KillCode can give maximum of M ladoos to a child at a time. Now there are 2 conditions:
 
@@ -15,3 +15,5 @@ KillCode is very thrilled to have won unlimited ladoos in a programming competit
 ## Output format
 
 Output the index of child who will remain last in the queue.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/killcodes-wish-2/
