@@ -1,16 +1,8 @@
-import math
+from itertools import accumulate
 
-n, q = map(int, input().split())
-a = list(map(int, input().split()))
-cumulative = [0]
-
-for i in range(n):
-    cumulative.append(cumulative[i] + math.floor(math.log2(a[i])) + 1)
-
-for day in range(q):
-    l, r = map(int, input().split())
-    count = cumulative[r] - cumulative[l - 1]
-    if count % 2 == 1:
-        print('Mishki')
-    else:
-        print('Hacker')
+n, q = map(int, input().strip().split())
+a = list(accumulate(map(lambda x: int(x).bit_length(),
+         input().strip().split()), initial=0))
+for _ in range(q):
+    l, r = map(int, input().strip().split())
+    print('Mishki' if a[r] - a[l - 1] & 1 else 'Hacker')

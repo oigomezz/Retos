@@ -1,4 +1,4 @@
-# Mishki Playing Games
+# [Mishki Playing Games][link]
 
 Mishki loves playing games, so she asked her friend Hacker to join her in the Game of Stones. In this game, they have N sets of stones, numbered from 1 to N. Each set consists of Ai stones, where 1 <= i <= N.
 In each turn, player can select any of the set containing at least 1 stone, and have to reduce it to half of the present number of stones , i.e Ai/2 (Integer Division) from it, and in case of single stone, he/she has to empty the set by removing it.
@@ -20,3 +20,5 @@ You need to tell the winner of the game on each day, if both the player will pla
 ## Output format
 
 Print Q lines, each line containing the winner of the ith day.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mishki-playing-games/
