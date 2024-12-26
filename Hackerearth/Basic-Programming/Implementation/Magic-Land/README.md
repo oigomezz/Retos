@@ -1,4 +1,4 @@
-# Magic Land
+# [Magic Land][link]
 
 You are given a grid of size N \* M where N and M denotes the number of rows and columns respectively. Each cell of the grid is filled with some number.
 
@@ -15,3 +15,5 @@ Can you find the password ?
 ## Output format
 
 For each test case, output the value of password in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/magic-land-18/
