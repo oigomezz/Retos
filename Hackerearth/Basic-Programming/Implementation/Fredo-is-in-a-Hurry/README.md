@@ -1,4 +1,4 @@
-# Fredo is in a Hurry
+# [Fredo is in a Hurry][link]
 
 Fredo lives in a building with N+1 floors and his apartment is at floor N. The floors are numbered from 0 to N, N being the highest floor. Fredo has just come from school and is at floor 0. His favourite anime is about to start and he wants to reach his apartment as soon as possible.
 He can either use staircase or elevator or a combination of both (use staircase for x floors and cover rest floors by elevator) to reach his apartment.
@@ -19,3 +19,5 @@ Assumptions: Only Fredo uses the elevator during that period of time. Fredo will
 ## Output format
 
 For each test case, print the minimum time Fredo needs to reach floor N from floor 0 in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fredo-is-in-a-hurry/
