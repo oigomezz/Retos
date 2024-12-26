@@ -1,38 +1,30 @@
 t = int(input())
-for _ in range(1, t + 1):
-    s = input()
-    if s == "RBBBR" or s == "BRRRB":
+for _ in range(t):
+    s = input().strip()
+    if s in ('BRRRB', 'RBBBR'):
         print(3)
         continue
-
-    c = list(s)
-    n = len(c)
-    countR = 0
-    countB = 0
-    alternating = True
-    ridx = 0
-    bidx = 0
-
-    for j in range(n):
-        if c[j] == 'R':
-            countR += 1
-            ridx = j
-        else:
-            countB += 1
-            bidx = j
-        if j > 0 and c[j] == c[j - 1]:
-            alternating = False
-
-    if alternating or countR == 0 or countB == 0:
+    count_r = count_b = 0
+    adjacent_r = adjacent_b = False
+    n = len(s)
+    for i in range(len(s)):
+        if 'R' == s[i]:
+            count_r += 1
+            if i and 'R' == s[i - 1]:
+                adjacent_r = True
+        elif 'B' == s[i]:
+            count_b += 1
+            if i and 'B' == s[i - 1]:
+                adjacent_b = True
+    if not count_r or not count_b or (not adjacent_r and not adjacent_b):
         print(n)
         continue
-
-    if countR == 1:
-        print(3 if ridx % 3 == (n - ridx - 1) % 3 else 2)
+    if 1 == count_r:
+        i = s.index('R')
+        print(3 if i % 3 == (n - 1 - i) % 3 else 2)
         continue
-
-    if countB == 1:
-        print(3 if bidx % 3 == (n - bidx - 1) % 3 else 2)
+    if 1 == count_b:
+        i = s.index('B')
+        print(3 if i % 3 == (n - 1 - i) % 3 else 2)
         continue
-
     print(2)

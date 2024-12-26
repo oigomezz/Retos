@@ -1,4 +1,4 @@
-# Jumping Tokens
+# [Jumping Tokens][link]
 
 You are given a row of n tokens in a row colored red and blue.
 
@@ -25,3 +25,5 @@ This line will contain a string consisting of only characters 'R' and 'B' denoti
 ## Output format
 
 Output T numbers, the answers to each problem.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jumping-tokens/
