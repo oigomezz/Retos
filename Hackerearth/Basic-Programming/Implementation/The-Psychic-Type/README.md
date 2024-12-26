@@ -1,4 +1,4 @@
-# The Psychic Type
+# [The Psychic Type][link]
 
 Alakazam has the unique ability to teleport itself during fights. He has realized that he can use this ability not just in Poke'mon fights, but also during real time manipulation of arrays. Abra, his non-evolution form has an interesting array of N integers, A1, A2, ... , AN-1, AN.
 
@@ -13,3 +13,5 @@ Since, Alakazam wants to try his teleporation power on arrays too, he decides to
 ## Output format
 
 Print Yes if he can reach the position E starting from position S, else print No.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-psychic-type/

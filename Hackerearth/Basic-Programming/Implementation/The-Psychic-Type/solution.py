@@ -1,16 +1,12 @@
 n = int(input())
-a = list(map(int, input().split()))
-s, e = map(int, input().split())
-leng = len(a)
-for i in range(1, leng+1):
-    if s == e:
-        print("Yes")
+a = list(map(int, input().strip().split()))
+s, e = map(int, input().strip().split())
+for i in range(1, n + 1):
+    x = s - 1
+    if s == e or a[x] == e:
+        print('Yes')
         break
-    if a[s-1] == e:
-        print("Yes")
+    if i == n:
+        print('No')
         break
-    else:
-        if i == len(a):
-            print("No")
-            break
-        s = a[s-1]
+    s = a[x]
