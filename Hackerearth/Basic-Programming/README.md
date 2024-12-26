@@ -191,3 +191,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#154** | [`Little Shino and the tournament`](./Implementation/Little-Shino-and-the-Tournament/README.md)   |
 | **#155** | [`Little Shino and the coins`](./Implementation/Little-Shino-and-the-Coins/README.md)             |
 | **#156** | [`Roy's Life Cycle`](./Implementation/Roy's-Life-Cycle/README.md)                                 |
+| **#157** | [`String Sum`](./Implementation/String-Sum/README.md)                                             |
