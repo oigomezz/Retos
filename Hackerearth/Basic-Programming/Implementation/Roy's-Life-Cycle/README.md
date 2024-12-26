@@ -1,4 +1,4 @@
-# Roy's Life Cycle
+# [Roy's Life Cycle][link]
 
 Roy is going through the dark times of his life. Recently his girl friend broke up with him and to overcome the pain of acute misery he decided to restrict himself to Eat-Sleep-Code life cycle. For N days he did nothing but eat, sleep and code.
 
@@ -19,3 +19,5 @@ Coding streak means number of C's without any E or S in between.
 ## Output format
 
 Print X and Y separated by a space in a single line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roys-life-cycle-44/
