@@ -1,4 +1,4 @@
-# The Great Kian
+# [The Great Kian][link]
 
 The great Kian is looking for a smart prime minister. He's looking for a guy who can solve the OLP (Old Legendary Problem). OLP is an old problem (obviously) that no one was able to solve it yet (like P=NP).
 
@@ -14,3 +14,5 @@ Given the sequence a1, a2, ..., an find the three values a1 + a4 + a7 + ..., a2 
 ## Output format
 
 Print three values in one line (the answers).
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-great-kian/
