@@ -1,4 +1,4 @@
-# Little Shino and the Tournament
+# [Little Shino and the Tournament][link]
 
 Little Shino is interested in the fighting tournaments. Once she went to watch one of the tournaments. There were N fighters and ith fighter will be represented by i. Each fighter has some distinct strength. Rules of the tournament are:
 
@@ -15,3 +15,5 @@ Little Shino is interested in the fighting tournaments. Once she went to watch o
 ## Output format
 
 For each query, print the number of fights ith fighter will take part in.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-shino-and-the-tournament/

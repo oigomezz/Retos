@@ -6,7 +6,6 @@ for i in range(n):
     fighters.append({'strength': strength[i], 'fights': 0})
 
 fighters_left = 1
-
 while fighters_left > 0:
     fighters_left = fighter_id = -1
 
@@ -24,7 +23,6 @@ while fighters_left > 0:
 
                 fighters[fighter_id]['fights'] += 1
                 fighters[i]['fights'] += 1
-
                 fighter_id = -1
 
 for _ in range(q):
