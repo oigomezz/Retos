@@ -1,14 +1,11 @@
 n = int(input())
-m = input()[:n]
-a = m.count('h')//2
-b = m.count('a')//2
-c = m.count('c')
-d = m.count('k')
-e = m.count('e')//2
-f = m.count('r')//2
-j = m.count('t')
+s = input().strip()
+h = s.count('h') // 2
+a = s.count('a') // 2
+c = s.count('c')
+k = s.count('k')
+e = s.count('e') // 2
+r = s.count('r') // 2
+t = s.count('t')
 
-y = [a, b, c, d, e, f, j]
-y.sort()
-
-print(y[0])
+print(sorted((h, a, c, k, e, r, t))[0])

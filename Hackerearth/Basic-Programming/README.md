@@ -186,3 +186,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#149** | [`Mancunian in Palindromia`](./Implementation/Mancunian-in-Palindromia/README.md)                 |
 | **#150** | [`Benny and Balls`](./Implementation/Benny-and-Balls/README.md)                                   |
 | **#151** | [`Mishki Playing Games`](./Implementation/Mishki-Playing-Games/README.md)                         |
+| **#152** | [`Print hackerearth`](./Implementation/Print-Hackerearth/README.md)                               |
