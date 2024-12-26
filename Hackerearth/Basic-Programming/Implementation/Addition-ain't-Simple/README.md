@@ -1,4 +1,4 @@
-# Addition ain't simple
+# [Addition ain't simple][link]
 
 Jack is awesome. His friends call him little Einstein. To test him, his friends gave him a string. They told him to add the string with its reverse string and follow these rules:
 
@@ -14,3 +14,5 @@ Jack is awesome. His friends call him little Einstein. To test him, his friends 
 ## Output format
 
 For every string str output the string that Jack's friends wants from him.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/addition-aint-simple/
