@@ -1,4 +1,4 @@
-# Fredo and Game
+# [Fredo and Game][link]
 
 Fredo is playing a game. The rules of the game are:
 Initially, you are given A units of ammo. There are N obstacles placed on a path. When you hit an obstacle, you gain three units ammo and lose one unit of ammo. When you don't hit an obstacle, you lose one unit ammo. If at any instance, you are left with 0 ammo units, the game ends there.
@@ -24,3 +24,5 @@ For each test case:
 
 - If he is able to reach the end of the path, print Yes followed by the number of ammo units remaining.
 - Else print No followed by the index (1 based) of the obstacle at which the game ends.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fredo-and-game/

@@ -165,3 +165,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#128** | [`Jump Out`](./Implementation/Jump-Out/README.md)                                                 |
 | **#129** | [`Stevie !`](./Implementation/Stevie/README.md)                                                   |
 | **#130** | [`City group`](./Implementation/City-Group/README.md)                                             |
+| **#131** | [`Fredo and Game`](./Implementation/Fredo-and-Game/README.md)                                     |
