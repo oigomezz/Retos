@@ -1,4 +1,4 @@
-# Digit Problem
+# [Digit Problem][link]
 
 This time your task is simple.
 
@@ -11,3 +11,5 @@ Given two integers X and K, find the largest number that can be formed by changi
 ## Output format
 
 Print the largest number formed in a single line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/

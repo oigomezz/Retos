@@ -174,3 +174,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#137** | [`Good String`](./Implementation/Good-String/README.md)                                           |
 | **#138** | [`Jumping Tokens`](./Implementation/Jumping-Tokens/README.md)                                     |
 | **#139** | [`Rhezo and character frequency`](./Implementation/Rhezo-and-Character-Frequency/README.md)       |
+| **#140** | [`Digit Problem`](./Implementation/Digit-Problem/README.md)                                       |
