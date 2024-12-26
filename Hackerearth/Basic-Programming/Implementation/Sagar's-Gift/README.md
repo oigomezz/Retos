@@ -1,4 +1,4 @@
-# Sagar's Gift
+# [Sagar's Gift][link]
 
 Today is Sagar's birthday. He got array of numbers as a gift by his father. His father told him that he has another gift if Sagar is able make largest number by concatenating the numbers and swapping the digits of numbers. Help Sagar to make largest number from the given numbers.
 
@@ -10,3 +10,5 @@ Today is Sagar's birthday. He got array of numbers as a gift by his father. His 
 ## Output format
 
 Output the answer.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sagars-gift-6/
