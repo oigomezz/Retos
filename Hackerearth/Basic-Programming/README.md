@@ -189,3 +189,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#152** | [`Print hackerearth`](./Implementation/Print-Hackerearth/README.md)                               |
 | **#153** | [`The Psychic Type`](./Implementation/The-Psychic-Type/README.md)                                 |
 | **#154** | [`Little Shino and the tournament`](./Implementation/Little-Shino-and-the-Tournament/README.md)   |
+| **#155** | [`Little Shino and the coins`](./Implementation/Little-Shino-and-the-Coins/README.md)             |

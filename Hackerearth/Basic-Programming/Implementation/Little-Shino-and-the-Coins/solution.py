@@ -1,25 +1,21 @@
 k = int(input())
-s = input()
-
-count = 0
-slength = len(s)
-
-for start in range(slength):
-    index = start
-    distinct = set()
-    distinctlen = 0
-
-    while index < slength:
-        if s[index] not in distinct:
-            distinct.add(s[index])
-            distinctlen += 1
-
-        if distinctlen == k:
-            count += 1
-        elif distinctlen > k:
-            break
-
-        index += 1
-
-
-print(count)
+s = input().strip()
+n = len(s)
+m = n + 1
+dp = [m] * 26
+x = cnt = ans = 0
+for i in range(n):
+    j = ord(s[i]) - 97
+    if dp[j] == m:
+        if cnt < k:
+            cnt += 1
+        else:
+            y = min(dp)
+            z = dp.index(y)
+            dp[z] = m
+            x = y + 1
+    dp[j] = i
+    if cnt == k:
+        y = min(dp)
+        ans += y - x + 1
+print(ans)
