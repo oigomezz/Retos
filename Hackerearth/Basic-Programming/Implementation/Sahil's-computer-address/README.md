@@ -1,4 +1,4 @@
-# Sahil's computer address
+# [Sahil's computer address][link]
 
 Given a String S, you need to report if the given String is a valid IP Address :
 
@@ -16,3 +16,5 @@ The first and only line of input contains the string S. The string shall consist
 ## Output format
 
 Print the "YES" or "NO" answer on a single line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sahils-computer-address-20/

@@ -1,13 +1,16 @@
-import re
-regex = "^((25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.){3}(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])$"
-
-
-def check(n):
-    if (re.search(regex, n)):
-        print("YES")
+s = input().strip()
+parts = s.split('.')
+if len(parts) != 4:
+    print('NO')
+else:
+    for part in parts:
+        try:
+            val = int(part)
+            if val < 0 or val > 255:
+                print('NO')
+                break
+        except ValueError:
+            print('NO')
+            break
     else:
-        print("NO")
-
-
-n = input()
-check(n)
+        print('YES')
