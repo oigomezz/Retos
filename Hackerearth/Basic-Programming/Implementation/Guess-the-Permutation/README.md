@@ -1,4 +1,4 @@
-# Guess the Permutation
+# [Guess the Permutation][link]
 
 In this problem your goal is to guess some secret permutation A of integers from 1 to 16.
 
@@ -11,3 +11,5 @@ There are 17 tests in this problem. Test number i for 1 <= i <= 16 will have the
 Input of the last (the 17-th test) will contain the only string "PERMUTATION" (without quotes). For this test your program should output some permutation of integers from 1 to 16 - your variant of the secret permutation.
 
 If this permutation equals to the secret permuation A and passes all the 17 tests with your solution , you will receive 100 points. Otherwise you will receive 0 points. Note that for each wrong try you will receive 20 minutes penalty time after you solved this problem (as in ACM ICPC format)
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/guess-the-permutation-easy-contest/
