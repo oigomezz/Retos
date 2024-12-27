@@ -201,3 +201,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#164** | [`Jiva, The Self Driven Car`](./Implementation/Jiva-The-Self-Driven-Car/README.md)                |
 | **#165** | [`Bear and Chocolate`](./Implementation/Bear-and-Chocolate/README.md)                             |
 | **#166** | [`Bear and Medals`](./Implementation/Bear-and-Medals/README.md)                                   |
+| **#167** | [`Illegible String`](./Implementation/Illegible-String/README.md)                                 |

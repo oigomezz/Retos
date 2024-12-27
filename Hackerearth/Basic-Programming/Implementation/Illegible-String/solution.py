@@ -1,6 +1,5 @@
 n = int(input())
-s = input()
-s2 = s.replace("w", "vv")
-s1 = s2.replace("vv", "w")
-l = [len(s1), len(s2)]
-print(*l)
+s = input().strip()
+s1 = s.replace('w', 'vv')
+s2 = s1.replace('vv', 'w')
+print(len(s2), len(s1))
