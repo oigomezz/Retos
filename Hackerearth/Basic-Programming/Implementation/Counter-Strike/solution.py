@@ -1,5 +1,5 @@
-T = int(input())
-while T > 0:
+t = int(input())
+for _ in range(t):
     l = list(map(int, input().split()))
     N, M, D = tuple(l)
     pos = []
@@ -23,4 +23,3 @@ while T > 0:
         print('YES')
     else:
         print('NO')
-    T -= 1
