@@ -1,4 +1,4 @@
-# War
+# [War][link]
 
 Alice and Bob are playing the legendary game of Age of Empires. They are trying extremely hard to be strategic, and smart - but are failing to do so. They’re newbies at the game, and are just learning the parts of the game.
 
@@ -21,3 +21,5 @@ Help yourself to find the result of the game!
 ## Output format
 
 For each test case print the result.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/
