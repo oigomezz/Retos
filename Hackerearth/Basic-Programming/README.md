@@ -195,3 +195,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#158** | [`The Great Kian`](./Implementation/The-Great-Kian/README.md)                                     |
 | **#159** | [`Utkarsh and Distributing Books`](./Implementation/Utkarsh-and-Distributing-Books/README.md)     |
 | **#160** | [`Shil and Square Sum`](./Implementation/Shil-and-Square-Sum/README.md)                           |
+| **#161** | [`To Take or Not To Take`](./Implementation/To-Take-or-Not-To-Take/README.md)                     |

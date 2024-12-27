@@ -1,4 +1,4 @@
-# To Take or Not To Take
+# [To Take or Not To Take][link]
 
 Pandey needs your help. As you know, he is on the quest to save the princess. After traveling for a number of days, he has finally reached the palace, but one last battle remains to be fought. However he has only one unit of energy left in him. To win the battle, he needs all the energy he can get. So he is searching for the Wizard of GJ.
 
@@ -23,3 +23,5 @@ Each balloon may be of one of the following types:
 ## Output format
 
 For each test case, output a line containing the maximum energy Pandey can make with the given balloons offered by GJ. Pandey starts with energy equal to one.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/totakeornottotake/
