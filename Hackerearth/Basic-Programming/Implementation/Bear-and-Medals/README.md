@@ -1,4 +1,4 @@
-# Bear and Medals
+# [Bear and Medals][link]
 
 Limak is a little bear who loves sports. He has been waiting so long for the Day of Sport in his school. But it's today and he is late!
 
@@ -16,3 +16,5 @@ Limak hopes he didn't skip many contests. He knows only numbers of medals awarde
 ## Output format
 
 For each test case find the minimum number of contests and print it in the single line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bear-and-medals/
