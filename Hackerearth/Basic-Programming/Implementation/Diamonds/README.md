@@ -1,4 +1,4 @@
-# Diamonds
+# [Diamonds][link]
 
 Roman loved diamonds. Monica decided to give him a beautiful gift on Valentine's Day. Her idea of diamonds was different though. She lit up all the windows of her rectangular building with N floors and M windows on each floor, with 2 shapes - / or \ .
 
@@ -16,3 +16,5 @@ Given the shape of lights in all the windows, help Roman count the number of dia
 ## Output format
 
 Print a single integer - the total no. of diamonds formed.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/diamonds-4/
