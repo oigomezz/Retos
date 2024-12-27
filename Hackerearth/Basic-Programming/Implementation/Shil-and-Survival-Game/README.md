@@ -1,4 +1,4 @@
-# Shil and Survival Game
+# [Shil and Survival Game][link]
 
 The Mad King arrested Shil's comrades for participating in a rebellion against the King. Instead of punishing them with death, the King decided to play the Game of survival with them. The game is played as follows:
 
@@ -19,3 +19,5 @@ Given N integers denoting the strengths of comrades, you must print the position
 ## Output format
 
 Print the positions of comrades standing in line who could be one of the two possible survivors in any possible game. You must print the positions in an increasingly sorted manner.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shil-and-survival-game/
