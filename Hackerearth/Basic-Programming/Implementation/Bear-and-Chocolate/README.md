@@ -1,4 +1,4 @@
-# Bear and Chocolate
+# [Bear and Chocolate][link]
 
 Limak is a little polar bear. Today he found something delicious in the snow. It's a square bar of chocolate with N x N pieces. Some pieces are special because there are cherries on them. You might be surprised by cherries on a chocolate but you've never been on the Arctic Circle, have you?
 
@@ -19,3 +19,5 @@ For each test case the first line contains one integer number N, denoting size o
 ## Output format
 
 For each test case output an answer in the single line. If Limak can break a chocolate according to rules above print YES. Otherwise, print NO.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bear-and-chocolate/
