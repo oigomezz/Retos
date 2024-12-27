@@ -1,11 +1,27 @@
+from collections import Counter
+
 t = int(input())
-while t > 0:
+for _ in range(t):
     n = int(input())
-    arr = list(map(int, input().split()))
-    k = 0
-    for i in range(len(arr)-1):
-        for j in range(i+1, len(arr)):
-            if (arr[i] != arr[j] and (arr[i]+arr[j]) % 2 == 0):
-                k += 1
-    print(k)
-    t -= 1
+    elements = list(map(int, input().strip().split()))
+    evens = []
+    odds = []
+    for i in elements:
+        if i % 2:
+            odds.append(i)
+        else:
+            evens.append(i)
+    counter_evens = Counter(evens)
+    counter_odds = Counter(odds)
+    count = 0
+    len_odds = len(odds)
+    for i in range(len_odds):
+        j = odds[i]
+        count += len_odds - counter_odds[j] - i
+        counter_odds[j] -= 1
+    len_evens = len(evens)
+    for i in range(len_evens):
+        j = evens[i]
+        count += len_evens - counter_evens[j] - i
+        counter_evens[j] -= 1
+    print(count)

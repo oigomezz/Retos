@@ -1,4 +1,4 @@
-# The Savior
+# [The Savior][link]
 
 Fatal Eagle is trying his best to save his city, but he's failing to do so. He knows he needs some external help; some guidance, something... something out of ordinary to defeat this powerful enemy called Mr. XYZ.
 
@@ -21,3 +21,5 @@ Let's say that he had a list of 4 numbers: [1, 2, 3, 4] His answer would be: 2. 
 ## Output format
 
 You need to output the number of required pairs.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/
