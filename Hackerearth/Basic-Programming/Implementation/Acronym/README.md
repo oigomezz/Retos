@@ -1,4 +1,4 @@
-# Acronym
+# [Acronym][link]
 
 W.T.H.S.E.C
 
@@ -19,3 +19,5 @@ All words will consist of lowercase English alphabets(a-z)
 ## Output format
 
 In a single line print the required acronym. The Acronym should be printed in Upper Case English alphabets separated by "." (dots).
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/acronym-2/

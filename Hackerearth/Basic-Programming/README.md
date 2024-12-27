@@ -202,3 +202,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#165** | [`Bear and Chocolate`](./Implementation/Bear-and-Chocolate/README.md)                             |
 | **#166** | [`Bear and Medals`](./Implementation/Bear-and-Medals/README.md)                                   |
 | **#167** | [`Illegible String`](./Implementation/Illegible-String/README.md)                                 |
+| **#168** | [`Acronym`](./Implementation/Acronym/README.md)                                                   |
