@@ -1,4 +1,4 @@
-# Recursive Sums
+# [Recursive Sums][link]
 
 Little Bear has received a home assignment to find the sum of all digits in a number N. Following his affinity towards single digit number, he intends to repeatedly compute the sum of all digits until the sum itself becomes a single digit number.
 
@@ -17,3 +17,5 @@ For example, {(2,1), (1,2), (2,9)} represents the number 11299.
 ## Output format
 
 Print the single-digit sum for each of the T test cases in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/recursive-sums/

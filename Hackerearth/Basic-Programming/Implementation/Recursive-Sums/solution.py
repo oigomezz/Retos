@@ -1,11 +1,12 @@
-T = int(input())
-while T > 0:
-    M = int(input())
-    total_sum = 0
-    for _ in range(M):
-        len_i, d_i = map(int, input().split())
-        total_sum += len_i * d_i
-        while total_sum > 9:
-            total_sum = sum(int(digit) for digit in str(total_sum))
-    print(total_sum)
-    T -= 1
+t = int(input())
+for _ in range(t):
+    m = int(input())
+    total = 0
+    for _ in range(m):
+        length, d = map(int, input().strip().split())
+        total += length * d
+    if not total:
+        print(0)
+    else:
+        total %= 9
+        print(total if total else 9)
