@@ -1,4 +1,4 @@
-# Battle Of Words
+# [Battle Of Words][link]
 
 Alice and Bob are fighting over who is a superior debater. However they wish to decide this in a dignified manner. So they decide to fight in the Battle of Words.
 
@@ -17,3 +17,5 @@ Alice is worried about the outcome of this fight. She wants your help to evaluat
 ## Output format
 
 For each game, output consists of one line each containing "You win some." if she wins ,"You lose some." if she loses or "You draw some." otherwise.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/battle-of-words/

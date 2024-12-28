@@ -221,3 +221,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#184** | [`Fashion Line`](./Implementation/Fashion-Line/README.md)                                         |
 | **#185** | [`Strings`](./Implementation/Strings/README.md)                                                   |
 | **#186** | [`AABBAAC`](./Implementation/AABBAAC/README.md)                                                   |
+| **#187** | [`Battle Of Words`](./Implementation/Battle-of-Words/README.md)                                   |
