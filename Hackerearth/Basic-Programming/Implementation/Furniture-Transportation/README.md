@@ -1,4 +1,4 @@
-# Furniture Transportation
+# [Furniture Transportation][link]
 
 The warehouse of Urban ladder in Bangalore has n packages containing furniture. As the warehouse cannot accommodate all of them, the warehouse manager has decided to transfer m of the packages to a warehouse located in Chennai.
 
@@ -18,3 +18,5 @@ The first line of input will contain three space separated integers n (1 ≤�
 ## Output format
 
 Print a single integer — the number of ways you can choose the m packages.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/furniture-transportation-2/

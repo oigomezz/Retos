@@ -1,12 +1,14 @@
-n, l, m = map(int, input().split())
-A = [int(x) for x in input().split()]
-count2 = 0
-for i in range(n-m+1):
-    B = A[i:i+m]
-    count = 0
-    for j in B:
-        if j <= l:
-            count += 1
-            if count == len(B):
-                count2 += 1
-print(count2)
+n, l, m = map(int, input().strip().split())
+packages = list(map(int, input().strip().split()))
+choose = 0
+for i in range(m):
+    if packages[i] > l:
+        choose += 1
+ways = int(not choose)
+for i in range(m, n):
+    if packages[i] > l:
+        choose += 1
+    if packages[i - m] > l:
+        choose -= 1
+    ways += not choose
+print(ways)
