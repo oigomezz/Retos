@@ -1,4 +1,4 @@
-# Shil and Palindrome
+# [Shil and Palindrome][link]
 
 Shil is your new boss and he likes palindromes very much. Palindrome is a string that can be read the same way in either direction, from the left to the right and from the right to the left. (ex. madam , aabaa, racecar)
 
@@ -13,3 +13,5 @@ Only line of input contains string S. All the letters of this string will be in 
 ## Output format
 
 Output lexicographical minimum Palindrome that can be formed by rearranging all the letters of string S. If no such Palindrome exist for given input, print -1.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shil-and-palindrome/
