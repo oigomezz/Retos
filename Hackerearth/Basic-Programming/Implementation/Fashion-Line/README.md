@@ -1,4 +1,4 @@
-# Fashion Line
+# [Fashion Line][link]
 
 Rachel works at a big fashion organization. There is a big event coming up and she has to select dresses for an exhibition.
 
@@ -13,3 +13,5 @@ The first line of the input contains T, the number of test cases. The first line
 ## Output format
 
 For each test case, output the number of ways to select A and B.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fashion-line-1/

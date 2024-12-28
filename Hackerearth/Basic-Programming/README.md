@@ -218,3 +218,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#181** | [`Perfect Baseline`](./Implementation/Perfect-Baseline/README.md)                                 |
 | **#182** | [`New game of Oz`](./Implementation/New-Game-of-Oz/README.md)                                     |
 | **#183** | [`2 Fast 2 Furious`](./Implementation/2-Fast-2-Furious/README.md)                                 |
+| **#184** | [`Fashion Line`](./Implementation/Fashion-Line/README.md)                                         |
