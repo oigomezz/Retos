@@ -222,3 +222,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#185** | [`Strings`](./Implementation/Strings/README.md)                                                   |
 | **#186** | [`AABBAAC`](./Implementation/AABBAAC/README.md)                                                   |
 | **#187** | [`Battle Of Words`](./Implementation/Battle-of-Words/README.md)                                   |
+| **#188** | [`Palindromic Ciphers`](./Implementation/Palindromic-Ciphers/README.md)                           |

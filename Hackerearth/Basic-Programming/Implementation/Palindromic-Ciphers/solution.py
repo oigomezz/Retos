@@ -9,6 +9,5 @@ for i in range(t):
         s = 1
         for i in res:
             au = st.find(i)
-            # print(au)
             s = s * (au+1)
         print(s)
