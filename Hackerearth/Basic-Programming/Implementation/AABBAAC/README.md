@@ -1,4 +1,4 @@
-# AABBAAC
+# [AABBAAC][link]
 
 You are given an array S of N strings numbered from 0 to N-1. You build string sequence Ti by the following rules:
 
@@ -17,3 +17,5 @@ Now please answer M queries: by non-negative integer x output x-th character of 
 ## Output format
 
 Output T lines. Each line should contain one string containing answers for the corresponding test case. Don't separate answers which belong to one test case by whitespaces or anything else.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/aabbaac/
