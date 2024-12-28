@@ -1,4 +1,4 @@
-# 2 Fast 2 Furious
+# [2 Fast 2 Furious][link]
 
 Dom and Brian were trying to evade the truck drivers of Verone's gang. They were too fast, too furious for them, and could get away from the truck drivers easily. They decided to race with each other, and divided the city into N checkpoints for the same. Mia was monitoring Dom and Brian throughout the race and she noted down their speeds at every checkpoint.
 
@@ -18,3 +18,5 @@ Note: Both negative and positive changes have to be considered. Hence, absolute 
 - Print who had the maximum change in speed between 2 consecutive checkpoints - Dom or Brian.
 - If both have equal maximum change in speed, print "Tie".
 - Print a single integer on a new line - the maximum absolute change in speed between 2 consecutive checkpoints.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/2-fast-2-furious/
