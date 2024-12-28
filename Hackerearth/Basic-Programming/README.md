@@ -223,3 +223,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#186** | [`AABBAAC`](./Implementation/AABBAAC/README.md)                                                   |
 | **#187** | [`Battle Of Words`](./Implementation/Battle-of-Words/README.md)                                   |
 | **#188** | [`Palindromic Ciphers`](./Implementation/Palindromic-Ciphers/README.md)                           |
+| **#189** | [`Roy and Texting Robot`](./Implementation/Roy-and-Texting-Robot/README.md)                       |

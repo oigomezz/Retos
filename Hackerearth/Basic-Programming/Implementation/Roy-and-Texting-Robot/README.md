@@ -1,4 +1,4 @@
-# Roy and Texting Robot
+# [Roy and Texting Robot][link]
 
 Roy frequently needs to use his old Nokia cell phone for texting whose keypad looks exactly as shown below.
 
@@ -24,3 +24,5 @@ Finally it moves from key 2 to key 5 in 1 second and then 2 seconds to type "k".
 ## Output format
 
 For each test case output the time taken by the hand-robot to type down the message.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-texting-robot-2/
