@@ -213,3 +213,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#176** | [`Furniture Transportation`](./Implementation/Furniture-Transportation/README.md)                 |
 | **#177** | [`Car Names`](./Implementation/Car-Names/README.md)                                               |
 | **#178** | [`Prateek and his Friends`](./Implementation/Prateek-and-his-Friends/README.md)                   |
+| **#179** | [`Very Cool Numbers`](./Implementation/Very-Cool-Numbers/README.md)                               |

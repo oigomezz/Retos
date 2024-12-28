@@ -1,5 +1,5 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     r, k = map(int, input().split())
     cool = 0
 
@@ -22,4 +22,3 @@ while t > 0:
             cool += 1
 
     print(cool)
-    t -= 1
