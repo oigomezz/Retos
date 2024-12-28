@@ -1,6 +1,5 @@
 t = int(input())
-while t > 0:
-    t -= 1
+for _ in range(t):
     s = input().strip()
     l = len(s)
 

@@ -1,4 +1,4 @@
-# Car Names
+# [Car Names][link]
 
 Brian built his own car and was confused about what name he should keep for it. He asked Roman for help. Roman being his good friend, suggested a lot of names.
 Brian only liked names that:
@@ -16,3 +16,5 @@ Given N names suggested by Roman, print "OK" if Brian likes the name and "Not OK
 ## Output format
 
 For each name, Print "OK" if the name satisfies the criteria, else print "Not OK", on a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/car-names-4/
