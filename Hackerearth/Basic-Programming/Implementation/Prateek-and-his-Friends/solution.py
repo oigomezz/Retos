@@ -1,5 +1,5 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     n, m = map(int, input().split())
     l = []
     for _ in range(n):
@@ -22,4 +22,3 @@ while t > 0:
         print("YES")
     else:
         print("NO")
-    t -= 1

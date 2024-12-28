@@ -1,4 +1,4 @@
-# Prateek and his Friends
+# [Prateek and his Friends][link]
 
 Prateek wants to give a party to his N friends on his birthday, where each friend is numbered from 1 to N. His friends are asking for a gift to come to the party, instead of giving him one. The cost of the gifts are given in the array Value where ith friend asks for a gift which has a cost Costi.
 
@@ -16,3 +16,5 @@ If he can invite his friends, who can satisfy the above condition then, print YE
 ## Output format
 
 Output exactly T lines, each containing the answer to the corresponding test case.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/prateek-and-his-friends/

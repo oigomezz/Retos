@@ -212,3 +212,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#175** | [`The art of verification`](./Implementation/The-Art-of-Verification/README.md)                   |
 | **#176** | [`Furniture Transportation`](./Implementation/Furniture-Transportation/README.md)                 |
 | **#177** | [`Car Names`](./Implementation/Car-Names/README.md)                                               |
+| **#178** | [`Prateek and his Friends`](./Implementation/Prateek-and-his-Friends/README.md)                   |
