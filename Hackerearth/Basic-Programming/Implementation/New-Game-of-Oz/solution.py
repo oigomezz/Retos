@@ -1,5 +1,5 @@
 t = int(input())
-while t > 0:
+for _ in range(t):
     n = int(input())
     arr = list(map(int, input().split()))
     arr.sort()
@@ -11,4 +11,3 @@ while t > 0:
         if arr[i] != 0:
             count += 1
     print(count)
-    t -= 1

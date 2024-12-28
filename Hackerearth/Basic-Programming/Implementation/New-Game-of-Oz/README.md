@@ -1,4 +1,4 @@
-# New Game of Oz
+# [New Game of Oz][link]
 
 Today Oz is playing a new game. He has an array arr[] of N distinct integers . In each turn he is will follow two actions:
 
@@ -17,3 +17,5 @@ Oz will make turns until arr[] becomes empty. Oz loves this game so he wants to 
 ## Output format
 
 For each test case output maximum number of possible turns that Oz can make.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/new-game-of-oz/
