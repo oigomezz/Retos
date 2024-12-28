@@ -1,4 +1,4 @@
-# Perfect Baseline
+# [Perfect Baseline][link]
 
 A particular name-recording system is used by N employees of a firm. Everyday, they have to enter their names into the system.
 
@@ -18,3 +18,5 @@ Note that after an employee has finished entering his/her name, the system reset
 ## Output format
 
 Output exactly T strings, each contains the answer to the corresponding test case.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/perfect-baseline/
