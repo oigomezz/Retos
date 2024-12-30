@@ -1,4 +1,4 @@
-# Soft Sort
+# [Soft Sort][link]
 
 Let us define an easy Sorting Algorithm called SoftSort. SoftSort Sorting algorithm involves use of IF and ELSE decision statements only. For example :
 
@@ -56,3 +56,5 @@ What could be the length of source code to sort n numbers using SoftSort Algorit
 ## Output format
 
 Output consists of t lines each describing the length of Source Code written to sort n numbers given by ANI in each corresponding Test Case. Since the answer can be very large so print output modulo 10^9+7.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/softsort-7/
