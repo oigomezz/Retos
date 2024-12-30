@@ -1,4 +1,4 @@
-# Chess Tournament
+# [Chess Tournament][link]
 
 2^N participants (P1 , P2 , P3 .... , P2^N ) have enrolled for a knockout chess tournament. In the first round, each participant P2k-1 is to play against participant P2k, (1 ≤ k ≤ 2^N-1) . Here is an example for k = 4 :
 
@@ -14,3 +14,5 @@ The first line consists of N. Then, 2^N-1 lines follow, the ith line consisting 
 ## Output format
 
 A single integer denoting the id of the winner of the tournament.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chess-tournament-4/

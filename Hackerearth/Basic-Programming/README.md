@@ -227,3 +227,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#190** | [`Shil and Palindrome`](./Implementation/Shil-and-Palindrome/README.md)                           |
 | **#191** | [`Sherlock and Special Count`](./Implementation/Sherlock-and-Special-Count/README.md)             |
 | **#192** | [`Sherlock and Dates`](./Implementation/Sherlock-and-Dates/README.md)                             |
+| **#193** | [`Chess Tournament`](./Implementation/Chess-Tournament/README.md)                                 |
