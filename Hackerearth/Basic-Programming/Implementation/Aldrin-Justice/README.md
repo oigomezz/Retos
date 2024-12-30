@@ -1,4 +1,4 @@
-# Aldrin Justice
+# [Aldrin Justice][link]
 
 Lily Aldrin, as the slap bet commissioner, needs to resolve issues regarding slap bets due with Barney and Marshall. She has mandated that there be a fixed period of time in which the slaps may be used.
 
@@ -16,3 +16,5 @@ So, she draws two lines representing the given two time slots, each of Barney an
 ## Output format
 
 The output file should contain answer to each query in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/aldrin-justice/
