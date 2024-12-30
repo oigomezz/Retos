@@ -1,11 +1,12 @@
-def ratio(string):
-    k = len(string)
-    string = string[:-4]
-    jhool = [i for i in string if (i not in "AEIOUaeiou")]
-    return str(len(jhool))+"/"+str(k)
-
-
 t = int(input())
-for i in range(t):
-    value = input().strip()
-    print(ratio(value))
+for _ in range(t):
+    s = input()
+    n = len(s)
+    c = 0
+    for j in range(4, n-4):
+        if (s[j] != 'a') and (s[j] != 'e') and (s[j] != 'i') and (s[j] != 'o') and (s[j] != 'u'):
+            c += 1
+
+    print(c+4, end='')
+    print('/', end='')
+    print(n)

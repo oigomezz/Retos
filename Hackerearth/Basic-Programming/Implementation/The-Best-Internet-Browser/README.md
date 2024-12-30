@@ -1,4 +1,4 @@
-# The Best Internet Browser
+# [The Best Internet Browser][link]
 
 In the race for the best Internet browser, there's now a new contender for it, this browser is called the: "The Semantic Mind-Reader!" After its promo on the world wide web, everyone's been desperately waiting for the browser to be released. And why shouldn't they be curious about it, after all, it's the new project of our very own genius "Little Jhool!" He's worked very hard for this browser, and to add new mind reading features to it.
 
@@ -19,3 +19,5 @@ Now to convince users that his browser will indeed save A LOT of time for users 
 ## Output format
 
 You have to print the ratio of characters you would have typed in Jhool's browser, to your normal browser.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-best-internet-browser-3/
