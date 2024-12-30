@@ -1,4 +1,4 @@
-# Sherlock and Dates
+# [Sherlock and Dates][link]
 
 Watson was observing in calendar dates of form DD:MM:YYYY. He considers a date to be lucky if
 
@@ -16,3 +16,5 @@ Now comes Sherlock and Watson gives him two dates, say D1 and D2, and asks him h
 ## Output format
 
 For each test case, print the required answer in one line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-dates/
