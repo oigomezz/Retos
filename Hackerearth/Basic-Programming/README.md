@@ -225,3 +225,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#188** | [`Palindromic Ciphers`](./Implementation/Palindromic-Ciphers/README.md)                           |
 | **#189** | [`Roy and Texting Robot`](./Implementation/Roy-and-Texting-Robot/README.md)                       |
 | **#190** | [`Shil and Palindrome`](./Implementation/Shil-and-Palindrome/README.md)                           |
+| **#191** | [`Sherlock and Special Count`](./Implementation/Sherlock-and-Special-Count/README.md)             |
