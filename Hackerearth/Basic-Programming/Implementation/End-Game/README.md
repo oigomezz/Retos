@@ -1,4 +1,4 @@
-# End Game
+# [End Game][link]
 
 Black and White are playing a game of chess on a chess board of n X n dimensions. The game is nearing its end. White has his King and a Pawn left. Black has only his King left. So, definitely Black cannot win the game. However, Black can drag the game towards a draw, and, he can do this only if he captures White's only left pawn. White knows exactly what he must do so that he wins the game. He is aware of the fact that if his Pawn reaches Row 'n' (topmost row as seen by White) , he is allowed to replace that Pawn by a Queen. Since White plays chess regularly, he knows how to beat the opponent in a situation in which the opponent has only a King left and he (White) has a King as well as a Queen left. The current scenario of the game will be given to you. You must tell whether this game will end with a Draw or will it end with White winning.
 
@@ -29,3 +29,5 @@ First line consists of T, the number of test cases. Every test case comprises of
 ## Output format
 
 For every test case, print a single line, 'Draw' is the game ends as a draw or 'White Wins' if the game ends in white winning.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/end-game/
