@@ -231,3 +231,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#194** | [`Rahul's Logo`](./Implementation/Rahul's-Logo/README.md)                                         |
 | **#195** | [`Roy's Life Cycle`](./Implementation/Roy's-Life-Cycle/README.md)                                 |
 | **#196** | [`Passing the Parcel`](./Implementation/Passing-the-Parcel/README.md)                             |
+| **#197** | [`Little Jhool and Brute Force`](./Implementation/Little-Jhool-and-Brute-Force/README.md)         |
