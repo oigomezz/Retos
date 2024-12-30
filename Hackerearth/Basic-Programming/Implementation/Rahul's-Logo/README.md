@@ -1,4 +1,4 @@
-# Rahul's Logo
+# [Rahul's Logo][link]
 
 Rahul has set upon the quest for a new logo of his company. He has created the following continuous logo.
 
@@ -21,3 +21,5 @@ Each file has just one line containing integer N.
 ## Output format
 
 Output the two logos, one below the other.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rahuls-logo/
