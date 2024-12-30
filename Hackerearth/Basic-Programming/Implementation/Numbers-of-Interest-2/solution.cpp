@@ -1,60 +1,31 @@
-#include <iostream>
-#include <cstdio>
-#include <cstring>
-
+#include <bits/stdc++.h>
 using namespace std;
-
-long long f[1000005];
-long long ans[1000005];
-long long arr[1000005];
-
-void markMultiples(long long a)
-{
-    long long i = 2, num;
-    while ((num = i * a) <= 1000005)
-    {
-        if (arr[num] == 0)
-            arr[num] += a;
-        ++i;
-    }
-}
-
-void SieveOfEratosthenes()
-{
-    for (long long i = 2; i < 1000005; ++i)
-    {
-        if (arr[i] == 0)
-        {
-            arr[i] = (arr[i - 1] + i);
-            markMultiples(i);
-        }
-        else
-            arr[i] += arr[i - 1];
-    }
-}
 
 int main()
 {
-    SieveOfEratosthenes();
-    memset(f, 0, sizeof(f));
-    memset(ans, 0, sizeof(ans));
-    long long i = 0, j = 0;
-    for (i = 1; i <= (1000002 / 2); i++)
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int spf[1000001], sum_divisors[1000001];
+    for (int i = (2); i <= (1000001); ++i)
+        if (!spf[i])
+            for (int j = i; j <= 1000001; j += i)
+                if (!spf[j])
+                    spf[j] = i;
+    for (int i = (1); i <= (1000001); ++i)
+        for (int m = i; m <= 1000001; m += i)
+            sum_divisors[m] += i;
+    for (int i = (1); i <= (1000001); ++i)
     {
-        for (j = i + i; j < 1000002; j += i)
-        {
-            f[j] += i;
-        }
+        sum_divisors[i] -= i;
+        sum_divisors[i] += sum_divisors[i - 1];
+        spf[i] += spf[i - 1];
     }
-    for (i = 2; i < 1000002; i++)
-        ans[i] = ans[i - 1] + f[i];
-    int t;
-    scanf("%d", &t);
-    while (t--)
+    int T;
+    cin >> T;
+    while (T--)
     {
-        long long n;
-        scanf("%lld", &n);
-        printf("%lld\n", (ans[n] + arr[n]) % n);
+        int n;
+        cin >> n;
+        cout << (spf[n] + sum_divisors[n]) % n << endl;
     }
-    return 0;
 }
