@@ -1,19 +1,31 @@
-T = int(input().strip())
-str_input = input().strip()
-v = list(range(1, T + 1))
-songindex = 0
-pindex = 0
+n = int(input())
+st = [True]*n
+song = input()
+ne = len(song)
+c = 0
+j = 0
+i = 0
+while c < n-1:
+    if i >= ne:
+        i = i % ne
+    if j >= n:
+        j = j % n
+    if song[i] == 'a':
+        if st[j] != False:
+            i += 1
+            j += 1
+        else:
+            j += 1
+    elif song[i] == 'b':
+        if st[j] != False:
+            c += 1
+            i += 1
+            st[j] = False
+            j += 1
+        else:
+            j += 1
 
-while True:
-    if pindex == len(v):
-        pindex = 0
-    if songindex == len(str_input):
-        songindex = 0
-    if len(v) == 1:
-        print(v[0])
+for i in range(len(st)):
+    if st[i] == True:
+        print(i+1)
         break
-    if str_input[songindex] == 'a':
-        pindex += 1
-    else:
-        v.pop(pindex)
-    songindex += 1

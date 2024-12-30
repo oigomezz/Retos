@@ -1,4 +1,4 @@
-# Passing the Parcel
+# [Passing the Parcel][link]
 
 Have you ever been a part of the exciting game Passing the Parcel ? Sid is on a school picnic with his classmates. The teacher decides to make the whole class play the game of Passing the Parcel. Since the winner of the game gets lots of chocolates and ice cream as his/her prize, all the students are over-excited about the game, including Sid. Here are the rules of the game:
 
@@ -21,3 +21,5 @@ The input consists of 2 lines. The first line consists of N, the number of stude
 ## Output format
 
 Print a single integer denoting the roll number of the student who wins the game.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/passing-the-parcel/
