@@ -1,4 +1,4 @@
-# Roy and Cipher Disk
+# [Roy and Cipher Disk][link]
 
 Roy's friends has been spying on his text messages, so Roy thought of an algorithm to encrypt text messages.
 
@@ -22,3 +22,5 @@ Roy needs your help in implementing this algorithm. Given a Plain Text message, 
 
 - For each test case, print the encrypted form of given string in new line.
 - Each line should consist of space separated integers in the range [-12,13].
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-cipher-disk/
