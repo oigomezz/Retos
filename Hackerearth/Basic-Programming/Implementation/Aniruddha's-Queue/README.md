@@ -1,4 +1,4 @@
-# Aniruddha's Queue
+# [Aniruddha's Queue][link]
 
 Aniruddha is given a milestone M to reach in terms of distance. He is living in a different Galaxy where there are N days in a year.At the ith day he can walk atmost X distance.Assuming he walks optimally you need to output the minimum day number on which he will reach the milestone.
 
@@ -13,3 +13,5 @@ Aniruddha is given a milestone M to reach in terms of distance. He is living in 
 ## Output format
 
 For each testcase you need to output the answer to the following query.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/aniruddhas-queue-4/
