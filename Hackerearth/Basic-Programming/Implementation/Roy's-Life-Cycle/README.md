@@ -20,4 +20,4 @@ Coding streak means number of C's without any E or S in between.
 
 Print X and Y separated by a space in a single line.
 
-[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roys-life-cycle-44/
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roys-life-cycle/

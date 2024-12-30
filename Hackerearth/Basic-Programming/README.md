@@ -229,3 +229,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#192** | [`Sherlock and Dates`](./Implementation/Sherlock-and-Dates/README.md)                             |
 | **#193** | [`Chess Tournament`](./Implementation/Chess-Tournament/README.md)                                 |
 | **#194** | [`Rahul's Logo`](./Implementation/Rahul's-Logo/README.md)                                         |
+| **#195** | [`Roy's Life Cycle`](./Implementation/Acronym/README.md)                                                   |
