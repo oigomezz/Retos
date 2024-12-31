@@ -248,3 +248,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#211** | [`Game of Coins`](./Implementation/Game-of-Coins/README.md)                                       |
 | **#212** | [`Cricket Rating`](./Implementation/Cricket-Rating/README.md)                                     |
 | **#213** | [`Mixing Strings`](./Implementation/Mixing-Strings/README.md)                                     |
+| **#214** | [`Matrix Symmetry`](./Implementation/Matrix-Symmetry/README.md)                                   |
