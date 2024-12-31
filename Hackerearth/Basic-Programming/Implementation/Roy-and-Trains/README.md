@@ -1,4 +1,4 @@
-# Roy and Trains
+# [Roy and Trains][link]
 
 Roy and Alfi reside in two different cities, Roy in city A and Alfi in city B. Roy wishes to meet her in city B.
 
@@ -16,3 +16,5 @@ If its not possible to reach city B, print "-1" instead (without quotes).
 ## Output format
 
 Print the integral result, minimum time (in minutes) to reach city B in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-trains-2/
