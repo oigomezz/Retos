@@ -1,4 +1,4 @@
-# Mixing Strings
+# [Mixing Strings][link]
 
 Heisenberg is very fond of mixing various strings together. But he has storage problem. He wants that his strings use as less space as possible.
 
@@ -18,3 +18,5 @@ Given the list of strings he has right now, print the minimum final characters h
 ## Output format
 
 Print in one line the minimum final characters he can get if he can mix any number of times, any of the given strings or the intermediate strings.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/mixing-strings-1/
