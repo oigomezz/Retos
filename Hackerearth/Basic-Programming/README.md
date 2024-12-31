@@ -242,3 +242,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#205** | [`Soft Sort`](./Implementation/Soft-Sort/README.md)                                               |
 | **#206** | [`Palindromic Numbers`](./Implementation/Palindromic-Numbers/README.md)                           |
 | **#207** | [`Little Jhool and his breakup`](./Implementation/Little-Jhool-and-his-Breakup/README.md)         |
+| **#208** | [`Little Jhool and psychic powers`](./Implementation/Little-Jhool-and-Psychic-Powers/README.md)   |
