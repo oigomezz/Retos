@@ -1,10 +1,21 @@
+from collections import Counter
+
 t = int(input())
-while (t != 0):
-    num = []
+alpha = "qwertyuiopasdfghjklzxcvbnm"
+for i in range(t):
     s = input()
-    ds = set(s)
-    if (len(ds) == 26):
+    l = []
+    d = dict(Counter(s))
+    for k in d.keys():
+        l.append(k)
+    for j in alpha:
+        if j in l:
+            val = 1
+            continue
+        if j not in l:
+            val = 0
+            break
+    if val == 1:
         print("YES")
     else:
         print("NO")
-    t = t-1
