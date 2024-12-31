@@ -25,4 +25,4 @@ Examples of the snake case strings are as follows:
 
 For each test case, print the snake case format of the given camel case in the string S in a new line.
 
-[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/case-conversion-d19fbcfe/
