@@ -1,5 +1,4 @@
-n = int(input())
-while (n != 0):
-    x = int(input())
-    print(x)
-    n -= 1
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    print(n)

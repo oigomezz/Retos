@@ -250,3 +250,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#213** | [`Mixing Strings`](./Implementation/Mixing-Strings/README.md)                                     |
 | **#214** | [`Matrix Symmetry`](./Implementation/Matrix-Symmetry/README.md)                                   |
 | **#215** | [`Special Matrix`](./Implementation/Special-Matrix-2/README.md)                                   |
+| **#216** | [`Special Sum`](./Implementation/Special-Sum/README.md)                                           |

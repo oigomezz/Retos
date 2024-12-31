@@ -1,4 +1,4 @@
-# Special Sum
+# [Special Sum][link]
 
 Special Sum of number N is defined as follows:
 
@@ -30,3 +30,5 @@ Given a N print SpecialSum(N).
 ## Output format
 
 Print in one line for each testcase the required answer.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/special-sum-3/
