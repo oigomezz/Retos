@@ -246,3 +246,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#209** | [`Roy and Coding Contest`](./Implementation/Roy-and-Coding-Contest/README.md)                     |
 | **#210** | [`Roy and Trains`](./Implementation/Roy-and-Trains/README.md)                                     |
 | **#211** | [`Game of Coins`](./Implementation/Game-of-Coins/README.md)                                       |
+| **#212** | [`Cricket Rating`](./Implementation/Cricket-Rating/README.md)                                     |
