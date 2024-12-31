@@ -1,4 +1,4 @@
-# Roy and Coding Contest
+# [Roy and Coding Contest][link]
 
 Roy is going to organize Finals of Coding Contest in his college's computer labs. According to the rules of contest, problem statements will be available on each computer as pdf file.
 
@@ -12,3 +12,5 @@ Now there are N number of computers and only one of them has the pdf file. Roy h
 ## Output format
 
 Print the minimum time (in minutes) for each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-coding-contest/
