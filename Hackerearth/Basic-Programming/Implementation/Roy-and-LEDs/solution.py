@@ -13,5 +13,13 @@ for t in range(T):
 
     colors.append([flag_R, flag_G, flag_B])
 
-print(str(colors.count([1, 0, 0]))+" "+str(colors.count([0, 1, 0]))+" "+str(colors.count([0, 0, 1]))+" "+str(colors.count([1, 1, 0])) +
-      " "+str(colors.count([0, 1, 1]))+" "+str(colors.count([1, 0, 1]))+" "+str(colors.count([1, 1, 1]))+" "+str(colors.count([0, 0, 0])))
+red = str(colors.count([1, 0, 0]))
+green = str(colors.count([0, 1, 0]))
+blue = str(colors.count([0, 0, 1]))
+yellow = str(colors.count([1, 1, 0]))
+cyan = str(colors.count([0, 1, 1]))
+magenta = str(colors.count([1, 0, 1]))
+white = str(colors.count([1, 1, 1]))
+black = str(colors.count([0, 0, 0]))
+
+print(f"{red} {green} {blue} {yellow} {cyan} {magenta} {white} {black}")

@@ -251,3 +251,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#214** | [`Matrix Symmetry`](./Implementation/Matrix-Symmetry/README.md)                                   |
 | **#215** | [`Special Matrix`](./Implementation/Special-Matrix-2/README.md)                                   |
 | **#216** | [`Special Sum`](./Implementation/Special-Sum/README.md)                                           |
+| **#217** | [`Roy and LEDs`](./Implementation/Roy-and-LEDs/README.md)                                         |

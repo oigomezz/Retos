@@ -1,4 +1,4 @@
-# Roy and LEDs
+# [Roy and LEDs][link]
 
 Its Diwali time and there are LED series lights everywhere. Little Roy got curious about how LED lights work.
 
@@ -17,3 +17,5 @@ One line containing space separated integers T, R, G, B
 ## Output format
 
 One line containing 8 space separated integers indicating the number of seconds Red, Green, Blue, Yellow, Cyan, Magenta, White, Black (no light) lights are visible. (See Sample I/O for clarification)
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-leds-6/
