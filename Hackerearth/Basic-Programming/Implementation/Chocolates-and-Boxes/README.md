@@ -1,4 +1,4 @@
-# Chocolates and Boxes
+# [Chocolates and Boxes][link]
 
 Alice has N boxes, and each box has certain non zero number of chocolates. These boxes are numbered from 1 to N.
 
@@ -15,3 +15,5 @@ Alice is planning to go to wonderland. She wants to carry exactly K number of ch
 ## Output format
 
 For each test case, output a single number, the number of ways in which she can select the boxes.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/chocolates-boxes-1/
