@@ -240,3 +240,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#203** | [`Aldrin Justice`](./Implementation/Aldrin-Justice/README.md)                                     |
 | **#204** | [`Roy and Cipher Disk`](./Implementation/Roy-and-Cipher-Disk/README.md)                           |
 | **#205** | [`Soft Sort`](./Implementation/Soft-Sort/README.md)                                               |
+| **#206** | [`Palindromic Numbers`](./Implementation/Palindromic-Numbers/README.md)                           |
