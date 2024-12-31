@@ -1,4 +1,4 @@
-# Little Jhool and his breakup
+# [Little Jhool and his breakup][link]
 
 After minting loads of money from innocent people by using the psychic powers (As we saw in the previous question!) - little Jhool managed to woo his girlfriend big Jhool! And now, he's in love - madly, madly in love with his girlfriend.
 
@@ -13,3 +13,5 @@ There's only one line in the input, it contains the message sent by her boyfrien
 ## Output format
 
 If she managed to understand his message, print "I love you, too!" - else, print "Let us breakup!"
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/little-jhool-and-his-breakup/
