@@ -1,4 +1,4 @@
-# Game of Coins
+# [Game of Coins][link]
 
 Alice and Bob are playing a game of coins. N coins are placed on the table in a row.
 
@@ -20,3 +20,5 @@ Given N, print "Alice" or "Bob" corresponding to who wins the game.
 ## Output format
 
 For each testcase, print the solution.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/game-of-coins/
