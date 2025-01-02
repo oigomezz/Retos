@@ -1,4 +1,4 @@
-# Going to Office
+# [Going to Office][link]
 
 Alice has the following two types of taxis:
 
@@ -18,3 +18,5 @@ You are going to the office from your home. Your task is to minimize the cost th
 ## Output format
 
 If you select an online taxi to travel, then print a string 'Online Taxi'. Otherwise, select 'Classic Taxi'. You can print this string in a new, single line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/going-to-office-e2ef3feb/
