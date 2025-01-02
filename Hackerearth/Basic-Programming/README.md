@@ -278,3 +278,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Parity-Binary Sort`](./Implementation/Parity-Binary-Sort/README.md) |
 | **#03** | [`Range Queries`](./Implementation/Range-Queries/README.md)           |
 | **#04** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)   |
+| **#05** | [`BitwiseBizarro`](./Implementation/BitwiseBizarro/README.md)             |
