@@ -1,4 +1,4 @@
-# Let Us Understand Computer
+# [Let Us Understand Computer][link]
 
 Mr. ABC was recently learning about computer division. Considering the basic model of the computer suppose we wish to divide a number X by D i.e X/D and obtain the result (Note that it is integer division i.e result of 7/2 will be 3).
 
@@ -16,3 +16,5 @@ Now Mr. ABC is given an integer X for T testcases .He wishes to find number of s
 ## Output format
 
 Print the required output for each testcase in new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/let-us-understand-computer-78476e7a/

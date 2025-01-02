@@ -265,6 +265,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Operators](./Operators/README.md)
 
-| N°      | Enunciado                                                       |
-| ------- | --------------------------------------------------------------- |
-| **#01** | [`Going to office`](./Implementation/Going-to-Office/README.md) |
+| N°      | Enunciado                                                               |
+| ------- | ----------------------------------------------------------------------- |
+| **#01** | [`Going to office`](./Implementation/Going-to-Office/README.md)         |
+| **#02** | [`Let Us Understand Computer`](./Implementation/Partitioning/README.md) |
