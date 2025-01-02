@@ -1,4 +1,4 @@
-# Survey Analysis
+# [Survey Analysis][link]
 
 WebEngage empowers companies to collect feedback and gather insights from visitors using survey and notifications.
 
@@ -11,3 +11,5 @@ The input contains 7 lines, depicting Monday to Sunday. Each line contains a str
 ## Output format
 
 Output a single line with the result rounded to 4 decimal places, which is the standard deviation of the 'Yes' count on each day.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/survey-analysis/
