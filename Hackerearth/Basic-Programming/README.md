@@ -258,3 +258,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#221** | [`Power Failure`](./Implementation/Power-Failure/README.md)                                       |
 | **#222** | [`Counting Strings`](./Implementation/Counting-Strings/README.md)                                 |
 | **#223** | [`Teaching how to draw`](./Implementation/Teaching-How-to-Draw/README.md)                         |
+| **#224** | [`What is the string made of?`](./Implementation/What-is-the-string-made-of/README.md)            |
