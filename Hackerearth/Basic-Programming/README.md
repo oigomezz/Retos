@@ -269,3 +269,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | ----------------------------------------------------------------------- |
 | **#01** | [`Going to office`](./Implementation/Going-to-Office/README.md)         |
 | **#02** | [`Let Us Understand Computer`](./Implementation/Partitioning/README.md) |
+
+### [Basics of Bit Manipulation](./Bit-Manipulation/README.md)
+
+| N°      | Enunciado                                                 |
+| ------- | --------------------------------------------------------- |
+| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md) |

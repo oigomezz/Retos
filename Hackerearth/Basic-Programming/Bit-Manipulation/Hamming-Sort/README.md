@@ -1,4 +1,4 @@
-# Hamming Sort
+# [Hamming Sort][link]
 
 Given an array of integers, denoted as A, and an integer K, your task is to implement a sorting algorithm. The goal is to arrange the elements in A based on their Hamming Distance from the integer K.
 
@@ -18,3 +18,5 @@ The first line contains T denoting the number of test cases.T also specifies the
 ## Output format
 
 For each test case, print the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/hamming-sort-09045827/
