@@ -254,4 +254,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#217** | [`Roy and LEDs`](./Implementation/Roy-and-LEDs/README.md)                                         |
 | **#218** | [`Chocolates and Boxes`](./Implementation/Chocolates-and-Boxes/README.md)                         |
 | **#219** | [`Complete String`](./Implementation/Complete-String/README.md)                                   |
-| **#220** | [`Recursive Function`](./Implementation/Partitioning/README.md)                                         |
+| **#220** | [`Recursive Function`](./Implementation/Recursive-Function/README.md)                             |
+| **#221** | [`Power Failure`](./Implementation/Power-Failure/README.md)                                       |
