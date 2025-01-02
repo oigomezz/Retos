@@ -1,4 +1,4 @@
-# Recursive Function
+# [Recursive Function][link]
 
 Implement the recursive function given by the following rules and print the last 3 digits:
 
@@ -11,3 +11,5 @@ A single line containing two integers X,Y
 ## Output format
 
 The last three digits.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/recursive-function/
