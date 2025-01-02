@@ -1,4 +1,4 @@
-# BitwiseBafflement
+# [BitwiseBafflement][link]
 
 You are given an array A of size N. Your task is to find the number of subarrays within the given array such that:
 
@@ -17,3 +17,5 @@ You are given an array A of size N. Your task is to find the number of subarrays
 ## Output format
 
 For each test case, print the number of subarrays within the given array such that the Bitwise AND of all elements in the subarray has an odd number of set bits (i.e., 1s) and Bitwise XOR of all elements in the subarray has an even number of set bits (i.e., 1s) in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/bitwisebafflement-00eabd02/
