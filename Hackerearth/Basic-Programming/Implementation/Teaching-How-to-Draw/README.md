@@ -1,4 +1,4 @@
-# Teaching How to Draw
+# [Teaching How to Draw][link]
 
 HackerMan has brought a new drawing book for his child, which consists only of geometric shapes. Its consists of lessons where the child has to make drawings using the geometric shapes. The first lesson is based on how to use squares to build different objects.
 
@@ -15,3 +15,5 @@ There will be one line of input that will contain an integer N (1 <= N <= 100) w
 ## Output format
 
 Each line should contain a single integer equal to the number of different rectangles that the child can form using the corresponding number of squares in that line of input.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/how-many-buildings-you-can-make-1/

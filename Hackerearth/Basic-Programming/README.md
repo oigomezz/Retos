@@ -256,4 +256,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#219** | [`Complete String`](./Implementation/Complete-String/README.md)                                   |
 | **#220** | [`Recursive Function`](./Implementation/Recursive-Function/README.md)                             |
 | **#221** | [`Power Failure`](./Implementation/Power-Failure/README.md)                                       |
-| **#222** | [`Counting Strings`](./Implementation/Partitioning/README.md)                                         |
+| **#222** | [`Counting Strings`](./Implementation/Counting-Strings/README.md)                                 |
+| **#223** | [`Teaching how to draw`](./Implementation/Teaching-How-to-Draw/README.md)                         |
