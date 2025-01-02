@@ -272,6 +272,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Bit Manipulation](./Bit-Manipulation/README.md)
 
-| N°      | Enunciado                                                 |
-| ------- | --------------------------------------------------------- |
-| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md) |
+| N°      | Enunciado                                                             |
+| ------- | --------------------------------------------------------------------- |
+| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md)             |
+| **#02** | [`Parity-Binary Sort`](./Implementation/Parity-Binary-Sort/README.md) |

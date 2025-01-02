@@ -1,4 +1,4 @@
-# Parity-Binary Sort
+# [Parity-Binary Sort][link]
 
 You are given an array A of N integers. Your task is to implement a sorting algorithm that arranges the numbers in the array based on following conditions and return that array:
 
@@ -19,3 +19,5 @@ For each test case:
 ## Output format
 
 For each test case, print the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/parity-binary-sort-ea768e57/
