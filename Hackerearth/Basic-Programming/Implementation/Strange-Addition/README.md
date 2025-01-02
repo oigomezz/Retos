@@ -1,4 +1,4 @@
-# Strange Addition
+# [Strange Addition][link]
 
 HackerMan has a message that he has coded in form of digits, which means that the message contains only numbers and nothing else. He is fearful that the enemy may get their hands on the secret message and may decode it. HackerMan already knows the message by heart and he can simply destroy it.
 
@@ -15,3 +15,5 @@ The input consists of T test cases. The first line of the input contains only po
 ## Output format
 
 For each case, print exactly one line containing only one integer - the flipped sum of two flipped numbers.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-reversed-numbers/
