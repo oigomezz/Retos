@@ -261,3 +261,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#224** | [`What is the string made of?`](./Implementation/What-is-the-string-made-of/README.md)            |
 | **#225** | [`Survey Analysis`](./Implementation/Survey-Analysis/README.md)                                   |
 | **#226** | [`Strange addition`](./Implementation/Strange-Addition/README.md)                                 |
+| **#227** | [`Inverse List`](./Implementation/Inverse-List/README.md)                                         |

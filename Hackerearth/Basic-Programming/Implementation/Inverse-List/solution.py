@@ -5,4 +5,7 @@ for _ in range(t):
     a = [0]*n
     for i in range(n):
         a[arr[i]-1] = i + 1
-    print("inverse") if a == arr else print("not inverse")
+    if a == arr:
+        print("inverse")
+    else:
+        print("not inverse")

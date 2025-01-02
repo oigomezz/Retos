@@ -1,4 +1,4 @@
-# Inverse List
+# [Inverse List][link]
 
 There are many ways to order a list of integers from 1 to n. For example, if n = 3, the list could be : [3,1,2].
 
@@ -13,3 +13,5 @@ But there is a special way to create another list from the given list of integer
 ## Output format
 
 For each test case, you have to determine whether the list is inverse or not.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/inverse-list/
