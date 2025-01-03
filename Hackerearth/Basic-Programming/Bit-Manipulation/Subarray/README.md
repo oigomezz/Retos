@@ -1,4 +1,4 @@
-# Subarray
+# [Subarray][link]
 
 Given a binary array. Find the minimum number of swap operations to be performed such that the Bitwise AND of any subarray of size > 1 is equal. If it can't be done, print -1. Swap can be defined as interchanging array values at any two indices i and j.
 
@@ -11,3 +11,5 @@ Given a binary array. Find the minimum number of swap operations to be performed
 ## Output format
 
 Print T lines. Each line should contain the answer for that test case.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/subarray-3-3dbc3f50/
