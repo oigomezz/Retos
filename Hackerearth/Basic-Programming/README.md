@@ -280,4 +280,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)                         |
 | **#05** | [`BitwiseBizarro`](./Implementation/BitwiseBizarro/README.md)                               |
 | **#06** | [`Help Alice to find the Parity`](./Implementation/Help-Alice-to-find-the-Parity/README.md) |
-| **#07** | [`Count Subarrays`](./Implementation/BitwiseBafflement/README.md)   |
+| **#07** | [`Count Subarrays`](./Implementation/Count-Subarrays/README.md)                             |
+| **#08** | [`Twin Strings`](./Implementation/Twin-Strings/README.md)                                   |
