@@ -272,10 +272,11 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Bit Manipulation](./Bit-Manipulation/README.md)
 
-| N°      | Enunciado                                                             |
-| ------- | --------------------------------------------------------------------- |
-| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md)             |
-| **#02** | [`Parity-Binary Sort`](./Implementation/Parity-Binary-Sort/README.md) |
-| **#03** | [`Range Queries`](./Implementation/Range-Queries/README.md)           |
-| **#04** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)   |
-| **#05** | [`BitwiseBizarro`](./Implementation/BitwiseBizarro/README.md)             |
+| N°      | Enunciado                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------- |
+| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md)                                   |
+| **#02** | [`Parity-Binary Sort`](./Implementation/Parity-Binary-Sort/README.md)                       |
+| **#03** | [`Range Queries`](./Implementation/Range-Queries/README.md)                                 |
+| **#04** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)                         |
+| **#05** | [`BitwiseBizarro`](./Implementation/BitwiseBizarro/README.md)                               |
+| **#06** | [`Help Alice to find the Parity`](./Implementation/Help-Alice-to-find-the-Parity/README.md) |
