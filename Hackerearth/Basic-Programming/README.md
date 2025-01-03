@@ -284,3 +284,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`Twin Strings`](./Implementation/Twin-Strings/README.md)                                   |
 | **#09** | [`Subarray`](./Implementation/Subarray/README.md)                                           |
 | **#10** | [`XOR Pairs`](./Implementation/XOR-Pairs/README.md)                                         |
+| **#11** | [`Split Permutation`](./Implementation/BitwiseBafflement/README.md)   |

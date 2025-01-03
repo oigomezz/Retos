@@ -1,4 +1,4 @@
-# Split Permutation
+# [Split Permutation][link]
 
 You are given an array A of distinct integers and another array B which is a permutation of array A. Find the maximum number of segments array could be split such that within each segment, Array B is a permutation of array A.
 
@@ -12,3 +12,5 @@ You are given an array A of distinct integers and another array B which is a per
 ## Output format
 
 For each test case, print the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/split-permutation-12616373/
