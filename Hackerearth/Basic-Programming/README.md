@@ -287,3 +287,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#11** | [`Split Permutation`](./Implementation/Split-Permutation/README.md)                         |
 | **#12** | [`Palindrome lover`](./Implementation/Palindrome-Lover/README.md)                           |
 | **#13** | [`MAX AND`](./Implementation/MAX-AND/README.md)                                             |
+| **#14** | [`Max Game`](./Implementation/Max-Game/README.md)                                           |

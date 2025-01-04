@@ -1,4 +1,4 @@
-# Max Game
+# [Max Game][link]
 
 You are given an integer N.
 
@@ -30,3 +30,5 @@ The first line contains the integer N.
 ## Output format
 
 For each test case, print the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-game-2a0793c2/
