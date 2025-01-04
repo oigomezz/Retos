@@ -286,3 +286,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`XOR Pairs`](./Implementation/XOR-Pairs/README.md)                                         |
 | **#11** | [`Split Permutation`](./Implementation/Split-Permutation/README.md)                         |
 | **#12** | [`Palindrome lover`](./Implementation/Palindrome-Lover/README.md)                           |
+| **#13** | [`MAX AND`](./Implementation/MAX-AND/README.md)                                             |

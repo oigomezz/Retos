@@ -1,4 +1,4 @@
-# MAX AND
+# [MAX AND][link]
 
 You are given array A, B each containing N integers. You have to create array C of N integers where Ci = Ai & Bi (Here, & denotes the Bitwise AND operation). You can shuffle elements of A, B however you want. Find maximum value of C1 & C2 & ... & Cn.
 
@@ -14,3 +14,5 @@ You are given array A, B each containing N integers. You have to create array C 
 ## Output format
 
 For each test case, print maximum value of C1 & C2 & ... & Cn in a separate line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-and-f1fbe59d/
