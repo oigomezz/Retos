@@ -291,3 +291,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Costliest Data Plan`](./Implementation/Costliest-Data-Plan/README.md)                     |
 | **#16** | [`Count Pairs`](./Implementation/Count-Pairs/README.md)                                     |
 | **#17** | [`XOR of numbers`](./Implementation/XOR-of-Numbers/README.md)                               |
+| **#18** | [`XOR split`](./Implementation/XOR-split/README.md)                                         |
