@@ -293,3 +293,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#17** | [`XOR of numbers`](./Implementation/XOR-of-Numbers/README.md)                               |
 | **#18** | [`XOR split`](./Implementation/XOR-split/README.md)                                         |
 | **#19** | [`Min Bits`](./Implementation/Min-Bits/README.md)                                           |
+| **#20** | [`Maximum OR`](./Implementation/Maximum-OR/README.md)                                       |
