@@ -290,3 +290,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#14** | [`Max Game`](./Implementation/Max-Game/README.md)                                           |
 | **#15** | [`Costliest Data Plan`](./Implementation/Costliest-Data-Plan/README.md)                     |
 | **#16** | [`Count Pairs`](./Implementation/Count-Pairs/README.md)                                     |
+| **#17** | [`XOR of numbers`](./Implementation/XOR-of-Numbers/README.md)                               |

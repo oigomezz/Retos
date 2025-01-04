@@ -1,4 +1,4 @@
-# XOR of numbers
+# [XOR of numbers][link]
 
 You are given an array a of n numbers and queries. In each query, l,r find XOR of all numbers except the range [l,r].
 
@@ -11,3 +11,5 @@ You are given an array a of n numbers and queries. In each query, l,r find XOR o
 ## Output format
 
 For each test case, print the answer as described in the problem statement.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/yasser-and-xor-c7c23323/
