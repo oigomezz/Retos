@@ -1,4 +1,4 @@
-# Costliest Data Plan
+# [Costliest Data Plan][link]
 
 Pawan has a finite number of friends, each friend has a unique non-negative number associated with him. (0, 1, 2..)
 
@@ -26,3 +26,5 @@ It is guaranteed that the sum of N over all test cases does not exceed 10⁵
 ## Output format
 
 For each test case, print a line containing a single integer – the maximum possible money that Pawan can save (print 0 if no data plan can be removed)
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/costliest-data-plan-422373b5/
