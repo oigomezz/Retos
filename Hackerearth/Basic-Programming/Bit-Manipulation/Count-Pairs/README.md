@@ -1,4 +1,4 @@
-# Count Pairs
+# [Count Pairs][link]
 
 You are given a sequence of integers A of length N. Find the number of pairs of indices (i,j) (1 <= i < j <= N) for which min(A[i],A[j]) <= A[i] + A[j].
 
@@ -13,3 +13,5 @@ Here, + denotes the bitwise XOR operation.
 ## Output format
 
 For each test case print a single integer — the answer to the problem.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/count-pairs-13-c27240a8/
