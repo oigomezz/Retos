@@ -1,4 +1,4 @@
-# Palindrome Lover
+# [Palindrome Lover][link]
 
 Given an array of N integers.
 
@@ -19,3 +19,5 @@ Is it possible to convert the array into a palindrome?
 ## Output format
 
 For all test cases print 1 if the array can be converted into a palindrome or else print 0
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/palindrome-lover-d7beb2b0/
