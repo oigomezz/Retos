@@ -1,4 +1,4 @@
-# Count pairs
+# [Count pairs][link]
 
 You are given the following:
 
@@ -26,3 +26,5 @@ Find the number of pairs of (i,j) such that:
 ## Output format
 
 For each test case, print the number of pairs (i,j) that satisfy the conditions in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/count-pairs-10-9cfeeb36/

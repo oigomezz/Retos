@@ -296,3 +296,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#20** | [`Maximum OR`](./Implementation/Maximum-OR/README.md)                                       |
 | **#21** | [`Maximum utility`](./Implementation/Maximum-Utility/README.md)                             |
 | **#22** | [`Input queries`](./Implementation/Input-Queries/README.md)                                 |
+| **#23** | [`Count pairs`](./Implementation/Count-Pairs-2/README.md)                                   |
