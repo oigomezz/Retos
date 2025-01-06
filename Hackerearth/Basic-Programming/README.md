@@ -298,4 +298,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`Input queries`](./Implementation/Input-Queries/README.md)                                 |
 | **#23** | [`Count pairs`](./Implementation/Count-Pairs-2/README.md)                                   |
 | **#24** | [`Even sum in a matrix`](./Implementation/Even-sum-in-a-matrix/README.md)                   |
-| **#25** | [`Natural XOR elements`](./Implementation/BitwiseBafflement/README.md)                      |
+| **#25** | [`Natural XOR elements`](./Implementation/Natural-XOR-elements/README.md)                   |
+| **#26** | [`A XOR challenge`](./Implementation/A-XOR-challenge/README.md)                             |

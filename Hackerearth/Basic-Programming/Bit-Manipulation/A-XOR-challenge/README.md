@@ -1,4 +1,4 @@
-# A XOR challenge
+# [A XOR challenge][link]
 
 You are given an integer C such that the XOR of two integers (A,B) is C. In short A ⊕ B = C (⊕ denotes the bitwise the XOR operation).
 
@@ -13,3 +13,5 @@ A single integer representing C.
 ## Output format
 
 Print the maximum product you can achieve under the given conditions.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-challenge-2420f189/
