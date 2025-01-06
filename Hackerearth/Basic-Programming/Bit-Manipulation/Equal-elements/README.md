@@ -1,4 +1,4 @@
-# Equal elements
+# [Equal elements][link]
 
 You are given an integer array A consisting of N elements. You can perform the following operations on array A:
 
@@ -17,3 +17,5 @@ equal.
 ## Output format
 
 Print T lines. For each test case, print a single line denoting the minimum number of coins to make all elements equal.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/equal-elements-2-db70c1ae/

@@ -300,3 +300,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#24** | [`Even sum in a matrix`](./Implementation/Even-sum-in-a-matrix/README.md)                   |
 | **#25** | [`Natural XOR elements`](./Implementation/Natural-XOR-elements/README.md)                   |
 | **#26** | [`A XOR challenge`](./Implementation/A-XOR-challenge/README.md)                             |
+| **#27** | [`Equal elements`](./Implementation/Equal-elements/README.md)                               |
