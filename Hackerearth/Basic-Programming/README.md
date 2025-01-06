@@ -301,3 +301,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#25** | [`Natural XOR elements`](./Implementation/Natural-XOR-elements/README.md)                   |
 | **#26** | [`A XOR challenge`](./Implementation/A-XOR-challenge/README.md)                             |
 | **#27** | [`Equal elements`](./Implementation/Equal-elements/README.md)                               |
+| **#28** | [`A XOR operation`](./Implementation/BitwiseBafflement/README.md)                           |
