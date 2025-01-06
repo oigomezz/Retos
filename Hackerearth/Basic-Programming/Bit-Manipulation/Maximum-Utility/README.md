@@ -1,4 +1,4 @@
-# Maximum Utility
+# [Maximum Utility][link]
 
 You are given an array A containing N integers. The ith integer is Ai and has a utility of Bi. You select a combination of integers whose bitwise OR is less than or equal to K.
 
@@ -14,3 +14,5 @@ You are required to make the sum of utilities of selected integers to be as larg
 ## Output format
 
 For each test case, print the maximum possible sum of utilities of selected integers in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-utility-32996da6/
