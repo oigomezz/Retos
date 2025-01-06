@@ -295,3 +295,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Min Bits`](./Implementation/Min-Bits/README.md)                                           |
 | **#20** | [`Maximum OR`](./Implementation/Maximum-OR/README.md)                                       |
 | **#21** | [`Maximum utility`](./Implementation/Maximum-Utility/README.md)                             |
+| **#22** | [`Input queries`](./Implementation/Input-Queries/README.md)                                 |

@@ -1,4 +1,4 @@
-# Input queries
+# [Input queries][link]
 
 You are given Q queries. Each input query contains three integers l, r, and k. Print the maximum bitwise AND value of a subset of size k in the segment [l,r].
 
@@ -10,3 +10,5 @@ You are given Q queries. Each input query contains three integers l, r, and k. P
 ## Output format
 
 Print the maximum bitwise AND value for each query in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/maximal-and-5477d939/
