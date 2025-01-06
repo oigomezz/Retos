@@ -1,4 +1,4 @@
-# Even sum in a matrix
+# [Even sum in a matrix][link]
 
 You are given a matrix A containing N x M elements. You are required to find the number of rectangular submatrices of this matrix such that the sum of the elements in each such submatrix is even.
 
@@ -10,3 +10,5 @@ You are given a matrix A containing N x M elements. You are required to find the
 ## Output format
 
 Print a number denoting the number of rectangular submatrices, the sum of the elements of each is even.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/even-sum-on-matrix-a7c49e3f/

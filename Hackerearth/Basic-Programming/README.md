@@ -297,3 +297,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Maximum utility`](./Implementation/Maximum-Utility/README.md)                             |
 | **#22** | [`Input queries`](./Implementation/Input-Queries/README.md)                                 |
 | **#23** | [`Count pairs`](./Implementation/Count-Pairs-2/README.md)                                   |
+| **#24** | [`Even sum in a matrix`](./Implementation/Even-sum-in-a-matrix/README.md)                   |

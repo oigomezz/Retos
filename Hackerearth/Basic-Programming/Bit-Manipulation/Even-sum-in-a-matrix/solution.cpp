@@ -1,31 +1,49 @@
 #include <bits/stdc++.h>
-using namespace std;
-const int MAX_N = 2e3 + 14;
-bitset<MAX_N> table[MAX_N];
 
+using namespace std;
+int n, m;
+int sum[2002][2002], a[2002][2002];
+bitset<2002> bt[2002];
 int main()
 {
-    ios::sync_with_stdio(0), cin.tie(0);
-    cout.tie(0);
-    int n, m;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     cin >> n >> m;
-    for (int i = 0; i < n; ++i)
+    for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < m; ++j)
+        for (int j = 0; j < m; j++)
         {
-            int x;
-            cin >> x;
-            table[i + 1][j + 1] = table[i + 1][j] ^ table[i][j] ^ table[i][j + 1] ^ x % 2;
+            cin >> a[i][j];
+            sum[i + 1][j + 1] = a[i][j] % 2;
         }
     }
-    long long ans = 0;
-    for (int i = 0; i <= n; ++i)
+    for (int i = 1; i <= n; i++)
     {
-        for (int j = 0; j < i; ++j)
+        for (int j = 1; j <= m; j++)
         {
-            int c = (table[i] ^ table[j]).count();
-            ans += c * (c - 1) / 2 + (m - c + 1) * (m - c) / 2;
+            sum[i][j] += sum[i][j - 1];
         }
     }
-    cout << ans << endl;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= m; j++)
+        {
+            sum[i][j] += sum[i - 1][j];
+            sum[i][j] %= 2;
+            bt[i][j] = sum[i][j];
+        }
+    }
+    long long sol = 0;
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = i + 1; j <= n; j++)
+        {
+            int c = (bt[i] ^ bt[j]).count();
+            int d = m + 1 - c;
+            sol += c * 1ll * (c - 1) / 2;
+            sol += d * 1ll * (d - 1) / 2;
+        }
+    }
+    cout << sol << endl;
 }
