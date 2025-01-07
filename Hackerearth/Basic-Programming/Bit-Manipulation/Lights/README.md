@@ -1,4 +1,4 @@
-# Lights
+# [Lights][link]
 
 There are N lights, numbered from 1 to N. Initially all of them are switched off. We will consider M days. We represent the state of each day as a string of length N, whose ith character is 1 if the ith light on that day was switched on, and 0 otherwise. Each day one of the following things will happen:
 
@@ -17,3 +17,5 @@ There are N lights, numbered from 1 to N. Initially all of them are switched off
 ## Output format
 
 For all the queries that are of type 2 and type 3, print the required answer. In second type of query if no light between L and R was switched on a total odd number of days (between Ath day and Bth day), print "0 0" (without quotes). Also, in third type of query, if there is no change in the state of lights (from 0th day), print "0" (without quotes).
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lights-2-c20ca270/

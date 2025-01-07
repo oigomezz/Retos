@@ -1,25 +1,20 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
-#define ll long long
-#define endl "\n"
-#define fr(i, n) for (i = 1; i <= n; ++i)
-
-const ll N = 100000;
-const ll M = 10001;
-
+const long long N = 100000, M = 10001;
 bitset<N> pre[M], cur, tp, mx;
 
 int main()
 {
-  ll i, n, m, l, r, a, b, tp2, t, id;
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+  long long i, n, m, l, r, a, b, tp2, t, id;
   cin >> t;
   while (t--)
   {
     cin >> n >> m;
     cur = 0, pre[0] = 0, mx = 0, id = 0;
-    fr(i, m)
+    for (int i = 1; i <= m; ++i)
     {
       cin >> l;
       if (l == 1)
@@ -30,12 +25,10 @@ int main()
         tp >>= (N - (r - l + 1));
         tp <<= l;
         cur ^= tp;
-
         tp = cur ^ mx;
         tp2 = tp._Find_first();
         if (tp2 >= 0 && tp2 < N && mx[tp2] == 0)
           mx = cur, id = i;
-
         pre[i] = pre[i - 1] ^ cur;
       }
       else if (l == 2)
