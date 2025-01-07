@@ -8,8 +8,8 @@ def solve(n):
     return (n - 2 ** int(x)) * 2
 
 
-T = int(input())
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     n = int(input())
 
     out_ = solve(n)

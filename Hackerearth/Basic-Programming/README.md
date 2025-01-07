@@ -310,3 +310,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#34** | [`A subset in a sequence`](./Implementation/A-subset-in-a-sequence/README.md)               |
 | **#35** | [`Cyclic shifts`](./Implementation/Cyclic-shifts/README.md)                                 |
 | **#36** | [`Alice and Bob buy crackers`](./Implementation/Alice-and-Bob-buy-crackers/README.md)       |
+| **#37** | [`The Logic game`](./Implementation/The-Logic-Game/README.md)                               |
