@@ -1,4 +1,4 @@
-# Alice and Bob buy crackers
+# [Alice and Bob buy crackers][link]
 
 Alice and Bob want to buy firecrackers. There are N types of firecrackers available in the market with an ID i ranging from 1 to N. The cost of each firecracker is Ci. Each firecracker can be bought at most once. Bob's father allows him to spend all the money in any way but his only condition is that Alice and Bob receive equal amounts of money.
 
@@ -14,3 +14,5 @@ In other words, let S be a set. For each subset of firecrackers, if the sum of t
 ## Output format
 
 Print the number of different amounts of money that Bob and Alice can receive from Bob's father.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/ram-and-shyam-buy-crackers-de722684/
