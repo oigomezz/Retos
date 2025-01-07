@@ -1,4 +1,4 @@
-# Special bits
+# [Special bits][link]
 
 There are T test cases. Each test case contains the following:
 
@@ -14,3 +14,5 @@ If there are multiple such numbers present in the range, print the minimum among
 ## Output format
 
 For every test case, print one integer denoting the answer to the problem.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/special-bits-2e275a80/
