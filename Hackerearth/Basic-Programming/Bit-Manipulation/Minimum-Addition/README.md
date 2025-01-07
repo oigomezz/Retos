@@ -1,4 +1,4 @@
-# Minimum addition
+# [Minimum addition][link]
 
 You are given an array A[] of N positive numbers. You are also given Q queries. Each query contains two integers l,r (l <= r). For each query, determine the sum of all values that must be added to each number in range l to r such that bitwise AND of all numbers in the range is greater than 0.
 
@@ -16,3 +16,5 @@ You are required to minimize the total value that must be added. The value you m
 ## Output format
 
 For each query, print the minimum sum of values to be added in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/min-addition-3f8d2dea/
