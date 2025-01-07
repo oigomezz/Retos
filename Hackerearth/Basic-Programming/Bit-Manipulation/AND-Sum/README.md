@@ -1,4 +1,4 @@
-# AND Sum
+# [AND Sum][link]
 
 Given an array of N numbers, you have to report the Sum of bitwise AND of all possible subsets of this array. As answer can be large, report it after taking mod with 10^9 +7.
 
@@ -11,3 +11,5 @@ Given an array of N numbers, you have to report the Sum of bitwise AND of all po
 ## Output format
 
 For each test case output a single number denoting the Sum of bitwise AND of all possible subsets of the given array.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/and-sum-54d31846/
