@@ -1,4 +1,4 @@
-# Maximizing Expressions
+# [Maximizing Expressions][link]
 
 You are given three arrays A, B, and C. All the three arrays consist of N integers.
 
@@ -18,3 +18,5 @@ Here, ⊕ and & denotes the bitwise XOR operation and bitwise AND operation.
 ## Output format
 
 Print a single integer that denotes the maximum value of S.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/maximizing-xor-value-70f649e0/
