@@ -1,4 +1,4 @@
-# Game of Deletion
+# [Game of Deletion][link]
 
 Two players are playing the game of deletion. Player1 plays with array A and Player2 plays with array B. The length of both the arrays are N.
 
@@ -22,3 +22,5 @@ You have to print the winner along with the margin of reward he wins with. Let's
 - If Player1 wins, print 1 followed by a space and then the reward margin he wins with.
 - If Player2 wins, print 2 followed by a space and then the reward margin he wins with.
 - Print 1, if the game draws.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/game-of-destruction-f96cd509/

@@ -272,53 +272,54 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Bit Manipulation](./Bit-Manipulation/README.md)
 
-| N°      | Enunciado                                                                                                                         |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md)                                                                         |
-| **#02** | [`Parity-Binary Sort`](./Implementation/Parity-Binary-Sort/README.md)                                                             |
-| **#03** | [`Range Queries`](./Implementation/Range-Queries/README.md)                                                                       |
-| **#04** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)                                                               |
-| **#05** | [`BitwiseBizarro`](./Implementation/BitwiseBizarro/README.md)                                                                     |
-| **#06** | [`Help Alice to find the Parity`](./Implementation/Help-Alice-to-find-the-Parity/README.md)                                       |
-| **#07** | [`Count Subarrays`](./Implementation/Count-Subarrays/README.md)                                                                   |
-| **#08** | [`Twin Strings`](./Implementation/Twin-Strings/README.md)                                                                         |
-| **#09** | [`Subarray`](./Implementation/Subarray/README.md)                                                                                 |
-| **#10** | [`XOR Pairs`](./Implementation/XOR-Pairs/README.md)                                                                               |
-| **#11** | [`Split Permutation`](./Implementation/Split-Permutation/README.md)                                                               |
-| **#12** | [`Palindrome lover`](./Implementation/Palindrome-Lover/README.md)                                                                 |
-| **#13** | [`MAX AND`](./Implementation/MAX-AND/README.md)                                                                                   |
-| **#14** | [`Max Game`](./Implementation/Max-Game/README.md)                                                                                 |
-| **#15** | [`Costliest Data Plan`](./Implementation/Costliest-Data-Plan/README.md)                                                           |
-| **#16** | [`Count Pairs`](./Implementation/Count-Pairs/README.md)                                                                           |
-| **#17** | [`XOR of numbers`](./Implementation/XOR-of-Numbers/README.md)                                                                     |
-| **#18** | [`XOR split`](./Implementation/XOR-split/README.md)                                                                               |
-| **#19** | [`Min Bits`](./Implementation/Min-Bits/README.md)                                                                                 |
-| **#20** | [`Maximum OR`](./Implementation/Maximum-OR/README.md)                                                                             |
-| **#21** | [`Maximum utility`](./Implementation/Maximum-Utility/README.md)                                                                   |
-| **#22** | [`Input queries`](./Implementation/Input-Queries/README.md)                                                                       |
-| **#23** | [`Count pairs`](./Implementation/Count-Pairs-2/README.md)                                                                         |
-| **#24** | [`Even sum in a matrix`](./Implementation/Even-sum-in-a-matrix/README.md)                                                         |
-| **#25** | [`Special bits`](./Implementation/Special-Bits/README.md)                                                                         |
-| **#26** | [`Natural XOR elements`](./Implementation/Natural-XOR-elements/README.md)                                                         |
-| **#27** | [`A XOR challenge`](./Implementation/A-XOR-challenge/README.md)                                                                   |
-| **#28** | [`Equal elements`](./Implementation/Equal-elements/README.md)                                                                     |
-| **#29** | [`A XOR operation`](./Implementation/A-XOR-operation/README.md)                                                                   |
-| **#30** | [`Make the array even`](./Implementation/Make-the-array-even/README.md)                                                           |
-| **#31** | [`The minimum cost`](./Implementation/The-Minimum-Cost/README.md)                                                                 |
-| **#32** | [`Lights`](./Implementation/Lights/README.md)                                                                                     |
-| **#33** | [`Minimum addition`](./Implementation/Minimum-Addition/README.md)                                                                 |
-| **#34** | [`A subset in a sequence`](./Implementation/A-subset-in-a-sequence/README.md)                                                     |
-| **#35** | [`Cyclic shifts`](./Implementation/Cyclic-shifts/README.md)                                                                       |
-| **#36** | [`Alice and Bob buy crackers`](./Implementation/Alice-and-Bob-buy-crackers/README.md)                                             |
-| **#37** | [`The Logic game`](./Implementation/The-Logic-Game/README.md)                                                                     |
-| **#38** | [`Maximum bit shifts`](./Implementation/Maximum-bit-shifts/README.md)                                                             |
-| **#39** | [`Determining numbers`](./Implementation/Determining-Numbers/README.md)                                                           |
-| **#40** | [`AND operation`](./Implementation/AND-operation/README.md)                                                                       |
-| **#41** | [`Special numbers`](./Implementation/Special-Numbers/README.md)                                                                   |
-| **#42** | [`Maximizing expressions`](./Implementation/Maximizing-Expressions/README.md)                                                     |
-| **#43** | [`Cars in the Lane`](./Implementation/Cars-in-the-Lane/README.md)                                                                 |
-| **#44** | [`Special Bit Numbers`](./Implementation/Special-Bit-Numbers/README.md)                                                           |
-| **#45** | [`Bit Flipping Game <Nissan>`](./Implementation/Bit-Flipping-Game/README.md)                                                      |
-| **#46** | [`( Problem B ) Pikachu vs Team Meowstic and Helping Hand`](./Implementation/Pikachu-vs-Team-Meowstic-and-Helping-Hand/README.md) |
-| **#47** | [`Poisonous gas`](./Implementation/Poisonous-Gas/README.md)                                                                       |
-| **#48** | [`AND Sum`](./Implementation/AND-Sum/README.md)                                                                                   |
+| N°      | Enunciado                                                                                         |
+| ------- | ------------------------------------------------------------------------------------------------- |
+| **#01** | [`Hamming Sort`](./Implementation/Hamming-Sort/README.md)                                         |
+| **#02** | [`Parity-Binary Sort`](./Implementation/Parity-Binary-Sort/README.md)                             |
+| **#03** | [`Range Queries`](./Implementation/Range-Queries/README.md)                                       |
+| **#04** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)                               |
+| **#05** | [`BitwiseBizarro`](./Implementation/BitwiseBizarro/README.md)                                     |
+| **#06** | [`Help Alice to find the Parity`](./Implementation/Help-Alice-to-find-the-Parity/README.md)       |
+| **#07** | [`Count Subarrays`](./Implementation/Count-Subarrays/README.md)                                   |
+| **#08** | [`Twin Strings`](./Implementation/Twin-Strings/README.md)                                         |
+| **#09** | [`Subarray`](./Implementation/Subarray/README.md)                                                 |
+| **#10** | [`XOR Pairs`](./Implementation/XOR-Pairs/README.md)                                               |
+| **#11** | [`Split Permutation`](./Implementation/Split-Permutation/README.md)                               |
+| **#12** | [`Palindrome lover`](./Implementation/Palindrome-Lover/README.md)                                 |
+| **#13** | [`MAX AND`](./Implementation/MAX-AND/README.md)                                                   |
+| **#14** | [`Max Game`](./Implementation/Max-Game/README.md)                                                 |
+| **#15** | [`Costliest Data Plan`](./Implementation/Costliest-Data-Plan/README.md)                           |
+| **#16** | [`Count Pairs`](./Implementation/Count-Pairs/README.md)                                           |
+| **#17** | [`XOR of numbers`](./Implementation/XOR-of-Numbers/README.md)                                     |
+| **#18** | [`XOR split`](./Implementation/XOR-split/README.md)                                               |
+| **#19** | [`Min Bits`](./Implementation/Min-Bits/README.md)                                                 |
+| **#20** | [`Maximum OR`](./Implementation/Maximum-OR/README.md)                                             |
+| **#21** | [`Maximum utility`](./Implementation/Maximum-Utility/README.md)                                   |
+| **#22** | [`Input queries`](./Implementation/Input-Queries/README.md)                                       |
+| **#23** | [`Count pairs`](./Implementation/Count-Pairs-2/README.md)                                         |
+| **#24** | [`Even sum in a matrix`](./Implementation/Even-sum-in-a-matrix/README.md)                         |
+| **#25** | [`Special bits`](./Implementation/Special-Bits/README.md)                                         |
+| **#26** | [`Natural XOR elements`](./Implementation/Natural-XOR-elements/README.md)                         |
+| **#27** | [`A XOR challenge`](./Implementation/A-XOR-challenge/README.md)                                   |
+| **#28** | [`Equal elements`](./Implementation/Equal-elements/README.md)                                     |
+| **#29** | [`A XOR operation`](./Implementation/A-XOR-operation/README.md)                                   |
+| **#30** | [`Make the array even`](./Implementation/Make-the-array-even/README.md)                           |
+| **#31** | [`The minimum cost`](./Implementation/The-Minimum-Cost/README.md)                                 |
+| **#32** | [`Lights`](./Implementation/Lights/README.md)                                                     |
+| **#33** | [`Minimum addition`](./Implementation/Minimum-Addition/README.md)                                 |
+| **#34** | [`A subset in a sequence`](./Implementation/A-subset-in-a-sequence/README.md)                     |
+| **#35** | [`Cyclic shifts`](./Implementation/Cyclic-shifts/README.md)                                       |
+| **#36** | [`Alice and Bob buy crackers`](./Implementation/Alice-and-Bob-buy-crackers/README.md)             |
+| **#37** | [`The Logic game`](./Implementation/The-Logic-Game/README.md)                                     |
+| **#38** | [`Maximum bit shifts`](./Implementation/Maximum-bit-shifts/README.md)                             |
+| **#39** | [`Determining numbers`](./Implementation/Determining-Numbers/README.md)                           |
+| **#40** | [`AND operation`](./Implementation/AND-operation/README.md)                                       |
+| **#41** | [`Special numbers`](./Implementation/Special-Numbers/README.md)                                   |
+| **#42** | [`Maximizing expressions`](./Implementation/Maximizing-Expressions/README.md)                     |
+| **#43** | [`Cars in the Lane`](./Implementation/Cars-in-the-Lane/README.md)                                 |
+| **#44** | [`Special Bit Numbers`](./Implementation/Special-Bit-Numbers/README.md)                           |
+| **#45** | [`Bit Flipping Game <Nissan>`](./Implementation/Bit-Flipping-Game/README.md)                      |
+| **#46** | [`( Problem B ) Pikachu vs Team Meowstic and Helping Hand`](./Implementation/Problem-B/README.md) |
+| **#47** | [`Poisonous gas`](./Implementation/Poisonous-Gas/README.md)                                       |
+| **#48** | [`AND Sum`](./Implementation/AND-Sum/README.md)                                                   |
+| **#49** | [`Game of Deletion`](./Implementation/Game-of-Deletion/README.md)                                 |
