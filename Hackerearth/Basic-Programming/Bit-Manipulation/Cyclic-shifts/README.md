@@ -1,4 +1,4 @@
-# Cyclic shifts
+# [Cyclic shifts][link]
 
 You are given a number N represented as a binary representation of X = 16 bits. You are also given a number m and a character c ( L or R).
 
@@ -12,3 +12,5 @@ Determine a number M that is generated after cyclically shifting the binary repr
 ## Output format
 
 Print T integers in a separate line representing the answer to each query.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lets-shift-2-36d90caa/

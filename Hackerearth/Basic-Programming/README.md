@@ -308,3 +308,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`Lights`](./Implementation/Lights/README.md)                                               |
 | **#33** | [`Minimum addition`](./Implementation/Minimum-Addition/README.md)                           |
 | **#34** | [`A subset in a sequence`](./Implementation/A-subset-in-a-sequence/README.md)               |
+| **#35** | [`Cyclic shifts`](./Implementation/Cyclic-shifts/README.md)                                 |
