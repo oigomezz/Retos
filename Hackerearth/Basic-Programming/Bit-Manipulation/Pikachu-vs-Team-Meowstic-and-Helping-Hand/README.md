@@ -1,4 +1,4 @@
-# Pikachu vs Team Meowstic and Helping Hand
+# [Pikachu vs Team Meowstic and Helping Hand][link]
 
 All the N Meowstic stand in a straight line numbered from 1 to N. Before every round of battle, they simultaneously use a move, called Helping Hand. It changes the attacking power of Team Meowstic as follows:
 
@@ -19,3 +19,5 @@ Note that, the influence of Helping Hand remains forever, and attacking powers D
 ## Output format
 
 Output a single line containing N integers, the ith of which is ai after the last round.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/pikachu-loves-or-0c02a270/
