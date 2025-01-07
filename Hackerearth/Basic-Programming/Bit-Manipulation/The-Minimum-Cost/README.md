@@ -1,4 +1,4 @@
-# The minimum cost
+# [The minimum cost][link]
 
 You are given a binary array (array consists of 0's and 1's) A that contains N elements. You can perform the following operation as many time as you like:
 
@@ -18,3 +18,5 @@ Here, ^ denotes XOR.
 ## Output format
 
 For each test case, print one line denoting the minimum cost to transform array A into a special array.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/min-cost-2-fe2d3308/
