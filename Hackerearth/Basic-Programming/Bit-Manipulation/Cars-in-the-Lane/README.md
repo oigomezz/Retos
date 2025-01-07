@@ -1,4 +1,4 @@
-# Cars in the Lane
+# [Cars in the Lane][link]
 
 You are given ID of different uni-directional highways in the ByteLand. The highways are quite mysterious. If you convert their IDs to a binary number then it means that the bit position where the value is 0, those lanes are closed or else the lanes are open. Now for each highway, you need to count in how many ways the open lanes of the highway can be occupied.
 
@@ -12,3 +12,5 @@ You are given ID of different uni-directional highways in the ByteLand. The high
 ## Output format
 
 Print T lines, ith line contains the answer to the ith test case.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/and-this-one-784d9012/
