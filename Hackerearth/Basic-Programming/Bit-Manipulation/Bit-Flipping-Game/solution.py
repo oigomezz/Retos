@@ -14,11 +14,11 @@ def solve(number):
     return "B"
 
 
-N = int(input())
-Number = []
-for _ in range(N):
-    Number.append(input())
+n = int(input())
+numbers = []
+for _ in range(n):
+    numbers.append(input())
 
-out_ = solve(Number)
+out_ = solve(numbers)
 print(out_)
 print(last_move)

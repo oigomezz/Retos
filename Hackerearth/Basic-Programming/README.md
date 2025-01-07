@@ -315,6 +315,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#39** | [`Determining numbers`](./Implementation/Determining-Numbers/README.md)                     |
 | **#40** | [`AND operation`](./Implementation/AND-operation/README.md)                                 |
 | **#41** | [`Special numbers`](./Implementation/Special-Numbers/README.md)                             |
-| **#42** | [`Maximizing expressions`](./Implementation/BitwiseBafflement/README.md)                    |
+| **#42** | [`Maximizing expressions`](./Implementation/Maximizing-Expressions/README.md)               |
 | **#43** | [`Cars in the Lane`](./Implementation/Cars-in-the-Lane/README.md)                           |
 | **#44** | [`Special Bit Numbers`](./Implementation/Special-Bit-Numbers/README.md)                     |
+| **#45** | [`Bit Flipping Game <Nissan>`](./Implementation/Bit-Flipping-Game/README.md)                |
