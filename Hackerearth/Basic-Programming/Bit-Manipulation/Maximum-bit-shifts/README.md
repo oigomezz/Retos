@@ -1,4 +1,4 @@
-# Maximum bit shifts
+# [Maximum bit shifts][link]
 
 You are given a sequence of N numbers. You can perform the following operation:
 
@@ -14,3 +14,5 @@ Output the lexicographic maximum sequence possible after performing 0 or more of
 ## Output format
 
 Print N space-separated integers denoting the lexicographic maximum sequence possible.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lexicographic-maximum-bit-shift-bbb95118/
