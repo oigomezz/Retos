@@ -1,4 +1,4 @@
-# Special Bit Numbers
+# [Special Bit Numbers][link]
 
 A number is known as special bit number if its binary representation contains atleast two consecutive 1's or set bits. For example 7 with binary representation 111 is a special bit number. Similarly 3 (11) is also a special bit number as it contains atleast two consecutive set bits or ones.
 
@@ -13,3 +13,5 @@ Now the problem is, You are given an Array of N integers and Q queries. Each que
 ## Output format
 
 Output Q lines containing answer for the ith Query.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/chakra-numbers-9c9e0faf/

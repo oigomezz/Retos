@@ -317,3 +317,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#41** | [`Special numbers`](./Implementation/Special-Numbers/README.md)                             |
 | **#42** | [`Maximizing expressions`](./Implementation/BitwiseBafflement/README.md)                    |
 | **#43** | [`Cars in the Lane`](./Implementation/Cars-in-the-Lane/README.md)                           |
+| **#44** | [`Special Bit Numbers`](./Implementation/Special-Bit-Numbers/README.md)                     |
