@@ -313,3 +313,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#37** | [`The Logic game`](./Implementation/The-Logic-Game/README.md)                               |
 | **#38** | [`Maximum bit shifts`](./Implementation/Maximum-bit-shifts/README.md)                       |
 | **#39** | [`Determining numbers`](./Implementation/Determining-Numbers/README.md)                     |
+| **#40** | [`AND operation`](./Implementation/AND-operation/README.md)                                 |

@@ -1,4 +1,4 @@
-# AND operation
+# [AND operation][link]
 
 You are given an array A of length N. You are also given Q tasks.
 
@@ -17,3 +17,5 @@ You need to print the array after performing all the tasks.
 ## Output format
 
 Print the final array after performing all the Q tasks.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/and-operation-3-0b1a025c/
