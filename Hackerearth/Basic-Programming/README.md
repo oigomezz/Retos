@@ -320,3 +320,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#44** | [`Special Bit Numbers`](./Implementation/Special-Bit-Numbers/README.md)                                                           |
 | **#45** | [`Bit Flipping Game <Nissan>`](./Implementation/Bit-Flipping-Game/README.md)                                                      |
 | **#46** | [`( Problem B ) Pikachu vs Team Meowstic and Helping Hand`](./Implementation/Pikachu-vs-Team-Meowstic-and-Helping-Hand/README.md) |
+| **#47** | [`Poisonous gas`](./Implementation/Poisonous-Gas/README.md)                                                                       |
