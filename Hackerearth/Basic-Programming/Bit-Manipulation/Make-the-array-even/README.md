@@ -1,4 +1,4 @@
-# Make the array even
+# [Make the array even][link]
 
 You are given an array A of N integers. If you make the array whole using the following operation, then what is the minimum number of operations required to make the entire array even?
 
@@ -21,3 +21,5 @@ Select an index 1 <= i < N and perform operation:
 ## Output format
 
 For each test case print a single line denoting the minimum number of operations required to make the whole array even.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/make-even-8ced0d4b/

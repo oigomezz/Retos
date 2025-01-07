@@ -303,3 +303,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#27** | [`A XOR challenge`](./Implementation/A-XOR-challenge/README.md)                             |
 | **#28** | [`Equal elements`](./Implementation/Equal-elements/README.md)                               |
 | **#29** | [`A XOR operation`](./Implementation/A-XOR-operation/README.md)                             |
+| **#30** | [`Make the array even`](./Implementation/Make-the-array-even/README.md)                     |
