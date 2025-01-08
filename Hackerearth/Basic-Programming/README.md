@@ -327,3 +327,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#51** | [`Xor Rectangle`](./Implementation/XOR-Rectangle/README.md)                                       |
 | **#52** | [`Monsters in Grid`](./Implementation/Monsters-in-Grid/README.md)                                 |
 | **#53** | [`Micro and Binary Strings`](./Implementation/Micro-and-Binary-Strings/README.md)                 |
+| **#54** | [`The Castle Gate`](./Implementation/The-Castle-Gate/README.md)                                   |
