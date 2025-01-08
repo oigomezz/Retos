@@ -1,4 +1,4 @@
-# Chandan and Balanced Strings
+# [Chandan and Balanced Strings][link]
 
 Chandan got bored playing with the arrays all the time. Therefore he has decided to buy a string S consists of N lower case alphabets. Once he purchased the string, He starts formulating his own terminologies over his string S. Chandan calls a string str A Balanced String if and only if the characters of the string str can be paritioned into two multisets M1 and M2 such that M1= M2 .
 
@@ -24,3 +24,5 @@ Can you help him in accomplishing this task ?
 ## Output format
 
 For each test case, print the count of Balanced Substrings of string S.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/chandan-and-balanced-strings/
