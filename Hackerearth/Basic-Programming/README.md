@@ -335,3 +335,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#59** | [`Monk's Choice of Numbers`](./Implementation/Monk's-Choice-of-Numbers/README.md)                 |
 | **#60** | [`Samu and her Birthday Party`](./Implementation/Samu-and-her-Birthday-Party/README.md)           |
 | **#61** | [`Monk and Tasks`](./Implementation/Monk-and-Tasks/README.md)                                     |
+| **#62** | [`Xsquare And Two Strings`](./Implementation/Xsquare-And-Two-Strings/README.md)                   |
