@@ -1,4 +1,4 @@
-# Monk and his Friend
+# [Monk and his Friend][link]
 
 Monk has a very good friend, Puchi. As weird as his name, are the games he plays.
 
@@ -16,3 +16,5 @@ Find the answer to their game.
 ## Output format
 
 Print the answer to each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monk-and-his-friend/
