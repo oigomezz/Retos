@@ -323,3 +323,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#47** | [`Poisonous gas`](./Implementation/Poisonous-Gas/README.md)                                       |
 | **#48** | [`AND Sum`](./Implementation/AND-Sum/README.md)                                                   |
 | **#49** | [`Game of Deletion`](./Implementation/Game-of-Deletion/README.md)                                 |
+| **#50** | [`Sub-array functions`](./Implementation/Sub-array-functions/README.md)                           |

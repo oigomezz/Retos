@@ -1,4 +1,4 @@
-# Sub-array functions
+# [Sub-array functions][link]
 
 You are given an array A containing N integers. The following functions are defined for this array:
 
@@ -17,3 +17,5 @@ Write a program to find l and r such that f3(l,r) is maximum. If there are sever
 ## Output format
 
 For each test case, print three space-separated integers denoting l, r, and f3(l,r).
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/milly-and-sub-array-83aeedc8/
