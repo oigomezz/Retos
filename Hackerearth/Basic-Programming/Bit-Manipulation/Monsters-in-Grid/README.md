@@ -1,4 +1,4 @@
-# Monsters in Grid
+# [Monsters in Grid][link]
 
 You are given a grid of size NxM , where some of the cells have monsters in them. You have N+M lasers , one at each row and one at each column. You can fire any laser at most once. Assume that these lasers move in a straight line without being blocked by anything. Each monster has a health of 2. In one laser strike, a monster's health is reduced by 1. If monster's health become 0, it dies. You have to find the maximum number of monsters that can be killed if you can fire at most K lasers.
 
@@ -10,3 +10,5 @@ You are given a grid of size NxM , where some of the cells have monsters in them
 ## Output format
 
 Output a single integer denoting the answer.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monsters-in-grid-1/
