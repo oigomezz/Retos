@@ -1,4 +1,4 @@
-# Monk's Choice of Numbers
+# [Monk's Choice of Numbers][link]
 
 Monk loves cakes! He visits the Binary Bakery to buy some of his favorite cheesecakes.
 
@@ -17,3 +17,5 @@ Help Monk find the maximum number of cakes that he can have.
 ## Output format
 
 Print the answer to each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monks-choice-of-numbers-1/
