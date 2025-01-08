@@ -17,4 +17,4 @@ You have been given Q queries. Each query consists of four integers x1,y1,x2,y2 
 
 For each of the query, print a single number in a separate line which denotes summation of all the numbers lying in queried submatrix.
 
-[link]: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-rectangle/
