@@ -333,3 +333,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#57** | [`Navi and Math`](./Implementation/Navi-and-Math/README.md)                                       |
 | **#58** | [`Monk and his Friend`](./Implementation/Monk-and-his-Friend/README.md)                           |
 | **#59** | [`Monk's Choice of Numbers`](./Implementation/Monk's-Choice-of-Numbers/README.md)                 |
+| **#60** | [`Samu and her Birthday Party`](./Implementation/Samu-and-her-Birthday-Party/README.md)           |

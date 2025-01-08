@@ -1,4 +1,4 @@
-# Samu and her Birthday Party
+# [Samu and her Birthday Party][link]
 
 Samu's Birthday is near so she had started planning a party for all of her friends. Being a kind and caring girl she calls each of her friend and asks for his/her favorite dish.Now each friend has own liking/disliking for different dishes.
 
@@ -21,3 +21,5 @@ Then it is followed by N lines each of length K . Each of the N lines contains a
 ## Output format
 
 You need to tell the minimum number of dishes to be taken in menu so that all friends are happy.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/samu-and-her-birthday-party-1/
