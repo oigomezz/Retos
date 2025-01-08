@@ -324,3 +324,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#48** | [`AND Sum`](./Implementation/AND-Sum/README.md)                                                   |
 | **#49** | [`Game of Deletion`](./Implementation/Game-of-Deletion/README.md)                                 |
 | **#50** | [`Sub-array functions`](./Implementation/Sub-array-functions/README.md)                           |
+| **#51** | [`BitwiseBafflement`](./Implementation/BitwiseBafflement/README.md)   |
