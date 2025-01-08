@@ -1,4 +1,4 @@
-# Monk and Tasks
+# [Monk and Tasks][link]
 
 Monk A loves to complete all his tasks just before the deadlines for introducing unwanted thrill in his life. But, there is another Monk D who hates this habit of Monk A and thinks it's risky.
 
@@ -17,3 +17,5 @@ Monk A is fed up of Monk D, so to irritate him even more, he decides to print th
 ## Output format
 
 Print all the tasks provided to Monk A in the non-decreasing order of number of tasks performed by him.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monk-and-tasks/
