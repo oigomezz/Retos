@@ -330,3 +330,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#54** | [`The Castle Gate`](./Implementation/The-Castle-Gate/README.md)                                   |
 | **#55** | [`Mattey Multiplication`](./Implementation/Mattey-Multiplication/README.md)                       |
 | **#56** | [`Lucky Numbers`](./Implementation/Lucky-Numbers/README.md)                                       |
+| **#57** | [`Navi and Math`](./Implementation/Navi-and-Math/README.md)                                       |

@@ -1,4 +1,4 @@
-# Navi and Math
+# [Navi and Math][link]
 
 Navi is a famous mathematician. He is working on Division, Multiplication and Addition. He is in need of some hidden patterns to discover some new concepts. He is giving you a task to find that sub-sequence of an array which has the maximum P % mod value, where value of the mod is given below. This sub-sequence should have at least 2 elements. P value is defined below:
 
@@ -15,3 +15,5 @@ You have to maximize this P%mod. Take mod as 10^9 + 7.
 ## Output format
 
 For each test case print “Case #case_num: ans”. Here ans is maximum P % mod value.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/navi-and-maths/
