@@ -347,8 +347,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Recursion and Backtracking](./Recursion/README.md)
 
-| N°      | Enunciado                                                  |
-| ------- | ---------------------------------------------------------- |
-| **#01** | [`Nearby Squares`](./Recursion/Nearby-Squares/README.md)   |
-| **#02** | [`Count the array`](./Recursion/Count-the-array/README.md) |
-| **#03** | [`Special series`](./Recursion/Special-series/README.md)   |
+| N°      | Enunciado                                                          |
+| ------- | ------------------------------------------------------------------ |
+| **#01** | [`Nearby Squares`](./Recursion/Nearby-Squares/README.md)           |
+| **#02** | [`Count the array`](./Recursion/Count-the-array/README.md)         |
+| **#03** | [`Special series`](./Recursion/Special-series/README.md)           |
+| **#04** | [`A binary palindrome`](./Recursion/A-Binary-Palindrome/README.md) |

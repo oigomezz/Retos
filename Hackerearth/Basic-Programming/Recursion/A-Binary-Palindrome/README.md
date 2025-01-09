@@ -1,4 +1,4 @@
-# A binary palindrom
+# [A binary palindrome][link]
 
 You are given a number N. In one operation, you can either increase the value of N by 1 or decrease the value of N by 1.
 
@@ -14,3 +14,5 @@ Determine the minimum number of operations required (possibly zero) to convert n
 ## Output format
 
 For each test case in a new line, print the minimum number of operations required.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/binary-palindrome-4-035e5ad6/
