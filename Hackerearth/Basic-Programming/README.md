@@ -353,3 +353,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Count the array`](./Recursion/Count-the-array/README.md)         |
 | **#03** | [`Special series`](./Recursion/Special-series/README.md)           |
 | **#04** | [`A binary palindrome`](./Recursion/A-Binary-Palindrome/README.md) |
+| **#05** | [`Three arrays`](./Recursion/Three-arrays/README.md)               |
