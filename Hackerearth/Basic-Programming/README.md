@@ -341,3 +341,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#65** | [`Maximum AND`](./Implementation/Maximum-AND/README.md)                                           |
 | **#66** | [`Aaryan, Subsequences And Great XOR`](./Implementation/Subsequences-and-Great-XOR/README.md)     |
 | **#67** | [`Subset AND`](./Implementation/Subset-AND/README.md)                                             |
+| **#68** | [`Sherlock and XOR`](./Implementation/Sherlock-and-XOR/README.md)                                 |
