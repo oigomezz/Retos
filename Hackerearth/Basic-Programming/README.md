@@ -344,5 +344,11 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#68** | [`Sherlock and XOR`](./Bit-Manipulation/Sherlock-and-XOR/README.md)                                 |
 | **#69** | [`Haaaave you met Ted!?`](./Bit-Manipulation/Haaaave-you-met-Ted/README.md)                         |
 | **#70** | [`Sum of Numbers`](./Bit-Manipulation/Sum-of-Numbers/README.md)                                     |
-| **#71** | [`Nearby Squares`](./Bit-Manipulation/Nearby-Squares/README.md)                                     |
-| **#72** | [`Count the array`](./Bit-Manipulation/Count-the-array/README.md)                                   |
+
+### [Recursion and Backtracking](./Recursion/README.md)
+
+| N°      | Enunciado                                                  |
+| ------- | ---------------------------------------------------------- |
+| **#01** | [`Nearby Squares`](./Recursion/Nearby-Squares/README.md)   |
+| **#02** | [`Count the array`](./Recursion/Count-the-array/README.md) |
+| **#03** | [`Special series`](./Recursion/Special-series/README.md)   |

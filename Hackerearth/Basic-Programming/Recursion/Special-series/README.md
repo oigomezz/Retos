@@ -1,4 +1,4 @@
-# Special series
+# [Special series][link]
 
 Consider a series F that is defined as follows:
 
@@ -21,3 +21,5 @@ Given two integers n and m. We need to make the nth term and mth term of the ser
 ## Output format
 
 For each test case in a new line, find the required largest positive number modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/special-series-3d8fcc86/
