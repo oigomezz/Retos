@@ -1,4 +1,4 @@
-# Number of divisors
+# [Number of divisors][link]
 
 You are given two numbers n and k. For each number in the interval [1, n], your task is to calculate its largest divisor that is not divisible by k. Print the sum of these divisors.
 
@@ -14,3 +14,5 @@ You are given two numbers n and k. For each number in the interval [1, n], your 
 The output must contain the answer for each test case on a different line.
 
 Each answer consists of a single integer.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/k-excess-1-be669e5a/
