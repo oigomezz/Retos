@@ -1,4 +1,4 @@
-# Count the array
+# [Count the array][link]
 
 You are given an integer P.
 
@@ -25,3 +25,5 @@ Also, you are given Q queries of the following type:
 ## Output format
 
 Print Q space-separated integers denoting the result for Q queries.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/count-array-b31ab1e9/
