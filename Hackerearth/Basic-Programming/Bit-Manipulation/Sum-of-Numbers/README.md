@@ -1,4 +1,4 @@
-# Sum of Numbers
+# [Sum of Numbers][link]
 
 Given an array of N elements, check if it is possible to obtain a sum of S, by choosing some (or none) elements of the array and adding them.
 
@@ -13,3 +13,5 @@ Given an array of N elements, check if it is possible to obtain a sum of S, by c
 ## Output format
 
 For each test case, print "YES" if S can be obtained by choosing some(or none) elements of the array and adding them. Otherwise Print "NO".
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/sum-of-numbers-9/

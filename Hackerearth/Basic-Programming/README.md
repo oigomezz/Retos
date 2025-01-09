@@ -343,3 +343,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#67** | [`Subset AND`](./Implementation/Subset-AND/README.md)                                             |
 | **#68** | [`Sherlock and XOR`](./Implementation/Sherlock-and-XOR/README.md)                                 |
 | **#69** | [`Haaaave you met Ted!?`](./Implementation/Haaaave-you-met-Ted/README.md)                         |
+| **#70** | [`Sum of Numbers`](./Implementation/Sum-of-Numbers/README.md)                                     |
