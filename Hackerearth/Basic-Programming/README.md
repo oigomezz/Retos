@@ -355,3 +355,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`A binary palindrome`](./Recursion/A-Binary-Palindrome/README.md) |
 | **#05** | [`Three arrays`](./Recursion/Three-arrays/README.md)               |
 | **#06** | [`Number of divisors`](./Recursion/Number-of-Divisors/README.md)   |
+| **#07** | [`Divide Number`](./Recursion/Divide-Number/README.md)             |
