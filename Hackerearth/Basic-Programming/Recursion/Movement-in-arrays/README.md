@@ -1,4 +1,4 @@
-# Movement in arrays
+# [Movement in arrays][link]
 
 Consider an array A of size N. You start from the index 0 and your goal is to reach index N-1 in exactly M moves.
 
@@ -16,3 +16,5 @@ Write a program to determine whether it is possible to reach index N-1 in M move
 ## Output format
 
 For each test case, print YES or NO depending upon the result.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/jumpingjack-488ce744/
