@@ -1,14 +1,12 @@
 t = int(input())
 for _ in range(t):
     n = int(input())
-    ans = None
     s = list(map(int, input().split()))
-    for i in range(n):
+    ans = bin(s[0]).count('1')
+    for i in range(1, n):
         x = s[i]
         popcount = bin(x).count('1')
-        if i == 0:
-            ans = popcount
-        elif popcount < ans:
+        if popcount < ans:
             ans = popcount
 
     print(ans)

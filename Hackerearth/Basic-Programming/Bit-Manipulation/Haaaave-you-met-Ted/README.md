@@ -1,4 +1,4 @@
-# Haaaave you met Ted!?
+# [Haaaave you met Ted!?][link]
 
 The Wingman gains the attention of a prospective partner for their friend, by tapping them on the shoulder, and then stating only the line "Haaaaave you met Ted?" (substituting the name of "Ted", the main protagonist of the show, with the name of the single person), and then walking away, leaving the newly acquainted pair to continue a conversation.
 
@@ -23,3 +23,5 @@ S is characterized by following properties:
 ## Output format
 
 A single line for each test case containing the answer as explained in the statement.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/haaaave-you-met-ted/
