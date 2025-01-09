@@ -1,4 +1,4 @@
-# Nearby Squares
+# [Nearby Squares][link]
 
 You are given an array of length A. There are two empty arrays, B and C. You have to put every element of A into either B or C.
 
@@ -13,3 +13,5 @@ The score of an array is defined as the square of the sum of all of its elements
 ## Output format
 
 For each test case, print the minimum possible absolute difference between the score of B and the score of C.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/nearby-squares-338a4a64/

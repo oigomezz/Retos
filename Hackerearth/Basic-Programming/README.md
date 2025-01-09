@@ -344,3 +344,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#68** | [`Sherlock and XOR`](./Implementation/Sherlock-and-XOR/README.md)                                 |
 | **#69** | [`Haaaave you met Ted!?`](./Implementation/Haaaave-you-met-Ted/README.md)                         |
 | **#70** | [`Sum of Numbers`](./Implementation/Sum-of-Numbers/README.md)                                     |
+| **#71** | [`Nearby Squares`](./Implementation/Nearby-Squares/README.md)                                     |
