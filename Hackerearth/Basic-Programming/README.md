@@ -340,3 +340,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#64** | [`Substring Queries`](./Implementation/Substring-Queries/README.md)                               |
 | **#65** | [`Maximum AND`](./Implementation/Maximum-AND/README.md)                                           |
 | **#66** | [`Aaryan, Subsequences And Great XOR`](./Implementation/Subsequences-and-Great-XOR/README.md)     |
+| **#67** | [`Subset AND`](./Implementation/Subset-AND/README.md)                                             |
