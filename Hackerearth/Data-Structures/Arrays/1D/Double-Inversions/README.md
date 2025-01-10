@@ -1,4 +1,4 @@
-# Double inversion
+# [Double inversions][link]
 
 Consider a certain permutation of integers from 1 to n as A = {a1,a2,...,an} and reverse of array A as R, that is, R = {an,an-1,...,a1}. You are given the inversions at each position of array A and R as {IA1,IA2,...IAn} and {IR1,IR2,...IRn} respectively.
 
@@ -17,3 +17,5 @@ Find the original array A. If, there are multiple solutions, print any of them. 
 ## Output format
 
 For each test case, print the array A in the space-separated format or -1 if no solution exists. Each test case should be answered in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/double-inversions-2-881a7d34/
