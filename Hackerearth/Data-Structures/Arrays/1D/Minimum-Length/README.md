@@ -1,4 +1,4 @@
-# Minimum Length
+# [Minimum Length][link]
 
 You are given two arrays A and B, of length N. You can select any subarray and then sort the elements in ascending order of that subarray for arrays A and B.
 
@@ -14,3 +14,5 @@ Find the minimum length of the subarray you can choose to make A and B same afte
 ## Output format
 
 For each test case, print the minimum length of the subarray you can choose to make A and B same after performing the operation.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minimum-length-4-945227e2/
