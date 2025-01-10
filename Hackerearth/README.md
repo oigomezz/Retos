@@ -19,9 +19,9 @@ See About HackerEarth [here](https://www.hackerearth.com/people-and-culture/).
 
 # Solutions
 
-|                                                    |               Language                |  Status   |
-| -------------------------------------------------- | :-----------------------------------: | :-------: |
-| [Basic Programming](./Basic-Programming/README.md) | [Python (v3)](https://www.python.org) | _Solving_ |
+|                                                    | Language                              | Status    |
+| -------------------------------------------------- | ------------------------------------- | --------- |
+| [Basic Programming](./Basic-Programming/README.md) | [Python (v3)](https://www.python.org) | _Solved_  |
 | [Data Structures](./Data-Structures/README.md)     | [Python (v3)](https://www.python.org) | _Solving_ |
 
 ---
