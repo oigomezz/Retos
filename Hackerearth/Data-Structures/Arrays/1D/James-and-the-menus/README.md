@@ -1,4 +1,4 @@
-# James and the menus
+# [James and the menus][link]
 
 James visits a restaurant, looks at the menu, and realizes that there is no price on it. Since he wanted to know the prices before he orders, he looked up the restaurant online and found
 
@@ -17,3 +17,5 @@ If there are multiple menus with the maximum number of good prices, the menu wit
 Print a single number denoting the number of the most updated menu.
 
 It is guaranteed that the answer is unique.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/howie-and-the-menus-2-48359fe4/
