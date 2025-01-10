@@ -1,4 +1,4 @@
-# Maximize the sum
+# [Maximize the sum][link]
 
 You are given an array A of N integers. You want to choose some integers from the array subject to the condition that the number of distinct integers chosen should not exceed K. Your task is to maximize the sum of chosen numbers.
 
@@ -11,3 +11,5 @@ You are given an array A of N integers. You want to choose some integers from th
 ## Output format
 
 For each test case(in a separate line), print the maximum sum you can obtain by choosing some elements such that the number of distinct integers chosen is at most K. If you cannot choose any element, output 0.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-sum-0423b95e/

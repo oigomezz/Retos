@@ -22,3 +22,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`Sum as per frequency`](./Arrays/1D/Sum-as-per-frequency/README.md)   |
 | **#09** | [`Bitwise AND sum`](./Arrays/1D/Bitwise-AND-sum/README.md)             |
 | **#10** | [`Non-decreasing arrays`](./Arrays/1D/Non-decreasing-arrays/README.md) |
+| **#11** | [`Maximize the sum`](./Arrays/1D/Maximize-the-sum/README.md)           |
