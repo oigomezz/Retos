@@ -1,4 +1,4 @@
-# Permutations
+# [Permutations][link]
 
 You are given a permutation with length n . You want to play a game with you friend, Bob, and the rule will be as follows:
 
@@ -21,3 +21,5 @@ For example, (1), (4, 3, 5, 1, 2), (3, 2, 1) are permutations and (1, 1), (4, 3,
 ## Output format
 
 Print the maximum number that does not exist in the subarray [l,r].
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/nevedle-and-permutations-c6acb85e/
