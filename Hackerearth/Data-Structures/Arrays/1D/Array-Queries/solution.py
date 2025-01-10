@@ -24,8 +24,8 @@ def array_queries(n, m, a, b, q, queries):
     return res
 
 
-T = int(input())
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     N = int(input())
     M = int(input())
     A = list(map(int, input().split()))

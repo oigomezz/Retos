@@ -14,3 +14,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | -------------------------------------------------------- |
 | **#01** | [`Minimum Length`](./Arrays/1D/Minimum-Length/README.md) |
 | **#02** | [`Tram ride`](./Arrays/1D/Tram-Ride/README.md)           |
+| **#03** | [`Array queries`](./Arrays/1D/Array-Queries/README.md)   |

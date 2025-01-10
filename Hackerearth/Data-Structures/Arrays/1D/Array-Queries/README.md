@@ -1,4 +1,4 @@
-# Array queries
+# [Array queries][link]
 
 You are given 2 arrays A and B of length N and M respectively.
 
@@ -28,3 +28,5 @@ Complete the array_queries function provided in the editor. This function takes 
 ## Output format
 
 For each test case in a new line, print Q + 1 space-separated integers denoting the initial value of F(A, B) and F(A, B) after each query. Do not forget to take modulo 998244353.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/array-queries-again-7948f256/
