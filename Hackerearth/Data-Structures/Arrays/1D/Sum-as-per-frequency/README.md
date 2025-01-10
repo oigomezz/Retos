@@ -1,4 +1,4 @@
-# Sum as per frequency
+# [Sum as per frequency][link]
 
 There are N numbers A1,A2,...,An, and you are given Q queries. In each query, you are given two integers l and r.
 
@@ -14,3 +14,5 @@ You are required to print the sum of all the numbers whose frequency of occurren
 ## Output format
 
 For each query, print the sum of all elements of the array whose frequency of occurrence is between l and r (inclusive) in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/sum-as-per-frequency-88b00c1f/
