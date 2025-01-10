@@ -1,4 +1,4 @@
-# GCD Strings
+# [GCD Strings][link]
 
 Let P[0 ... N-1] be a binary string of length N. Then let's define S∞(P) as an infinite string with S∞[i] = P[i%N] ∀i >= 0 (informally, S∞(P) is the concatenation of P with itself an infinite number of times).
 
@@ -17,3 +17,5 @@ We can define F(a,b) to be the value of the integer represented by the binary st
 ## Output format
 
 Print the answer to each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/gcd-strings/

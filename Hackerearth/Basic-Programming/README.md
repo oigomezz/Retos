@@ -357,3 +357,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`Number of divisors`](./Recursion/Number-of-Divisors/README.md)   |
 | **#07** | [`Divide Number`](./Recursion/Divide-Number/README.md)             |
 | **#08** | [`Movement in arrays`](./Recursion/Movement-in-arrays/README.md)   |
+| **#09** | [`GCD Strings`](./Recursion/GCD-Strings/README.md)                 |
