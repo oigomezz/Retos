@@ -1,4 +1,4 @@
-# Bitwise AND sum
+# [Bitwise AND sum][link]
 
 You are given an array A consisting of N positive integers. Here, f(i,j) is defined as the bitwise AND of all elements of the array A after replacing all elements of A in range [i,j] (both inclusive) with (2²⁵ - 1).
 
@@ -14,3 +14,5 @@ Note that after calculating the value f(i,j) for some (i,j), the array is restor
 ## Output format
 
 For each test case, print the required sum in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bitwise-and-sum-d8a0d265/

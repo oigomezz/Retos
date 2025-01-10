@@ -20,3 +20,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`James and the menus`](./Arrays/1D/James-and-the-menus/README.md)   |
 | **#07** | [`Non-empty subsets`](./Arrays/1D/Non-empty-subsets/README.md)       |
 | **#08** | [`Sum as per frequency`](./Arrays/1D/Sum-as-per-frequency/README.md) |
+| **#09** | [`Bitwise AND sum`](./Arrays/1D/Bitwise-AND-sum/README.md)           |
