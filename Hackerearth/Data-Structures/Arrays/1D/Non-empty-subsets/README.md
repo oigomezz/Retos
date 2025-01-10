@@ -1,4 +1,4 @@
-# Non-empty subsets
+# [Non-empty subsets][link]
 
 You are given an array A consisting of N non-negative integers. Find out the minimum number K such that there exists a non-empty subset of A for which the bitwise OR of all its elements is equal to K.
 
@@ -11,3 +11,5 @@ You are given an array A consisting of N non-negative integers. Find out the min
 ## Output format
 
 For each test case, print a line containing the minimum possible value of K.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minor-4-41918cb8/

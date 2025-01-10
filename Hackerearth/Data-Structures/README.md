@@ -18,3 +18,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Permutations`](./Arrays/1D/Permutations/README.md)               |
 | **#05** | [`Double inversions`](./Arrays/1D/Double-Inversions/README.md)     |
 | **#06** | [`James and the menus`](./Arrays/1D/James-and-the-menus/README.md) |
+| **#07** | [`Non-empty subsets`](./Arrays/1D/Non-empty-subsets/README.md)     |
