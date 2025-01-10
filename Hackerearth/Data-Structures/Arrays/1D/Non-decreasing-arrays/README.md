@@ -1,4 +1,4 @@
-# Non-decreasing arrays
+# [Non-decreasing arrays][link]
 
 You are given an array A consisting of N positive integers. Your task is to find an array B of length N satisfying the following conditions:
 
@@ -16,3 +16,5 @@ You are given an array A consisting of N positive integers. Your task is to find
 ## Output format
 
 For each test case (in a separate line), print N space-separated integers denoting B1,B2,...,Bn. If there are multiple answers, you can print any of them. It is guaranteed that under the given constraints at least 1 B exists.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/make-it-non-decreasing-7d3391fd/
