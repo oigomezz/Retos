@@ -1,4 +1,4 @@
-# Minimum operations
+# [Minimum operations][link]
 
 You are given an array A of length N and can perform the following operation on the array:
 
@@ -14,3 +14,5 @@ Find the minimum number of operations required to make all the elements of array
 ## Output format
 
 Print the minimum number of operations required to make all the elements of array A equal to zero.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minimum-operations-2-8000e855/

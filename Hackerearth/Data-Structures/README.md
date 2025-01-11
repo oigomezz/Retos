@@ -24,3 +24,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Non-decreasing arrays`](./Arrays/1D/Non-decreasing-arrays/README.md) |
 | **#11** | [`Maximize the sum`](./Arrays/1D/Maximize-the-sum/README.md)           |
 | **#12** | [`Minimum additions`](./Arrays/1D/Minimum-Additions/README.md)         |
+| **#13** | [`Minimum operations`](./Arrays/1D/Minimum-Operations/README.md)       |
