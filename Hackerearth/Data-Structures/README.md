@@ -23,3 +23,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Bitwise AND sum`](./Arrays/1D/Bitwise-AND-sum/README.md)             |
 | **#10** | [`Non-decreasing arrays`](./Arrays/1D/Non-decreasing-arrays/README.md) |
 | **#11** | [`Maximize the sum`](./Arrays/1D/Maximize-the-sum/README.md)           |
+| **#12** | [`Minimum additions`](./Arrays/1D/Minimum-Additions/README.md)         |

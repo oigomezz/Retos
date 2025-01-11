@@ -1,4 +1,4 @@
-# Minimum additions
+# [Minimum additions][link]
 
 You are given an array A of N positive integers. Your task is to add a minimum number of non-negative integers to the array such that the floor of an average of array A becomes less than or equal to K.
 
@@ -11,3 +11,5 @@ You are given an array A of N positive integers. Your task is to add a minimum n
 ## Output format
 
 For each test case (in a separate line), print the minimum number of non-negative integers that should be added to array A such that the floor of an average of array A is less than or equal to K.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minimum-additions-0142ac80/
