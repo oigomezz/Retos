@@ -1,4 +1,4 @@
-# Scoreboard queries
+# [Scoreboard queries][link]
 
 In a tournament there are (N+1) players, N players have already played and their scores are denoted by an array A. Here, A1 is the score of the first player, A2 of the second, ..., of the Nth player.
 
@@ -23,3 +23,5 @@ Now, the jury has some scoreboard updates. Therefore, your task is to tell the j
 
 - For each test case:
   - Print Q lines denoting the number of possible ranks which (n+1)th player can get after every update.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/tournament-and-ranks-67cd4b7e/
