@@ -1,20 +1,20 @@
 from itertools import accumulate
 
 
-def solve(A, R, L):
-    n = len(A)
-    sums = list(accumulate(A, initial=0))
+def solve(a, r, l):
+    n = len(a)
+    sums = list(accumulate(a, initial=0))
     last = sums[-1]
-    for i in range(len(L)):
-        left = L[i] - 1
+    for i in range(len(l)):
+        left = l[i] - 1
         x = (left // n) * last + sums[left % n]
-        right = R[i]
+        right = r[i]
         y = (right // n) * last + sums[right % n]
         yield (y - x) % 1000000007
 
 
-T = int(input())
-for _ in range(T):
+t = int(input())
+for _ in range(t):
     N = int(input())
     A = list(map(int, input().strip().split()))
     Q = int(input())

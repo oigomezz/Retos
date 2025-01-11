@@ -1,4 +1,4 @@
-# Infinite arrays
+# [Infinite arrays][link]
 
 You are given an array A of size N. You have also defined an array as the concatenation of array for infinite number of times.
 
@@ -21,3 +21,5 @@ Now, you are given Q queries. Each query consists of two integers, Li and Ri. Yo
 ## Output format
 
 For each test case, print Q space-separated integers that denote the answers of the provided Q queries. Print the answer to each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/infinity-array-715a233b/
