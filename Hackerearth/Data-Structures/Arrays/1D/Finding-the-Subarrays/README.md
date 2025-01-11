@@ -1,4 +1,4 @@
-# Finding the Subarrays
+# [Finding the Subarrays][link]
 
 You are given an array A of N elements. You need to find all the subarrays such that their average sum is greater than the average sum of the remaining array elements. You need to print the start and end index of each subarray in sorted order in a new line.
 
@@ -15,3 +15,5 @@ You are given an array A of N elements. You need to find all the subarrays such 
 
 The first line of output should contain an integer X that denotes how many subarrays that follow the given criterion are there.
 The next X lines contain a pair of space-separated integers corresponding to the start and end positions of the valid subarrays.
+
+[link]: https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-rectangle/

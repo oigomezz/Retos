@@ -35,3 +35,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`In an array`](./Arrays/1D/In-an-array/README.md)                                     |
 | **#22** | [`2 arrays`](./Arrays/1D/2-Arrays/README.md)                                           |
 | **#23** | [`Infinite arrays`](./Arrays/1D/Infinite-Arrays/README.md)                             |
+| **#24** | [`Finding the Subarrays`](./Arrays/1D/Finding-the-Subarrays/README.md)                 |
