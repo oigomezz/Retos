@@ -29,3 +29,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Scoreboard queries`](./Arrays/1D/Scoreboard-Queries/README.md)                     |
 | **#16** | [`Bracket sequences`](./Arrays/1D/Bracket-Sequences/README.md)                       |
 | **#17** | [`Minimum AND xor OR`](./Arrays/1D/Minimum-AND-xor-OR/README.md)                     |
+| **#18** | [`Binary numbers`](./Arrays/1D/Binary-Numbers/README.md)                             |
