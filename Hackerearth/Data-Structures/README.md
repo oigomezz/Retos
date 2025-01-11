@@ -26,3 +26,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Minimum additions`](./Arrays/1D/Minimum-Additions/README.md)                       |
 | **#13** | [`Minimum operations`](./Arrays/1D/Minimum-Operations/README.md)                     |
 | **#14** | [`Maximize the modulo function`](./Arrays/1D/Maximize-the-Modulo-Function/README.md) |
+| **#15** | [`Scoreboard queries`](./Arrays/1D/Scoreboard-Queries/README.md)                     |
