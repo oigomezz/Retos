@@ -1,4 +1,4 @@
-# Not in Range
+# [Not in Range][link]
 
 You are given 10⁶ boxes that are numbered from 1 to 10⁶. The value of each box is equal to its number.
 
@@ -16,3 +16,5 @@ Find the sum of values of all boxes from 1 to 10⁶.
 ## Output format
 
 Print a single integer denoting the answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/not-in-range-44d19403/
