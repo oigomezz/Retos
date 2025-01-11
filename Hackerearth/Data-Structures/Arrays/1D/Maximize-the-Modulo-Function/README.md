@@ -1,4 +1,4 @@
-# Maximize the modulo function
+# [Maximize the modulo function][link]
 
 You are given an integer N that is represented in the form of string S of length M. You can remove at most 1 digit from the number after removing the rest of the digits that are arranged in the same order.
 
@@ -11,3 +11,5 @@ You are given an integer N that is represented in the form of string S of length
 ## Output format
 
 For each test case, print the maximum possible value of the mod function in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-modulo-2-0cb15ded/
