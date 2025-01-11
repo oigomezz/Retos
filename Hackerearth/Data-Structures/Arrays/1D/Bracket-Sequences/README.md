@@ -1,4 +1,4 @@
-# Bracket sequences
+# [Bracket sequences][link]
 
 A bracket sequence is a string that contains only characters '(' and ')'.
 
@@ -13,3 +13,5 @@ The single line contains sequence s.
 ## Output format
 
 Print the number of shifts denoting the correct bracket sequence.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/
