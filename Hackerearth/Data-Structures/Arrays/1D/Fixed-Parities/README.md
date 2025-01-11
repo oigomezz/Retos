@@ -1,4 +1,4 @@
-# Fixed parities
+# [Fixed parities][link]
 
 Alice and Bob are playing a board game. They have n x n boards and two arrays a and b of length n. The value of each cell in the ith row and jth row is a[i] + b[j]. Alice asks q questions to Bob. In each question, Alice provides two cells A and B. She asks the following questions to Bob:
 
@@ -19,3 +19,5 @@ Are there any paths from A to B that contains the same parity as A and B.
 ## Output format
 
 For each query, if there exists a path (for example, C) from A to B that contains the same parity as A and B, then print YES. If the parity of A and B are different, then print NO.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fixed-parity-440254c0/
