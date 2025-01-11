@@ -28,3 +28,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#14** | [`Maximize the modulo function`](./Arrays/1D/Maximize-the-Modulo-Function/README.md) |
 | **#15** | [`Scoreboard queries`](./Arrays/1D/Scoreboard-Queries/README.md)                     |
 | **#16** | [`Bracket sequences`](./Arrays/1D/Bracket-Sequences/README.md)                       |
+| **#17** | [`Minimum AND xor OR`](./Arrays/1D/Minimum-AND-xor-OR/README.md)                     |

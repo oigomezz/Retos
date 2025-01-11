@@ -1,4 +1,4 @@
-# Minimum AND xor OR
+# [Minimum AND xor OR][link]
 
 You are given an array A of N integers. Determine the minimum value of the following expression for all valid (i,j):
 
@@ -14,3 +14,5 @@ You are given an array A of N integers. Determine the minimum value of the follo
 ## Output format
 
 For each test case, print a single line containing one integer that represents the minimum value of the given expression.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/minimum-and-xor-or-6a05bbd4/
