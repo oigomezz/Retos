@@ -32,3 +32,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#18** | [`Binary numbers`](./Arrays/1D/Binary-Numbers/README.md)                               |
 | **#19** | [`Fixed parities`](./Arrays/1D/Fixed-Parities/README.md)                               |
 | **#20** | [`Pairs Having Similar Elements`](./Arrays/1D/Pairs-Having-Similar-Elements/README.md) |
+| **#21** | [`In an array`](./Arrays/1D/In-an-array/README.md)                                     |
