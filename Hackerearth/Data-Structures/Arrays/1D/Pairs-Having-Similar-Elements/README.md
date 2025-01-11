@@ -1,4 +1,4 @@
-# Pairs Having Similar Elements
+# [Pairs Having Similar Elements][link]
 
 Given an array, A, having N integers A1,A2,...,An.Two elements of the array Ai and Aj are called similar iff Ai = Aj + 1 or Aj = Ai + 1.
 
@@ -16,3 +16,5 @@ You need to find number of pairs of indices (i,j) such that i < j and Ai is simi
 ## Output format
 
 Output the number of pairs of indices (i,j) such that i < j and Ai is similar to Aj in a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/
