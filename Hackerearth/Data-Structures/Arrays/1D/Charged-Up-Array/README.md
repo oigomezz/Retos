@@ -1,4 +1,4 @@
-# Charged Up Array
+# [Charged Up Array][link]
 
 You are given with an array A of size N.An element Ai is said to be charged if its value(Ai) is greater than or equal to Ki. Ki is the total number of subsets of array A, that consist of element Ai.
 
@@ -15,3 +15,5 @@ Your task is to output the total charge value of the given array A.
 ## Output format
 
 For each test case, output a single number corresponding to total charge value of the given array.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charged-up-array-f35a5e23/
