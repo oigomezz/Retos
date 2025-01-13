@@ -40,3 +40,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#26** | [`Charged Up Array`](./Arrays/1D/Charged-Up-Array/README.md)                           |
 | **#27** | [`Large Sub-Arrays`](./Arrays/1D/Large-Sub-Arrays/README.md)                           |
 | **#28** | [`Takeoff`](./Arrays/1D/Takeoff/README.md)                                             |
+| **#29** | [`Perfect Subarray`](./Arrays/1D/Perfect-Subarray/README.md)                           |
