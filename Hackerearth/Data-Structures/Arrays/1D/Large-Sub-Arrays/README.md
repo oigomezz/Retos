@@ -1,4 +1,4 @@
-# Large Sub-Arrays
+# [Large Sub-Arrays][link]
 
 You are given an array A with size N and two integers M and K.
 Let's define another array B with size N x M as the array that's formed by concatenating M copies of array A.
@@ -14,3 +14,5 @@ You have to find the number of sub-arrays of the array B with sum <= K. Since th
 ## Output format
 
 For each test case, print the required answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/large-sub-arrays-5bd8005b/
