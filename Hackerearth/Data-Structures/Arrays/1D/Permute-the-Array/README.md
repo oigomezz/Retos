@@ -1,4 +1,4 @@
-# Permute the Array
+# [Permute the Array][link]
 
 You are given an array consisting of N integers. You need to determine whether any permutation of given array exist such that the sum of all subarrays of length K are equal.
 
@@ -11,3 +11,5 @@ You are given an array consisting of N integers. You need to determine whether a
 ## Output format
 
 Print "YES" or "NO" for each testcase in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/equal-sum-5b547fc2/
