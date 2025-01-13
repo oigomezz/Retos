@@ -1,4 +1,4 @@
-# Digital Sequence
+# [Digital Sequence][link]
 
 You are given an array A of length N. You need to find maximum length of subsequence of A which contains any one digit common in all the elements of that subsequence. You are not allowed to count leading zeroes.
 
@@ -10,3 +10,5 @@ You are given an array A of length N. You need to find maximum length of subsequ
 ## Output format
 
 Single integer representing maximum length of subsequence containing one digit common.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/digitial-sequence-ee0ea080/
