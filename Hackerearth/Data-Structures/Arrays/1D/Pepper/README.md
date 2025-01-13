@@ -1,4 +1,4 @@
-# Pepper and Contiguous Even Subarray
+# [Pepper and Contiguous Even Subarray][link]
 
 You have an array of length N. A subarray is called Interesting if it contains only even numbers. You have to find the maximum length of such Interesting subarray.
 
@@ -14,3 +14,5 @@ You are given a code which does the given task but has some bugs (errors). You h
 ## Output format
 
 For each test case, print the maximum length of Interesting subarray. If no such subarray exist,print -1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pepper-and-contiguous-even-subarray-9f3adf65/

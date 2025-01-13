@@ -44,3 +44,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`Permute the Array`](./Arrays/1D/Permute-the-Array/README.md)                         |
 | **#31** | [`K - Jump`](./Arrays/1D/K-Jump/README.md)                                             |
 | **#32** | [`Digital Sequence`](./Arrays/1D/Digital-Sequence/README.md)                           |
+| **#33** | [`Pepper and Contiguous Even Subarray <Debugging>`](./Arrays/1D/Pepper/README.md)      |
