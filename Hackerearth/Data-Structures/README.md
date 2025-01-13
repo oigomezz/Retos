@@ -46,3 +46,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`Digital Sequence`](./Arrays/1D/Digital-Sequence/README.md)                           |
 | **#33** | [`Pepper and Contiguous Even Subarray <Debugging>`](./Arrays/1D/Pepper/README.md)      |
 | **#34** | [`Thief and Warehouses`](./Arrays/1D/Thief-and-Warehouses/README.md)                   |
+| **#35** | [`Supreme Subset`](./Arrays/1D/Supreme-Subset/README.md)                               |

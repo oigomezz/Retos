@@ -1,4 +1,4 @@
-# Supreme Subset
+# [Supreme Subset][link]
 
 Given a multiset of integers having cardinality n, find its Supreme Subset.
 
@@ -19,3 +19,5 @@ Finding order by set comparison - Given two sets of the same size, the smaller o
 
 First line should have 1 integer, k, representing cardinality of the Supreme Subset.
 Second line should have k members of the supreme subset in sorted order.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/supreme-subset-bb866a75/
