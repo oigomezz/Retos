@@ -42,3 +42,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#28** | [`Takeoff`](./Arrays/1D/Takeoff/README.md)                                             |
 | **#29** | [`Perfect Subarray`](./Arrays/1D/Perfect-Subarray/README.md)                           |
 | **#30** | [`Permute the Array`](./Arrays/1D/Permute-the-Array/README.md)                         |
+| **#31** | [`K - Jump`](./Arrays/1D/K-Jump/README.md)                                             |
