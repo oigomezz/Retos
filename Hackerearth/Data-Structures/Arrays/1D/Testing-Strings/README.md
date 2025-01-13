@@ -1,4 +1,4 @@
-# Testing Strings
+# [Testing Strings][link]
 
 Mr X and Mr Y, his friend are programmers and testers respectively working in the same company. So, once they faced the following scenario :
 
@@ -18,3 +18,5 @@ Mr X remembers N pieces of info. For each one, he gives you 2 numbers L and R an
 ## Output format
 
 You need to find and print the number of different possible candidate Strings for the lost String based on the info Mr X remembers. As the number of such Strings can be large, print it Modulo 10⁶ + 3.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/testing-strings-d1f28949/
