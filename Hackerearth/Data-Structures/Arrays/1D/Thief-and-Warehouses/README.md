@@ -1,4 +1,4 @@
-# Thief and Warehouses
+# [Thief and Warehouses][link]
 
 There are N warehouses. The warehouses are located in a straight line and are indexed from 1 to N. Each warehouse contains some number of sacks.
 
@@ -18,3 +18,5 @@ Thief wants to calculate the maximum number of sacks he can steal without gettin
 ## Output format
 
 Print the answer to each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/thief-and-warehouses-6ebf4e07/
