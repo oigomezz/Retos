@@ -1,4 +1,4 @@
-# Takeoff
+# [Takeoff][link]
 
 There are three planes A,B, and C. Plane A will takeoff on every pth day i.e. p, 2p, 3p and so on. Plane B will takeoff on every qth day and plane C will takeoff on every rth day. There is only one runway and the takeoff timing is same for each of the three planes on each day. Your task is to find out the maximum number of flights that will successfully takeoff in the period of N days.
 
@@ -12,3 +12,5 @@ There are three planes A,B, and C. Plane A will takeoff on every pth day i.e. p,
 ## Output format
 
 For each test case print a single integer representing the maximum number of flights that will successfully takeoff in the period of N days.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/no-sharing-capillary-82ed3fe2/
