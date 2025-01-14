@@ -1,4 +1,4 @@
-# Micro and Array Update
+# [Micro and Array Update][link]
 
 Micro purchased an array A having N integer values. After playing it for a while, he got bored of it and decided to update value of its element. In one second he can increase value of each array element by 1. He wants each array element's value to become greater than or equal to K. Please help Micro to find out the minimum amount of time it will take, for him to do so.
 
@@ -11,3 +11,5 @@ Micro purchased an array A having N integer values. After playing it for a while
 ## Output format
 
 For each test case, print the minimum time in which all array elements will become greater than or equal to K. Print a new line after each test case.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/

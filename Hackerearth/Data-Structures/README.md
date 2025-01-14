@@ -51,3 +51,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#37** | [`Bela Jornada`](./Arrays/1D/Bela-Jornada/README.md)                                   |
 | **#38** | [`Zulu encounters a Sequence Problem`](./Arrays/1D/Zulu/README.md)                     |
 | **#39** | [`Battlefield (MEDIUM)`](./Arrays/1D/Battlefield/README.md)                            |
+| **#40** | [`Micro and Array Update`](./Arrays/1D/Micro-and-Array-Update/README.md)               |
