@@ -1,4 +1,4 @@
-# Mark The Answer
+# [Mark The Answer][link]
 
 Our friend Monk has an exam that has quite weird rules. Each question has a difficulty level in the form of an Integer. Now, Monk can only solve the problems that have difficulty level less than X . Now the rules are-
 
@@ -18,3 +18,5 @@ can you help him determine his maximum score?
 ## Output format
 
 Maximum score Monk can achieve in the exam.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/mark-the-answer-1/
