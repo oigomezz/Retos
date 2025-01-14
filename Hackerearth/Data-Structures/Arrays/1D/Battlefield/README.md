@@ -1,4 +1,4 @@
-# Battlefield
+# [Battlefield][link]
 
 The war goes on.The Knights and the Demons are fighting at their fullest but as expected, the evil is dominating the good ones.In order to defeat the Demons the knights have to come together.
 
@@ -19,3 +19,5 @@ Help the Knights decide the minimum number of swaps they have to do so that all 
 ## Output format
 
 The output contains an integer denoting the minimum number of swaps required for each test case t.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/battlefield-13/
