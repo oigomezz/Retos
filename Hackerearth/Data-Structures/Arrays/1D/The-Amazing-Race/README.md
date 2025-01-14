@@ -1,4 +1,4 @@
-# The Amazing Race
+# [The Amazing Race][link]
 
 As the Formula One Grand Prix was approaching, the officials decided to make the races a little more interesting with a new set of rules. According to the new set of rules, each driver will be given a vehicle with different height and the driver with maximum SIGHT would win the race.
 
@@ -16,3 +16,5 @@ First line of the input contains t, the number of test cases. The 1st line of ea
 ## Output format
 
 Output for each test case should be a single line displaying the index of the winning driver. In case of ties, display the driver with minimum index.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/the-amazing-race-1/

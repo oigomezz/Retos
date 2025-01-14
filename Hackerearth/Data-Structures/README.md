@@ -57,3 +57,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#43** | [`Unique Subarrays`](./Arrays/1D/Unique-Subarrays/README.md)                           |
 | **#44** | [`Mark The Answer`](./Arrays/1D/Mark-The-Answer/README.md)                             |
 | **#45** | [`Monk and Power of Time`](./Arrays/1D/Monk-and-Power-of-Time/README.md)               |
+| **#46** | [`The Amazing Race`](./Arrays/1D/The-Amazing-Race/README.md)                           |
