@@ -1,4 +1,4 @@
-# Zulu encounters a Sequence Problem
+# [Zulu encounters a Sequence Problem][link]
 
 Zulu is good in maths. He loves to play with numbers. One day while browsing through a book, he encountered a nice problem. In the problem, he was given an array A of N numbers.
 
@@ -15,3 +15,5 @@ In the first line of input, T will be given which is the number of test cases. F
 ## Output format
 
 For each of the test cases, output the points of the index which have maximum points in the array in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/zulu-encounters-a-sequence-problem/
