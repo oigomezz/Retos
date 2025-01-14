@@ -53,3 +53,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#39** | [`Battlefield (MEDIUM)`](./Arrays/1D/Battlefield/README.md)                            |
 | **#40** | [`Micro and Array Update`](./Arrays/1D/Micro-and-Array-Update/README.md)               |
 | **#41** | [`Long ATM Queue`](./Arrays/1D/Long-ATM-Queue/README.md)                               |
+| **#42** | [`Fredo and Large Numbers`](./Arrays/1D/Fredo-and-Large-Numbers/README.md)             |

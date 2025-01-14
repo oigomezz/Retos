@@ -1,8 +1,7 @@
 from collections import OrderedDict
-from sys import stdin
 
 n = int(input())
-a = list(map(int, stdin.readline().strip().split()))
+a = list(map(int, input().strip().split()))
 frequencies = OrderedDict()
 for i in a:
     if i in frequencies:
@@ -17,7 +16,7 @@ most = max(unique_values)
 
 q = int(input())
 for _ in range(q):
-    tp, f = map(int, stdin.readline().strip().split())
+    tp, f = map(int, input().strip().split())
     if f > most:
         print(0)
     elif tp == 0:

@@ -1,4 +1,4 @@
-# Fredo and Large Numbers
+# [Fredo and Large Numbers][link]
 
 Fredo is pretty good at dealing large numbers. So, once his friend Zeus gave him an array of N numbers , followed by Q queries which he has to answer. In each query , he defines the type of the query and the number f for which Fredo has to answer. Each query is of the following two types:
 
@@ -20,3 +20,5 @@ Now, Fredo answers all his queries but now Zeus imagines how he should verify th
 ## Output format
 
 You have to print the answer for each query in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/fredo-and-large-numbers/
