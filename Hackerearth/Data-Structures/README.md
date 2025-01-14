@@ -61,3 +61,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#47** | [`Litte Jhool and World Tour`](./Arrays/1D/Litte-Jhool-and-World-Tour/README.md)       |
 | **#48** | [`Speed`](./Arrays/1D/Speed/README.md)                                                 |
 | **#49** | [`Modify Sequence`](./Arrays/1D/Modify-Sequence/README.md)                             |
+
+### [Multi-dimensional](./Arrays/Multi-dimensional/README.md)
+
+| N°      | Enunciado                                                                               |
+| ------- | --------------------------------------------------------------------------------------- |
+| **#01** | [`Minimum Maximum Plants`](./Arrays/Multi-dimensional/Minimum-Maximum-Plants/README.md) |

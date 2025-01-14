@@ -1,42 +1,24 @@
-def max_plants_in_row(width, broken):
-    count = 0
-    last_planted = False
-    for i in range(width):
-        if not broken[i] and not last_planted:
-            count += 1
-            last_planted = True
+n, m = map(int, input().split())
+b = int(input())
+
+garden = [[1] * m for _ in range(n)]
+
+for _ in range(b):
+    x, y = map(int, input().split())
+    garden[x][y] = -1
+
+mn = 0
+mx = 0
+for i in range(n):
+    cnt = 0
+    for j in range(m):
+        if garden[i][j] == 1:
+            cnt += 1
         else:
-            last_planted = False
-    return count
+            mn += (cnt + 2) // 3
+            mx += (cnt + 1) // 2
+            cnt = 0
+    mn += (cnt + 2) // 3
+    mx += (cnt + 1) // 2
 
-
-def calculate_max_plants(rows, cols, pots):
-    total = 0
-    for i in range(rows):
-        total += max_plants_in_row(cols,  pots[i])
-    return total
-
-
-def calculate_min_coverage(rows, cols, pots):
-    min_coverage = 0
-    for j in range(cols):
-        has_plant = False
-        for i in range(rows):
-            if not pots[i][j]:
-                has_plant = True
-                break
-        if has_plant:
-            min_coverage += 1
-    return min_coverage
-
-
-rows, cols = map(int, input().split())
-broken_pots = int(input())
-pots = [[False for _ in range(cols)] for _ in range(rows)]
-for _ in range(broken_pots):
-    row, col = map(int, input().split())
-    pots[row][col] = True
-
-max_plants = calculate_max_plants(rows, cols, pots)
-min_coverage = calculate_min_coverage(rows, cols, pots)
-print(max_plants, min_coverage)
+print(mx, mn)

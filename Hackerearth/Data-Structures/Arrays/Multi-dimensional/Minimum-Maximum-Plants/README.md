@@ -1,4 +1,4 @@
-# Minimum Maximum Plants
+# [Minimum Maximum Plants][link]
 
 Consider a garden represented as an n x m grid, where each unit cell has dimensions of 1 x 1 and contains a pot. The rows are numbered from 0 to n-1 from top to bottom. The columns are numbered from 0 to m-1 from left to right. Some of these pots within the garden have been broken. The objective is:
 
@@ -17,3 +17,5 @@ We denote the cell on the ith (0 <= i <= n-1) row and jth (0 <= j <= m-1) column
 ## Output format
 
 In a new line print 2 space-separated integers representing the maximum number of plants that can be strategically planted and the minimum number of plants required for effective coverage, respectively.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/minimum-maximum-plants-7fc77039/
