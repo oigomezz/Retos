@@ -1,4 +1,4 @@
-# Monk and Power of Time
+# [Monk and Power of Time][link]
 
 The Monk is trying to explain to its users that even a single unit of time can be extremely important and to demonstrate this particular fact he gives them a challenging task.
 
@@ -28,3 +28,5 @@ The first line a number N, denoting the number of processes. The second line con
 ## Output format
 
 Print the total time taken for the entire queue of processes to be executed.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-power-of-time/

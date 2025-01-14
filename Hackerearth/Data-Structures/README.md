@@ -56,3 +56,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#42** | [`Fredo and Large Numbers`](./Arrays/1D/Fredo-and-Large-Numbers/README.md)             |
 | **#43** | [`Unique Subarrays`](./Arrays/1D/Unique-Subarrays/README.md)                           |
 | **#44** | [`Mark The Answer`](./Arrays/1D/Mark-The-Answer/README.md)                             |
+| **#45** | [`Monk and Power of Time`](./Arrays/1D/Monk-and-Power-of-Time/README.md)               |
