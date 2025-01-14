@@ -58,3 +58,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#44** | [`Mark The Answer`](./Arrays/1D/Mark-The-Answer/README.md)                             |
 | **#45** | [`Monk and Power of Time`](./Arrays/1D/Monk-and-Power-of-Time/README.md)               |
 | **#46** | [`The Amazing Race`](./Arrays/1D/The-Amazing-Race/README.md)                           |
+| **#47** | [`Litte Jhool and World Tour`](./Arrays/1D/Litte-Jhool-and-World-Tour/README.md)       |

@@ -1,4 +1,4 @@
-# Litte Jhool and World Tou
+# [Litte Jhool and World Tour][link]
 
 Little Jhool is just not a smart algorithmic coder, he regularly contributes to open source, too. This year, he's managed to be selected for a project in the prestigious Google Summer of Code, too. More than the project, he's happy about the money he's going to receive. He's already started day dreaming about what he will do with the money, - he's settled on for going to a tour of couple of countries. Now, he's a bit confused about which countries he wants to consider, so he buys a globe, and starts rotating it like some boss.
 
@@ -19,3 +19,5 @@ The first line contains test cases, tc, followed by two integers N,M- the first 
 ## Output format
 
 Print "YES" if it is possible for Little Jhool to do so, print "NO", if it is not.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/litte-jhool-and-world-tour-1/
