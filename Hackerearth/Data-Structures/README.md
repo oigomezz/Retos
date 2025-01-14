@@ -60,3 +60,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#46** | [`The Amazing Race`](./Arrays/1D/The-Amazing-Race/README.md)                           |
 | **#47** | [`Litte Jhool and World Tour`](./Arrays/1D/Litte-Jhool-and-World-Tour/README.md)       |
 | **#48** | [`Speed`](./Arrays/1D/Speed/README.md)                                                 |
+| **#49** | [`Modify Sequence`](./Arrays/1D/Modify-Sequence/README.md)                             |
