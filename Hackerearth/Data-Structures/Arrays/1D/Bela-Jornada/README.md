@@ -1,4 +1,4 @@
-# Bela Jornada
+# [Bela Jornada][link]
 
 BR-101 (also called Translitorânea, officially named Rodovia Governador Mário Covas) is a longitudinal road in Brazil. It is the longest in the country.
 
@@ -15,3 +15,5 @@ The first line of input contains an integer N, denoting the number of checkpoint
 ## Output format
 
 You have to present the maximum value of sum(S1) \* sum(S2).
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-journey-1/

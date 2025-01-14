@@ -48,3 +48,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#34** | [`Thief and Warehouses`](./Arrays/1D/Thief-and-Warehouses/README.md)                   |
 | **#35** | [`Supreme Subset`](./Arrays/1D/Supreme-Subset/README.md)                               |
 | **#36** | [`Testing Strings`](./Arrays/1D/Testing-Strings/README.md)                             |
+| **#37** | [`Bela Jornada`](./Arrays/1D/Bela-Jornada/README.md)                                   |
