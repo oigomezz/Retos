@@ -1,4 +1,4 @@
-# Long ATM Queue
+# [Long ATM Queue][link]
 
 Due to the demonetization move, there is a long queue of people in front of ATMs. Due to withdrawal limit per person per day, people come in groups to withdraw money. Groups come one by one and line up behind the already present queue. The groups have a strange way of arranging themselves. In a particular group, the group members arrange themselves in increasing order of their height(not necessarily strictly increasing).
 
@@ -11,3 +11,5 @@ The first line of input contains one positive integer N. The second line contain
 ## Output format
 
 Print the minimum number of groups that are at least present in the queue?
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/

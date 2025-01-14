@@ -52,3 +52,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#38** | [`Zulu encounters a Sequence Problem`](./Arrays/1D/Zulu/README.md)                     |
 | **#39** | [`Battlefield (MEDIUM)`](./Arrays/1D/Battlefield/README.md)                            |
 | **#40** | [`Micro and Array Update`](./Arrays/1D/Micro-and-Array-Update/README.md)               |
+| **#41** | [`Long ATM Queue`](./Arrays/1D/Long-ATM-Queue/README.md)                               |
