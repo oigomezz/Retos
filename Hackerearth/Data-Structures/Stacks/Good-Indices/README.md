@@ -1,4 +1,4 @@
-# Good Indices
+# [Good Indices][link]
 
 Given an array of integers A of size N. You can perform the following operation on the array:
 
@@ -17,3 +17,5 @@ If it is not possible to satisfy the mentioned condition output -1 for that inde
 ## Output format
 
 For every test case, output N integers, where the ith integer represents the minimum number of moves to make the ith index good.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/good-indices-c7058c9b/
