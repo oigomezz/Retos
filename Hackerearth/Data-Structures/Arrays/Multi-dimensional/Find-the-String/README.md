@@ -1,4 +1,4 @@
-# Find the String
+# [Find the String][link]
 
 You are given a matrix of characters. The matrix has N rows and M columns. Given a string s, you have to tell if it is possible to generate that string from given matrix.
 Rules for generating string from matrix are:
@@ -19,3 +19,5 @@ You have to print Yes if given string can be generated from matrix using the giv
 ## Output format
 
 For each test case, print "Yes" if string can be generated else print "No". Answer for each test case should come in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/find-the-string-4014dec6/
