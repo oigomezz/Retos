@@ -85,3 +85,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | ------------------------------------------------------- |
 | **#01** | [`Killer Monsters`](./Stacks/Killer-Monsters/README.md) |
 | **#02** | [`Good Indices`](./Stacks/Good-Indices/README.md)       |
+| **#03** | [`Chocolate stack`](./Stacks/Chocolate-stack/README.md) |

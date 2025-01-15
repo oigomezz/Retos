@@ -1,4 +1,4 @@
-# Chocolate stack
+# [Chocolate stack][link]
 
 A shop has a stack of chocolate boxes each containing a positive number of chocolates. Initially, the stack is empty. During the next N minutes, either of these two things may happen:
 
@@ -19,3 +19,5 @@ Determine the number of chocolates in the sold box each time he sells a box.
 ## Output format
 
 Print an array, representing the number of chocolates in the sold box each time you sell a box.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/chocolate-stack-746c1b56/
