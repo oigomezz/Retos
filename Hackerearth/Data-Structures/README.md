@@ -64,14 +64,15 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Multi-dimensional](./Arrays/Multi-dimensional/README.md)
 
-| N°      | Enunciado                                                                               |
-| ------- | --------------------------------------------------------------------------------------- |
-| **#01** | [`Minimum Maximum Plants`](./Arrays/Multi-dimensional/Minimum-Maximum-Plants/README.md) |
-| **#02** | [`Two Dimensional OR`](./Arrays/Multi-dimensional/Two-Dimensional-OR/README.md)         |
-| **#03** | [`Gift for Almas`](./Arrays/Multi-dimensional/Gift-for-Almas/README.md)                 |
-| **#04** | [`Unsafe elements in a matrix`](./Arrays/Multi-dimensional/Unsafe-elements/README.md)   |
-| **#05** | [`Grid and phrase`](./Arrays/Multi-dimensional/Grid-and-phrase/README.md)               |
-| **#06** | [`Largest Square`](./Arrays/Multi-dimensional/Largest-Square/README.md)                 |
-| **#07** | [`Find the String`](./Arrays/Multi-dimensional/Find-the-String/README.md)               |
-| **#08** | [`Binary Blocks`](./Arrays/Multi-dimensional/Binary-Blocks/README.md)                   |
-| **#09** | [`Submatrix Updates`](./Arrays/Multi-dimensional/Submatrix-Updates/README.md)           |
+| N°      | Enunciado                                                                                           |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| **#01** | [`Minimum Maximum Plants`](./Arrays/Multi-dimensional/Minimum-Maximum-Plants/README.md)             |
+| **#02** | [`Two Dimensional OR`](./Arrays/Multi-dimensional/Two-Dimensional-OR/README.md)                     |
+| **#03** | [`Gift for Almas`](./Arrays/Multi-dimensional/Gift-for-Almas/README.md)                             |
+| **#04** | [`Unsafe elements in a matrix`](./Arrays/Multi-dimensional/Unsafe-elements/README.md)               |
+| **#05** | [`Grid and phrase`](./Arrays/Multi-dimensional/Grid-and-phrase/README.md)                           |
+| **#06** | [`Largest Square`](./Arrays/Multi-dimensional/Largest-Square/README.md)                             |
+| **#07** | [`Find the String`](./Arrays/Multi-dimensional/Find-the-String/README.md)                           |
+| **#08** | [`Binary Blocks`](./Arrays/Multi-dimensional/Binary-Blocks/README.md)                               |
+| **#09** | [`Submatrix Updates`](./Arrays/Multi-dimensional/Submatrix-Updates/README.md)                       |
+| **#10** | [`Micro and Sweet Distribution`](./Arrays/Multi-dimensional/Micro-and-Sweet-Distribution/README.md) |

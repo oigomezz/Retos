@@ -1,4 +1,4 @@
-# Micro and Sweet Distribution
+# [Micro and Sweet Distribution][link]
 
 It's sweet distribution day in Micro's school. He's very happy. All the students in Micro's class are sitting on chairs which are arranged in a matrix of size N x M i.e. there are N rows of chairs numbered from 1 to N and in each row there are M chairs numbered from 1 to M. Micro is sitting at coordinate (Dx, Dy) (Dyth chair of Dxth row). Teacher gives the box to a student sitting in one of the four corners: (1,1),(1,M) ,(N,1) or (N,M). Students have to take one sweet from the box and pass the box to the next student (student sitting to left, right, front or back). For a student sitting at coordinate (x,y), he'll follow the following priority order:
 
@@ -20,3 +20,5 @@ Now, Micro is curious to find out the direction in which he'll have to pass the 
 ## Output format
 
 For each test case, print "Left", "Right", "Front", "Back", "Over", depending on whether Micro will pass the box to student in left, right, front or back, or if he'll shout over.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/micro-and-sweet-distribution/
