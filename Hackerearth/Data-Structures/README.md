@@ -72,9 +72,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Unsafe elements in a matrix`](./Arrays/Multi-dimensional/Unsafe-elements/README.md)               |
 | **#05** | [`Grid and phrase`](./Arrays/Multi-dimensional/Grid-and-phrase/README.md)                           |
 | **#06** | [`Largest Square`](./Arrays/Multi-dimensional/Largest-Square/README.md)                             |
-| **#07** | [`Left or Right`](./Arrays/Multi-dimensional/Permutations/README.md)     |
+| **#07** | [`Left or Right`](./Arrays/Multi-dimensional/Left-or-Right/README.md)                               |
 | **#08** | [`Find the String`](./Arrays/Multi-dimensional/Find-the-String/README.md)                           |
 | **#09** | [`Binary Blocks`](./Arrays/Multi-dimensional/Binary-Blocks/README.md)                               |
 | **#10** | [`Submatrix Updates`](./Arrays/Multi-dimensional/Submatrix-Updates/README.md)                       |
 | **#11** | [`Micro and Sweet Distribution`](./Arrays/Multi-dimensional/Micro-and-Sweet-Distribution/README.md) |
-| **#12** | [`Roy and Symmetric Logos`](./Arrays/Multi-dimensional/Roy-and-Symmetric-Logos/README.md)     |
+| **#12** | [`Roy and Symmetric Logos`](./Arrays/Multi-dimensional/Roy-and-Symmetric-Logos/README.md)           |

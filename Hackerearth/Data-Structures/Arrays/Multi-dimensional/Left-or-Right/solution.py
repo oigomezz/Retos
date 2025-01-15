@@ -6,6 +6,7 @@ a = list(map(int, input().strip().split()))
 idxes = defaultdict(list)
 for i, v in enumerate(a):
     insort(idxes[v], i)
+
 for _ in range(q):
     y, z, d = input().strip().split()
     y = int(y)

@@ -1,4 +1,4 @@
-# Left or Right
+# [Left or Right][link]
 
 A country X consists of N cities numbered 0 through N-1. The map of this country can be represented as a cycle — for each valid i, city i has exactly two neighboring cities (i+1)%N and (i-1+N)%N.
 
@@ -21,3 +21,5 @@ If Suarez can never reach a city of type Z for a given query, print 1 instead.
 ## Output format
 
 For each query, print a single line containing one integer — the answer to the query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/left-or-right-92c0b54c/
