@@ -1,4 +1,4 @@
-# Jumpy Humpy
+# [Jumpy Humpy][link]
 
 Humpy likes to jump from one building to another. But he only jumps to next higher building and stops when no higher building is available. Stamina required for a journey is xor of all the heights on which humpy jumps until he stops.
 
@@ -12,3 +12,5 @@ If heights are [1 2 4], and he starts from 1, goes to 2 stamina required is 1 ‚ä
 ## Output format
 
 Single Integer that is the maximum stamina required for any journey.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/jumpy-humpy-5e0231d6/

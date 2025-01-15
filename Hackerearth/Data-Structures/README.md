@@ -90,3 +90,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Alice's library`](./Stacks/Alice's-library/README.md) |
 | **#06** | [`Minimum indexes`](./Stacks/Minimum-indexes/README.md) |
 | **#07** | [`Fun Game <Capillary>`](./Stacks/Fun-Game/README.md)   |
+| **#08** | [`Jumpy Humpy`](./Stacks/Jumpy-Humpy/README.md)         |
