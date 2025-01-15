@@ -1,4 +1,4 @@
-# Largest Square
+# [Largest Square][link]
 
 You are given N points on the infinite 2D plane. You need to find 4 such points among these N points, such that, they form a square with positive side length and whose sides are parallel to the x and y axis.
 
@@ -11,3 +11,5 @@ First line contains a single integer N, denoting the number of points on the 2D 
 ## Output format
 
 Print 2 space separated integers, the co-ordinates of the bottom left point of the square found. If there are no squares present, print -1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/largest-square-3d7a938a/
