@@ -78,3 +78,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Submatrix Updates`](./Arrays/Multi-dimensional/Submatrix-Updates/README.md)                       |
 | **#11** | [`Micro and Sweet Distribution`](./Arrays/Multi-dimensional/Micro-and-Sweet-Distribution/README.md) |
 | **#12** | [`Roy and Symmetric Logos`](./Arrays/Multi-dimensional/Roy-and-Symmetric-Logos/README.md)           |
+
+### [Basics of Stacks](./Stacks/README.md)
+
+| N°      | Enunciado                                               |
+| ------- | ------------------------------------------------------- |
+| **#01** | [`Killer Monsters`](./Stacks/Killer-Monsters/README.md) |
