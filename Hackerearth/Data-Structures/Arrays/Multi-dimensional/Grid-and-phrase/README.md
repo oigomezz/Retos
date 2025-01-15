@@ -1,4 +1,4 @@
-# Grid and phrase
+# [Grid and phrase][link]
 
 You are given an n\*m grid which contains lower case English letters. How many times does the phrase "saba" appear horizontally, vertically, and diagonally in the grid?
 
@@ -10,3 +10,5 @@ You are given an n\*m grid which contains lower case English letters. How many t
 ## Output format
 
 Print the number of times the word “saba” appears in the grid.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/jadvaliioo-62280ff6/
