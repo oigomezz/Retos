@@ -73,3 +73,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Grid and phrase`](./Arrays/Multi-dimensional/Grid-and-phrase/README.md)               |
 | **#06** | [`Largest Square`](./Arrays/Multi-dimensional/Largest-Square/README.md)                 |
 | **#07** | [`Find the String`](./Arrays/Multi-dimensional/Find-the-String/README.md)               |
+| **#08** | [`Binary Blocks`](./Arrays/Multi-dimensional/Binary-Blocks/README.md)                   |

@@ -1,4 +1,4 @@
-# Binary Blocks
+# [Binary Blocks][link]
 
 You are given an image, that can be represented with a 2-d n by m grid of pixels. Each pixel of the image is either on or off, denoted by the character ‘0’ or ‘1’, respectively.
 
@@ -16,3 +16,5 @@ More specifically, the steps are to first choose k, then the image is padded wit
 ## Output format
 
 Print a single integer, the minimum number of pixels needed to toggle to make the image compressible.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/binary-blocks-4b173d4a/
