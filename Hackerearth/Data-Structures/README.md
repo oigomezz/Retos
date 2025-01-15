@@ -74,3 +74,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`Largest Square`](./Arrays/Multi-dimensional/Largest-Square/README.md)                 |
 | **#07** | [`Find the String`](./Arrays/Multi-dimensional/Find-the-String/README.md)               |
 | **#08** | [`Binary Blocks`](./Arrays/Multi-dimensional/Binary-Blocks/README.md)                   |
+| **#09** | [`Submatrix Updates`](./Arrays/Multi-dimensional/Submatrix-Updates/README.md)           |
