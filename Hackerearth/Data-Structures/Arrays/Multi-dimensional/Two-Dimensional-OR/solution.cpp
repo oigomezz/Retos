@@ -3,37 +3,64 @@ using namespace std;
 
 int main()
 {
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	cout.tie(NULL);
-	int n, m, q, a;
+	ios::sync_with_stdio(false), cin.tie(0);
+
+	int n, m;
 	cin >> n >> m;
-	vector<vector<vector<int>>> pref(30, vector<vector<int>>(n + 1, vector<int>(m + 1, 0)));
-	for (int r = 0; r < n; ++r)
+
+	vector<vector<int>> grid(n, vector<int>(m));
+	for (int i = 0; i < n; i++)
+		for (int j = 0; j < m; j++)
+			cin >> grid[i][j];
+
+	vector<vector<vector<int>>> pref(30, vector<vector<int>>(n, vector<int>(m)));
+	for (int bit = 0; bit < 30; bit++)
 	{
-		for (int c = 0; c < m; ++c)
-		{
-			cin >> a;
-			for (int bit = 0; bit < 30; ++bit)
-			{
-				pref[bit][r + 1][c + 1] = pref[bit][r + 1][c] + pref[bit][r][c + 1] - pref[bit][r][c] + (a & 1);
-				a >>= 1;
-			}
-		}
+
+		for (int i = 0; i < n; i++)
+			for (int j = 0; j < m; j++)
+				if (grid[i][j] & (1 << bit))
+					++pref[bit][i][j];
+
+		for (int i = 1; i < n; i++)
+			pref[bit][i][0] += pref[bit][i - 1][0];
+		for (int i = 1; i < m; i++)
+			pref[bit][0][i] += pref[bit][0][i - 1];
+		for (int i = 1; i < n; i++)
+			for (int j = 1; j < m; j++)
+				pref[bit][i][j] += pref[bit][i][j - 1] +
+													 pref[bit][i - 1][j] - pref[bit][i - 1][j - 1];
 	}
+
+	int q;
 	cin >> q;
 	while (q--)
 	{
-		int r1, c1, r2, c2, ans = 0;
-		cin >> r1 >> c1 >> r2 >> c2;
-		r1--;
-		c1--;
-		for (int bit = 0; bit < 30; ++bit)
+		int x1, y1, x2, y2;
+		cin >> x1 >> y1 >> x2 >> y2;
+		--x1;
+		--y1;
+		--x2;
+		--y2;
+
+		auto query = [&](int bit)
 		{
-			if (pref[bit][r2][c2] - pref[bit][r2][c1] - pref[bit][r1][c2] + pref[bit][r1][c1] > 0)
-				ans |= 1 << bit;
-		}
-		cout << ans << "\n";
+			int cur = pref[bit][x2][y2];
+			if (x1)
+				cur -= pref[bit][x1 - 1][y2];
+			if (y1)
+				cur -= pref[bit][x2][y1 - 1];
+			if (x1 && y1)
+				cur += pref[bit][x1 - 1][y1 - 1];
+			return cur;
+		};
+
+		int res = 0;
+		for (int bit = 0; bit < 30; bit++)
+			if (query(bit))
+				res |= (1 << bit);
+
+		cout << res << '\n';
 	}
 	return 0;
 }

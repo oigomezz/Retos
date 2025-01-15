@@ -1,4 +1,4 @@
-# Two Dimensional OR
+# [Two Dimensional OR][link]
 
 Given an n by m two dimensional 2D grid containing positive integers values, you have to answer Q queries.
 
@@ -14,3 +14,5 @@ In the ith query, you will be given the row and column of a start cell, (x1,y1),
 ## Output format
 
 The output should contain Q lines, the ith of them should be the answer to the ith query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/two-dimensional-or-daa0a7aa/

@@ -67,3 +67,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                                               |
 | ------- | --------------------------------------------------------------------------------------- |
 | **#01** | [`Minimum Maximum Plants`](./Arrays/Multi-dimensional/Minimum-Maximum-Plants/README.md) |
+| **#02** | [`Two Dimensional OR`](./Arrays/Multi-dimensional/Two-Dimensional-OR/README.md)     |
