@@ -87,3 +87,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Good Indices`](./Stacks/Good-Indices/README.md)       |
 | **#03** | [`Chocolate stack`](./Stacks/Chocolate-stack/README.md) |
 | **#04** | [`Largest Number`](./Stacks/Largest-Number/README.md)   |
+| **#05** | [`Alice's library`](./Stacks/Alice's-library/README.md) |

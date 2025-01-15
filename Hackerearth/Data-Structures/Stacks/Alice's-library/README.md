@@ -1,4 +1,4 @@
-# Alice's library
+# [Alice's library][link]
 
 Alice is rearranging her library. She takes the innermost shelf and reverses the order of books. She breaks the walls of the shelf. In the end, there will be only books and no shelf walls. Print the order of books.
 
@@ -11,3 +11,5 @@ The first line contains string s displaying her library.
 ## Output format
 
 Print only one string displaying Alice's library after rearrangement.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/katrina-and-library-c2ed51f3/
