@@ -69,3 +69,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#01** | [`Minimum Maximum Plants`](./Arrays/Multi-dimensional/Minimum-Maximum-Plants/README.md) |
 | **#02** | [`Two Dimensional OR`](./Arrays/Multi-dimensional/Two-Dimensional-OR/README.md)         |
 | **#03** | [`Gift for Almas`](./Arrays/Multi-dimensional/Gift-for-Almas/README.md)                 |
+| **#04** | [`Unsafe elements in a matrix`](./Arrays/Multi-dimensional/Unsafe-elements/README.md)   |
