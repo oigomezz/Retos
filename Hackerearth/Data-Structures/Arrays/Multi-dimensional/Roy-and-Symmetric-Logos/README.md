@@ -1,4 +1,4 @@
-# Roy and Symmetric Logos
+# [Roy and Symmetric Logos][link]
 
 Roy likes Symmetric Logos.
 
@@ -40,3 +40,5 @@ Your task is to output YES if the logo is symmetric else output NO.
 ## Output format
 
 Print YES or NO in a new line for each test case.
+
+[link]: https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/roy-and-symmetric-logos-1/
