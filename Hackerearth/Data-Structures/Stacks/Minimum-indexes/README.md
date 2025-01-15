@@ -1,4 +1,4 @@
-# Minimum indexes
+# [Minimum indexes][link]
 
 You are given an array A of N integers and Q queries. In each query, you are given an integer i (1 <= i <= N).
 
@@ -18,3 +18,5 @@ If there is no answer, then print -1.
 ## Output format
 
 Print the answer as described in the problem.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/yassers-conditions-6cc26a09/
