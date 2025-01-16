@@ -1,4 +1,4 @@
-# URL shortener
+# [URL shortener][link]
 
 You have a URL-shortening service that registered users can use to create custom short links for any website. The service can also be used through an API which has the following requirements:
 
@@ -31,3 +31,5 @@ You will be given a list of queries made to the API in chronological order. Dete
 ## Output format
 
 For each query, print either "YES" or "NO" (case-sensitive) depending on whether the query is successful or not.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/url-shortener-2-615de05d/

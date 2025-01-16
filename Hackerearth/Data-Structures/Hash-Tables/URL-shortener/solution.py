@@ -1,7 +1,7 @@
-def solve(N, Query):
+def solve(n, query):
     histories = {}
     visited = set()
-    for time, url, key, user_id in Query:
+    for time, url, key, user_id in query:
         time = int(time)
         lk = len(key)
         if key in visited or lk < 2 or lk > 12:
@@ -10,7 +10,7 @@ def solve(N, Query):
         if user_id in histories and time - histories[user_id] < 5:
             yield 'NO'
             continue
-        if 'http://' != url[:7] and 'https://' != url[:8]:
+        if not (url.startswith('http://') or url.startswith('https://')):
             yield 'NO'
             continue
         if key.isalnum():
@@ -22,9 +22,9 @@ def solve(N, Query):
         yield 'YES'
 
 
-N = int(input())
-Query = [input().split() for i in range(N)]
+n = int(input())
+query = [input().split() for _ in range(n)]
 
-out_ = solve(N, Query)
+out_ = solve(n, query)
 for i_out_ in out_:
     print(i_out_)
