@@ -1,4 +1,4 @@
-# Disk tower
+# [Disk tower][link]
 
 Your task is to construct a tower in N days by following these conditions:
 
@@ -17,10 +17,12 @@ Print N lines denoting the disk sizes that can be put on the tower on the day.
 - First line: N denoting the total number of disks that are given to you in the N subsequent days.
 - Second line: N integers in which the ith integers denote the size of the disks that are given to you on the ith day.
 
-**Note:** All the disk sizes are distinct integers in the range of  1 to N.
+**Note:** All the disk sizes are distinct integers in the range of 1 to N.
 
 ## Output format
 
 Print N lines. In the ith line, print the size of disks that can be placed on the top of the tower in descending order of the disk sizes.
 
 If on the ith day no disks can be placed, then leave that line empty.
+
+[link]: https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/disk-tower-b7cc7a50/
