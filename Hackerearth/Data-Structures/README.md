@@ -105,3 +105,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#01** | [`Empty arrays`](./Queues/Empty-arrays/README.md)               |
 | **#02** | [`Holiday decorations`](./Queues/Holiday-decorations/README.md) |
 | **#03** | [`Disk tower`](./Queues/Disk-tower/README.md)                   |
+| **#04** | [`Number Recovery`](./Queues/Number-Recovery/README.md)         |

@@ -1,4 +1,4 @@
-# Number Recovery
+# [Number Recovery][link]
 
 A positive integer X has been stolen. But luckily, N hints are available, each described by two integers ai and di, meaning that |X - ai| = di. The hints are numbered 1 through N. While some of those hints are helpful, some might be just a lie. Therefore, we are going to investigate the number X under different possible scenarios.
 
@@ -21,3 +21,5 @@ After each stage, you should determine the number of possible positive values X 
 ## Output format
 
 After each stage, print the number of possible values of X (in case there are infinitely many of them, print -1). If the number of possible values is finite and non-zero, in the same line, continue to print those values in an increasing order.
+
+[link]: https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/number-recovery-0b988eb2/
