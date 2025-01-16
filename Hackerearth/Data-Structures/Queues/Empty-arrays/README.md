@@ -1,4 +1,4 @@
-# Empty arrays
+# [Empty arrays][link]
 
 You are given two arrays each of size n, a and b consisting of the first n positive integers each exactly once, that is, they are permutations.
 
@@ -16,3 +16,5 @@ Your task is to find the minimum time required to make both the arrays empty. Th
 ## Output format
 
 Print the total time taken required to empty both the array.
+
+[link]: https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/empty-array-31ed638c/

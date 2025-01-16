@@ -97,3 +97,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Array Formation <Liv.ai>`](./Stacks/Array-Formation/README.md)                        |
 | **#13** | [`Mancunian And Fantabulous Pairs`](./Stacks/Mancunian-And-Fantabulous-Pairs/README.md) |
 | **#14** | [`Little Shino and Pairs`](./Stacks/Little-Shino-and-Pairs/README.md)                   |
+
+### [Basics of Queues](./Queues/README.md)
+
+| N°      | Enunciado                                         |
+| ------- | ------------------------------------------------- |
+| **#01** | [`Empty arrays`](./Queues/Empty-arrays/README.md) |
