@@ -96,3 +96,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#11** | [`A Game of Numbers`](./Stacks/A-Game-of-Numbers/README.md)                             |
 | **#12** | [`Array Formation <Liv.ai>`](./Stacks/Array-Formation/README.md)                        |
 | **#13** | [`Mancunian And Fantabulous Pairs`](./Stacks/Mancunian-And-Fantabulous-Pairs/README.md) |
+| **#14** | [`Little Shino and Pairs`](./Stacks/Little-Shino-and-Pairs/README.md)                   |

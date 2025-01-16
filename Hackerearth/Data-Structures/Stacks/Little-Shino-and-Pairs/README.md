@@ -1,4 +1,4 @@
-# Little Shino and Pairs
+# [Little Shino and Pairs][link]
 
 Given a permutation of number from 1 to N. Among all the subarrays, find the number of unique pairs (a,b) such that a != b and a is maximum and b is second maximum in that subarray.
 
@@ -10,3 +10,5 @@ Given a permutation of number from 1 to N. Among all the subarrays, find the num
 ## Output format
 
 Print the required answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/little-shino-and-pairs/
