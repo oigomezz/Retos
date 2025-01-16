@@ -106,3 +106,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Holiday decorations`](./Queues/Holiday-decorations/README.md) |
 | **#03** | [`Disk tower`](./Queues/Disk-tower/README.md)                   |
 | **#04** | [`Number Recovery`](./Queues/Number-Recovery/README.md)         |
+
+### [Basics of Hash Tables](./Hash-Tables/README.md)
+
+| N°      | Enunciado                                            |
+| ------- | ---------------------------------------------------- |
+| **#01** | [`Valid pairs`](./Hash-Tables/Valid-pairs/README.md) |
