@@ -100,6 +100,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Queues](./Queues/README.md)
 
-| N°      | Enunciado                                         |
-| ------- | ------------------------------------------------- |
-| **#01** | [`Empty arrays`](./Queues/Empty-arrays/README.md) |
+| N°      | Enunciado                                                       |
+| ------- | --------------------------------------------------------------- |
+| **#01** | [`Empty arrays`](./Queues/Empty-arrays/README.md)               |
+| **#02** | [`Holiday decorations`](./Queues/Holiday-decorations/README.md) |

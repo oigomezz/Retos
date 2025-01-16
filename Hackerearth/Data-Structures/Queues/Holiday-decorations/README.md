@@ -1,4 +1,4 @@
-# Holiday decorations
+# [Holiday decorations][link]
 
 Recently, the first model of decoration was assembled from multi-colored glowing light bulbs at the holiday jewelry factory. The prototype of the decoration was assembled as follows:
 
@@ -21,3 +21,5 @@ The staff of the beauty department asks you, the best programmer, to write a pro
 ## Output format
 
 Print M lines. The ith line should contain a single integer denoting the number of pairs of light bulbs of the same color, connected by a wire, after execution and repainting.
+
+[link]: https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/holiday-decorations-b53daa12/
