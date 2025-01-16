@@ -1,4 +1,4 @@
-# Array Formation
+# [Array Formation][link]
 
 You are given an array A of n integers. You have to make a queue and stack of the given integers. Queue should contain only prime numbers and stack should contain only composite numbers. All numbers in the array will be >1.
 
@@ -29,3 +29,5 @@ Thus for every array A you have to print the contents of queue in the first line
 ## Output format
 
 In the first line print the contents of queue and in second line print the contents of the stack.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/circular-list-8e1319c9/

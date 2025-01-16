@@ -94,3 +94,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Stack and Queue <Nissan>`](./Stacks/Stack-and-Queue/README.md) |
 | **#10** | [`Stack operations`](./Stacks/Stack-operations/README.md)        |
 | **#11** | [`A Game of Numbers`](./Stacks/A-Game-of-Numbers/README.md)      |
+| **#12** | [`Array Formation <Liv.ai>`](./Stacks/Array-Formation/README.md) |

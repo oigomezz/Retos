@@ -1,5 +1,5 @@
-def queue_and_stack(A):
-    ln = max(A)
+def queue_and_stack(arr):
+    ln = max(arr)
     primes = [True] * (ln + 1)
     primes[0] = primes[1] = False
     i = 2
@@ -10,7 +10,7 @@ def queue_and_stack(A):
         i += 1
     stack = []
     queue = []
-    for i in A:
+    for i in arr:
         if primes[i]:
             queue.append(i)
         else:
@@ -19,8 +19,8 @@ def queue_and_stack(A):
 
 
 n = int(input())
-A = list(map(int, input().strip().split()))
+arr = list(map(int, input().strip().split()))
 
-out_ = queue_and_stack(A)
+out_ = queue_and_stack(arr)
 for i_out_ in out_:
     print(' '.join(map(str, i_out_)))
