@@ -1,4 +1,4 @@
-# Mancunian And Fantabulous Pairs
+# [Mancunian And Fantabulous Pairs][link]
 
 First off, some definitions.
 
@@ -15,3 +15,5 @@ The first line contains an integer N denoting the length of the array. The next 
 ## Output format
 
 Output a single integer which is the answer to the problem.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/mancunian-and-fantabulous-pairs/

@@ -81,17 +81,18 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Stacks](./Stacks/README.md)
 
-| N°      | Enunciado                                                        |
-| ------- | ---------------------------------------------------------------- |
-| **#01** | [`Killer Monsters`](./Stacks/Killer-Monsters/README.md)          |
-| **#02** | [`Good Indices`](./Stacks/Good-Indices/README.md)                |
-| **#03** | [`Chocolate stack`](./Stacks/Chocolate-stack/README.md)          |
-| **#04** | [`Largest Number`](./Stacks/Largest-Number/README.md)            |
-| **#05** | [`Alice's library`](./Stacks/Alice's-library/README.md)          |
-| **#06** | [`Minimum indexes`](./Stacks/Minimum-indexes/README.md)          |
-| **#07** | [`Fun Game <Capillary>`](./Stacks/Fun-Game/README.md)            |
-| **#08** | [`Jumpy Humpy`](./Stacks/Jumpy-Humpy/README.md)                  |
-| **#09** | [`Stack and Queue <Nissan>`](./Stacks/Stack-and-Queue/README.md) |
-| **#10** | [`Stack operations`](./Stacks/Stack-operations/README.md)        |
-| **#11** | [`A Game of Numbers`](./Stacks/A-Game-of-Numbers/README.md)      |
-| **#12** | [`Array Formation <Liv.ai>`](./Stacks/Array-Formation/README.md) |
+| N°      | Enunciado                                                                               |
+| ------- | --------------------------------------------------------------------------------------- |
+| **#01** | [`Killer Monsters`](./Stacks/Killer-Monsters/README.md)                                 |
+| **#02** | [`Good Indices`](./Stacks/Good-Indices/README.md)                                       |
+| **#03** | [`Chocolate stack`](./Stacks/Chocolate-stack/README.md)                                 |
+| **#04** | [`Largest Number`](./Stacks/Largest-Number/README.md)                                   |
+| **#05** | [`Alice's library`](./Stacks/Alice's-library/README.md)                                 |
+| **#06** | [`Minimum indexes`](./Stacks/Minimum-indexes/README.md)                                 |
+| **#07** | [`Fun Game <Capillary>`](./Stacks/Fun-Game/README.md)                                   |
+| **#08** | [`Jumpy Humpy`](./Stacks/Jumpy-Humpy/README.md)                                         |
+| **#09** | [`Stack and Queue <Nissan>`](./Stacks/Stack-and-Queue/README.md)                        |
+| **#10** | [`Stack operations`](./Stacks/Stack-operations/README.md)                               |
+| **#11** | [`A Game of Numbers`](./Stacks/A-Game-of-Numbers/README.md)                             |
+| **#12** | [`Array Formation <Liv.ai>`](./Stacks/Array-Formation/README.md)                        |
+| **#13** | [`Mancunian And Fantabulous Pairs`](./Stacks/Mancunian-And-Fantabulous-Pairs/README.md) |
