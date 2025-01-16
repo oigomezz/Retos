@@ -109,8 +109,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Hash Tables](./Hash-Tables/README.md)
 
-| N°      | Enunciado                                                          |
-| ------- | ------------------------------------------------------------------ |
-| **#01** | [`Valid pairs`](./Hash-Tables/Valid-pairs/README.md)               |
-| **#02** | [`Array Construction`](./Hash-Tables/Array-Construction/README.md) |
-| **#03** | [`URL shortener`](./Hash-Tables/URL-shortener/README.md)           |
+| N°      | Enunciado                                                              |
+| ------- | ---------------------------------------------------------------------- |
+| **#01** | [`Valid pairs`](./Hash-Tables/Valid-pairs/README.md)                   |
+| **#02** | [`Array Construction`](./Hash-Tables/Array-Construction/README.md)     |
+| **#03** | [`URL shortener`](./Hash-Tables/URL-shortener/README.md)               |
+| **#04** | [`Unusual construction`](./Hash-Tables/Unusual-construction/README.md) |

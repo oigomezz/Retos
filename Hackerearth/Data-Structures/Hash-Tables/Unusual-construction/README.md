@@ -1,4 +1,4 @@
-# Unusual construction
+# [Unusual construction][link]
 
 There are N cities in a country. There are M roads with parameters (L,R,W) denoting cities L and R that are connected and a road that was built between them for W$. Note that the roads are bidirectional in nature.
 
@@ -17,3 +17,5 @@ Determine the amount of money that will be required for implementing the new pol
 ## Output format
 
 For each test case, print a single line denoting the fund required according to the new policy.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/unusual-construction-3ec2e03f/
