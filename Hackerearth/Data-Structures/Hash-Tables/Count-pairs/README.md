@@ -1,4 +1,4 @@
-# Count pairs
+# [Count pairs][link]
 
 You are given an array A consisting of N non-negative integers. You are also given 2 integers p (a prime number) and k. You are required to count number of pairs (i,j) where, 1 <= i < j <= N and satisying:
 
@@ -16,3 +16,5 @@ where a mod p = b means that b is the remainder when a is divided by p. In parti
 ## Output format
 
 For each test case, print the number of pairs satisfying the equation in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/count-pairs-9-d69fcdc3/
