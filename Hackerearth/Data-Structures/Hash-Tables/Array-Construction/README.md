@@ -1,4 +1,4 @@
-# Array Construction
+# [Array Construction][link]
 
 You are given two arrays a = [a1,a1,...,an] and b = [b1,b2,...,bn], with a1 = a2 = ... = an = 0.
 
@@ -23,3 +23,5 @@ If you can construct the array, then print “YES”. Otherwise, print “NO”.
 ## Output format
 
 For each Testcase, output "YES" if the array a can be transformed into b. Otherwise, output "NO".
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/array-construction-2-0f3e7f88/
