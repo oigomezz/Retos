@@ -1,4 +1,4 @@
-# A Game of Numbers
+# [A Game of Numbers][link]
 
 You are given an array A of N integers. Now, two functions F(X) and G(X) are defined:
 
@@ -14,3 +14,5 @@ The first line contains a single integer N denoting the size of array A. Each of
 ## Output format
 
 Print N space separated integers on a single line, where the ith integer denotes A[G (F(i))] or 1, G(F(i)) if does not exist.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/a-game-of-numbers-1-5d3a8cb3/
