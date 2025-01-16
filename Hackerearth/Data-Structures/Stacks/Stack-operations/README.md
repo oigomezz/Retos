@@ -1,4 +1,4 @@
-# Stack operations
+# [Stack operations][link]
 
 You are given a stack of N integers. In one operation, you can either pop an element from the stack or push any popped element into the stack. You need to maximize the top element of the stack after performing exactly K operations. If the stack becomes empty after performing K operations and there is no other way for the stack to be non-empty, print -1.
 
@@ -10,3 +10,5 @@ You are given a stack of N integers. In one operation, you can either pop an ele
 ## Output format
 
 Print the maximum possible top element of the stack after performing exactly K operations.
+
+[link]: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/stakth-1-e6a76632/

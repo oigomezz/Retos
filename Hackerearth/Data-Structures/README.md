@@ -92,3 +92,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Fun Game <Capillary>`](./Stacks/Fun-Game/README.md)            |
 | **#08** | [`Jumpy Humpy`](./Stacks/Jumpy-Humpy/README.md)                  |
 | **#09** | [`Stack and Queue <Nissan>`](./Stacks/Stack-and-Queue/README.md) |
+| **#10** | [`Stack operations`](./Stacks/Stack-operations/README.md)        |
