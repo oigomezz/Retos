@@ -120,3 +120,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Cells in a matrix`](./Hash-Tables/Cells-in-a-matrix/README.md)       |
 | **#08** | [`Plot the Curve`](./Hash-Tables/Plot-the-Curve/README.md)             |
 | **#09** | [`Similar Chocolates`](./Hash-Tables/Similar-Chocolates/README.md)     |
+| **#10** | [`Maximum Sum`](./Hash-Tables/Maximum-Sum/README.md)                   |
