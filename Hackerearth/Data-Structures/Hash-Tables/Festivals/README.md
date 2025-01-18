@@ -1,4 +1,4 @@
-# Festivals
+# [Festivals][link]
 
 Alice likes festivals a lot as we all do. He also likes spending money on these festivals. He spends money in buying various things on these festivals. But he has problem of forgetting. He only remembers his top three maximum spendings for any festival.
 
@@ -17,3 +17,5 @@ Now as the year ends he wants to know the festival on which he spent most of his
 For each test case, print a single line containing the festival name and its total spending that he remembers.
 
 If there are more than 1 festival with the maximum spending, print the one which has lexiographically smallest name.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/suzakus-festivals-14dacd7c/
