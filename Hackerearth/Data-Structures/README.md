@@ -129,3 +129,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Pair Sums`](./Hash-Tables/Pair-Sums/README.md)                         |
 | **#17** | [`Difficult Characters`](./Hash-Tables/Difficult-Characters/README.md)   |
 | **#18** | [`Shantam and Richness`](./Hash-Tables/Shantam-and-Richness/README.md)   |
+| **#19** | [`Maximum occurrence`](./Hash-Tables/Maximum-occurrence/README.md)       |

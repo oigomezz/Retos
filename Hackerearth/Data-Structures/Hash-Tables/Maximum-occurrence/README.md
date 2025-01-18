@@ -1,4 +1,4 @@
-# Maximum occurrence
+# [Maximum occurrence][link]
 
 You are given a string which comprises of lower case alphabets (a-z), upper case alphabets (A-Z), numbers, (0-9) and special characters like !,-.; etc.
 
@@ -16,3 +16,5 @@ You've to output two things which will be separated by a space:
 
 1. The character which occurs the maximum number of times.
 2. The number of its occurrence.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/maximum-occurrence-9/
