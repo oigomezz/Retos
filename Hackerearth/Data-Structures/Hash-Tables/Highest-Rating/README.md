@@ -1,4 +1,4 @@
-# Highest Rating
+# [Highest Rating][link]
 
 Neha and Jenish are good friends. Neha challenges Jenish to find the Highest possible Rating of given array A after applying some queries. According to Neha, Rating of an array is highest occourence of a element in the given array. Jenish is provided with the Magical Number M and Q. For Each element in the given Array A, Jenish can Perform Addition or Subtraction with M atmost Q times.
 
@@ -14,3 +14,5 @@ Since Jenish is so confused and not able to come out with the solution, Help him
 ## Output format
 
 Output the highest possible rating of array A after applying Queries.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/highest-rating-f8ead57a/
