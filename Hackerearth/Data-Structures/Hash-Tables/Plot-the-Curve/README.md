@@ -1,4 +1,4 @@
-# Plot the Curve
+# [Plot the Curve][link]
 
 You are given with integers a,b,c,d,m. These represent the modular equation of a curve y² mod m = (ax³ + bx² + cx + d) mod m.
 
@@ -20,3 +20,5 @@ Since the answer could be very large output it modulo 10⁹ + 7.
 ## Output format
 
 For each test case, output a single line corresponding to number of valid pairs in the array mod 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/lets-plot-this-47a575ed/

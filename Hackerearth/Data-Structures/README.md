@@ -118,3 +118,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Count pairs`](./Hash-Tables/Count-pairs/README.md)                   |
 | **#06** | [`Pairs of elements`](./Hash-Tables/Pairs-of-elements/README.md)       |
 | **#07** | [`Cells in a matrix`](./Hash-Tables/Cells-in-a-matrix/README.md)       |
+| **#08** | [`Plot the Curve`](./Hash-Tables/Plot-the-Curve/README.md)             |
