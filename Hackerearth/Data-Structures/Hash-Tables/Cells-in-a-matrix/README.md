@@ -1,4 +1,4 @@
-# Cells in a matrix
+# [Cells in a matrix][link]
 
 You are given an integer N denoting an N x N matrix. Initially, each cell of the matrix is empty. You are given K tasks. In each task, you are given a cell (i,j) where cell (i,j) represents the ith row and jth column of the given matrix.
 
@@ -12,3 +12,5 @@ You have to perform each task sequentially in the given order. Each task is desc
 ## Output format
 
 Print K space-separated integers denoting the number of empty cells in the matrix.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/easy-23-6031def9/
