@@ -1,4 +1,4 @@
-# Difficult Characters
+# [Difficult Characters][link]
 
 Yesterday while Omar was trying to learn English, he saw that there are letters repeated many times in words while some other letters repeated only few times or not repeated at all!
 
@@ -17,3 +17,5 @@ If there are 2 letters with the same level of difficulty, the letter with higher
 ## Output format
 
 Output the English lower case characters from the most difficult letter to the less difficult letter.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/difficult-characters/
