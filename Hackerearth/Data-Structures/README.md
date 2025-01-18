@@ -126,3 +126,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#13** | [`Nice Queries`](./Hash-Tables/Nice-Queries/README.md)                   |
 | **#14** | [`Mathison and the divisible trios`](./Hash-Tables/Mathison/README.md)   |
 | **#15** | [`Highest Rating`](./Hash-Tables/Highest-Rating/README.md)               |
+| **#16** | [`Pair Sums`](./Hash-Tables/Pair-Sums/README.md)                         |
