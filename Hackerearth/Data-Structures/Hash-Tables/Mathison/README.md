@@ -1,4 +1,4 @@
-# Mathison and the divisible trios
+# [Mathison and the divisible trios][link]
 
 Mathison has discovered an old piece of paper with N integers written on it. Let's call this given sequence of numbers A. In his History class, Mathison has learnt that a trio of numbers is special if and only if their sum is divisible by a mythical constant M.
 
@@ -12,3 +12,5 @@ Mathison tries to find out how many distinct triplets of numbers, from the piece
 ## Output format
 
 The output file should contain only one integer, the answer to Mathison's question.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mathison-and-the-divisible-trio-a0a169b0/

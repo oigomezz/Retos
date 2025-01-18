@@ -123,4 +123,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Maximum Sum`](./Hash-Tables/Maximum-Sum/README.md)                     |
 | **#11** | [`Festivals`](./Hash-Tables/Festivals/README.md)                         |
 | **#12** | [`Shubham and Subarrays`](./Hash-Tables/Shubham-and-Subarrays/README.md) |
-| **#13** | [`Nice Queries`](./Hash-Tables/Nice-Queries/README.md)     |
+| **#13** | [`Nice Queries`](./Hash-Tables/Nice-Queries/README.md)                   |
+| **#14** | [`Mathison and the divisible trios`](./Hash-Tables/Mathison/README.md)   |
