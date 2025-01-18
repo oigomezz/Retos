@@ -1,4 +1,4 @@
-# Shantam and Richness
+# [Shantam and Richness][link]
 
 Shantam is very rich , even richer than Richie Rich. He is extremely talented in almost everything except one , mathematics. So one day, he pays a visit to a temple (to pray for his upcoming mathematics exams) and decides to donate some amount of money to the poor people ( everyone is poor on a relative scale to Shantam). He order N people to sit in a linear arrangement and indexes them from 1 to N , to ease the process of donating money.
 
@@ -23,3 +23,5 @@ You will be given initial L , R and C (which points to first query) as well as P
 ## Output format
 
 For each test case , output one line containing two space separated integers, the first being the optimal position and the second being the highest amount of money that can be obtained.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/shantam-and-richness-1/
