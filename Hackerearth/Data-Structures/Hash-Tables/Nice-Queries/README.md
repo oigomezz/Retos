@@ -1,4 +1,4 @@
-# Nice Queries
+# [Nice Queries][link]
 
 You are given an array A of length N which is initialised with 0. You will be given Q queries of two types:
 
@@ -15,3 +15,5 @@ You are given an array A of length N which is initialised with 0. You will be gi
 ## Output format
 
 For each query type 2, print in new line, the smallest index x which is greater than or equal to y and having value 1. If there is no such index print 1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mandee-and-his-girlfriend-9a96aabd/
