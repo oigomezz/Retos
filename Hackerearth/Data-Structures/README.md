@@ -141,3 +141,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#28** | [`Mind Palaces`](./Hash-Tables/Mind-Palaces/README.md)                                               |
 | **#29** | [`Little Jhool and the Magical Jewels`](./Hash-Tables/Little-Jhool-and-the-Magical-Jewels/README.md) |
 | **#30** | [`A Needle in the Haystack`](./Hash-Tables/A-Needle-in-the-Haystack/README.md)                       |
+
+### [Singly Linked List](./Linked-List/README.md)
+
+| N°      | Enunciado                                                              |
+| ------- | ---------------------------------------------------------------------- |
+| **#01** | [`Reversed Linked List`](./Linked-List/Reversed-Linked-List/README.md) |

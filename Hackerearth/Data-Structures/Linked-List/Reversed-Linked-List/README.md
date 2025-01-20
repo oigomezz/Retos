@@ -1,4 +1,4 @@
-# Reversed Linked List
+# [Reversed Linked List][link]
 
 You are given a linked list that contains N integers. You have performed the following reverse operation on the list:
 
@@ -22,3 +22,5 @@ Now, you are required to retrieve the original list.
 ## Output format
 
 Print the N elements of the original list.
+
+[link]: https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/practice-problems/algorithm/reversed-linked-list-01b722df/
