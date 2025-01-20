@@ -1,4 +1,4 @@
-# Chandu and Chandni
+# [Chandu and Chandni][link]
 
 Chandu and chandni are playing a game! Game is very similar to the game of chess, But there is only one piece on the board i.e Queen. Also, Queen is allowed to move only towards top left corner..
 For clarification, If Queen is placed at i,j then in a turn queen can move:
@@ -26,3 +26,5 @@ Given the position of queen on the board(0 index based). Print who will win the 
 ## Output format
 
 Print the name of person who will win the game.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/chandu-and-chandni/

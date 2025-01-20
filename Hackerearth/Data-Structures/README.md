@@ -137,3 +137,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#24** | [`Xsquare And Palindromes Insertion`](./Hash-Tables/Xsquare-and-Palindromes-Insertion/README.md) |
 | **#25** | [`ICPC Team Management.`](./Hash-Tables/ICPC-Team-Management/README.md)                          |
 | **#26** | [`Alien language`](./Hash-Tables/Alien-Language/README.md)                                       |
+| **#27** | [`Chandu and Chandni`](./Hash-Tables/Chandu-and-Chandni/README.md)                               |
