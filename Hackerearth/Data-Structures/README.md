@@ -109,27 +109,28 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Hash Tables](./Hash-Tables/README.md)
 
-| N°      | Enunciado                                                                |
-| ------- | ------------------------------------------------------------------------ |
-| **#01** | [`Valid pairs`](./Hash-Tables/Valid-pairs/README.md)                     |
-| **#02** | [`Array Construction`](./Hash-Tables/Array-Construction/README.md)       |
-| **#03** | [`URL shortener`](./Hash-Tables/URL-shortener/README.md)                 |
-| **#04** | [`Unusual construction`](./Hash-Tables/Unusual-construction/README.md)   |
-| **#05** | [`Count pairs`](./Hash-Tables/Count-pairs/README.md)                     |
-| **#06** | [`Pairs of elements`](./Hash-Tables/Pairs-of-elements/README.md)         |
-| **#07** | [`Cells in a matrix`](./Hash-Tables/Cells-in-a-matrix/README.md)         |
-| **#08** | [`Plot the Curve`](./Hash-Tables/Plot-the-Curve/README.md)               |
-| **#09** | [`Similar Chocolates`](./Hash-Tables/Similar-Chocolates/README.md)       |
-| **#10** | [`Maximum Sum`](./Hash-Tables/Maximum-Sum/README.md)                     |
-| **#11** | [`Festivals`](./Hash-Tables/Festivals/README.md)                         |
-| **#12** | [`Shubham and Subarrays`](./Hash-Tables/Shubham-and-Subarrays/README.md) |
-| **#13** | [`Nice Queries`](./Hash-Tables/Nice-Queries/README.md)                   |
-| **#14** | [`Mathison and the divisible trios`](./Hash-Tables/Mathison/README.md)   |
-| **#15** | [`Highest Rating`](./Hash-Tables/Highest-Rating/README.md)               |
-| **#16** | [`Pair Sums`](./Hash-Tables/Pair-Sums/README.md)                         |
-| **#17** | [`Difficult Characters`](./Hash-Tables/Difficult-Characters/README.md)   |
-| **#18** | [`Shantam and Richness`](./Hash-Tables/Shantam-and-Richness/README.md)   |
-| **#19** | [`Maximum occurrence`](./Hash-Tables/Maximum-occurrence/README.md)       |
-| **#20** | [`LongLong`](./Hash-Tables/LongLong/README.md)                           |
-| **#21** | [`All Vowels`](./Hash-Tables/All-Vowels/README.md)                       |
-| **#22** | [`Bob and String`](./Hash-Tables/Bob-and-String/README.md)               |
+| N°      | Enunciado                                                                          |
+| ------- | ---------------------------------------------------------------------------------- |
+| **#01** | [`Valid pairs`](./Hash-Tables/Valid-pairs/README.md)                               |
+| **#02** | [`Array Construction`](./Hash-Tables/Array-Construction/README.md)                 |
+| **#03** | [`URL shortener`](./Hash-Tables/URL-shortener/README.md)                           |
+| **#04** | [`Unusual construction`](./Hash-Tables/Unusual-construction/README.md)             |
+| **#05** | [`Count pairs`](./Hash-Tables/Count-pairs/README.md)                               |
+| **#06** | [`Pairs of elements`](./Hash-Tables/Pairs-of-elements/README.md)                   |
+| **#07** | [`Cells in a matrix`](./Hash-Tables/Cells-in-a-matrix/README.md)                   |
+| **#08** | [`Plot the Curve`](./Hash-Tables/Plot-the-Curve/README.md)                         |
+| **#09** | [`Similar Chocolates`](./Hash-Tables/Similar-Chocolates/README.md)                 |
+| **#10** | [`Maximum Sum`](./Hash-Tables/Maximum-Sum/README.md)                               |
+| **#11** | [`Festivals`](./Hash-Tables/Festivals/README.md)                                   |
+| **#12** | [`Shubham and Subarrays`](./Hash-Tables/Shubham-and-Subarrays/README.md)           |
+| **#13** | [`Nice Queries`](./Hash-Tables/Nice-Queries/README.md)                             |
+| **#14** | [`Mathison and the divisible trios`](./Hash-Tables/Mathison/README.md)             |
+| **#15** | [`Highest Rating`](./Hash-Tables/Highest-Rating/README.md)                         |
+| **#16** | [`Pair Sums`](./Hash-Tables/Pair-Sums/README.md)                                   |
+| **#17** | [`Difficult Characters`](./Hash-Tables/Difficult-Characters/README.md)             |
+| **#18** | [`Shantam and Richness`](./Hash-Tables/Shantam-and-Richness/README.md)             |
+| **#19** | [`Maximum occurrence`](./Hash-Tables/Maximum-occurrence/README.md)                 |
+| **#20** | [`LongLong`](./Hash-Tables/LongLong/README.md)                                     |
+| **#21** | [`All Vowels`](./Hash-Tables/All-Vowels/README.md)                                 |
+| **#22** | [`Bob and String`](./Hash-Tables/Bob-and-String/README.md)                         |
+| **#23** | [`Xsquare And Double Strings`](./Hash-Tables/Xsquare-and-Double-Strings/README.md) |

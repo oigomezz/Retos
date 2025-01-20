@@ -1,4 +1,4 @@
-# Xsquare And Double Strings
+# [Xsquare And Double Strings][link]
 
 Xsquare got bored playing with the arrays all the time. Therefore, he has decided to play with the strings. Xsquare called a string P a "double string" if string P is not empty and can be broken into two strings A and B such that A + B = P and A = B. for eg : strings like "baba" , "blabla" , "lolo" are all double strings whereas strings like "hacker" , "abc" , "earth" are not double strings at all.
 
@@ -16,3 +16,5 @@ Help him in accomplishing this task.
 ## Output format
 
 For each test case, print "Yes" if it is possible to convert the given string to a double string. Print "No" otherwise.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/xsquare-and-double-strings-1/
