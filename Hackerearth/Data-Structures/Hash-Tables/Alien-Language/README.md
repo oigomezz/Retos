@@ -1,4 +1,4 @@
-# Alien language
+# [Alien language][link]
 
 Little Jhool considers Jaadu to be a very close friend of his. But, he ends up having some misunderstanding with him a lot of times, because Jaadu's English isn't perfect, and Little Jhool sucks at the language Jaadu speaks. So, he's in a fix - since he knows that Jaadu has got magical powers, he asks him to help so as to clear all the issues they end up having with their friendship.
 
@@ -14,3 +14,5 @@ Little Jhool says a word, and then Jaadu says another word. If any sub-string of
 ## Output format
 
 For each test case print YES if any sub-string of Pattern is sub-string of Text else print NO.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/alien-language/
