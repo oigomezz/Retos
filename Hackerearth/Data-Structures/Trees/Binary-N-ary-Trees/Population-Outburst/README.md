@@ -1,4 +1,4 @@
-# Population outburst
+# [Population outburst][link]
 
 A new species is trying to rule the planet. This species is creating their own population outburst to dominate other species. It all started with 1 single member of the species. The population increases in treelike fashion abiding by few rules as listed below.
 
@@ -21,3 +21,5 @@ First line of the input contains 2 integers, N, RC0 representing number of minut
 ## Output format
 
 N lines, each line containing 3 integers, P,L,C representing integral name of the parent, level at which it is added and it's ascending age wise rank among siblings.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/population-outburst-7db5d39a/
