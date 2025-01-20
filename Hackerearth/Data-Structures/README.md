@@ -132,3 +132,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Maximum occurrence`](./Hash-Tables/Maximum-occurrence/README.md)       |
 | **#20** | [`LongLong`](./Hash-Tables/LongLong/README.md)                           |
 | **#21** | [`All Vowels`](./Hash-Tables/All-Vowels/README.md)                       |
+| **#22** | [`Bob and String`](./Hash-Tables/Bob-and-String/README.md)               |

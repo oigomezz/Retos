@@ -1,4 +1,4 @@
-# Bob and String
+# [Bob and String][link]
 
 Bob and Khatu both love the string. Bob has a string S and Khatu has a string T. They want to make both string S and T to anagrams of each other. Khatu can apply two operations to convert string T to anagram of string S which are given below:
 
@@ -15,4 +15,6 @@ Khatu can apply above both operation as many times he want. Find the minimum num
 
 ## Output format
 
-For each test case print the minimum number of operations required to convert string T to anagram of string S.w
+For each test case print the minimum number of operations required to convert string T to anagram of string S.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/bob-and-string-easy/
