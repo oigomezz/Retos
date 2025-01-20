@@ -1,4 +1,4 @@
-# Mind Palaces
+# [Mind Palaces][link]
 
 Sherlock Holmes loves mind palaces! We all know that.
 
@@ -14,3 +14,5 @@ A mind palace, according to Mr. Holmes is something that lets him retrieve a giv
 ## Output format
 
 If Y is present in Mr. Holmes memory, output its position (0-based indexing). Else output "-1 -1" (quotes for clarity only).
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/mind-palaces-3/
