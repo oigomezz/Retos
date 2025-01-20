@@ -1,4 +1,4 @@
-# Little Jhool and the Magical Jewels
+# [Little Jhool and the Magical Jewels][link]
 
 Little Jhool is still out of his mind - exploring all his happy childhood memories. And one of his favorite memory is when he found a magical ghost, who promised to fulfill one of Little Jhool's wish.
 
@@ -14,3 +14,5 @@ Though he regrets asking for such a lame wish now, but he can still generate a l
 ## Output format
 
 Print the maximum number of ruby(ies) he can generate from the given string.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/little-jhool-and-the-magical-jewels/
