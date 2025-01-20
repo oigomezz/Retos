@@ -1,4 +1,4 @@
-# Nodes in a subtree
+# [Nodes in a subtree][link]
 
 You are given a rooted tree that contains N nodes. Each node contains a lowercase alphabet.
 
@@ -14,3 +14,5 @@ You are required to answer Q queries of type u,c where u is an integer and c is 
 ## Output format
 
 For each query, print the output in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/magical-tree-1-e7f8cabd/
