@@ -148,3 +148,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | ---------------------------------------------------------------------- |
 | **#01** | [`Reversed Linked List`](./Linked-List/Reversed-Linked-List/README.md) |
 | **#02** | [`Remove Friends`](./Linked-List/Remove-Friends/README.md)             |
+
+### [Binary/N-ary Trees](./Trees/Binary-N-ary-Trees/README.md)
+
+| N°      | Enunciado                                                                 |
+| ------- | ------------------------------------------------------------------------- |
+| **#01** | [`Infinite K-tree`](./Trees/Binary-N-ary-Trees/Infinite-K-tree/README.md) |

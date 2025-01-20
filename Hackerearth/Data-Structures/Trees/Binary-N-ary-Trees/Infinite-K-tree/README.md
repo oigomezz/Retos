@@ -1,4 +1,4 @@
-# Infinite K-tree
+# [Infinite K-tree][link]
 
 You're given a K-ary infinite tree rooted at a vertex numbered 1. All its edges are weighted 1 initially.
 
@@ -21,3 +21,5 @@ You are given Q queries to answer which will be of the following two types:
 ## Output format
 
 For each query of type (1uv), print a single integer denoting the shortest distance between u and v.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/infinite-k-tree-e6841f51/
