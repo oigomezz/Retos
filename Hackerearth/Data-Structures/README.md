@@ -147,3 +147,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                              |
 | ------- | ---------------------------------------------------------------------- |
 | **#01** | [`Reversed Linked List`](./Linked-List/Reversed-Linked-List/README.md) |
+| **#02** | [`Remove Friends`](./Linked-List/Remove-Friends/README.md)             |

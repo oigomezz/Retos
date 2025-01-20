@@ -1,4 +1,4 @@
-# Remove Friends
+# [Remove Friends][link]
 
 After getting her PhD, Christie has become a celebrity at her university, and her facebook profile is full of friend requests. Being the nice girl she is, Christie has accepted all the requests.
 
@@ -23,3 +23,5 @@ First line contains T number of test cases. First line of each test case contain
 ## Output format
 
 For each test case print N-K numbers which represent popularity of Christie friend's after deleting K friends.
+
+[link]: https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/practice-problems/algorithm/remove-friends-5/
