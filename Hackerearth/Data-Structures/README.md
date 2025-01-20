@@ -155,3 +155,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | ------------------------------------------------------------------------------- |
 | **#01** | [`Infinite K-tree`](./Trees/Binary-N-ary-Trees/Infinite-K-tree/README.md)       |
 | **#02** | [`Nodes in a subtree`](./Trees/Binary-N-ary-Trees/Nodes-in-a-subtree/README.md) |
+| **#03** | [`Directory Deletion`](./Trees/Binary-N-ary-Trees/Directory-Deletion/README.md) |

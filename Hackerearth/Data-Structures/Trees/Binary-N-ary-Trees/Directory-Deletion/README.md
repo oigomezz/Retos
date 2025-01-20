@@ -1,4 +1,4 @@
-# Directory Deletion
+# [Directory Deletion][link]
 
 You are given a directory tree of N directories/folders. Each directory is represented by a particular id which ranges from 1 to N. The id of the root directory is 1, then it has some child directories, those directories may contain some other ones and it goes on. Now you are given a list of directory id's to delete, you need to find the minimum number of directories that need to be deleted so that all the directories in the given list get deleted.
 
@@ -14,3 +14,5 @@ You are given a directory tree of N directories/folders. Each directory is repre
 ## Output format
 
 Print the minimum number of directories that need to be deleted.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/directory-deletion-71e793b8/
