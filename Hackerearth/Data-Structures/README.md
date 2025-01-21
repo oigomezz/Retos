@@ -170,3 +170,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Suarez !`](./Trees/Binary-Search-Tree/Suarez/README.md)                           |
 | **#04** | [`Monk and his Friends`](./Trees/Binary-Search-Tree/Monk-and-his-Friends/README.md) |
 | **#05** | [`Distinct Count`](./Trees/Binary-Search-Tree/Distinct-Count/README.md)             |
+
+### [Heaps/Priority Queues](./Trees/Heaps-Priority-Queues/README.md)
+
+| N°      | Enunciado                                                                        |
+| ------- | -------------------------------------------------------------------------------- |
+| **#01** | [`Operation Dilemma`](./Trees/Heaps-Priority-Queues/Operation-Dilemma/README.md) |
