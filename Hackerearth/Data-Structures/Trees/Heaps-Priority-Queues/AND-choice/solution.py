@@ -1,7 +1,7 @@
 n = int(input())
 a = sorted(map(int, input().strip().split()))
 if n >= 2 and a[0] == a[-1]:
-    print(a[0] & a[0])
+    print(a[0])
 elif a[-1] - a[0] == 1:
     print(a[-1] & a[0])
 else:

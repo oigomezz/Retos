@@ -1,4 +1,4 @@
-# AND choice
+# [AND choice][link]
 
 M is alone and he has an array a1,a2,...,an. M wants to choose two integers i,j such that i!=j,1 <= i,j <= n and the value ai&aj(bitwise AND) is maximum.
 
@@ -12,3 +12,5 @@ What is the maximum value M can get?
 ## Output format
 
 The only line of output contains an integer, maximum value value that M can get.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/and-choice-0e5db566/

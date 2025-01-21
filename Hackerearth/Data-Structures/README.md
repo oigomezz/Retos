@@ -177,3 +177,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | -------------------------------------------------------------------------------- |
 | **#01** | [`Operation Dilemma`](./Trees/Heaps-Priority-Queues/Operation-Dilemma/README.md) |
 | **#02** | [`Mode of an array`](./Trees/Heaps-Priority-Queues/Mode-of-an-array/README.md)   |
+| **#03** | [`AND choice`](./Trees/Heaps-Priority-Queues/AND-choice/README.md)               |
