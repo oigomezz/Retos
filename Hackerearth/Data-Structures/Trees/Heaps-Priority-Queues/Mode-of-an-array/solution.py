@@ -23,7 +23,7 @@ def make_mode(mode, arr):
     total = 0
     for i in range(len(list_counter) - 1):
         fre, count = list_counter[i]
-        next_fre, next_cnt = list_counter[i + 1]
+        next_fre, _ = list_counter[i + 1]
         total += count
         if mode_fre == fre and total == 1:
             return 0

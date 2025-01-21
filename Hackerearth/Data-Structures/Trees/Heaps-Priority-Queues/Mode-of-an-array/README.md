@@ -1,4 +1,4 @@
-# Mode of an array
+# [Mode of an array][link]
 
 You are given an array of N numbers A1,A2,...,An. In one operation, you can pick any index i and change Ai to x. Given an integer K, find the minimum number of operations required to make K the mode of the array.
 
@@ -15,3 +15,5 @@ Example: The mode of array [1,1,3] is 1. The array [1,1,3,3] does not have any m
 ## Output format
 
 For each test case output a line containing the minimum number of operations required to make K the mode of array A.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/making-more-e942ff93/
