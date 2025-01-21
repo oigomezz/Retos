@@ -181,3 +181,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Seating Arrangement`](./Trees/Heaps-Priority-Queues/Seating-Arrangement/README.md)         |
 | **#05** | [`Special Array Operation`](./Trees/Heaps-Priority-Queues/Special-Array-Operation/README.md) |
 | **#06** | [`Arrays`](./Trees/Heaps-Priority-Queues/Arrays/README.md)                                   |
+| **#07** | [`Monk And IQ`](./Trees/Heaps-Priority-Queues/Monk-and-IQ/README.md)                         |

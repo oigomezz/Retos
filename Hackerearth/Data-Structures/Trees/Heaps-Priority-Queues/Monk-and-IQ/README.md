@@ -1,4 +1,4 @@
-# Monk And IQ
+# [Monk And IQ][link]
 
 Monk and his P-1 friends recently joined a college. He finds that N students have already applied for different courses before him. Courses are assigned numbers from 1 to C. He and his friends will follow the following conditions when choosing courses:
 
@@ -15,3 +15,5 @@ They will choose the course i (1 <= i <= C), for which the value of z is minimum
 ## Output format
 
 Print P space separated integers in a line which denotes the course number which Monk and his friends have applied for.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-iq/
