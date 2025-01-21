@@ -167,3 +167,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | --------------------------------------------------------------------- |
 | **#01** | [`B-Sequence`](./Trees/Binary-Search-Tree/B-Sequence/README.md)       |
 | **#02** | [`MST revisited`](./Trees/Binary-Search-Tree/MST-revisited/README.md) |
+| **#03** | [`Suarez !`](./Trees/Binary-Search-Tree/Suarez/README.md)             |

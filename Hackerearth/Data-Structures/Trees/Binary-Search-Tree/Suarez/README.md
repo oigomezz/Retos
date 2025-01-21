@@ -1,4 +1,4 @@
-# Suarez
+# [Suarez][link]
 
 **Stevie:** " The second half of a programming contest is just as important as the second half of a football match, it's the decisive part ". So, here you are presumably having got over the first half.
 
@@ -20,3 +20,5 @@ A segment [L,R] is said to contain a point X, if L <= X <= R. When we speak abou
 ## Output format
 
 Print the ansnwer to each query on a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/suarez/
