@@ -1,4 +1,4 @@
-# Arrays
+# [Arrays][link]
 
 Note that time limit has been increased to 3 sec
 
@@ -12,3 +12,5 @@ Mike has 3 arrays a,b,c of length n and a number k. He wants to find minimal val
 ## Output format
 
 Output the minimal value achievable.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/theatre-830bdbff/
