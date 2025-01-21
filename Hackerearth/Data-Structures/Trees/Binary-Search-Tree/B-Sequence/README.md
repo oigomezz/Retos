@@ -1,4 +1,4 @@
-# B-Sequence
+# [B-Sequence][link]
 
 Any sequence A of size n is called B-sequence if:
 
@@ -22,3 +22,5 @@ Hint: Think of using some data structure to support insertion of elements in com
 
 After each operation, print the size of S in a new line.
 After all operations, print the sequence S.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/b-sequence-f919fc86/

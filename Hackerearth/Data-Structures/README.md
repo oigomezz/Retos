@@ -160,3 +160,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Mancunian And Colored Tree`](./Trees/Binary-N-ary-Trees/Mancunian-and-Colored-Tree/README.md) |
 | **#06** | [`Gandhi Tree March`](./Trees/Binary-N-ary-Trees/Gandhi-Tree-March/README.md)                   |
 | **#07** | [`Largest cycle in a tree`](./Trees/Binary-N-ary-Trees/Largest-cycle-in-a-tree/README.md)       |
+
+### [Binary Search Tree](./Trees/Binary-Search-Tree/README.md)
+
+| N°      | Enunciado                                                       |
+| ------- | --------------------------------------------------------------- |
+| **#01** | [`B-Sequence`](./Trees/Binary-Search-Tree/B-Sequence/README.md) |
