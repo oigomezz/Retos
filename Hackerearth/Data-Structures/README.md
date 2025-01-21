@@ -173,8 +173,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Heaps/Priority Queues](./Trees/Heaps-Priority-Queues/README.md)
 
-| N°      | Enunciado                                                                        |
-| ------- | -------------------------------------------------------------------------------- |
-| **#01** | [`Operation Dilemma`](./Trees/Heaps-Priority-Queues/Operation-Dilemma/README.md) |
-| **#02** | [`Mode of an array`](./Trees/Heaps-Priority-Queues/Mode-of-an-array/README.md)   |
-| **#03** | [`AND choice`](./Trees/Heaps-Priority-Queues/AND-choice/README.md)               |
+| N°      | Enunciado                                                                            |
+| ------- | ------------------------------------------------------------------------------------ |
+| **#01** | [`Operation Dilemma`](./Trees/Heaps-Priority-Queues/Operation-Dilemma/README.md)     |
+| **#02** | [`Mode of an array`](./Trees/Heaps-Priority-Queues/Mode-of-an-array/README.md)       |
+| **#03** | [`AND choice`](./Trees/Heaps-Priority-Queues/AND-choice/README.md)                   |
+| **#04** | [`Seating Arrangement`](./Trees/Heaps-Priority-Queues/Seating-Arrangement/README.md) |
