@@ -1,4 +1,4 @@
-# Gandhi Tree March
+# [Gandhi Tree March][link]
 
 Gandhijee is interested in building human tree. He defined a human node as follows :
 
@@ -29,3 +29,5 @@ You are provided with column number C and the Tree definition string S. Gandhije
 ## Output format
 
 For each test case, on a new line print the required id's in lexicographically sorted order, without spaces. If there are no id's in column C, print "Common Gandhijee!" (quotes for clarity).
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/gandhi-tree-march/

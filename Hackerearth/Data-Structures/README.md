@@ -158,3 +158,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Directory Deletion`](./Trees/Binary-N-ary-Trees/Directory-Deletion/README.md)                 |
 | **#04** | [`Population outburst`](./Trees/Binary-N-ary-Trees/Population-Outburst/README.md)               |
 | **#05** | [`Mancunian And Colored Tree`](./Trees/Binary-N-ary-Trees/Mancunian-and-Colored-Tree/README.md) |
+| **#06** | [`Gandhi Tree March`](./Trees/Binary-N-ary-Trees/Gandhi-Tree-March/README.md)                   |
