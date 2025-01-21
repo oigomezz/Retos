@@ -1,4 +1,4 @@
-# MST revisited
+# [MST revisited][link]
 
 Given an undirected graph of N nodes and N weighted edges, it doesn't contain parallel edges nor self loops, it's guaranteed the graph will always remain connected.
 
@@ -15,3 +15,5 @@ you have to provide an online solution (i.e. you can't see future queries until 
 ## Output format
 
 Output the answer to each query in new line, the answer is one integer equal to sum of weights of minimum spanning tree of the graph.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/mst-revisited-3f9d614c/
