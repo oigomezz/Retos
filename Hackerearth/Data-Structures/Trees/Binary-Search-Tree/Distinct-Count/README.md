@@ -1,4 +1,4 @@
-# Distinct Count
+# [Distinct Count][link]
 
 Given an array A of N integers, classify it as being Good Bad or Average. It is called Good, if it contains exactly X distinct integers, Bad if it contains less than X distinct integers and Average if it contains more than X distinct integers.
 
@@ -11,3 +11,5 @@ Given an array A of N integers, classify it as being Good Bad or Average. It is 
 ## Output format
 
 Print the required answer for each test case on a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/distinct-count/
