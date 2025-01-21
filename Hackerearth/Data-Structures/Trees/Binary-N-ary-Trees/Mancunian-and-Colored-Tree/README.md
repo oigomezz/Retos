@@ -1,4 +1,4 @@
-# Mancunian And Colored Tree
+# [Mancunian And Colored Tree][link]
 
 After a hectic week at work, Mancunian and Liverbird decide to go on a fun weekend camping trip. As they were passing through a forest, they stumbled upon a unique tree of N nodes. Vertices are numbered from 1 to N.
 
@@ -13,3 +13,5 @@ Each node of the tree is assigned a color (out of C possible colors). Being bore
 ## Output format
 
 Print N space-separated integers. The i-th integer is the vertex number of lowest ancestor of the i-th node which has the same color. If there is no such ancestor, print 1 for that node.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/algorithm/mancunian-and-colored-tree/
