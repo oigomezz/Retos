@@ -1,4 +1,4 @@
-# Monk and his Friends
+# [Monk and his Friends][link]
 
 Monk is standing at the door of his classroom. There are currently N students in the class, i'th student got Ai candies.
 
@@ -14,3 +14,5 @@ There are still M more students to come. At every instant, a student enters the 
 
 For each test case, output M new line, Monk's answer to the M students.
 Print "YES" (without the quotes) or "NO" (without the quotes) pertaining to the Monk's answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/
