@@ -187,3 +187,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Monk and the Magical Candy Bags`](./Trees/Heaps-Priority-Queues/Monk-and-the-Magical-Candy-Bags/README.md) |
 | **#11** | [`Haunted`](./Trees/Heaps-Priority-Queues/Haunted/README.md)                                                 |
 | **#12** | [`Roy and Trending Topics`](./Trees/Heaps-Priority-Queues/Roy-and-Trending-Topics/README.md)                 |
+
+### [Trie (Keyword Tree)](./Advanced-Data-Structures/Trie/README.md)
+
+| N°      | Enunciado                                                                          |
+| ------- | ---------------------------------------------------------------------------------- |
+| **#01** | [`Special Subarrays`](./Advanced-Data-Structures/Trie/Special-Subarrays/README.md) |

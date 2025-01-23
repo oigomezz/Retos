@@ -1,4 +1,4 @@
-# Special Subarrays
+# [Special Subarrays][link]
 
 An array is said to be special, if we can break it down into subarrays where every subarray (length > 1) starts and ends with 0 and rest all other numbers are 1.
 
@@ -16,3 +16,5 @@ Find the sum found by Sam modulo 10⁹ + 7.
 ## Output format
 
 Sum found by Sam modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/special-subarrays-4-99375442/
