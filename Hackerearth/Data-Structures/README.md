@@ -186,3 +186,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Monk and Multiplication`](./Trees/Heaps-Priority-Queues/Monk-and-Multiplication/README.md)                 |
 | **#10** | [`Monk and the Magical Candy Bags`](./Trees/Heaps-Priority-Queues/Monk-and-the-Magical-Candy-Bags/README.md) |
 | **#11** | [`Haunted`](./Trees/Heaps-Priority-Queues/Haunted/README.md)                                                 |
+| **#12** | [`Roy and Trending Topics`](./Trees/Heaps-Priority-Queues/Roy-and-Trending-Topics/README.md)                 |

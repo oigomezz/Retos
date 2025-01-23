@@ -1,4 +1,4 @@
-# Roy and Trending Topics
+# [Roy and Trending Topics][link]
 
 Roy is trying to develop a widget that shows Trending Topics (similar to Facebook) on the home page of HackerEarth Academy.
 
@@ -25,3 +25,5 @@ If change in z-score for any two topics is same, then rank them according to the
 
 - Print top 5 Topics each in a new line.
 - Each line should contain two space separated integers, Topic ID and new z-score of the topic.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/roy-and-trending-topics-1/
