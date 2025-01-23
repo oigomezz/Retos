@@ -183,3 +183,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`Arrays`](./Trees/Heaps-Priority-Queues/Arrays/README.md)                                       |
 | **#07** | [`Monk And IQ`](./Trees/Heaps-Priority-Queues/Monk-and-IQ/README.md)                             |
 | **#08** | [`Monk And Champions League`](./Trees/Heaps-Priority-Queues/Monk-and-Champions-League/README.md) |
+| **#09** | [`Monk and Multiplication`](./Trees/Heaps-Priority-Queues/Monk-and-Multiplication/README.md)     |

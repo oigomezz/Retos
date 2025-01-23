@@ -1,4 +1,4 @@
-# Monk and Multiplication
+# [Monk and Multiplication][link]
 
 The Monk learned about priority queues recently and asked his teacher for an interesting problem. So his teacher came up with a simple problem. He now has an integer array A. For each index i, he wants to find the product of the largest, second largest and the third largest integer in the range [1,i].
 
@@ -12,3 +12,5 @@ The Monk learned about priority queues recently and asked his teacher for an int
 ## Output format
 
 Print the answer for each index in each line. If there is no second largest or third largest number in the array A upto that index, then print "-1", without the quotes.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-multiplication/
