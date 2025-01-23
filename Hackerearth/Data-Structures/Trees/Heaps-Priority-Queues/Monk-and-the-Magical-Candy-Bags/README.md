@@ -1,4 +1,4 @@
-# Monk and the Magical Candy Bags
+# [Monk and the Magical Candy Bags][link]
 
 Our Monk loves candy!
 
@@ -19,3 +19,5 @@ Find the maximum number of candies that Monk can consume.
 ## Output format
 
 Print the answer to each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-the-magical-candy-bags/
