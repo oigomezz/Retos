@@ -1,4 +1,4 @@
-# Xor sequence
+# [Xor sequence][link]
 
 Given a sequence a1 ... an. You need to perform m queries on it.
 
@@ -22,3 +22,5 @@ The answer of this query is ai xor ai+1 xor ... xor aj.
 ## Output format
 
 For each query, output an integer represents the answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-sequence-aad3111f/
