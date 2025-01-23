@@ -1,4 +1,4 @@
-# XOR paths
+# [XOR paths][link]
 
 You are given a weighted tree (an acyclic undirected connected graph) with N nodes. The tree nodes are numbered from 1 to N. There are N-1 edges with each having a weight assigned to it.
 
@@ -13,3 +13,5 @@ You have to process Q queries on it. In each query, you are given three integers
 ## Output format
 
 For each query, print a single integer in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-path-1-f7009db6/
