@@ -1,4 +1,4 @@
-# Prefix queries
+# [Prefix queries][link]
 
 You are given an undirected tree with N nodes rooted at node 1. Every node has a value A[i] assigned to it. You are required to answer Q queries of the following type:
 
@@ -23,3 +23,5 @@ Find the required answer for Q queries.
 ## Output format
 
 For each test case, print Q space-separated integers denoting the longest length common prefix for Q queries. Print the output for each test case in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/prefix-queries-3-2c111491/
