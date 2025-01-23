@@ -1,4 +1,4 @@
-# Permutations
+# [Permutations][link]
 
 You are given a permutation A = {a1,a2,...,an} of N integers from 0 to N-1.
 
@@ -25,3 +25,5 @@ As you are required to respond to the queries online, the queries are encoded.
 ## Output format
 
 For each query, print the answer in a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/online-k-mex-007daa77/
