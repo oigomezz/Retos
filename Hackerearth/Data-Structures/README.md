@@ -190,6 +190,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Trie (Keyword Tree)](./Advanced-Data-Structures/Trie/README.md)
 
-| N°      | Enunciado                                                                          |
-| ------- | ---------------------------------------------------------------------------------- |
-| **#01** | [`Special Subarrays`](./Advanced-Data-Structures/Trie/Special-Subarrays/README.md) |
+| N°      | Enunciado                                                                                      |
+| ------- | ---------------------------------------------------------------------------------------------- |
+| **#01** | [`Special Subarrays`](./Advanced-Data-Structures/Trie/Special-Subarrays/README.md)             |
+| **#02** | [`Bob And The Magic Pairs`](./Advanced-Data-Structures/Trie/Bob-And-The-Magic-Pairs/README.md) |

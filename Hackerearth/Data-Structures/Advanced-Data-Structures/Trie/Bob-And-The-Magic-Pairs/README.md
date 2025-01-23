@@ -1,4 +1,4 @@
-# Bob And The Magic Pairs
+# [Bob And The Magic Pairs][link]
 
 Bob is a brilliant student in the class, so his teacher assigned him a problem. He has been given an array A containing N positive integers and two integers U and V. He has been asked to find the number of magic pairs of array indices.
 
@@ -15,3 +15,5 @@ Help Bob to find the number of magic pairs in the given array.
 ## Output format
 
 For each test case, print the number of magic pairs in the given array.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/bob-and-the-magic-pairs-9d0aea82/
