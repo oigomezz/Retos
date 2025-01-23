@@ -173,12 +173,13 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Heaps/Priority Queues](./Trees/Heaps-Priority-Queues/README.md)
 
-| N°      | Enunciado                                                                                    |
-| ------- | -------------------------------------------------------------------------------------------- |
-| **#01** | [`Operation Dilemma`](./Trees/Heaps-Priority-Queues/Operation-Dilemma/README.md)             |
-| **#02** | [`Mode of an array`](./Trees/Heaps-Priority-Queues/Mode-of-an-array/README.md)               |
-| **#03** | [`AND choice`](./Trees/Heaps-Priority-Queues/AND-choice/README.md)                           |
-| **#04** | [`Seating Arrangement`](./Trees/Heaps-Priority-Queues/Seating-Arrangement/README.md)         |
-| **#05** | [`Special Array Operation`](./Trees/Heaps-Priority-Queues/Special-Array-Operation/README.md) |
-| **#06** | [`Arrays`](./Trees/Heaps-Priority-Queues/Arrays/README.md)                                   |
-| **#07** | [`Monk And IQ`](./Trees/Heaps-Priority-Queues/Monk-and-IQ/README.md)                         |
+| N°      | Enunciado                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| **#01** | [`Operation Dilemma`](./Trees/Heaps-Priority-Queues/Operation-Dilemma/README.md)                 |
+| **#02** | [`Mode of an array`](./Trees/Heaps-Priority-Queues/Mode-of-an-array/README.md)                   |
+| **#03** | [`AND choice`](./Trees/Heaps-Priority-Queues/AND-choice/README.md)                               |
+| **#04** | [`Seating Arrangement`](./Trees/Heaps-Priority-Queues/Seating-Arrangement/README.md)             |
+| **#05** | [`Special Array Operation`](./Trees/Heaps-Priority-Queues/Special-Array-Operation/README.md)     |
+| **#06** | [`Arrays`](./Trees/Heaps-Priority-Queues/Arrays/README.md)                                       |
+| **#07** | [`Monk And IQ`](./Trees/Heaps-Priority-Queues/Monk-and-IQ/README.md)                             |
+| **#08** | [`Monk And Champions League`](./Trees/Heaps-Priority-Queues/Monk-and-Champions-League/README.md) |
