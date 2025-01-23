@@ -199,3 +199,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Minimum XOR`](./Advanced-Data-Structures/Trie/Minimum-XOR/README.md)                         |
 | **#06** | [`XOR paths`](./Advanced-Data-Structures/Trie/XOR-paths/README.md)                             |
 | **#07** | [`Permutations`](./Advanced-Data-Structures/Trie/Permutations/README.md)                       |
+| **#08** | [`Xor and Insert`](./Advanced-Data-Structures/Trie/XOR-and-Insert/README.md)                   |
