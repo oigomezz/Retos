@@ -185,3 +185,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`Monk And Champions League`](./Trees/Heaps-Priority-Queues/Monk-and-Champions-League/README.md)             |
 | **#09** | [`Monk and Multiplication`](./Trees/Heaps-Priority-Queues/Monk-and-Multiplication/README.md)                 |
 | **#10** | [`Monk and the Magical Candy Bags`](./Trees/Heaps-Priority-Queues/Monk-and-the-Magical-Candy-Bags/README.md) |
+| **#11** | [`Haunted`](./Trees/Heaps-Priority-Queues/Haunted/README.md)                                                 |
