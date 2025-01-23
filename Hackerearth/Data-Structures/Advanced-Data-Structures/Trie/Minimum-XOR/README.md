@@ -1,4 +1,4 @@
-# Minimum XOR
+# [Minimum XOR][link]
 
 You are given q queries of two types:
 
@@ -15,3 +15,5 @@ You are given q queries of two types:
 ## Output format
 
 Print the number in the second type of query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/kth-min-xor-37903b94/

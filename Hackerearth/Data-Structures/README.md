@@ -196,3 +196,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Bob And The Magic Pairs`](./Advanced-Data-Structures/Trie/Bob-And-The-Magic-Pairs/README.md) |
 | **#03** | [`Beautiful Substrings`](./Advanced-Data-Structures/Trie/Beautiful-Substrings/README.md)       |
 | **#04** | [`Prefix queries`](./Advanced-Data-Structures/Trie/Prefix-queries/README.md)                   |
+| **#05** | [`Minimum XOR`](./Advanced-Data-Structures/Trie/Special-Subarrays/README.md) |
