@@ -1,4 +1,4 @@
-# Beautiful Substrings
+# [Beautiful Substrings][link]
 
 A string S is a substring of string T if it is possible to choose several consecutive letters in T in such a way that they form S.
 
@@ -22,3 +22,5 @@ As the answer can be pretty large output it modulo 10⁹ + 7.
 ## Output format
 
 The sum Emil gets modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/beautiful-substrings-008a53a4/
