@@ -1,4 +1,4 @@
-# Search Engine
+# [Search Engine][link]
 
 Let us see how search engines work. Consider the following simple auto complete feature. When you type some characters in the text bar, the engine automatically gives best matching options among it's database. Your job is simple. Given an incomplete search text, output the best search result.
 
@@ -12,3 +12,5 @@ Each entry in engine's database has a priority factor attached to it. We conside
 ## Output format
 
 Output q lines, each line containing the maximum possible weight of the match for given query, else -1, in case no valid result is obtained.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/search-engine/
