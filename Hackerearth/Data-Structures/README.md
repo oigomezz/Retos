@@ -210,3 +210,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Yet another problem with Strings`](./Advanced-Data-Structures/Trie/Yet-another-problem-with-Strings/README.md) |
 | **#17** | [`Search Engine`](./Advanced-Data-Structures/Trie/Search-Engine/README.md)                                       |
 | **#18** | [`Shil and LCP Pairs`](./Advanced-Data-Structures/Trie/Shil-and-LCP-Pairs/README.md)                             |
+| **#19** | [`Ma5termind and XOR Minimization`](./Advanced-Data-Structures/Trie/Ma5termind/README.md)                        |
