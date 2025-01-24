@@ -1,4 +1,4 @@
-# Registration system
+# [Registration system][link]
 
 Your task is to write a registration system.
 
@@ -15,3 +15,5 @@ You gave the preferred logins for the n users in chronological order. For each u
 ## Output format
 
 Print n lines. The i-th of these lines should contain an occupied login for the i-th user.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/registration-system/
