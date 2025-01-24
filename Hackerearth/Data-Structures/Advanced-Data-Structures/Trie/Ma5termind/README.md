@@ -1,4 +1,4 @@
-# Ma5termind and XOR Minimization
+# [Ma5termind and XOR Minimization][link]
 
 Mastermind is a bright student of his class. To judge his intellegence and speed his teacher has given him a question and he needs your help for solving it. The question is :
 
@@ -11,3 +11,5 @@ First line of the input contains a single integer N denoting the number of eleme
 ## Output format
 
 Output consists of Q lines each containing two integers. First integer denotes the sum of the elements in the chosen subsequence and second integer denotes the number of such subsequences.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/ma5termind-and-xor-minimization/
