@@ -1,4 +1,4 @@
-# Cost of Data
+# [Cost of Data][link]
 
 Strings can be efficiently stored as a data structure, to have efficient searching methods.
 
@@ -18,3 +18,5 @@ A empty node is kept NULL, and strings are inserted into the structure one by on
 ## Output format
 
 Print the required number of nodes.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/cost-of-data-11/
