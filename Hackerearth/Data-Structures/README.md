@@ -190,20 +190,21 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Trie (Keyword Tree)](./Advanced-Data-Structures/Trie/README.md)
 
-| N°      | Enunciado                                                                                          |
-| ------- | -------------------------------------------------------------------------------------------------- |
-| **#01** | [`Special Subarrays`](./Advanced-Data-Structures/Trie/Special-Subarrays/README.md)                 |
-| **#02** | [`Bob And The Magic Pairs`](./Advanced-Data-Structures/Trie/Bob-And-The-Magic-Pairs/README.md)     |
-| **#03** | [`Beautiful Substrings`](./Advanced-Data-Structures/Trie/Beautiful-Substrings/README.md)           |
-| **#04** | [`Prefix queries`](./Advanced-Data-Structures/Trie/Prefix-queries/README.md)                       |
-| **#05** | [`Minimum XOR`](./Advanced-Data-Structures/Trie/Minimum-XOR/README.md)                             |
-| **#06** | [`XOR paths`](./Advanced-Data-Structures/Trie/XOR-paths/README.md)                                 |
-| **#07** | [`Permutations`](./Advanced-Data-Structures/Trie/Permutations/README.md)                           |
-| **#08** | [`Xor and Insert`](./Advanced-Data-Structures/Trie/XOR-and-Insert/README.md)                       |
-| **#09** | [`Xor sequence`](./Advanced-Data-Structures/Trie/XOR-sequence/README.md)                           |
-| **#10** | [`Shubham and Subarray Xor`](./Advanced-Data-Structures/Trie/Shubham-and-Subarray-XOR/README.md)   |
-| **#11** | [`Substring Xor`](./Advanced-Data-Structures/Trie/Substring-XOR/README.md)                         |
-| **#12** | [`Dexter's Random Generator`](./Advanced-Data-Structures/Trie/Dexter's-Random-Generator/README.md) |
-| **#13** | [`Micro's House`](./Advanced-Data-Structures/Trie/Micro's-House/README.md)                         |
-| **#14** | [`Registration system`](./Advanced-Data-Structures/Trie/Registration-system/README.md)             |
-| **#15** | [`Xoring in Base 10`](./Advanced-Data-Structures/Trie/Xoring-in-Base-10/README.md)                 |
+| N°      | Enunciado                                                                                                        |
+| ------- | ---------------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Special Subarrays`](./Advanced-Data-Structures/Trie/Special-Subarrays/README.md)                               |
+| **#02** | [`Bob And The Magic Pairs`](./Advanced-Data-Structures/Trie/Bob-And-The-Magic-Pairs/README.md)                   |
+| **#03** | [`Beautiful Substrings`](./Advanced-Data-Structures/Trie/Beautiful-Substrings/README.md)                         |
+| **#04** | [`Prefix queries`](./Advanced-Data-Structures/Trie/Prefix-queries/README.md)                                     |
+| **#05** | [`Minimum XOR`](./Advanced-Data-Structures/Trie/Minimum-XOR/README.md)                                           |
+| **#06** | [`XOR paths`](./Advanced-Data-Structures/Trie/XOR-paths/README.md)                                               |
+| **#07** | [`Permutations`](./Advanced-Data-Structures/Trie/Permutations/README.md)                                         |
+| **#08** | [`Xor and Insert`](./Advanced-Data-Structures/Trie/XOR-and-Insert/README.md)                                     |
+| **#09** | [`Xor sequence`](./Advanced-Data-Structures/Trie/XOR-sequence/README.md)                                         |
+| **#10** | [`Shubham and Subarray Xor`](./Advanced-Data-Structures/Trie/Shubham-and-Subarray-XOR/README.md)                 |
+| **#11** | [`Substring Xor`](./Advanced-Data-Structures/Trie/Substring-XOR/README.md)                                       |
+| **#12** | [`Dexter's Random Generator`](./Advanced-Data-Structures/Trie/Dexter's-Random-Generator/README.md)               |
+| **#13** | [`Micro's House`](./Advanced-Data-Structures/Trie/Micro's-House/README.md)                                       |
+| **#14** | [`Registration system`](./Advanced-Data-Structures/Trie/Registration-system/README.md)                           |
+| **#15** | [`Xoring in Base 10`](./Advanced-Data-Structures/Trie/Xoring-in-Base-10/README.md)                               |
+| **#16** | [`Yet another problem with Strings`](./Advanced-Data-Structures/Trie/Yet-another-problem-with-Strings/README.md) |

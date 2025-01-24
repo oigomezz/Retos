@@ -1,4 +1,4 @@
-# Yet another problem with Strings
+# [Yet another problem with Strings][link]
 
 You are given a 0-indexed array S with N strings, numbered 0 through N-1, and Q queries to handle. All strings in this problem are nonempty and consist of lowercase English letters.
 
@@ -26,3 +26,5 @@ After deciphering a query you should add a letter alpha at the end of the i-th s
 ## Output format
 
 For each query of the first type print the answer "YES" or "NO" (without the quotes) in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/b-yet-another-problem-with-strings/
