@@ -1,4 +1,4 @@
-# Xoring in Base 10
+# [Xoring in Base 10][link]
 
 Given two numbers A = (A0A1...An) and B = (B0B1...Bn) in base 10, we define the xor of A and B as A \* B = (X0X1...Xn), where Xi = (Ai + Bi) mod 10.
 
@@ -12,3 +12,5 @@ Little Achraf has an array S of integers in base 10 and he was asked by his prof
 ## Output format
 
 Output a single integer denoting the answer of the problem in base 10.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xoring-in-base-10/

@@ -206,3 +206,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Dexter's Random Generator`](./Advanced-Data-Structures/Trie/Dexter's-Random-Generator/README.md) |
 | **#13** | [`Micro's House`](./Advanced-Data-Structures/Trie/Micro's-House/README.md)                         |
 | **#14** | [`Registration system`](./Advanced-Data-Structures/Trie/Registration-system/README.md)             |
+| **#15** | [`Xoring in Base 10`](./Advanced-Data-Structures/Trie/Xoring-in-Base-10/README.md)                 |
