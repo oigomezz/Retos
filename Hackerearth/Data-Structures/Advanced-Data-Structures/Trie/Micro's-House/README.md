@@ -1,4 +1,4 @@
-# Micro's House
+# [Micro's House][link]
 
 Our coder Micro, is building a new house. For that he bought a rectangular plot few days back. The plot is very big, so he decided that he will use some portion of the plot to make his house, and the rest he will use for playing cricket with his astrologer friend Mike. But Micro is very superstitious, he is not going to just randomly pick some portion to build his house. He want to maximize his good luck. For this he took help of Mike.
 
@@ -12,3 +12,5 @@ Mike divided the whole plot into grid of square blocks and assigned a Good Luck 
 ## Output format
 
 Print the maximum Good Luck value that Micro can achieve.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/micros-house-30/

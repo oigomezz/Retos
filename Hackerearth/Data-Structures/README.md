@@ -204,3 +204,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Shubham and Subarray Xor`](./Advanced-Data-Structures/Trie/Shubham-and-Subarray-XOR/README.md)   |
 | **#11** | [`Substring Xor`](./Advanced-Data-Structures/Trie/Substring-XOR/README.md)                         |
 | **#12** | [`Dexter's Random Generator`](./Advanced-Data-Structures/Trie/Dexter's-Random-Generator/README.md) |
+| **#13** | [`Permutations`](./Advanced-Data-Structures/Trie/Permutations/README.md) |
