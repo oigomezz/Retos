@@ -1,4 +1,4 @@
-# Dexter's Random Generator
+# [Dexter's Random Generator][link]
 
 Dexter has recently constructed a random generator. This generator works on a tree of N nodes. The information about the tree has to be fed into the generator in order for it to start working.
 
@@ -37,3 +37,5 @@ Dexter needs your help in answering the questions of Hannah.
 ## Output format
 
 You are supposed to output Q lines. The ith line contains the answer for the ith query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/dexters-random-generator/
