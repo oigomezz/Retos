@@ -209,3 +209,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Xoring in Base 10`](./Advanced-Data-Structures/Trie/Xoring-in-Base-10/README.md)                               |
 | **#16** | [`Yet another problem with Strings`](./Advanced-Data-Structures/Trie/Yet-another-problem-with-Strings/README.md) |
 | **#17** | [`Search Engine`](./Advanced-Data-Structures/Trie/Search-Engine/README.md)                                       |
+| **#18** | [`Shil and LCP Pairs`](./Advanced-Data-Structures/Trie/Shil-and-LCP-Pairs/README.md)                             |
