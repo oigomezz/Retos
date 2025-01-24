@@ -1,4 +1,4 @@
-# Shin-Chan Kazama and XOR
+# [Shin-Chan Kazama and XOR][link]
 
 SHIN-CHAN and KAZAMA grew up to become very good friends. They went to high school together and shared the same bench in class. In one of the maths classes, while the teacher was teaching the class about the XOR (exclusive OR) operator, the two of them were busy thinking of SHIZUKA (both of them had a big crush on her since childhood days). The teacher saw this and decided to punish them by giving them a punishment for not paying attention in class. As a punishment, he gave them a very difficult assignment in which there were several questions on a sequence of given numbers.
 
@@ -16,3 +16,5 @@ As the two of them did not know anything about XOR and were busy planning a surp
 ## Output format
 
 For each query, output the number Z and the number of times it occurs in the range l to r separated by a space.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/shin-chan-kazama-and-xor-2/

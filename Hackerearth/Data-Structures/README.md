@@ -211,3 +211,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#17** | [`Search Engine`](./Advanced-Data-Structures/Trie/Search-Engine/README.md)                                       |
 | **#18** | [`Shil and LCP Pairs`](./Advanced-Data-Structures/Trie/Shil-and-LCP-Pairs/README.md)                             |
 | **#19** | [`Ma5termind and XOR Minimization`](./Advanced-Data-Structures/Trie/Ma5termind/README.md)                        |
+| **#20** | [`Shin-Chan Kazama and XOR`](./Advanced-Data-Structures/Trie/Shin-Chan-Kazama-and-XOR/README.md)                 |
