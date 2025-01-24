@@ -202,3 +202,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`Xor and Insert`](./Advanced-Data-Structures/Trie/XOR-and-Insert/README.md)                     |
 | **#09** | [`Xor sequence`](./Advanced-Data-Structures/Trie/XOR-sequence/README.md)                         |
 | **#10** | [`Shubham and Subarray Xor`](./Advanced-Data-Structures/Trie/Shubham-and-Subarray-XOR/README.md) |
+| **#11** | [`Substring Xor`](./Advanced-Data-Structures/Trie/Substring-XOR/README.md)                       |
