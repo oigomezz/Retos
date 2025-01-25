@@ -1,4 +1,4 @@
-# Curious Queries
+# [Curious Queries][link]
 
 You are given an array A of length N. You are asked Q queries. Each query is of the form L,R and the answer is the sum of A[i] for all i such that 0 <= i <= L and A[i] > A[R].
 
@@ -14,3 +14,5 @@ Print an array B of length Q such that B[i] is the answer to the ith query.
 ## Output format
 
 For each test case, print an array A of length Q separated by space such that B[i] is the answer to the ith query in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/curious-queries-112c4758/

@@ -213,3 +213,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Ma5termind and XOR Minimization`](./Advanced-Data-Structures/Trie/Ma5termind/README.md)                        |
 | **#20** | [`Shin-Chan Kazama and XOR`](./Advanced-Data-Structures/Trie/Shin-Chan-Kazama-and-XOR/README.md)                 |
 | **#21** | [`Cost of Data`](./Advanced-Data-Structures/Trie/Cost-of-Data/README.md)                                         |
+
+### [Segment Trees](./Advanced-Data-Structures/Segment-Trees/README.md)
+
+| N°      | Enunciado                                                                               |
+| ------- | --------------------------------------------------------------------------------------- |
+| **#01** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md) |
