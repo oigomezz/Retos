@@ -1,4 +1,4 @@
-# Subarray Addition
+# [Subarray Addition][link]
 
 You are given an array A having N integers. You take an array B of length N such that Bi = 0 for all 1 <= i <= N. You perform Q operations of the following two types:
 
@@ -16,3 +16,5 @@ Print the elements of the array B after Q operations.
 ## Output format
 
 Print N integers B1, B2, ..., Bn, denoting elements of the array B after Q operations.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/subarray-addition-9ef5f202/
