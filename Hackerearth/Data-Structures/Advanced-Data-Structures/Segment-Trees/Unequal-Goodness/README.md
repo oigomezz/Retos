@@ -1,4 +1,4 @@
-# Unequal Goodness
+# [Unequal Goodness][link]
 
 You are given an array A of N integers. A subarray from L to R (L < R) is good if A[L] != A[R].
 
@@ -13,3 +13,5 @@ You have to find the maximum possible sum of elements of a good subarray. If the
 ## Output format
 
 For each test case, print the maximum possible sum of elements of good subarray or print "Not Possible" (without double quotes) if there is no such good subarray.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/unequal-goodness-7e3482b7/
