@@ -1,4 +1,4 @@
-# Make Permutation
+# [Make Permutation][link]
 
 A permutation is a sequence of integers from 1 to N of length N containing each number exactly once. For example (1), (4,3,5,1,2), (3,2,1) are permutations, and (1,1), (4,3,1), (2,3,4) are not.
 
@@ -20,3 +20,5 @@ You are given an array A containing N integers. Find the number of good subarray
 ## Output format
 
 For each test case, print the answer in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/make-permutation-71bcfbc5/
