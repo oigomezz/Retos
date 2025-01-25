@@ -1,4 +1,4 @@
-# Optimal Moves
+# [Optimal Moves][link]
 
 There are points placed on a number line at position 1,2,...,N.
 
@@ -24,3 +24,5 @@ Find the minimum cost to reach each of the N points.
 ## Output format
 
 For each test case, output on a new line, the minimum cost to reach each of the N points.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/optimal-moves-08b02ad7/

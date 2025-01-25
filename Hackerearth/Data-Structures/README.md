@@ -225,3 +225,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`DivisorDilemma`](./Advanced-Data-Structures/Segment-Trees/Divisor-Dilemma/README.md)                    |
 | **#06** | [`No-Inversions`](./Advanced-Data-Structures/Segment-Trees/No-Inversions/README.md)                       |
 | **#07** | [`Subarray Addition`](./Advanced-Data-Structures/Segment-Trees/Subarray-Addition/README.md)               |
+| **#08** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                       |
