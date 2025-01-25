@@ -1,4 +1,4 @@
-# Previous Coprime Element
+# [Previous Coprime Element][link]
 
 Given an Array arr of length N find the index (0-indexed) of previous co-prime element for each index 0 <= i < N, or -1 if there's no such value.
 
@@ -15,3 +15,5 @@ Previous co-prime element of arr[i] is the first element co-prime to arr[i] on t
 ## Output format
 
 For each testcase, In a single line, print the index of previous co-prime element of arr[i] for each index 0 <= i < N, or -1 if no such value.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/previous-coprime-element-d2d3c76c/

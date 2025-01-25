@@ -216,6 +216,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Segment Trees](./Advanced-Data-Structures/Segment-Trees/README.md)
 
-| N°      | Enunciado                                                                               |
-| ------- | --------------------------------------------------------------------------------------- |
-| **#01** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md) |
+| N°      | Enunciado                                                                                                 |
+| ------- | --------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md)                   |
+| **#02** | [`Previous Coprime Element`](./Advanced-Data-Structures/Segment-Trees/Previous-Coprime-Element/README.md) |
