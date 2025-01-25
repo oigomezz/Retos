@@ -227,3 +227,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Subarray Addition`](./Advanced-Data-Structures/Segment-Trees/Subarray-Addition/README.md)               |
 | **#08** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                       |
 | **#09** | [`Make Permutation`](./Advanced-Data-Structures/Segment-Trees/Make-Permutation/README.md)                 |
+| **#10** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                             |

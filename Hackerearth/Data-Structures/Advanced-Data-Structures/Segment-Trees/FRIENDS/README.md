@@ -1,4 +1,4 @@
-# F.R.I.E.N.D.S
+# [F.R.I.E.N.D.S][link]
 
 There are N People, i-th person wants to be friend with all the person between [Xi,Yi].
 
@@ -15,3 +15,5 @@ Print the total number of possible friendship.
 ## Output format
 
 For each test case print the total number of possible friendship in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/friends-9-35ea2f93/
