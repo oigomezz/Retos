@@ -1,4 +1,4 @@
-# Divisor Dilemma
+# [Divisor Dilemma][link]
 
 Once upon a time, there was a curious mathematician named Alice. She loved playing with numbers. One day, she encountered a challenge. In this challenge, she had to assume that a magical box containing numbers from 1 to N existed, and she had to select M distinct numbers from this box such that the sum of their divisors was the greatest, and then report this maximum possible sum of their divisors.
 
@@ -18,3 +18,5 @@ The rules of the challenge are:
 ## Output format
 
 For each puzzle, print in a new line the maximum total sum of the divisors of M distinct numbers from 1 to N.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/divisordilemma-b2434e95/
