@@ -223,3 +223,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Unequal Goodness`](./Advanced-Data-Structures/Segment-Trees/Unequal-Goodness/README.md)                 |
 | **#04** | [`MystiXORama`](./Advanced-Data-Structures/Segment-Trees/MystiXORama/README.md)                           |
 | **#05** | [`DivisorDilemma`](./Advanced-Data-Structures/Segment-Trees/Divisor-Dilemma/README.md)                    |
+| **#06** | [`No-Inversions`](./Advanced-Data-Structures/Segment-Trees/No-Inversions/README.md)                       |

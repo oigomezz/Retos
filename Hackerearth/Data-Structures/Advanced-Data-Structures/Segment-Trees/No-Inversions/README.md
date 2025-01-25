@@ -1,4 +1,4 @@
-# No-Inversions
+# [No-Inversions][link]
 
 You're given a string S of length N consisting of lowercase English letters. You are asked Q queries of the type L R. For each query, you are asked to find the no of good substrings between L to R(inclusive).
 
@@ -17,3 +17,5 @@ A substring of a string is a continuous segment of letters from the string. For 
 ## Output format
 
 For each test case, for each ith query, print a single integer denoting the answer to the ith query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/no-inversions-db0ebea5/
