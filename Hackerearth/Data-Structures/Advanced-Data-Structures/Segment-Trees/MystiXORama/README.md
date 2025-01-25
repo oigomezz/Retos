@@ -1,4 +1,4 @@
-# MystiXORama
+# [MystiXORama][link]
 
 In a quaint village, there lived a mathematician named Alice. One day, the villagers approached her with a unique challenge. They had an array A of size N, that held the secrets of their village, and they needed answers to their questions. These questions came in the form of Q queries.
 
@@ -26,3 +26,5 @@ You now have to help Alice in completing this challenge.
 ## Output format
 
 For each test case, print the answer for each query in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/mystixorama-26468c50/
