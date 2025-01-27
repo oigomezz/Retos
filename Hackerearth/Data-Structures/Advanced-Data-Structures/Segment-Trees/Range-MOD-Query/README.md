@@ -1,4 +1,4 @@
-# Range MOD Query
+# [Range MOD Query][link]
 
 You are given a binary string, s, and you have to answer q queries in order.
 
@@ -20,3 +20,5 @@ There are two types of queries:
 ## Output format
 
 For each of the type 2 queries, output an integer denoting the decimal value of the binary representation of the queried range modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/bob-and-string-easy/
