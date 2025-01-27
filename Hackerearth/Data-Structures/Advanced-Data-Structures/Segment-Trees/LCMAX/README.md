@@ -1,4 +1,4 @@
-# LCMAX
+# [LCMAX][link]
 
 You are given an array a of integers. But there is something special about these integers. All of the integers are square free. Formally, for each i, if ai = (p1^q1) \* (p2^q2) \* ... (pm^qm) where every pi (1 <= i <= m) is a prime, then qj <= 1.
 
@@ -13,3 +13,5 @@ Coming to the problem, You need to find the number of subarrays where the maximu
 ## Output format
 
 For each test, output the number of subarrays that fullfil the condition.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/lcmax-fa405882/

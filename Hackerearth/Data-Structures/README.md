@@ -228,3 +228,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                       |
 | **#09** | [`Make Permutation`](./Advanced-Data-Structures/Segment-Trees/Make-Permutation/README.md)                 |
 | **#10** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                             |
+| **#11** | [`LCMAX`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md) |
