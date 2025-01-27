@@ -1,4 +1,4 @@
-# Point Coverage
+# [Point Coverage][link]
 
 There are N points located on the X axis at positions A1,A2,...,An respectively. Alice performs (N - 1) journeys. During the ith journey (1 <= i <= N-1), Alice moves from ith point to (i+1)th point (i.e from position Ai to position Ai+1).
 
@@ -15,3 +15,5 @@ You have to answer Q queries of the following form:
 ## Output format
 
 For each query, print the answer in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/point-coverage-f0a7e815/
