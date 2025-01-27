@@ -235,3 +235,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Avoid Maxima-Minima`](./Advanced-Data-Structures/Segment-Trees/Avoid-Maxima-Minima/README.md)           |
 | **#16** | [`The longest subarray`](./Advanced-Data-Structures/Segment-Trees/The-longest-subarray/README.md)         |
 | **#17** | [`Get queries`](./Advanced-Data-Structures/Segment-Trees/Get-queries/README.md)                           |
+| **#18** | [`Set of rectangles`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md) |

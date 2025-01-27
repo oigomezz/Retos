@@ -1,4 +1,4 @@
-# Set of rectangles
+# [Set of rectangles][link]
 
 Bob gave Alice a set of rectangles. Each rectangle has a length and a height.
 
@@ -23,3 +23,5 @@ and d the minimum number of rectangles that can remain after nesting in each oth
 ## Output format
 
 Print m lines, one line in each line, denoting the answer to the problem for j query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/birthday-2-16d4d6ca/
