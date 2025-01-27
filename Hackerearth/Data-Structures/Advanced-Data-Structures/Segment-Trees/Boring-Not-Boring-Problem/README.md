@@ -1,4 +1,4 @@
-# Boring Not boring problem
+# [Boring Not boring problem][link]
 
 You are given two integers n (1<=n<=10⁵) and m (1<=m<=10⁵). Initially, you have an array a of n zeros, and applied queries on it. Query is given as l r x, where you apply ai = ai xor x (xor denotes the operation bitwise XOR) for every between l and r. But this problem seems boring, so Almas modify some queries interval. By modifying, he applied that operation on a subset of positions on a segment(maybe empty subset). Now he asks you how many different arrays he could have after applying queries. Since the answer can be large, output by modulo 1000000007 (10⁹ + 7).
 
@@ -10,3 +10,5 @@ You are given two integers n (1<=n<=10⁵) and m (1<=m<=10⁵). Initially, you h
 ## Output format
 
 Print in a single line answer by modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/boring-not-boring-problem-8c1c9e10/
