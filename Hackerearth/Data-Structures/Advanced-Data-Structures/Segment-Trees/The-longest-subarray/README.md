@@ -1,4 +1,4 @@
-# The longest subarray
+# [The longest subarray][link]
 
 You are given an array of N positive integers and Q queries. In each query, you are given two integers L and R.
 
@@ -15,3 +15,5 @@ For each query, find the length of the longest subarray such that the bitwise AN
 ## Output format
 
 For each test case, Q lines must be printed and the ith line should contain the output for the ith query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/power-of-a-subarray-8a246488/
