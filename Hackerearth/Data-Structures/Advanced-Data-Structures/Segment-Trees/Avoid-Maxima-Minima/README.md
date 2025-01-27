@@ -1,4 +1,4 @@
-# Avoid Maxima-Minima
+# [Avoid Maxima-Minima][link]
 
 You are given an array A consisting of N integers.
 
@@ -23,3 +23,5 @@ Find the maximum length of the final array A which does not contain any local ma
 ## Output format
 
 For each test case, print the maximum length of the final array A which does not contain any local maximums and local minimums.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/avoid-maxima-minima-8221ea6c/
