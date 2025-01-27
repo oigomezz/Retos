@@ -1,4 +1,4 @@
-# Get queries
+# [Get queries][link]
 
 You are given an array A that contains N numbers and M queries. The queries are of the following two types:
 
@@ -14,3 +14,5 @@ You are given an array A that contains N numbers and M queries. The queries are 
 ## Output format
 
 Print a response for each get queries. Refer to the explanation for a better understanding of the problem statement.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/very-cool-queries-c7bb6878/
