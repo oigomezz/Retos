@@ -1,4 +1,4 @@
-# Alice's construction
+# [Alice's construction][link]
 
 Alice has a warehouse with n boxes and the ith box has number pi. All box numbers are different and range from 1 to n. Alice wants to rearrange the boxes in the following way:
 
@@ -19,3 +19,5 @@ Since these numbers can be very large, you need to subtract the remainder of the
 ## Output format
 
 Print m lines where the ith line contains the remainder of dividing the number of possible sequences for the ith triple by 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/the-composition-of-alice-c202fa9d/
