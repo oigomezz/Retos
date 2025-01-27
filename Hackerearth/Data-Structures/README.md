@@ -230,3 +230,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                             |
 | **#11** | [`LCMAX`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md)                                       |
 | **#12** | [`Range MOD Query`](./Advanced-Data-Structures/Segment-Trees/Range-MOD-Query/README.md)                   |
+| **#13** | [`Xor Matrix`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md) |

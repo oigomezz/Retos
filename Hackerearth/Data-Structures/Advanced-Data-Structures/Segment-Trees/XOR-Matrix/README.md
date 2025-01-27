@@ -1,4 +1,4 @@
-# XOR Matrix
+# [XOR Matrix][link]
 
 A square matrix of size x \* x will be beautiful if XOR of every two adjacent cells equal to 1. We will consider cells of a square matrix as adjacent if they have a common side, that is for cell (r,c) cells (r, c-1), (r,c+1), (r-1,c) and (r+1,c) are adjacent to that (if they're in the matrix).
 
@@ -17,3 +17,5 @@ Top left cell of N \* N size matrix is (1,1) and bottom right cell is (N,N). A s
 ## Output format
 
 For each query, output in a single line the length of largest possible beautiful square matrix inside the submatrix given in query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xor-matrix-3-233eaca4/
