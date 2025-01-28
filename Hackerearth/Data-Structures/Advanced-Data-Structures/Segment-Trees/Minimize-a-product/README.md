@@ -1,4 +1,4 @@
-# Minimize a product
+# [Minimize a product][link]
 
 You are given an array A of N integers.
 
@@ -24,3 +24,5 @@ Your task is to determine the sum of answers for queries of Type 2 over all Q qu
 ## Output format
 
 For each test case, print an integer denoting the sum of the answer for all the queries of Type 2 in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/minimize-product-265ce7a0/
