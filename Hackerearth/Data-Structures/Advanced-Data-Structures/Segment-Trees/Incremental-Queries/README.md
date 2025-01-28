@@ -1,4 +1,4 @@
-# Incremental queries
+# [Incremental queries][link]
 
 You are given an array A consisting of N elements A1, A2,..., An. You must process N queries and there are two types of queries:
 
@@ -20,3 +20,5 @@ You can perform the following operation in order to make elements equal:
 ## Output format
 
 Print a single integer for every query of the second type.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/incremental-queries-a7a71194/

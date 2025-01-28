@@ -245,3 +245,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#25** | [`Tom and Jerry love matrices`](./Advanced-Data-Structures/Segment-Trees/Tom-and-Jerry-love-matrices/README.md) |
 | **#26** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                               |
 | **#27** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries-2/README.md)                             |
+| **#28** | [`Incremental queries`](./Advanced-Data-Structures/Segment-Trees/Incremental-Queries/README.md)                 |
