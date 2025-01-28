@@ -1,4 +1,4 @@
-# Advance search problem
+# [Advance search problem][link]
 
 You are given a string S of length N consisting of only lower case English alphabets. You will need to answer Q queries of the following types.
 
@@ -16,3 +16,5 @@ You are given a string S of length N consisting of only lower case English alpha
 For each query of typy 1:
 
 - You are required to print the number of occurrences of string W in substring [L,R] of string S in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/advance-search-problem-547cbbd8/

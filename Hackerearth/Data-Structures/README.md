@@ -239,3 +239,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Alice's construction`](./Advanced-Data-Structures/Segment-Trees/Alice's-construction/README.md)           |
 | **#20** | [`Boring Not boring problem`](./Advanced-Data-Structures/Segment-Trees/Boring-Not-Boring-Problem/README.md) |
 | **#21** | [`Minimize a product`](./Advanced-Data-Structures/Segment-Trees/Minimize-a-product/README.md)               |
+| **#22** | [`Advance search problem`](./Advanced-Data-Structures/Segment-Trees/Advance-Search-Problem/README.md)       |
