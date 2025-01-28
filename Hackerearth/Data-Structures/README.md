@@ -243,3 +243,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#23** | [`A range function`](./Advanced-Data-Structures/Segment-Trees/A-Range-Function/README.md)                       |
 | **#24** | [`Range of a query`](./Advanced-Data-Structures/Segment-Trees/Range-of-a-query/README.md)                       |
 | **#25** | [`Tom and Jerry love matrices`](./Advanced-Data-Structures/Segment-Trees/Tom-and-Jerry-love-matrices/README.md) |
+| **#26** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                               |

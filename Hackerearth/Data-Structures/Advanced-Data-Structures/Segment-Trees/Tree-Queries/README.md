@@ -1,4 +1,4 @@
-# Tree queries
+# [Tree queries][link]
 
 You are given a tree T with N nodes rooted at node 1. Each node has a value A[i] associated with it.
 
@@ -21,3 +21,5 @@ You are required to perform Q queries where each query is of type:
 ## Output format
 
 For each test case, print the answer of queries of type 2 in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/tree-queries-4-044903fe/
