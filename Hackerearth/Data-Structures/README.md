@@ -246,3 +246,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#26** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                               |
 | **#27** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries-2/README.md)                             |
 | **#28** | [`Incremental queries`](./Advanced-Data-Structures/Segment-Trees/Incremental-Queries/README.md)                 |
+| **#29** | [`Lonely M's array`](./Advanced-Data-Structures/Segment-Trees/Lonely-M's-array/README.md)                       |

@@ -1,4 +1,4 @@
-# Lonely M's array
+# [Lonely M's array][link]
 
 The lonely M is again playing with his array a1,a2,...,an (as playing with his array is the only choice), he wants to choose a subsequence of array like b1,b2,...,bm that b1 >= b2 <= b3 >= b4 ... <= ( >= if m == 0 (mod 2)) bm.
 
@@ -14,3 +14,5 @@ Subsequence of an array can be obtained by erasing some (possibly zero) elements
 ## Output format
 
 The only line of output contains an integer, the maximum length of subsequence that M can choose.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/the-alones-array-459a5370/
