@@ -1,4 +1,4 @@
-# Do you order queries?
+# [Do you order queries?][link]
 
 You are given n (1 <= n <= 300000) queries. Each query is one of 3 types:
 
@@ -16,3 +16,5 @@ You are given n (1 <= n <= 300000) queries. Each query is one of 3 types:
 ## Output format
 
 For each query of 3 type print on a separate line the maximal value of a·A + b. It is guaranteed that the set of pair will not be _empty_.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/do-you-order-queries-27a70fdd/
