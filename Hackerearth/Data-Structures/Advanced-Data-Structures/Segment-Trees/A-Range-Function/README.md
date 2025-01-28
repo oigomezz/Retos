@@ -1,4 +1,4 @@
-# A range function
+# [A range function][link]
 
 You are given an array A of N integer elements.
 
@@ -21,3 +21,5 @@ You are also given Q queries where each query is one of the following types:
 ## Output format
 
 For each test case, print the value of the function for queries of type 2 in the new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-function-4-18b4a425/
