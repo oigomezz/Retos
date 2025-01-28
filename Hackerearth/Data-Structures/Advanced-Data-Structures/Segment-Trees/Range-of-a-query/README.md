@@ -1,4 +1,4 @@
-# Range of a query
+# [Range of a query][link]
 
 You are given an array A of N integers. You are required to answer Q queries of the following types:
 
@@ -20,3 +20,5 @@ Function F(i,j) is defined as follows:
 ## Output format
 
 For every query of type 1 in space-separated format, print the maximum possible value of function F.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-queries-4-5ae15153/

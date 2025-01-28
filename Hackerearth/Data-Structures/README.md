@@ -241,3 +241,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Minimize a product`](./Advanced-Data-Structures/Segment-Trees/Minimize-a-product/README.md)               |
 | **#22** | [`Advance search problem`](./Advanced-Data-Structures/Segment-Trees/Advance-Search-Problem/README.md)       |
 | **#23** | [`A range function`](./Advanced-Data-Structures/Segment-Trees/A-Range-Function/README.md)                   |
+| **#24** | [`Range of a query`](./Advanced-Data-Structures/Segment-Trees/Range-of-a-query/README.md)                   |
