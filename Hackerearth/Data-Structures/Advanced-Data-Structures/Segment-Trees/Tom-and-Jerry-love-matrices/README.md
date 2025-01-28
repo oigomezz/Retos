@@ -1,4 +1,4 @@
-# Tom and Jerry love matrices
+# [Tom and Jerry love matrices][link]
 
 Tom and Jerry are playing with matrices. Jerry gifts Tom with a matrix of size M x N. The matrix element have a unique property that each cell of the matrix has value Aij = X + i + j. Since Tom loves challenges, Jerry will give Tom Q queries. Each of these queries can be of any of the following three types:
 
@@ -21,3 +21,5 @@ No two deleted sub rows or subcolumns will intersect, that is the segments queri
 ## Output format
 
 For queries of type 3, print a single integer on a new line corresponding to the answer of that query as mentioned in the question.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/tom-and-jerry-love-matrices-16fd6e8e/
