@@ -249,3 +249,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#29** | [`Lonely M's array`](./Advanced-Data-Structures/Segment-Trees/Lonely-M's-array/README.md)                       |
 | **#30** | [`Do you order queries?`](./Advanced-Data-Structures/Segment-Trees/Do-you-order-queries/README.md)              |
 | **#31** | [`Greatest common divisor`](./Advanced-Data-Structures/Segment-Trees/Greatest-Common-Divisor/README.md)         |
+| **#32** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)               |

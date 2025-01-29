@@ -1,4 +1,4 @@
-# The maximum distance
+# [The maximum distance][link]
 
 You are given an array a1,a2,...,an consisting of N elements. You are given Q queries. Each query is of the following types:
 
@@ -16,3 +16,5 @@ You are given an array a1,a2,...,an consisting of N elements. You are given Q qu
 ## Output format
 
 For every query of Type 3, print an integer denoting the maximum distance j - i + 1 where 1 <= i,j <= n.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/lazy-segment-0186d695/
