@@ -1,4 +1,4 @@
-# Bit operations
+# [Bit operations][link]
 
 You are given an array of size N. Initially, all the elements are zero. You are provided with Q queries and each query is one of the following types:
 
@@ -16,3 +16,5 @@ You are given an array of size N. Initially, all the elements are zero. You are 
 ## Output format
 
 For each query of type 4 or 5, print the answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/many-bit-operation-9ff4912a/
