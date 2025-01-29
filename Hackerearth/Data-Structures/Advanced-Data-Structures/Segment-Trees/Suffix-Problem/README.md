@@ -1,4 +1,4 @@
-# Suffix problem
+# [Suffix problem][link]
 
 You are given an array A containing N integers where every integer is represented as a 23-bit binary string. You are also given the following function:
 
@@ -18,3 +18,5 @@ Write a program to resolve Q queries of the following types:
 ## Output format
 
 For each query of the second type, print the required sum.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/utkarsh-and-special-function-5a877e7c/

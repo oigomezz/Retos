@@ -251,3 +251,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#31** | [`Greatest common divisor`](./Advanced-Data-Structures/Segment-Trees/Greatest-Common-Divisor/README.md)         |
 | **#32** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)               |
 | **#33** | [`Weird Graph Query`](./Advanced-Data-Structures/Segment-Trees/Weird-Graph-Query/README.md)                     |
+| **#34** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                           |
