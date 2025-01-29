@@ -252,3 +252,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)               |
 | **#33** | [`Weird Graph Query`](./Advanced-Data-Structures/Segment-Trees/Weird-Graph-Query/README.md)                     |
 | **#34** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                           |
+| **#35** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                   |

@@ -1,4 +1,4 @@
-# Tree query
+# [Tree query][link]
 
 A tree is a simple graph in which every two vertices are connected by exactly one path. You are given a rooted tree with n vertices and a lamp is placed on each vertex of the tree.
 
@@ -18,3 +18,5 @@ You are given q queries of the following two types:
 ## Output format
 
 For every query of type 2, print the answer in a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/tree-query-3-5d98588f/
