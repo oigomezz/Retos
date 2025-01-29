@@ -1,4 +1,4 @@
-# Equal subarrays
+# [Equal subarrays][link]
 
 You are given an array of N non-negative integers [A1, A2,..., An], and a non-negative integer K. A subarray is an array composed of a contiguous block of original array elements. You can perform the following operation on a subarray:
 
@@ -15,3 +15,5 @@ Determine the maximum length of a subarray in which all the elements can be made
 ## Output format
 
 Print the maximum length of a subarray in which all the elements can be made equal by performing the operation.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/equal-subarrays-cf01a26a/

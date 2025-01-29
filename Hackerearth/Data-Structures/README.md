@@ -254,3 +254,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#34** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                           |
 | **#35** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                   |
 | **#36** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                           |
+| **#37** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                         |
