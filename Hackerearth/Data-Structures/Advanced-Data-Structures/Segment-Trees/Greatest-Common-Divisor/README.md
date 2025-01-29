@@ -1,4 +1,4 @@
-# Greatest common divisor
+# [Greatest common divisor][link]
 
 You are given array A. There are 4 types of operations associated with it:
 
@@ -19,3 +19,5 @@ A greatest common divisor (gcd(a, b)) of two positive integers a and b is equal 
 ## Output format
 
 For each third and fourth query type, print the answer for this query in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/cool-gcd-789acd8e/
