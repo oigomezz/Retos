@@ -255,3 +255,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#35** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                   |
 | **#36** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                           |
 | **#37** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                         |
+| **#38** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                 |

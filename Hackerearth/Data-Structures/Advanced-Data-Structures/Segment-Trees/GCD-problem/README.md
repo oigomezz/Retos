@@ -1,4 +1,4 @@
-# GCD problem
+# [GCD problem][link]
 
 You are given an array of N integers. A function is defined as follows:
 
@@ -17,3 +17,5 @@ You are also given Q queries of the form L R. For every query, you must answer t
 ## Output format
 
 For each query print an integer in a new line denoting the answer to that query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/yet-another-gcd-sum-problem-88b3e34a/
