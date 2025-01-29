@@ -1,4 +1,4 @@
-# Reversing elements
+# [Reversing elements][link]
 
 You are given an array A of size N and Q queries. For each query, you are given two indices of the array L and R. The subarray generated from L to R is reversed. Your task is to determine the maximum sum of the subarrays.
 
@@ -13,3 +13,5 @@ You are given an array A of size N and Q queries. For each query, you are given 
 ## Output format
 
 For each query, print the required answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/reversing-segments-3cd67101/

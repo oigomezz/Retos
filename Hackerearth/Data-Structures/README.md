@@ -256,3 +256,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#36** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                           |
 | **#37** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                         |
 | **#38** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                 |
+| **#39** | [`Reversing elements`](./Advanced-Data-Structures/Segment-Trees/Reversing-elements/README.md)                   |
