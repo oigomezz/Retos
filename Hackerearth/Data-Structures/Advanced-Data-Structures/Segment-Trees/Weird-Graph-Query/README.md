@@ -1,4 +1,4 @@
-# Weird Graph Query
+# [Weird Graph Query][link]
 
 We are given an connected undirected weighted graph of N nodes and M edges. We are then given Q queries where in each query we are given integers U, L, R, K. For every query we have to report the smallest integer C such that there are at least K nodes x such that L <= x <= R and shortest distance from x to U is not more than C.
 
@@ -11,4 +11,6 @@ We are given an connected undirected weighted graph of N nodes and M edges. We a
 
 ## Output format
 
- Qlines should be printed and the i-th line should contain the output for the i-th query.
+Q lines should be printed and the i-th line should contain the output for the i-th query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/weird-graph-query-b810c8d2/
