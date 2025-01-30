@@ -264,3 +264,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#44** | [`Repair this tree`](./Advanced-Data-Structures/Segment-Trees/Repair-this-tree/README.md)                                   |
 | **#45** | [`Minimum Flip`](./Advanced-Data-Structures/Segment-Trees/Minimum-Flip/README.md)                                           |
 | **#46** | [`Number of Balloons`](./Advanced-Data-Structures/Segment-Trees/Number-of-Balloons/README.md)                               |
+| **#47** | [`Flipping Brackets`](./Advanced-Data-Structures/Segment-Trees/Flipping-Brackets/README.md)                                 |

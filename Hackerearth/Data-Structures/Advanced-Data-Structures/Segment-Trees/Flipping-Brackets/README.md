@@ -1,4 +1,4 @@
-# Flipping Brackets
+# [Flipping Brackets][link]
 
 A regular bracket sequence is a sequence of '(' and ')' characters defined as follows:
 
@@ -22,3 +22,5 @@ For a string S that consists of only '(' and ')' characters, consider a sequence
 ## Output format
 
 For the query of the type Q, print the length of the longest regular bracket sequence starting at index i.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/flipping-brackets-8ee887fb/
