@@ -1,4 +1,4 @@
-# Smart City
+# [Smart City][link]
 
 You live in a city that contains N houses. Each house is reachable from every other house through a unique path, which implies that there are N-1 roads in the city. Each of the N-1 road is distinct and has a length denoted by an array L. You want to reach directly from house i to house j (1 <= i,j <= N and i != j) by traversing not more than X units of road length. To reach directly from a house i to house j, you can select exactly one road of length less than or equal to X and destroy that road completely and construct a road between the two houses i and j but the condition is that the every house should be reachable from every other house.
 
@@ -19,3 +19,5 @@ A B X where (A,B) denotes the pair of the houses that you want to connect. For e
 ## Output format
 
 For each query, print the answer on a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/smart-city-ccfe8b99/
