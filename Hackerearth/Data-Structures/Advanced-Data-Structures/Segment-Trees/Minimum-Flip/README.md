@@ -1,4 +1,4 @@
-# Minimum Flip
+# [Minimum Flip][link]
 
 You are given an array of N numbers.
 
@@ -17,3 +17,5 @@ times.
 ## Output format
 
 Output the minimum sum of elements that can be obtained by applying the operation at most K times.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/minimum-flip-df9815a3/
