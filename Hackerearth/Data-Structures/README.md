@@ -262,4 +262,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#42** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Length-of-Arithmetic-Progressions/README.md) |
 | **#43** | [`Dynamic DP`](./Advanced-Data-Structures/Segment-Trees/Dynamic-DP/README.md)                                               |
 | **#44** | [`Repair this tree`](./Advanced-Data-Structures/Segment-Trees/Repair-this-tree/README.md)                                   |
-| **#45** | [`Minimum Flip`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md) |
+| **#45** | [`Minimum Flip`](./Advanced-Data-Structures/Segment-Trees/Minimum-Flip/README.md)                                           |
+| **#46** | [`Number of Balloons`](./Advanced-Data-Structures/Segment-Trees/Number-of-Balloons/README.md)                               |

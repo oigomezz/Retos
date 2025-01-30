@@ -1,4 +1,4 @@
-# Number of Balloons
+# [Number of Balloons][link]
 
 You have arranged balloons in a linear order. Every balloon is colored and the i-th balloon's color is represented by Ci. Here, the color of balloons is depicted with numbers.
 
@@ -15,3 +15,5 @@ You are provided with some specific ranges and your task is to determine the num
 ## Output format
 
 Print the number of colors that are repeated exactly k times. If the answer to the previous query is ans (answer for the first query is 0), then the range of the answer should be min((l+ans)%n,(r+ans)%n) and max((l+ans)%n,(r+ans)%n).
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/adadnahsioo-2804289e/
