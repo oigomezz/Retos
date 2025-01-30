@@ -266,3 +266,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#46** | [`Number of Balloons`](./Advanced-Data-Structures/Segment-Trees/Number-of-Balloons/README.md)                               |
 | **#47** | [`Flipping Brackets`](./Advanced-Data-Structures/Segment-Trees/Flipping-Brackets/README.md)                                 |
 | **#48** | [`Smart City`](./Advanced-Data-Structures/Segment-Trees/Smart-City/README.md)                                               |
+| **#49** | [`Clothes Arrangement`](./Advanced-Data-Structures/Segment-Trees/Clothes-Arrangement/README.md)                             |

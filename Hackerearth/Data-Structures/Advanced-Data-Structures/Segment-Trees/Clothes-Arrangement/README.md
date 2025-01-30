@@ -1,4 +1,4 @@
-# Clothes Arrangement
+# [Clothes Arrangement][link]
 
 There is an arrangement of clothes in the form of a stack. There are N clothes with you and each cloth has a color Col[i] associated with it.1st cloth is at the bottom and Nth cloth at the top.
 
@@ -18,3 +18,5 @@ Now you have to answer Q queries, each query can be of 2 types:
 ## Output format
 
 Print the answers for the type 2 queries in new line
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/clothes-arrangement-2ef4d85b/
