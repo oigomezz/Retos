@@ -1,4 +1,4 @@
-# Length of arithmetic progressions
+# [Length of arithmetic progressions][link]
 
 You are given an integer array A of size N. You are also given Q queries. In each query, you are given three integers L, R, and D respectively.
 
@@ -15,3 +15,5 @@ You are required to determine the length of the largest contiguous segment in th
 ## Output format
 
 Print Q lines representing the answer such as the i-th line denotes the answer for the i-th query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/ap-1-f43562f4/

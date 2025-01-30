@@ -258,4 +258,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#38** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                 |
 | **#39** | [`Reversing elements`](./Advanced-Data-Structures/Segment-Trees/Reversing-elements/README.md)                   |
 | **#40** | [`Transaction`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                 |
-| **#41** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md) |
+| **#41** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md)               |
+| **#42** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)           |
