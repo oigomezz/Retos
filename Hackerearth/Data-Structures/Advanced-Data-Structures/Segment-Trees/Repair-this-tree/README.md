@@ -1,4 +1,4 @@
-# Repair this tree
+# [Repair this tree][link]
 
 You are given a rooted tree T of n nodes and a graph G of n nodes. Initially, the graph G has no edges. There are two types of queries:
 
@@ -20,3 +20,5 @@ You are given a rooted tree T of n nodes and a graph G of n nodes. Initially, th
 ## Output format
 
 For each query of the second type, print the answer in a seperate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/repair-tree-339749d4/

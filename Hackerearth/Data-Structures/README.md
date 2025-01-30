@@ -261,3 +261,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#41** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md)                           |
 | **#42** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Length-of-Arithmetic-Progressions/README.md) |
 | **#43** | [`Dynamic DP`](./Advanced-Data-Structures/Segment-Trees/Dynamic-DP/README.md)                                               |
+| **#44** | [`Repair this tree`](./Advanced-Data-Structures/Segment-Trees/Repair-this-tree/README.md)                                   |
