@@ -1,4 +1,4 @@
-# Array and good pairs
+# [Array and good pairs][link]
 
 You are given an array A of length N. A pair (a,b) is considered good if the following criterion is fulfilled:
 
@@ -22,3 +22,5 @@ You are required to process Q queries where each having one of the following for
 ## Output format
 
 For each query of type 1, print the required answer in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/array-and-good-pairs-7f649027/
