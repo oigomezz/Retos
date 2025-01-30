@@ -216,47 +216,48 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Segment Trees](./Advanced-Data-Structures/Segment-Trees/README.md)
 
-| N°      | Enunciado                                                                                                       |
-| ------- | --------------------------------------------------------------------------------------------------------------- |
-| **#01** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md)                         |
-| **#02** | [`Previous Coprime Element`](./Advanced-Data-Structures/Segment-Trees/Previous-Coprime-Element/README.md)       |
-| **#03** | [`Unequal Goodness`](./Advanced-Data-Structures/Segment-Trees/Unequal-Goodness/README.md)                       |
-| **#04** | [`MystiXORama`](./Advanced-Data-Structures/Segment-Trees/MystiXORama/README.md)                                 |
-| **#05** | [`DivisorDilemma`](./Advanced-Data-Structures/Segment-Trees/Divisor-Dilemma/README.md)                          |
-| **#06** | [`No-Inversions`](./Advanced-Data-Structures/Segment-Trees/No-Inversions/README.md)                             |
-| **#07** | [`Subarray Addition`](./Advanced-Data-Structures/Segment-Trees/Subarray-Addition/README.md)                     |
-| **#08** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                             |
-| **#09** | [`Make Permutation`](./Advanced-Data-Structures/Segment-Trees/Make-Permutation/README.md)                       |
-| **#10** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                                   |
-| **#11** | [`LCMAX`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md)                                             |
-| **#12** | [`Range MOD Query`](./Advanced-Data-Structures/Segment-Trees/Range-MOD-Query/README.md)                         |
-| **#13** | [`Xor Matrix`](./Advanced-Data-Structures/Segment-Trees/XOR-Matrix/README.md)                                   |
-| **#14** | [`Point Coverage`](./Advanced-Data-Structures/Segment-Trees/Point-Coverage/README.md)                           |
-| **#15** | [`Avoid Maxima-Minima`](./Advanced-Data-Structures/Segment-Trees/Avoid-Maxima-Minima/README.md)                 |
-| **#16** | [`The longest subarray`](./Advanced-Data-Structures/Segment-Trees/The-longest-subarray/README.md)               |
-| **#17** | [`Get queries`](./Advanced-Data-Structures/Segment-Trees/Get-queries/README.md)                                 |
-| **#18** | [`Set of rectangles`](./Advanced-Data-Structures/Segment-Trees/Set-of-Rectangles/README.md)                     |
-| **#19** | [`Alice's construction`](./Advanced-Data-Structures/Segment-Trees/Alice's-construction/README.md)               |
-| **#20** | [`Boring Not boring problem`](./Advanced-Data-Structures/Segment-Trees/Boring-Not-Boring-Problem/README.md)     |
-| **#21** | [`Minimize a product`](./Advanced-Data-Structures/Segment-Trees/Minimize-a-product/README.md)                   |
-| **#22** | [`Advance search problem`](./Advanced-Data-Structures/Segment-Trees/Advance-Search-Problem/README.md)           |
-| **#23** | [`A range function`](./Advanced-Data-Structures/Segment-Trees/A-Range-Function/README.md)                       |
-| **#24** | [`Range of a query`](./Advanced-Data-Structures/Segment-Trees/Range-of-a-query/README.md)                       |
-| **#25** | [`Tom and Jerry love matrices`](./Advanced-Data-Structures/Segment-Trees/Tom-and-Jerry-love-matrices/README.md) |
-| **#26** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                               |
-| **#27** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries-2/README.md)                             |
-| **#28** | [`Incremental queries`](./Advanced-Data-Structures/Segment-Trees/Incremental-Queries/README.md)                 |
-| **#29** | [`Lonely M's array`](./Advanced-Data-Structures/Segment-Trees/Lonely-M's-array/README.md)                       |
-| **#30** | [`Do you order queries?`](./Advanced-Data-Structures/Segment-Trees/Do-you-order-queries/README.md)              |
-| **#31** | [`Greatest common divisor`](./Advanced-Data-Structures/Segment-Trees/Greatest-Common-Divisor/README.md)         |
-| **#32** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)               |
-| **#33** | [`Weird Graph Query`](./Advanced-Data-Structures/Segment-Trees/Weird-Graph-Query/README.md)                     |
-| **#34** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                           |
-| **#35** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                   |
-| **#36** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                           |
-| **#37** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                         |
-| **#38** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                 |
-| **#39** | [`Reversing elements`](./Advanced-Data-Structures/Segment-Trees/Reversing-elements/README.md)                   |
-| **#40** | [`Transaction`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                 |
-| **#41** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md)               |
-| **#42** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)           |
+| N°      | Enunciado                                                                                                                   |
+| ------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md)                                     |
+| **#02** | [`Previous Coprime Element`](./Advanced-Data-Structures/Segment-Trees/Previous-Coprime-Element/README.md)                   |
+| **#03** | [`Unequal Goodness`](./Advanced-Data-Structures/Segment-Trees/Unequal-Goodness/README.md)                                   |
+| **#04** | [`MystiXORama`](./Advanced-Data-Structures/Segment-Trees/MystiXORama/README.md)                                             |
+| **#05** | [`DivisorDilemma`](./Advanced-Data-Structures/Segment-Trees/Divisor-Dilemma/README.md)                                      |
+| **#06** | [`No-Inversions`](./Advanced-Data-Structures/Segment-Trees/No-Inversions/README.md)                                         |
+| **#07** | [`Subarray Addition`](./Advanced-Data-Structures/Segment-Trees/Subarray-Addition/README.md)                                 |
+| **#08** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                                         |
+| **#09** | [`Make Permutation`](./Advanced-Data-Structures/Segment-Trees/Make-Permutation/README.md)                                   |
+| **#10** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                                               |
+| **#11** | [`LCMAX`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md)                                                         |
+| **#12** | [`Range MOD Query`](./Advanced-Data-Structures/Segment-Trees/Range-MOD-Query/README.md)                                     |
+| **#13** | [`Xor Matrix`](./Advanced-Data-Structures/Segment-Trees/XOR-Matrix/README.md)                                               |
+| **#14** | [`Point Coverage`](./Advanced-Data-Structures/Segment-Trees/Point-Coverage/README.md)                                       |
+| **#15** | [`Avoid Maxima-Minima`](./Advanced-Data-Structures/Segment-Trees/Avoid-Maxima-Minima/README.md)                             |
+| **#16** | [`The longest subarray`](./Advanced-Data-Structures/Segment-Trees/The-longest-subarray/README.md)                           |
+| **#17** | [`Get queries`](./Advanced-Data-Structures/Segment-Trees/Get-queries/README.md)                                             |
+| **#18** | [`Set of rectangles`](./Advanced-Data-Structures/Segment-Trees/Set-of-Rectangles/README.md)                                 |
+| **#19** | [`Alice's construction`](./Advanced-Data-Structures/Segment-Trees/Alice's-construction/README.md)                           |
+| **#20** | [`Boring Not boring problem`](./Advanced-Data-Structures/Segment-Trees/Boring-Not-Boring-Problem/README.md)                 |
+| **#21** | [`Minimize a product`](./Advanced-Data-Structures/Segment-Trees/Minimize-a-product/README.md)                               |
+| **#22** | [`Advance search problem`](./Advanced-Data-Structures/Segment-Trees/Advance-Search-Problem/README.md)                       |
+| **#23** | [`A range function`](./Advanced-Data-Structures/Segment-Trees/A-Range-Function/README.md)                                   |
+| **#24** | [`Range of a query`](./Advanced-Data-Structures/Segment-Trees/Range-of-a-query/README.md)                                   |
+| **#25** | [`Tom and Jerry love matrices`](./Advanced-Data-Structures/Segment-Trees/Tom-and-Jerry-love-matrices/README.md)             |
+| **#26** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                                           |
+| **#27** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries-2/README.md)                                         |
+| **#28** | [`Incremental queries`](./Advanced-Data-Structures/Segment-Trees/Incremental-Queries/README.md)                             |
+| **#29** | [`Lonely M's array`](./Advanced-Data-Structures/Segment-Trees/Lonely-M's-array/README.md)                                   |
+| **#30** | [`Do you order queries?`](./Advanced-Data-Structures/Segment-Trees/Do-you-order-queries/README.md)                          |
+| **#31** | [`Greatest common divisor`](./Advanced-Data-Structures/Segment-Trees/Greatest-Common-Divisor/README.md)                     |
+| **#32** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)                           |
+| **#33** | [`Weird Graph Query`](./Advanced-Data-Structures/Segment-Trees/Weird-Graph-Query/README.md)                                 |
+| **#34** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                                       |
+| **#35** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                               |
+| **#36** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                                       |
+| **#37** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                                     |
+| **#38** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                             |
+| **#39** | [`Reversing elements`](./Advanced-Data-Structures/Segment-Trees/Reversing-elements/README.md)                               |
+| **#40** | [`Transaction`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                             |
+| **#41** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md)                           |
+| **#42** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Length-of-Arithmetic-Progressions/README.md) |
+| **#43** | [`Dynamic DP`](./Advanced-Data-Structures/Segment-Trees/Dynamic-DP/README.md)                                               |

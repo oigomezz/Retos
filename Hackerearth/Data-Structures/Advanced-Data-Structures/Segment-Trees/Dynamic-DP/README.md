@@ -1,4 +1,4 @@
-# Dynamic DP
+# [Dynamic DP][link]
 
 You are given the following:
 
@@ -24,3 +24,5 @@ You are also provided with Q queries that state the following:
 
 - You must repeat this task every time you are given these two integers.
 - The queries are independent of each other. Therefore, the current query cannot modify the next query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/dynamic-dp-5a0c6d5f/
