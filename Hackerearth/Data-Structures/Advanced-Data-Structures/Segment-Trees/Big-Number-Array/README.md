@@ -1,4 +1,4 @@
-# Big Number Array
+# [Big Number Array][link]
 
 Given an array of n integers. Initially, all elements are zero. You are asked to complete q queries of two kinds:
 
@@ -13,3 +13,5 @@ Given an array of n integers. Initially, all elements are zero. You are asked to
 ## Output format
 
 For each query of kind 2, output a single line contains "YES" if two numbers are equal, otherwise "NO".
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/big-number-array-043361b7/

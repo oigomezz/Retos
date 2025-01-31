@@ -275,4 +275,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#55** | [`Easy Queries`](./Advanced-Data-Structures/Segment-Trees/Easy-Queries/README.md)                                           |
 | **#56** | [`( Problem F ) Pikachu and Team Rocket`](./Advanced-Data-Structures/Segment-Trees/Pikachu-and-Team-Rocket/README.md)       |
 | **#57** | [`Xor sum`](./Advanced-Data-Structures/Segment-Trees/XOR-Sum/README.md)                                                     |
-| **#58** | [`Bob And Array Queries`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md) |
+| **#58** | [`Bob And Array Queries`](./Advanced-Data-Structures/Segment-Trees/Bob-And-Array-Queries/README.md)                         |
+| **#59** | [`Big Number Array`](./Advanced-Data-Structures/Segment-Trees/Big-Number-Array/README.md)                                   |
