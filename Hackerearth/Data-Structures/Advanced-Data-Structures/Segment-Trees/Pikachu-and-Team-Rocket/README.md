@@ -1,4 +1,4 @@
-# Pikachu and Team Rocket
+# [Pikachu and Team Rocket][link]
 
 Team Rocket is back with N of their Pokemon to trouble Pikachu. The Team Rocket's Pokemon are numbered from 1 to N and the i-th pokemon has health equal to ai.
 
@@ -26,3 +26,5 @@ For each battle, help Pikachu by finding the minimum attack value he must have t
 ## Output format
 
 Output one line each for a battling event, containing the minimum attack value required to defeat all Pokemon in the range.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/pikachu-vs-team-rocket-56b518ee/

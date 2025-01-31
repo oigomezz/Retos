@@ -273,3 +273,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#53** | [`Distinct Integers in Range`](./Advanced-Data-Structures/Segment-Trees/Distinct-Integers-in-Range/README.md)               |
 | **#54** | [`Travelling between cities`](./Advanced-Data-Structures/Segment-Trees/Travelling-between-cities/README.md)                 |
 | **#55** | [`Easy Queries`](./Advanced-Data-Structures/Segment-Trees/Easy-Queries/README.md)                                           |
+| **#56** | [`( Problem F ) Pikachu and Team Rocket`](./Advanced-Data-Structures/Segment-Trees/Pikachu-and-Team-Rocket/README.md)       |
