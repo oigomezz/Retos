@@ -277,3 +277,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#57** | [`Xor sum`](./Advanced-Data-Structures/Segment-Trees/XOR-Sum/README.md)                                                     |
 | **#58** | [`Bob And Array Queries`](./Advanced-Data-Structures/Segment-Trees/Bob-And-Array-Queries/README.md)                         |
 | **#59** | [`Big Number Array`](./Advanced-Data-Structures/Segment-Trees/Big-Number-Array/README.md)                                   |
+| **#60** | [`Simple Sum`](./Advanced-Data-Structures/Segment-Trees/Simple-Sum/README.md)                                               |
