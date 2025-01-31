@@ -1,4 +1,4 @@
-# Distinct Integers in Range
+# [Distinct Integers in Range][link]
 
 You are given two arrays A and B each of length N. Now you are given Q queries. In each query, you are given two pairs of ranges i.e. a range [a,b] in the array A and range [c,d] in the array B. For each query, you need to count distinct elements in the array which is formed by combining elements of the both the ranges in the query.
 
@@ -13,3 +13,5 @@ You are given two arrays A and B each of length N. Now you are given Q queries. 
 ## Output format
 
 For each query, you need to print the output in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/distinct-integers-in-range-66eca44b/

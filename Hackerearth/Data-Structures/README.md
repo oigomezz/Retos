@@ -270,3 +270,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#50** | [`Counting the number of intervals`](./Advanced-Data-Structures/Segment-Trees/Counting-the-number-of-intervals/README.md)   |
 | **#51** | [`Class representatives`](./Advanced-Data-Structures/Segment-Trees/Class-Representatives/README.md)                         |
 | **#52** | [`Array revolve`](./Advanced-Data-Structures/Segment-Trees/Array-revolve/README.md)                                         |
+| **#53** | [`Distinct Integers in Range`](./Advanced-Data-Structures/Segment-Trees/Distinct-Integers-in-Range/README.md)               |
