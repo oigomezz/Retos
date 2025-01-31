@@ -1,4 +1,4 @@
-# Travelling between cities
+# [Travelling between cities][link]
 
 You are given positions of N cities situated on X axis. The position of the i-th city is denoted by array value Location[i].You have a bike which can travel atmost K unit distance once the tank is full and each city has a fuel pump. You can assume that once the bike reaches a city its tank is again filled up completely.Now you have to answer Q queries where each query is of the following form.
 
@@ -15,3 +15,5 @@ You are given positions of N cities situated on X axis. The position of the i-th
 ## Output format
 
 Output the answer to each query in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/travelling-between-cities-7a24c7fc/
