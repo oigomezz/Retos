@@ -1,4 +1,4 @@
-# Easy Queries
+# [Easy Queries][link]
 
 You are given an array of size N in which the value of the elements are either 0 or 1. All the elements of array are numbered from position 0 to N-1.You are given some queries which can be of following 2 types.
 
@@ -16,3 +16,5 @@ You are given an array of size N in which the value of the elements are either 0
 ## Output format
 
 For each query print left and right nearest element seprated by space.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/easy-queries-751f9372/
