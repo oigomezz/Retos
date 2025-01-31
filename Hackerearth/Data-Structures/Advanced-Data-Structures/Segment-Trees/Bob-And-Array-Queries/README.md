@@ -1,4 +1,4 @@
-# Bob And Array Queries
+# [Bob And Array Queries][link]
 
 Bob has an array A[] of N integers. Initially, all the elements of the array are zero. Bob asks you to perform Q operations on this array.
 
@@ -18,3 +18,5 @@ There are three types of operations that can be performed:
 ## Output format
 
 For each type-3 query print the answer that is the no. of '1' in the resulting string.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/shivam-and-expensive-birthday-gift-da58b2f0/
