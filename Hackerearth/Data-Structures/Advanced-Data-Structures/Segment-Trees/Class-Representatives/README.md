@@ -1,4 +1,4 @@
-# Class representatives
+# [Class representatives][link]
 
 John teaches a class of n students. Each student is assigned a unique roll number from 1 to n. He also knows the heights of each student. He needs to select a set of class representatives (a class can have any number of representatives).
 
@@ -16,3 +16,5 @@ John wants to select the maximum number of students as class representatives. Ho
 ## Output format
 
 Print the expected number of times John needs to assign the roll number to the new student using the above procedure to increase the number of class representatives. If the expected value is of the form a / b, then print a \* b⁻¹ modulo 10⁹ + 7. If it is not possible to increase the number of class representatives, then print -1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/the-dumb-classroom-97e11ab7/
