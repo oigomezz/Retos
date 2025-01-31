@@ -1,4 +1,4 @@
-# Array revolve
+# [Array revolve][link]
 
 You are given an array A(1-based index) consisting of N integers. You have to process two types of queries on this array.
 
@@ -37,3 +37,5 @@ You are given an array A(1-based index) consisting of N integers. You have to pr
 ## Output format
 
 For each type 2 query, output the answer modulo 10⁹ + 7 in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/bob-and-string-easy/

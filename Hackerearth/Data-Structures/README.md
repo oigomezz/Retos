@@ -269,3 +269,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#49** | [`Clothes Arrangement`](./Advanced-Data-Structures/Segment-Trees/Clothes-Arrangement/README.md)                             |
 | **#50** | [`Counting the number of intervals`](./Advanced-Data-Structures/Segment-Trees/Counting-the-number-of-intervals/README.md)   |
 | **#51** | [`Class representatives`](./Advanced-Data-Structures/Segment-Trees/Class-Representatives/README.md)                         |
+| **#52** | [`Array revolve`](./Advanced-Data-Structures/Segment-Trees/Array-revolve/README.md)                                         |
