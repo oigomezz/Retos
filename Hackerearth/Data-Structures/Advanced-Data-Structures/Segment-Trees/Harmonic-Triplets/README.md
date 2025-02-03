@@ -1,4 +1,4 @@
-# Harmonic Triplets
+# [Harmonic Triplets][link]
 
 You are given an array A. A triplet is said to be a Harmonic triplet if it satisfies the following conditions :
 
@@ -21,3 +21,5 @@ You are given q queries, where in each query you are given j-th index and you ha
 ## Output format
 
 For each test case, for each query print a single line consisting of the maximum possible product for that query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/harmonic-triplets-0469f531/
