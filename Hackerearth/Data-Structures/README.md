@@ -285,3 +285,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#65** | [`Mathison and the furthest point`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Furthest-Point/README.md)     |
 | **#66** | [`Mathison and the exceptional list`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-theExceptional-List/README.md)  |
 | **#67** | [`Good Evening sweetheart!![Medium]`](./Advanced-Data-Structures/Segment-Trees/Good-Evening-sweetheart/README.md)           |
+| **#68** | [`Replace`](./Advanced-Data-Structures/Segment-Trees/Replace/README.md)                                                     |

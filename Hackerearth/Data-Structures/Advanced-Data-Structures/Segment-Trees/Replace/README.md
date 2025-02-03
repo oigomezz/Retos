@@ -1,4 +1,4 @@
-# Replace
+# [Replace][link]
 
 Yet another interesting problem about queries!
 
@@ -20,3 +20,5 @@ This problem will be very popular! So you should solve it before before it becam
 ## Output format
 
 For each query of second type print number of occurrences of xi on the segment [ai,bi].
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/replace-27c5286c/
