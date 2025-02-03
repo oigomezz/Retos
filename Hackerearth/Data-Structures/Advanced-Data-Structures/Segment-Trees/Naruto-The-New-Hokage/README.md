@@ -1,4 +1,4 @@
-# Naruto - The New Hokage
+# [Naruto - The New Hokage][link]
 
 Naruto was declared as the 7th Hokage because of his great contribution in the 4th Shinobi World War. As soon as he aquires office, he changes the process of ranking of Shinobis. Instead of the Genin (Beginner), Chuunin (Intermediate) and Jounin (Expert), the new ranks are numbers ranging from 1 (lowest) to 10 (highest).
 
@@ -21,3 +21,5 @@ Naruto has Q pending tasks to perform which can be of one of the following types
 ## Output format
 
 The output should consist of the answer of all the queries of the 3rd type printed on a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/road-to-dmg-8883b64f/
