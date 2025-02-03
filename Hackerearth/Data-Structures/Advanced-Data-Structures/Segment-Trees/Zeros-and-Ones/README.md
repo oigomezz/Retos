@@ -1,4 +1,4 @@
-# Zeros and Ones
+# [Zeros and Ones][link]
 
 You are given an array A which contains initially only ones. You can perform two operations:
 
@@ -14,3 +14,5 @@ You are given an array A which contains initially only ones. You can perform two
 ## Output format
 
 Print the output for the second type of queries in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/k-th-bit-faae0e0d/

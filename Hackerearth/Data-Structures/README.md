@@ -280,3 +280,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#60** | [`Simple Sum`](./Advanced-Data-Structures/Segment-Trees/Simple-Sum/README.md)                                               |
 | **#61** | [`Naruto - The New Hokage`](./Advanced-Data-Structures/Segment-Trees/Naruto-The-New-Hokage/README.md)                       |
 | **#62** | [`Min difference queries`](./Advanced-Data-Structures/Segment-Trees/Min-difference-queries/README.md)                       |
+| **#63** | [`Zeros and Ones`](./Advanced-Data-Structures/Segment-Trees/Zeros-and-Ones/README.md)                                       |
