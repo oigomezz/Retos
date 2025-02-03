@@ -1,4 +1,4 @@
-# Potential
+# [Potential][link]
 
 Sometimes long stories are very boring. So we decided to make statement as short as possible!
 
@@ -22,3 +22,5 @@ You have two integer arrays of size n: X and P. Your task is to perform q querie
 ## Output format
 
 For each third type query print the answer for it.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/potential-baac3b0b/
