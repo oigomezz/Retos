@@ -1,4 +1,4 @@
-# Mathison and the exceptional list
+# [Mathison and the exceptional list][link]
 
 Mathison has practised different operations that can be performed on lists. Unfortunately, he has found a set of operations that he cannot perform efficiently so he asks for your help.
 
@@ -12,3 +12,5 @@ You start with an empty list, on which you perform N operations. In one operatio
 ## Output format
 
 The output file will contain N lines. The i-th line will contain the number of exceptional subarrays with a length between L[i] and R[i].
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/mathison-and-the-distinct-elements-e95121a5/

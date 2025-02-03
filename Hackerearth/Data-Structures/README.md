@@ -283,3 +283,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#63** | [`Zeros and Ones`](./Advanced-Data-Structures/Segment-Trees/Zeros-and-Ones/README.md)                                       |
 | **#64** | [`Harmonic Triplets`](./Advanced-Data-Structures/Segment-Trees/Harmonic-Triplets/README.md)                                 |
 | **#65** | [`Mathison and the furthest point`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Furthest-Point/README.md)     |
+| **#66** | [`Mathison and the exceptional list`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-theExceptional-List/README.md)  |
