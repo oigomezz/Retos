@@ -1,4 +1,4 @@
-# Binary Modulo
+# [Binary Modulo][link]
 
 You are given a Binary String A of length N indexed from 0 to N-1. You have to perform 2 queries:
 
@@ -15,3 +15,5 @@ You are given a Binary String A of length N indexed from 0 to N-1. You have to p
 ## Output format
 
 For each query of Type 0, print the answer in a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/binary-modulo-841ce0c7/
