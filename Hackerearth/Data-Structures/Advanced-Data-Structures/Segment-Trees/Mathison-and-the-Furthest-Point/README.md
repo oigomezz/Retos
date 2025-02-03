@@ -1,4 +1,4 @@
-# Mathison and the furthest point
+# [Mathison and the furthest point][link]
 
 Mathison has taken a course in Computational Geometry. He managed to solve almost all problems from his latest problem sheet. The hardest one was sent to you and is described below.
 
@@ -20,3 +20,5 @@ You are given N such operations and you have to execute them all!
 ## Output format
 
 The output file will contain a line for each operation of type 1. If there is no point in the given rectangle, you should print "no point!" (without quotes).
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/mathison-and-the-furthest-point-a502ddf6/
