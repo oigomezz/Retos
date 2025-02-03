@@ -1,4 +1,4 @@
-# Min difference queries
+# [Min difference queries][link]
 
 You have a sequence a of length n and you want to answer q queries determined by 2 integers l and r. You take all numbers present in subsequence a[l], a[l+1],..., a[r], let them be b1,b2,...,bn and number of occurrenses of each number in this subsequence be c1,c2,...,cn respectively. The answer for per query is equal to min|c[i]-c[j]| for 1 <= i < j <= t or 1 if t=1.
 
@@ -15,3 +15,5 @@ You have a sequence a of length n and you want to answer q queries determined by
 ## Output format
 
 Output q lines, the i-th line contains the answer for the i-th query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/min-difference-queries-f5b9c199/
