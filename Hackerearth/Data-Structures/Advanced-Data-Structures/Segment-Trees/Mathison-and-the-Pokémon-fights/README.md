@@ -1,4 +1,4 @@
-# Mathison and the Pokémon fights
+# [Mathison and the Pokémon fights][link]
 
 Mathison has decided to become a Pokémon master. In order to do that he has to gain some experience by fighting in a lot of tournaments, some of which can take quite a lot of time.
 
@@ -26,3 +26,5 @@ You'd also like a change at becoming a Pokémon master but in order to do that y
 ## Output format
 
 The output file will contain the answers for the second type of operations. Each answer will be printed on its own line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/mathison-and-the-pokemon-fights-fd8b7c53/
