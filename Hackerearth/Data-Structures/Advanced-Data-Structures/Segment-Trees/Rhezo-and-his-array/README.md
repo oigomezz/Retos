@@ -1,4 +1,4 @@
-# Rhezo and his array
+# [Rhezo and his array][link]
 
 Rhezo got an array A as a gift from his friend Tanya. Along with this array, she also gave him a list of operations to perform on the array. The operations that are present in the list are the following.
 
@@ -18,3 +18,5 @@ Now, you being Rhezo's friend, have to help him in simulating the Q operations a
 ## Output format
 
 For each operation of type 2, report the number of elements in range [L,R] whose product with X gives a number greater than or equal to Y.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/rhezo-and-his-array/
