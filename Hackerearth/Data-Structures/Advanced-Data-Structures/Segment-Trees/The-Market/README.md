@@ -1,4 +1,4 @@
-# The Market
+# [The Market][link]
 
 There are N items in a market (indexed from 1 to N) each having a particular cost. The danger value of each item is given by the following pseudo code:
 
@@ -26,3 +26,5 @@ You need to find the number of pairs of items that have the same danger value.
 ## Output format
 
 For each query, print the number of pairs of items that have the same danger value.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/pablos-market-35a291a1/
