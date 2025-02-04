@@ -294,3 +294,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#74** | [`The Market`](./Advanced-Data-Structures/Segment-Trees/The-Market/README.md)                                               |
 | **#75** | [`Fibonacci with GCD`](./Advanced-Data-Structures/Segment-Trees/Fibonacci-with-GCD/README.md)                               |
 | **#76** | [`XOR queries`](./Advanced-Data-Structures/Segment-Trees/XOR-Queries/README.md)                                             |
+| **#77** | [`Retroactive Integers`](./Advanced-Data-Structures/Segment-Trees/Retroactive-Integers/README.md)                           |

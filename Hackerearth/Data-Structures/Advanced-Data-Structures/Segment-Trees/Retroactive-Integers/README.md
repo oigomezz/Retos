@@ -1,4 +1,4 @@
-# Retroactive Integers
+# [Retroactive Integers][link]
 
 You're maintaining 20 variables: a,b,c,...,r,s,t. At any moment of time value of any variable is integer between 0 and 10⁹ + 6, inclusive. All arithmetic operations with variables are modulo 10⁹ + 7. Initially (at moment 0) all variables are set to 0. At some moments of time, you get queries. Queries have 5 different types:
 
@@ -19,3 +19,5 @@ Also with each query you are given a positive integer --- time when you need to 
 ## Output format
 
 For each query of the first time print the corresponding value.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/retroactive-integers/
