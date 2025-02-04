@@ -290,3 +290,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#70** | [`Binary Modulo <P2SME>`](./Advanced-Data-Structures/Segment-Trees/Binary-Modulo/README.md)                                 |
 | **#71** | [`Common Goods`](./Advanced-Data-Structures/Segment-Trees/Common-Goods/README.md)                                           |
 | **#72** | [`Mathison and the Pokémon fights`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Pokémon-fights/README.md)     |
+| **#73** | [`Mathison and the peculiar sums`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Peculiar-Sums/README.md)       |

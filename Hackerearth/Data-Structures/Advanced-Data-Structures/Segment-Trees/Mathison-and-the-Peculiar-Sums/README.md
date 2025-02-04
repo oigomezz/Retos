@@ -1,4 +1,4 @@
-# Mathison and the peculiar sums
+# [Mathison and the peculiar sums][link]
 
 Mathison has bought a new tree from the local market. There was a sale at the market and the tree came with a free set of weights, one weight for each one of its nodes. Mathison is getting bored of just looking at his tree (even though the tree is quite lovely) and starts doing some computations using the weights and the tree's structure.
 
@@ -15,3 +15,5 @@ Mathison performs this calculation for all nodes and wants you to help him make 
 ## Output format
 
 The output file must contain N lines. The i-th line will contain the peculiar value associated with the i-th node.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/mathisons-sums-f9f8160c/
