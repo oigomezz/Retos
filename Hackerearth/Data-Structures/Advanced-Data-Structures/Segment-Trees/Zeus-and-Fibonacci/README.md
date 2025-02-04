@@ -1,4 +1,4 @@
-# Zeus and Fibonacci
+# [Zeus and Fibonacci][link]
 
 You are given an array A consisting of N integers. You have to process two types of queries on this array.
 
@@ -19,3 +19,5 @@ You are given an array A consisting of N integers. You have to process two types
 ## Output format
 
 For each type 2 query output the answer modulo 10⁹ + 7 on a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/zeus-and-his-wrath-for-fibonacci/

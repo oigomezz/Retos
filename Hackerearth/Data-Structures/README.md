@@ -297,3 +297,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#77** | [`Retroactive Integers`](./Advanced-Data-Structures/Segment-Trees/Retroactive-Integers/README.md)                           |
 | **#78** | [`Benny and String`](./Advanced-Data-Structures/Segment-Trees/Benny-and-String/README.md)                                   |
 | **#79** | [`Rhezo and his array`](./Advanced-Data-Structures/Segment-Trees/Rhezo-and-his-array/README.md)                             |
+| **#80** | [`Zeus and Fibonacci`](./Advanced-Data-Structures/Segment-Trees/Zeus-and-Fibonacci/README.md)                               |
