@@ -1,4 +1,4 @@
-# Benny and String
+# [Benny and String][link]
 
 Benny loves strings! She also loves to play with string and make different queries on them.
 
@@ -24,3 +24,5 @@ You have to answer the following queries about the string s:
 ## Output format
 
 For each query of the first type output an answer as a single integer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/benny-and-string/
