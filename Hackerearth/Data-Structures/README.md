@@ -293,3 +293,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#73** | [`Mathison and the peculiar sums`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Peculiar-Sums/README.md)       |
 | **#74** | [`The Market`](./Advanced-Data-Structures/Segment-Trees/The-Market/README.md)                                               |
 | **#75** | [`Fibonacci with GCD`](./Advanced-Data-Structures/Segment-Trees/Fibonacci-with-GCD/README.md)                               |
+| **#76** | [`XOR queries`](./Advanced-Data-Structures/Segment-Trees/XOR-Queries/README.md)                                             |

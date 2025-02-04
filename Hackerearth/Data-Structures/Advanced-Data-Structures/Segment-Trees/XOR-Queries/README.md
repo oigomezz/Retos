@@ -1,4 +1,4 @@
-# XOR queries
+# [XOR queries][link]
 
 You are given a 1indexed array A, of length n, and q queries to be performed on it. The queries are of two types
 
@@ -27,3 +27,5 @@ Note that array A is NOT changed in a query of second type.
 ## Output format
 
 For each of the query of type 2, print the required value on a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xor-queries-1/
