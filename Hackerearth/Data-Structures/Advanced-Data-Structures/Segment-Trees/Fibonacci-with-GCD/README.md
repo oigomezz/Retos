@@ -1,4 +1,4 @@
-# Fibonacci with GCD
+# [Fibonacci with GCD][link]
 
 Monk is really fond of Recurrence Relations, and he likes to study their characteristics in any possible manner. As you might know, his favorite one among all such recurrences is the famous Fibonacci series. For those of you who haven't,
 
@@ -24,3 +24,5 @@ GCD(F(A[L]), F(A[L+1]), F(A[L+2]), ..., F(A[R])) % 10⁹ + 7.
 ## Output format
 
 Output the result of each query in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/fibonacci-with-gcd-16/
