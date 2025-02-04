@@ -1,4 +1,4 @@
-# Common Goods
+# [Common Goods][link]
 
 There are N packets of goods each having some number of items in it.The number of items is in the form of an array A (A[i] items of ith type). There are M number of persons in total each having a share in the goods. They have shares in the form of L and R which means that they hold a share of goods [L....R]. Bob wants Q items. He reports the items one by one.
 Each time he takes an item you are required to determine how many people have lost all the items from their share.
@@ -16,3 +16,5 @@ Note: If Bob wants an item which is unavailable then he will not get it. Here, b
 ## Output format
 
 Print Q space separated integers representing the number of people who lost all the items of their share.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/common-goods-d6bafb1e/
