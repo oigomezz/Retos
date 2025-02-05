@@ -1,4 +1,4 @@
-# Modified LIS
+# [Modified LIS][link]
 
 You are given a sequence of N integers as A1, A2, ... , AN. Let B be a sub-sequences of A, of maximum possible length (say k), such that each of them satisfies following conditions:
 
@@ -16,3 +16,5 @@ First line contains one integer N, denoting the size of input array. Next line c
 ## Output format
 
 Print two space separated integers, first one k, denoting the maximum possible size of such a sub-sequence and second integer d, the number of all such sub-sequences. Since d can be large, print it modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/modified-lis-1/
