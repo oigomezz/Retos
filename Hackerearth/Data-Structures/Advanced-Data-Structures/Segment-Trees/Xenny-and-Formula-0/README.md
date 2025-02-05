@@ -1,4 +1,4 @@
-# Xenny and Formula 0
+# [Xenny and Formula 0][link]
 
 Xenny drove in a popular racing championship called Formula 0. His long-distant friend Mr. Kmcode had made a racing track for him in RSQLand. To entertain the public, he used to keep a drag racing event at the Kmcode Track before every race. The Kmcode Track was circular and there were N grand stands along the track, numbered from 1 to N, separated by 1 angular unit each.
 
@@ -22,3 +22,5 @@ Given the data for R races, print the number that Xenny reported to his team in 
 ## Output format
 
 Print R lines, i-th line containing the number of people Xenny crosses, modulo 10⁹ + 7, in the i-th race.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xenny-and-formula-0/

@@ -304,3 +304,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#84** | [`Joseph and Tree`](./Advanced-Data-Structures/Segment-Trees/Joseph-and-Tree/README.md)                                     |
 | **#85** | [`Panda and Shopping`](./Advanced-Data-Structures/Segment-Trees/Panda-and-Shopping/README.md)                               |
 | **#86** | [`Akash and GCD 1`](./Advanced-Data-Structures/Segment-Trees/Akash-and-GCD/README.md)                                       |
+| **#87** | [`Xenny and Formula 0`](./Advanced-Data-Structures/Segment-Trees/Xenny-and-Formula-0/README.md)                             |
