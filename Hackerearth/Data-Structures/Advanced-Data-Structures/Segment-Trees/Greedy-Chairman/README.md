@@ -1,4 +1,4 @@
-# Greedy chairman
+# [Greedy chairman][link]
 
 One day, Madi, chairman of "Wal’s smart"company, decided to hire new employees.
 
@@ -15,3 +15,5 @@ At first, he numbered all candidates from 1 to n. After that, he wrote down all 
 ## Output format
 
 Output q lines, each line contains answer modulo (10⁹ + 7).
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/greedy-chairmanaugclash/
