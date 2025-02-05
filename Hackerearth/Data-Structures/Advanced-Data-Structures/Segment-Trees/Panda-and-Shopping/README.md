@@ -1,4 +1,4 @@
-# Panda and Shopping
+# [Panda and Shopping][link]
 
 Panda loves to shop! And well, anyone who loves to shop gets a huge amount of happiness even after a tiring session of window shopping.
 
@@ -11,3 +11,5 @@ The first line contains N , the number of shops in the area. Each of the next N 
 ## Output format
 
 Output consists of one line, which contains the maximum sum of happiness that can be obtained!
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/panda-and-shopping-1/
