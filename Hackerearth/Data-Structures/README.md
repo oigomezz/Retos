@@ -305,3 +305,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#85** | [`Panda and Shopping`](./Advanced-Data-Structures/Segment-Trees/Panda-and-Shopping/README.md)                               |
 | **#86** | [`Akash and GCD 1`](./Advanced-Data-Structures/Segment-Trees/Akash-and-GCD/README.md)                                       |
 | **#87** | [`Xenny and Formula 0`](./Advanced-Data-Structures/Segment-Trees/Xenny-and-Formula-0/README.md)                             |
+| **#88** | [`Monk and Otakuland`](./Advanced-Data-Structures/Segment-Trees/Monk-and-Otakuland/README.md)                               |

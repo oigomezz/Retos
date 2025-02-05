@@ -1,4 +1,4 @@
-# Monk and Otakuland
+# [Monk and Otakuland][link]
 
 Monk lives in Otakuland. Otakuland consists of N vertices and N-1 directed edges. i-th edge is a directed edge either from i-th vertex to i+1-th vertex or from i+1-th vertex to i-th vertex. You are given M Queries. Queries are 2 types:
 
@@ -12,3 +12,5 @@ The first line contains two integers N, the number of vertices and M, the number
 ## Output format
 
 For query 2, print the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/monk-and-otakuland-1/
