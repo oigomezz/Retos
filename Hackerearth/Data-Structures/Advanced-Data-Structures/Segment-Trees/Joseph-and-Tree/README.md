@@ -1,4 +1,4 @@
-# Joseph and Tree
+# [Joseph and Tree][link]
 
 Joseph loves games about a tree! His friend Nick invented a game for him!
 
@@ -20,3 +20,5 @@ But it turns out, Joseph has an exam tomorrow, and he doesn't have time for play
 ## Output format
 
 Print the answer for each query. Note that if there is no such element, print 1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/joseph-and-treeaugclash/

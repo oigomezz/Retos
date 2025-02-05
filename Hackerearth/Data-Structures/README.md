@@ -301,3 +301,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#81** | [`This is Code Apocalypse !!!`](./Advanced-Data-Structures/Segment-Trees/This-is-Code-Apocalypse/README.md)                 |
 | **#82** | [`Shooting Range`](./Advanced-Data-Structures/Segment-Trees/Shooting-Range/README.md)                                       |
 | **#83** | [`Greedy chairman`](./Advanced-Data-Structures/Segment-Trees/Greedy-Chairman/README.md)                                     |
+| **#84** | [`Joseph and Tree`](./Advanced-Data-Structures/Segment-Trees/Joseph-and-Tree/README.md)                                     |
