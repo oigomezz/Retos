@@ -307,3 +307,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#87** | [`Xenny and Formula 0`](./Advanced-Data-Structures/Segment-Trees/Xenny-and-Formula-0/README.md)                             |
 | **#88** | [`Monk and Otakuland`](./Advanced-Data-Structures/Segment-Trees/Monk-and-Otakuland/README.md)                               |
 | **#89** | [`Modified LIS`](./Advanced-Data-Structures/Segment-Trees/Modified-LIS/README.md)                                           |
+| **#90** | [`Rasta and The Matrix`](./Advanced-Data-Structures/Segment-Trees/Rasta-and-The-Matrix/README.md)                           |

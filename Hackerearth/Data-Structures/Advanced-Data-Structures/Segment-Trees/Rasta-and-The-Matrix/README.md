@@ -1,4 +1,4 @@
-# Rasta and The Matrix
+# [Rasta and The Matrix][link]
 
 Rasta loves matrices. He has a 10¹⁸ × 10¹⁸ matrix. Every cell has a color, initially white.
 
@@ -15,3 +15,5 @@ Rasta also loves queries. He asks you to perform q queries. We have queries of t
 ## Output format
 
 For each query of type 2 print the answer modulo 10⁹ + 7 in one line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/rasta-and-the-matrix/
