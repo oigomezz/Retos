@@ -1,4 +1,4 @@
-# Akash and GCD
+# [Akash and GCD][link]
 
 Akash is interested in a new function F such that,
 
@@ -21,3 +21,5 @@ Now, the problem is quite simple. Given an array A of size N, there are 2 types 
 ## Output format
 
 For each of the first type of query, output the required sum (mod 10⁹ + 7).
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/akash-and-gcd-1-15/
