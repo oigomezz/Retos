@@ -1,4 +1,4 @@
-# Shooting Range
+# [Shooting Range][link]
 
 Three friends Snow Gnome, Small Boy and Xephy were having fun in the biggest park in Lalalandia, when suddenly they saw the shooting range with prizes! As always, Small Boy asked for the biggest prize, and Snow Gnome said he would get it.
 
@@ -17,3 +17,5 @@ Xephy now wants to know how many points for each shot Snow Gnome got. Can you he
 ## Output format
 
 The output should contain Q lines. lth line should contain single integer - points for Snow Gnome's lth shot (1 <= l <= Q).
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/shooting-range/
