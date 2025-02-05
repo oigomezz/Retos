@@ -298,3 +298,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#78** | [`Benny and String`](./Advanced-Data-Structures/Segment-Trees/Benny-and-String/README.md)                                   |
 | **#79** | [`Rhezo and his array`](./Advanced-Data-Structures/Segment-Trees/Rhezo-and-his-array/README.md)                             |
 | **#80** | [`Zeus and Fibonacci`](./Advanced-Data-Structures/Segment-Trees/Zeus-and-Fibonacci/README.md)                               |
+| **#81** | [`This is Code Apocalypse !!!`](./Advanced-Data-Structures/Segment-Trees/This-is-Code-Apocalypse/README.md)                 |
