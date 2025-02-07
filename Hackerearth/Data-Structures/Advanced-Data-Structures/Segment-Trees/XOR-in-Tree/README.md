@@ -1,4 +1,4 @@
-# XOR in Tree
+# [XOR in Tree][link]
 
 In Graph theory, tree is a simple connected acyclic graph. You are given a tree consists of N nodes numbered from 1 to N. Each node i have a value Ai associated with it. Your task is writing a program doing Q operations, each operations is 1 of 2 following types:
 
@@ -19,3 +19,5 @@ In Graph theory, tree is a simple connected acyclic graph. You are given a tree 
 ## Output format
 
 For each operations of type 2, print the answer in a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xor-in-tree-1/
