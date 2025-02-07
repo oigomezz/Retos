@@ -1,4 +1,4 @@
-# Chemical Reaction
+# [Chemical Reaction][link]
 
 Ani and his Favourite Chemistry Teacher Lissa were performing an Experiment in the Chemistry Lab. Experiment involves a N step Chemical Reaction. An N step Chemical Reaction requires N different reactants from the periodic table . (Do you know about Periodic Table? No , still you can try solving this problem). N elements are stacked in the bottom up manner with their reacting times.
 
@@ -36,3 +36,5 @@ As there is only one element left on the stack in the end. Ani puts that element
 ## Output format
 
 For each Experiment, Output consists of N lines where ith line contains one string (name of Element added in the ith step) and expected time of the Chemical Reaction after ith step.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/chemical-reaction/

@@ -319,3 +319,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#099** | [`XOR in Sequence`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Sequence/README.md)                                     |
 | **#100** | [`Little Deepu and Array`](./Advanced-Data-Structures/Segment-Trees/Little-Deepu-and-Array/README.md)                       |
 | **#101** | [`Help the Avengers`](./Advanced-Data-Structures/Segment-Trees/Help-the-Avengers/README.md)                                 |
+| **#102** | [`Chemical Reaction`](./Advanced-Data-Structures/Segment-Trees/Chemical-Reaction/README.md)                                 |
