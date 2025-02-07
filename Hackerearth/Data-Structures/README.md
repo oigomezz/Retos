@@ -317,4 +317,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#097** | [`Update And Query`](./Advanced-Data-Structures/Segment-Trees/Update-and-Query/README.md)                                   |
 | **#098** | [`XOR in Tree`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Tree/README.md)                                             |
 | **#099** | [`XOR in Sequence`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Sequence/README.md)                                     |
-| **#100** | [`Little Deepu and Array`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                  |
+| **#100** | [`Little Deepu and Array`](./Advanced-Data-Structures/Segment-Trees/Little-Deepu-and-Array/README.md)                       |
+| **#101** | [`Help the Avengers`](./Advanced-Data-Structures/Segment-Trees/Help-the-Avengers/README.md)                                 |

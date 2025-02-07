@@ -1,4 +1,4 @@
-# Help the Avengers
+# [Help the Avengers][link]
 
 With the help of the tessaract, the Chitauri army is ready to attack planet Earth. It's finally time when the Avengers must get together to save the planet. Captain Fury, along with the beautiful Agent Maria Hill is trying to work out a plan. He is well aware that Loki, the leader of the enemies has identified certain prime spots to attack. Each spot on the planet is identified by a specific number. A prime spot is one that is represented by a prime number. Now, the Captain's intelligence team has provided him with a list of N locations A[1...N]. From time to time, the team also replaces one location in the list with another one. Every now and then, Captain Fury asks Maria to report the number of prime locations between positions X & Y (inclusive) in the list so that he could position the Avengers at those locations. Now the beautiful lady is tired. Help her.
 
@@ -13,3 +13,5 @@ With the help of the tessaract, the Chitauri army is ready to attack planet Eart
 ## Output format
 
 For each of the query for asking number of prime spots, output a single integer, the answer to Captain Fury's question.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/help-the-avengers-6/
