@@ -1,4 +1,4 @@
-# Super Power Of 2s
+# [Super Power Of 2s][link]
 
 Maggu loves to create problems involving queries. This time ,he has created one for you.
 Given an array containing n elements and maggu asked you two types of queries.
@@ -21,3 +21,5 @@ Explanation:
 ## Output format
 
 For each query of type 1 print the result in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/super-power-of-2s-2/

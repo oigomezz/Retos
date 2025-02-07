@@ -320,3 +320,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#100** | [`Little Deepu and Array`](./Advanced-Data-Structures/Segment-Trees/Little-Deepu-and-Array/README.md)                       |
 | **#101** | [`Help the Avengers`](./Advanced-Data-Structures/Segment-Trees/Help-the-Avengers/README.md)                                 |
 | **#102** | [`Chemical Reaction`](./Advanced-Data-Structures/Segment-Trees/Chemical-Reaction/README.md)                                 |
+| **#103** | [`Super Power Of 2s`](./Advanced-Data-Structures/Segment-Trees/Super-Power-Of-2s/README.md)                                 |
