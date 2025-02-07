@@ -1,4 +1,4 @@
-# Xsquare And Maximum Sum Subarray
+# [Xsquare And Maximum Sum Subarray][link]
 
 Xsquare has decided to win next Programming Marathon and started his preparation for the same. Xsquare's coach advised him to revise algorithmic concepts and to try twik of some standard problem. Xsquare's coach knows that it is the only best strategy to perform well at any kind of marathon.
 
@@ -19,3 +19,5 @@ Given a one dimensional array A of size N that may contain both positive and neg
 ## Output format
 
 For each query, print the required answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xsquare-and-maximum-sum-subarray/
