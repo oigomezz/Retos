@@ -1,4 +1,4 @@
-# Xsquare And Array Operations
+# [Xsquare And Array Operations][link]
 
 Xsquare loves to play with arrays a lot. Today, he has an array A consisting of N distinct integers. He wants to perform following operation over his array A.
 
@@ -19,3 +19,5 @@ A transformation strategy is considered to be most optimal if it incurs minimum 
 ## Output format
 
 For each test case, print the minimum cost required for the transformation.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xsquare-and-array-operations/
