@@ -1,4 +1,4 @@
-# Akash and too many assignments
+# [Akash and too many assignments][link]
 
 Akash is an assignment-o-holic kind of a person, he's crazy about solving assignments. So, to test his skills, his professor has given him an assignment to solve.
 
@@ -21,3 +21,5 @@ Help Akash out in solving this tricky assignment!
 ## Output format
 
 For each print operation, output the lexicographically Kth smallest character in the substring of S starting from LeftLimit to RightLimit if possible, else print "Out of range". (Without quotes)
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/akash-and-too-many-assignments/
