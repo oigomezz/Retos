@@ -1,4 +1,4 @@
-# Rotate, rotate again and rotate once more
+# [Rotate, rotate again and rotate once more][link]
 
 Mr Lavit is teacher for physical education at a school. Today he is in bad mood, so he is taking it out on the students of his class. There are N students in his class. Lets mark the students from 1,2,.. up to N. They are standing in a line.Initially, all the students are facing towards EAST. Now he makes them sweat in sun.
 
@@ -33,3 +33,5 @@ Rotation Explanation:
 ## Output format
 
 For every order of type 3, i.e "Q L R" , output the required number in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/rotate-rotate-again-and-rotate-once-more-4/
