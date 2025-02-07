@@ -1,4 +1,4 @@
-# Hard job
+# [Hard job][link]
 
 You are given a permutation of integers from 1 to N (very unusual :D). The only thing you should do is to process M queries. Each query has 2 parameters: number X from 1 to N and lowercase latin letter Y (either 'l' or 'r'). You do the following:
 
@@ -16,3 +16,5 @@ Please find sum of accessibleness over all queries.
 ## Output format
 
 Output one number - answer for the question.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/hard-job/

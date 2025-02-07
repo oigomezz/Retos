@@ -310,3 +310,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#90** | [`Rasta and The Matrix`](./Advanced-Data-Structures/Segment-Trees/Rasta-and-The-Matrix/README.md)                           |
 | **#91** | [`Something Genuine`](./Advanced-Data-Structures/Segment-Trees/Something-Genuine/README.md)                                 |
 | **#92** | [`Akash and too many assignments`](./Advanced-Data-Structures/Segment-Trees/Akash-and-too-many-assignments/README.md)       |
+| **#93** | [`Hard job`](./Advanced-Data-Structures/Segment-Trees/Hard-job/README.md)                                                   |
