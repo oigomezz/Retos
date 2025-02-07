@@ -216,104 +216,105 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Segment Trees](./Advanced-Data-Structures/Segment-Trees/README.md)
 
-| N°      | Enunciado                                                                                                                   |
-| ------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **#01** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md)                                     |
-| **#02** | [`Previous Coprime Element`](./Advanced-Data-Structures/Segment-Trees/Previous-Coprime-Element/README.md)                   |
-| **#03** | [`Unequal Goodness`](./Advanced-Data-Structures/Segment-Trees/Unequal-Goodness/README.md)                                   |
-| **#04** | [`MystiXORama`](./Advanced-Data-Structures/Segment-Trees/MystiXORama/README.md)                                             |
-| **#05** | [`DivisorDilemma`](./Advanced-Data-Structures/Segment-Trees/Divisor-Dilemma/README.md)                                      |
-| **#06** | [`No-Inversions`](./Advanced-Data-Structures/Segment-Trees/No-Inversions/README.md)                                         |
-| **#07** | [`Subarray Addition`](./Advanced-Data-Structures/Segment-Trees/Subarray-Addition/README.md)                                 |
-| **#08** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                                         |
-| **#09** | [`Make Permutation`](./Advanced-Data-Structures/Segment-Trees/Make-Permutation/README.md)                                   |
-| **#10** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                                               |
-| **#11** | [`LCMAX`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md)                                                         |
-| **#12** | [`Range MOD Query`](./Advanced-Data-Structures/Segment-Trees/Range-MOD-Query/README.md)                                     |
-| **#13** | [`Xor Matrix`](./Advanced-Data-Structures/Segment-Trees/XOR-Matrix/README.md)                                               |
-| **#14** | [`Point Coverage`](./Advanced-Data-Structures/Segment-Trees/Point-Coverage/README.md)                                       |
-| **#15** | [`Avoid Maxima-Minima`](./Advanced-Data-Structures/Segment-Trees/Avoid-Maxima-Minima/README.md)                             |
-| **#16** | [`The longest subarray`](./Advanced-Data-Structures/Segment-Trees/The-longest-subarray/README.md)                           |
-| **#17** | [`Get queries`](./Advanced-Data-Structures/Segment-Trees/Get-queries/README.md)                                             |
-| **#18** | [`Set of rectangles`](./Advanced-Data-Structures/Segment-Trees/Set-of-Rectangles/README.md)                                 |
-| **#19** | [`Alice's construction`](./Advanced-Data-Structures/Segment-Trees/Alice's-construction/README.md)                           |
-| **#20** | [`Boring Not boring problem`](./Advanced-Data-Structures/Segment-Trees/Boring-Not-Boring-Problem/README.md)                 |
-| **#21** | [`Minimize a product`](./Advanced-Data-Structures/Segment-Trees/Minimize-a-product/README.md)                               |
-| **#22** | [`Advance search problem`](./Advanced-Data-Structures/Segment-Trees/Advance-Search-Problem/README.md)                       |
-| **#23** | [`A range function`](./Advanced-Data-Structures/Segment-Trees/A-Range-Function/README.md)                                   |
-| **#24** | [`Range of a query`](./Advanced-Data-Structures/Segment-Trees/Range-of-a-query/README.md)                                   |
-| **#25** | [`Tom and Jerry love matrices`](./Advanced-Data-Structures/Segment-Trees/Tom-and-Jerry-love-matrices/README.md)             |
-| **#26** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                                           |
-| **#27** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries-2/README.md)                                         |
-| **#28** | [`Incremental queries`](./Advanced-Data-Structures/Segment-Trees/Incremental-Queries/README.md)                             |
-| **#29** | [`Lonely M's array`](./Advanced-Data-Structures/Segment-Trees/Lonely-M's-array/README.md)                                   |
-| **#30** | [`Do you order queries?`](./Advanced-Data-Structures/Segment-Trees/Do-you-order-queries/README.md)                          |
-| **#31** | [`Greatest common divisor`](./Advanced-Data-Structures/Segment-Trees/Greatest-Common-Divisor/README.md)                     |
-| **#32** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)                           |
-| **#33** | [`Weird Graph Query`](./Advanced-Data-Structures/Segment-Trees/Weird-Graph-Query/README.md)                                 |
-| **#34** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                                       |
-| **#35** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                               |
-| **#36** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                                       |
-| **#37** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                                     |
-| **#38** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                             |
-| **#39** | [`Reversing elements`](./Advanced-Data-Structures/Segment-Trees/Reversing-elements/README.md)                               |
-| **#40** | [`Transaction`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                             |
-| **#41** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md)                           |
-| **#42** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Length-of-Arithmetic-Progressions/README.md) |
-| **#43** | [`Dynamic DP`](./Advanced-Data-Structures/Segment-Trees/Dynamic-DP/README.md)                                               |
-| **#44** | [`Repair this tree`](./Advanced-Data-Structures/Segment-Trees/Repair-this-tree/README.md)                                   |
-| **#45** | [`Minimum Flip`](./Advanced-Data-Structures/Segment-Trees/Minimum-Flip/README.md)                                           |
-| **#46** | [`Number of Balloons`](./Advanced-Data-Structures/Segment-Trees/Number-of-Balloons/README.md)                               |
-| **#47** | [`Flipping Brackets`](./Advanced-Data-Structures/Segment-Trees/Flipping-Brackets/README.md)                                 |
-| **#48** | [`Smart City`](./Advanced-Data-Structures/Segment-Trees/Smart-City/README.md)                                               |
-| **#49** | [`Clothes Arrangement`](./Advanced-Data-Structures/Segment-Trees/Clothes-Arrangement/README.md)                             |
-| **#50** | [`Counting the number of intervals`](./Advanced-Data-Structures/Segment-Trees/Counting-the-number-of-intervals/README.md)   |
-| **#51** | [`Class representatives`](./Advanced-Data-Structures/Segment-Trees/Class-Representatives/README.md)                         |
-| **#52** | [`Array revolve`](./Advanced-Data-Structures/Segment-Trees/Array-revolve/README.md)                                         |
-| **#53** | [`Distinct Integers in Range`](./Advanced-Data-Structures/Segment-Trees/Distinct-Integers-in-Range/README.md)               |
-| **#54** | [`Travelling between cities`](./Advanced-Data-Structures/Segment-Trees/Travelling-between-cities/README.md)                 |
-| **#55** | [`Easy Queries`](./Advanced-Data-Structures/Segment-Trees/Easy-Queries/README.md)                                           |
-| **#56** | [`( Problem F ) Pikachu and Team Rocket`](./Advanced-Data-Structures/Segment-Trees/Pikachu-and-Team-Rocket/README.md)       |
-| **#57** | [`Xor sum`](./Advanced-Data-Structures/Segment-Trees/XOR-Sum/README.md)                                                     |
-| **#58** | [`Bob And Array Queries`](./Advanced-Data-Structures/Segment-Trees/Bob-And-Array-Queries/README.md)                         |
-| **#59** | [`Big Number Array`](./Advanced-Data-Structures/Segment-Trees/Big-Number-Array/README.md)                                   |
-| **#60** | [`Simple Sum`](./Advanced-Data-Structures/Segment-Trees/Simple-Sum/README.md)                                               |
-| **#61** | [`Naruto - The New Hokage`](./Advanced-Data-Structures/Segment-Trees/Naruto-The-New-Hokage/README.md)                       |
-| **#62** | [`Min difference queries`](./Advanced-Data-Structures/Segment-Trees/Min-difference-queries/README.md)                       |
-| **#63** | [`Zeros and Ones`](./Advanced-Data-Structures/Segment-Trees/Zeros-and-Ones/README.md)                                       |
-| **#64** | [`Harmonic Triplets`](./Advanced-Data-Structures/Segment-Trees/Harmonic-Triplets/README.md)                                 |
-| **#65** | [`Mathison and the furthest point`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Furthest-Point/README.md)     |
-| **#66** | [`Mathison and the exceptional list`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-theExceptional-List/README.md)  |
-| **#67** | [`Good Evening sweetheart!![Medium]`](./Advanced-Data-Structures/Segment-Trees/Good-Evening-sweetheart/README.md)           |
-| **#68** | [`Replace`](./Advanced-Data-Structures/Segment-Trees/Replace/README.md)                                                     |
-| **#69** | [`Potential`](./Advanced-Data-Structures/Segment-Trees/Potential/README.md)                                                 |
-| **#70** | [`Binary Modulo <P2SME>`](./Advanced-Data-Structures/Segment-Trees/Binary-Modulo/README.md)                                 |
-| **#71** | [`Common Goods`](./Advanced-Data-Structures/Segment-Trees/Common-Goods/README.md)                                           |
-| **#72** | [`Mathison and the Pokémon fights`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Pokémon-fights/README.md)     |
-| **#73** | [`Mathison and the peculiar sums`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Peculiar-Sums/README.md)       |
-| **#74** | [`The Market`](./Advanced-Data-Structures/Segment-Trees/The-Market/README.md)                                               |
-| **#75** | [`Fibonacci with GCD`](./Advanced-Data-Structures/Segment-Trees/Fibonacci-with-GCD/README.md)                               |
-| **#76** | [`XOR queries`](./Advanced-Data-Structures/Segment-Trees/XOR-Queries/README.md)                                             |
-| **#77** | [`Retroactive Integers`](./Advanced-Data-Structures/Segment-Trees/Retroactive-Integers/README.md)                           |
-| **#78** | [`Benny and String`](./Advanced-Data-Structures/Segment-Trees/Benny-and-String/README.md)                                   |
-| **#79** | [`Rhezo and his array`](./Advanced-Data-Structures/Segment-Trees/Rhezo-and-his-array/README.md)                             |
-| **#80** | [`Zeus and Fibonacci`](./Advanced-Data-Structures/Segment-Trees/Zeus-and-Fibonacci/README.md)                               |
-| **#81** | [`This is Code Apocalypse !!!`](./Advanced-Data-Structures/Segment-Trees/This-is-Code-Apocalypse/README.md)                 |
-| **#82** | [`Shooting Range`](./Advanced-Data-Structures/Segment-Trees/Shooting-Range/README.md)                                       |
-| **#83** | [`Greedy chairman`](./Advanced-Data-Structures/Segment-Trees/Greedy-Chairman/README.md)                                     |
-| **#84** | [`Joseph and Tree`](./Advanced-Data-Structures/Segment-Trees/Joseph-and-Tree/README.md)                                     |
-| **#85** | [`Panda and Shopping`](./Advanced-Data-Structures/Segment-Trees/Panda-and-Shopping/README.md)                               |
-| **#86** | [`Akash and GCD 1`](./Advanced-Data-Structures/Segment-Trees/Akash-and-GCD/README.md)                                       |
-| **#87** | [`Xenny and Formula 0`](./Advanced-Data-Structures/Segment-Trees/Xenny-and-Formula-0/README.md)                             |
-| **#88** | [`Monk and Otakuland`](./Advanced-Data-Structures/Segment-Trees/Monk-and-Otakuland/README.md)                               |
-| **#89** | [`Modified LIS`](./Advanced-Data-Structures/Segment-Trees/Modified-LIS/README.md)                                           |
-| **#90** | [`Rasta and The Matrix`](./Advanced-Data-Structures/Segment-Trees/Rasta-and-The-Matrix/README.md)                           |
-| **#91** | [`Something Genuine`](./Advanced-Data-Structures/Segment-Trees/Something-Genuine/README.md)                                 |
-| **#92** | [`Akash and too many assignments`](./Advanced-Data-Structures/Segment-Trees/Akash-and-too-many-assignments/README.md)       |
-| **#93** | [`Hard job`](./Advanced-Data-Structures/Segment-Trees/Hard-job/README.md)                                                   |
-| **#94** | [`Kinako Bread`](./Advanced-Data-Structures/Segment-Trees/Kinako-Bread/README.md)                                           |
-| **#95** | [`Xsquare And Array Operations`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Array-Operations/README.md)           |
-| **#96** | [`Xsquare And Maximum Sum Subarray`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Maximum-Sum-Subarray/README.md)   |
-| **#97** | [`Update And Query`](./Advanced-Data-Structures/Segment-Trees/Update-and-Query/README.md)                                   |
-| **#98** | [`XOR in Tree`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Tree/README.md)                                             |
-| **#99** | [`XOR in Sequence`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Sequence/README.md)                                     |
+| N°       | Enunciado                                                                                                                   |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **#001** | [`Curious Queries`](./Advanced-Data-Structures/Segment-Trees/Curious-Queries/README.md)                                     |
+| **#002** | [`Previous Coprime Element`](./Advanced-Data-Structures/Segment-Trees/Previous-Coprime-Element/README.md)                   |
+| **#003** | [`Unequal Goodness`](./Advanced-Data-Structures/Segment-Trees/Unequal-Goodness/README.md)                                   |
+| **#004** | [`MystiXORama`](./Advanced-Data-Structures/Segment-Trees/MystiXORama/README.md)                                             |
+| **#005** | [`DivisorDilemma`](./Advanced-Data-Structures/Segment-Trees/Divisor-Dilemma/README.md)                                      |
+| **#006** | [`No-Inversions`](./Advanced-Data-Structures/Segment-Trees/No-Inversions/README.md)                                         |
+| **#007** | [`Subarray Addition`](./Advanced-Data-Structures/Segment-Trees/Subarray-Addition/README.md)                                 |
+| **#008** | [`Optimal Moves`](./Advanced-Data-Structures/Segment-Trees/Optimal-Moves/README.md)                                         |
+| **#009** | [`Make Permutation`](./Advanced-Data-Structures/Segment-Trees/Make-Permutation/README.md)                                   |
+| **#010** | [`F.R.I.E.N.D.S`](./Advanced-Data-Structures/Segment-Trees/FRIENDS/README.md)                                               |
+| **#011** | [`LCMAX`](./Advanced-Data-Structures/Segment-Trees/LCMAX/README.md)                                                         |
+| **#012** | [`Range MOD Query`](./Advanced-Data-Structures/Segment-Trees/Range-MOD-Query/README.md)                                     |
+| **#013** | [`Xor Matrix`](./Advanced-Data-Structures/Segment-Trees/XOR-Matrix/README.md)                                               |
+| **#014** | [`Point Coverage`](./Advanced-Data-Structures/Segment-Trees/Point-Coverage/README.md)                                       |
+| **#015** | [`Avoid Maxima-Minima`](./Advanced-Data-Structures/Segment-Trees/Avoid-Maxima-Minima/README.md)                             |
+| **#016** | [`The longest subarray`](./Advanced-Data-Structures/Segment-Trees/The-longest-subarray/README.md)                           |
+| **#017** | [`Get queries`](./Advanced-Data-Structures/Segment-Trees/Get-queries/README.md)                                             |
+| **#018** | [`Set of rectangles`](./Advanced-Data-Structures/Segment-Trees/Set-of-Rectangles/README.md)                                 |
+| **#019** | [`Alice's construction`](./Advanced-Data-Structures/Segment-Trees/Alice's-construction/README.md)                           |
+| **#020** | [`Boring Not boring problem`](./Advanced-Data-Structures/Segment-Trees/Boring-Not-Boring-Problem/README.md)                 |
+| **#021** | [`Minimize a product`](./Advanced-Data-Structures/Segment-Trees/Minimize-a-product/README.md)                               |
+| **#022** | [`Advance search problem`](./Advanced-Data-Structures/Segment-Trees/Advance-Search-Problem/README.md)                       |
+| **#023** | [`A range function`](./Advanced-Data-Structures/Segment-Trees/A-Range-Function/README.md)                                   |
+| **#024** | [`Range of a query`](./Advanced-Data-Structures/Segment-Trees/Range-of-a-query/README.md)                                   |
+| **#025** | [`Tom and Jerry love matrices`](./Advanced-Data-Structures/Segment-Trees/Tom-and-Jerry-love-matrices/README.md)             |
+| **#026** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries/README.md)                                           |
+| **#027** | [`Tree queries`](./Advanced-Data-Structures/Segment-Trees/Tree-Queries-2/README.md)                                         |
+| **#028** | [`Incremental queries`](./Advanced-Data-Structures/Segment-Trees/Incremental-Queries/README.md)                             |
+| **#029** | [`Lonely M's array`](./Advanced-Data-Structures/Segment-Trees/Lonely-M's-array/README.md)                                   |
+| **#030** | [`Do you order queries?`](./Advanced-Data-Structures/Segment-Trees/Do-you-order-queries/README.md)                          |
+| **#031** | [`Greatest common divisor`](./Advanced-Data-Structures/Segment-Trees/Greatest-Common-Divisor/README.md)                     |
+| **#032** | [`The maximum distance`](./Advanced-Data-Structures/Segment-Trees/The-Maximum-Distance/README.md)                           |
+| **#033** | [`Weird Graph Query`](./Advanced-Data-Structures/Segment-Trees/Weird-Graph-Query/README.md)                                 |
+| **#034** | [`Suffix problem`](./Advanced-Data-Structures/Segment-Trees/Suffix-Problem/README.md)                                       |
+| **#035** | [`Tree query`](./Advanced-Data-Structures/Segment-Trees/Tree-query/README.md)                                               |
+| **#036** | [`Bit operations`](./Advanced-Data-Structures/Segment-Trees/Bit-operations/README.md)                                       |
+| **#037** | [`Equal subarrays`](./Advanced-Data-Structures/Segment-Trees/Equal-Subarrays/README.md)                                     |
+| **#038** | [`GCD problem`](./Advanced-Data-Structures/Segment-Trees/GCD-problem/README.md)                                             |
+| **#039** | [`Reversing elements`](./Advanced-Data-Structures/Segment-Trees/Reversing-elements/README.md)                               |
+| **#040** | [`Transaction`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                             |
+| **#041** | [`Array and good pairs`](./Advanced-Data-Structures/Segment-Trees/Array-and-good-pairs/README.md)                           |
+| **#042** | [`Length of arithmetic progressions`](./Advanced-Data-Structures/Segment-Trees/Length-of-Arithmetic-Progressions/README.md) |
+| **#043** | [`Dynamic DP`](./Advanced-Data-Structures/Segment-Trees/Dynamic-DP/README.md)                                               |
+| **#044** | [`Repair this tree`](./Advanced-Data-Structures/Segment-Trees/Repair-this-tree/README.md)                                   |
+| **#045** | [`Minimum Flip`](./Advanced-Data-Structures/Segment-Trees/Minimum-Flip/README.md)                                           |
+| **#046** | [`Number of Balloons`](./Advanced-Data-Structures/Segment-Trees/Number-of-Balloons/README.md)                               |
+| **#047** | [`Flipping Brackets`](./Advanced-Data-Structures/Segment-Trees/Flipping-Brackets/README.md)                                 |
+| **#048** | [`Smart City`](./Advanced-Data-Structures/Segment-Trees/Smart-City/README.md)                                               |
+| **#049** | [`Clothes Arrangement`](./Advanced-Data-Structures/Segment-Trees/Clothes-Arrangement/README.md)                             |
+| **#050** | [`Counting the number of intervals`](./Advanced-Data-Structures/Segment-Trees/Counting-the-number-of-intervals/README.md)   |
+| **#051** | [`Class representatives`](./Advanced-Data-Structures/Segment-Trees/Class-Representatives/README.md)                         |
+| **#052** | [`Array revolve`](./Advanced-Data-Structures/Segment-Trees/Array-revolve/README.md)                                         |
+| **#053** | [`Distinct Integers in Range`](./Advanced-Data-Structures/Segment-Trees/Distinct-Integers-in-Range/README.md)               |
+| **#054** | [`Travelling between cities`](./Advanced-Data-Structures/Segment-Trees/Travelling-between-cities/README.md)                 |
+| **#055** | [`Easy Queries`](./Advanced-Data-Structures/Segment-Trees/Easy-Queries/README.md)                                           |
+| **#056** | [`( Problem F ) Pikachu and Team Rocket`](./Advanced-Data-Structures/Segment-Trees/Pikachu-and-Team-Rocket/README.md)       |
+| **#057** | [`Xor sum`](./Advanced-Data-Structures/Segment-Trees/XOR-Sum/README.md)                                                     |
+| **#058** | [`Bob And Array Queries`](./Advanced-Data-Structures/Segment-Trees/Bob-And-Array-Queries/README.md)                         |
+| **#059** | [`Big Number Array`](./Advanced-Data-Structures/Segment-Trees/Big-Number-Array/README.md)                                   |
+| **#060** | [`Simple Sum`](./Advanced-Data-Structures/Segment-Trees/Simple-Sum/README.md)                                               |
+| **#061** | [`Naruto - The New Hokage`](./Advanced-Data-Structures/Segment-Trees/Naruto-The-New-Hokage/README.md)                       |
+| **#062** | [`Min difference queries`](./Advanced-Data-Structures/Segment-Trees/Min-difference-queries/README.md)                       |
+| **#063** | [`Zeros and Ones`](./Advanced-Data-Structures/Segment-Trees/Zeros-and-Ones/README.md)                                       |
+| **#064** | [`Harmonic Triplets`](./Advanced-Data-Structures/Segment-Trees/Harmonic-Triplets/README.md)                                 |
+| **#065** | [`Mathison and the furthest point`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Furthest-Point/README.md)     |
+| **#066** | [`Mathison and the exceptional list`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-theExceptional-List/README.md)  |
+| **#067** | [`Good Evening sweetheart!![Medium]`](./Advanced-Data-Structures/Segment-Trees/Good-Evening-sweetheart/README.md)           |
+| **#068** | [`Replace`](./Advanced-Data-Structures/Segment-Trees/Replace/README.md)                                                     |
+| **#069** | [`Potential`](./Advanced-Data-Structures/Segment-Trees/Potential/README.md)                                                 |
+| **#070** | [`Binary Modulo <P2SME>`](./Advanced-Data-Structures/Segment-Trees/Binary-Modulo/README.md)                                 |
+| **#071** | [`Common Goods`](./Advanced-Data-Structures/Segment-Trees/Common-Goods/README.md)                                           |
+| **#072** | [`Mathison and the Pokémon fights`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Pokémon-fights/README.md)     |
+| **#073** | [`Mathison and the peculiar sums`](./Advanced-Data-Structures/Segment-Trees/Mathison-and-the-Peculiar-Sums/README.md)       |
+| **#074** | [`The Market`](./Advanced-Data-Structures/Segment-Trees/The-Market/README.md)                                               |
+| **#075** | [`Fibonacci with GCD`](./Advanced-Data-Structures/Segment-Trees/Fibonacci-with-GCD/README.md)                               |
+| **#076** | [`XOR queries`](./Advanced-Data-Structures/Segment-Trees/XOR-Queries/README.md)                                             |
+| **#077** | [`Retroactive Integers`](./Advanced-Data-Structures/Segment-Trees/Retroactive-Integers/README.md)                           |
+| **#078** | [`Benny and String`](./Advanced-Data-Structures/Segment-Trees/Benny-and-String/README.md)                                   |
+| **#079** | [`Rhezo and his array`](./Advanced-Data-Structures/Segment-Trees/Rhezo-and-his-array/README.md)                             |
+| **#080** | [`Zeus and Fibonacci`](./Advanced-Data-Structures/Segment-Trees/Zeus-and-Fibonacci/README.md)                               |
+| **#081** | [`This is Code Apocalypse !!!`](./Advanced-Data-Structures/Segment-Trees/This-is-Code-Apocalypse/README.md)                 |
+| **#082** | [`Shooting Range`](./Advanced-Data-Structures/Segment-Trees/Shooting-Range/README.md)                                       |
+| **#083** | [`Greedy chairman`](./Advanced-Data-Structures/Segment-Trees/Greedy-Chairman/README.md)                                     |
+| **#084** | [`Joseph and Tree`](./Advanced-Data-Structures/Segment-Trees/Joseph-and-Tree/README.md)                                     |
+| **#085** | [`Panda and Shopping`](./Advanced-Data-Structures/Segment-Trees/Panda-and-Shopping/README.md)                               |
+| **#086** | [`Akash and GCD 1`](./Advanced-Data-Structures/Segment-Trees/Akash-and-GCD/README.md)                                       |
+| **#087** | [`Xenny and Formula 0`](./Advanced-Data-Structures/Segment-Trees/Xenny-and-Formula-0/README.md)                             |
+| **#088** | [`Monk and Otakuland`](./Advanced-Data-Structures/Segment-Trees/Monk-and-Otakuland/README.md)                               |
+| **#089** | [`Modified LIS`](./Advanced-Data-Structures/Segment-Trees/Modified-LIS/README.md)                                           |
+| **#090** | [`Rasta and The Matrix`](./Advanced-Data-Structures/Segment-Trees/Rasta-and-The-Matrix/README.md)                           |
+| **#091** | [`Something Genuine`](./Advanced-Data-Structures/Segment-Trees/Something-Genuine/README.md)                                 |
+| **#092** | [`Akash and too many assignments`](./Advanced-Data-Structures/Segment-Trees/Akash-and-too-many-assignments/README.md)       |
+| **#093** | [`Hard job`](./Advanced-Data-Structures/Segment-Trees/Hard-job/README.md)                                                   |
+| **#094** | [`Kinako Bread`](./Advanced-Data-Structures/Segment-Trees/Kinako-Bread/README.md)                                           |
+| **#095** | [`Xsquare And Array Operations`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Array-Operations/README.md)           |
+| **#096** | [`Xsquare And Maximum Sum Subarray`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Maximum-Sum-Subarray/README.md)   |
+| **#097** | [`Update And Query`](./Advanced-Data-Structures/Segment-Trees/Update-and-Query/README.md)                                   |
+| **#098** | [`XOR in Tree`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Tree/README.md)                                             |
+| **#099** | [`XOR in Sequence`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Sequence/README.md)                                     |
+| **#100** | [`Little Deepu and Array`](./Advanced-Data-Structures/Segment-Trees/Transaction/README.md)                                  |

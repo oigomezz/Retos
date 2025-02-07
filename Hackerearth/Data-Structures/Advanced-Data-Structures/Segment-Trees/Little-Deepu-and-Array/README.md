@@ -1,4 +1,4 @@
-# Little Deepu and Array
+# [Little Deepu and Array][link]
 
 Little Deepu loves positive things in life, positive girlfriends, positive marks. He's, in general a lover of positive things, so for obvious reasons he loves an array which contains positive elements.
 
@@ -13,3 +13,5 @@ First line contains N the size of array. Second lines contains N elements of arr
 ## Output format
 
 Print final array after M HIT operations.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/little-deepu-and-array/
