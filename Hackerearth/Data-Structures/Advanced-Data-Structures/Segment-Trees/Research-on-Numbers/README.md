@@ -1,4 +1,4 @@
-# Research on Numbers
+# [Research on Numbers][link]
 
 Bob is studying in a research institute. He is currently researching on integer sequences. He has already done some research on famous fibonacci sequence. Now he is trying to investigate patterns in a general recursive sequence (Ai)
 
@@ -24,3 +24,5 @@ You will be given two numbers l and r and you are expected to output all the ter
 ## Output format
 
 For each test case output Q lines. Each line contains terms from Al to Ar in non decreasing order. If more than 100 terms are there to output, print only first 100.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/research-on-numbers-1/
