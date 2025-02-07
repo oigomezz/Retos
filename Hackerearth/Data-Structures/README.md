@@ -311,3 +311,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#91** | [`Something Genuine`](./Advanced-Data-Structures/Segment-Trees/Something-Genuine/README.md)                                 |
 | **#92** | [`Akash and too many assignments`](./Advanced-Data-Structures/Segment-Trees/Akash-and-too-many-assignments/README.md)       |
 | **#93** | [`Hard job`](./Advanced-Data-Structures/Segment-Trees/Hard-job/README.md)                                                   |
+| **#94** | [`Kinako Bread`](./Advanced-Data-Structures/Segment-Trees/Kinako-Bread/README.md)                                           |

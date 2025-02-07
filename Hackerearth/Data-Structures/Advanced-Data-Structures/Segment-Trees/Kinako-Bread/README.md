@@ -1,4 +1,4 @@
-# Kinako Bread
+# [Kinako Bread][link]
 
 Tohka's favorite food is kinako bread, but she likes to eat bread in general too. For dinner, Shido has bought Tohka N loaves of bread to eat, arranged in a line. Of the N loaves of bread, there are M distinct types of bread numbered from 1 to M. Tohka is very touched that Shido would buy her so much bread, but she is on a diet. Of the ith type of bread, Tohka doesn't want to eat more than Ri loaves. However, the bread is so tasty that she would like to eat at least Li loaves of it. Tohka has decided that she will eat all the bread in a consecutive section of the line, and no more. How many ways can she choose a consecutive section of the line to eat?
 
@@ -11,3 +11,5 @@ Tohka's favorite food is kinako bread, but she likes to eat bread in general too
 ## Output format
 
 The output should consist of one integer on a single line, the number of ways to pick a consecutive section of the line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/kinako-bread/
