@@ -314,3 +314,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#94** | [`Kinako Bread`](./Advanced-Data-Structures/Segment-Trees/Kinako-Bread/README.md)                                           |
 | **#95** | [`Xsquare And Array Operations`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Array-Operations/README.md)           |
 | **#96** | [`Xsquare And Maximum Sum Subarray`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Maximum-Sum-Subarray/README.md)   |
+| **#97** | [`Update And Query`](./Advanced-Data-Structures/Segment-Trees/Update-and-Query/README.md)                                   |
