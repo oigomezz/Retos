@@ -1,4 +1,4 @@
-# XOR in Sequence
+# [XOR in Sequence][link]
 
 Given a sequence A consisting of N integer elements: A1, A2, .., AN.
 
@@ -16,3 +16,5 @@ Your task is to answer Q queries. Each query requires to count the number of pai
 ## Output format
 
 For each query, print the answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/xor-in-sequence/

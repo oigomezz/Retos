@@ -316,3 +316,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#96** | [`Xsquare And Maximum Sum Subarray`](./Advanced-Data-Structures/Segment-Trees/Xsquare-and-Maximum-Sum-Subarray/README.md)   |
 | **#97** | [`Update And Query`](./Advanced-Data-Structures/Segment-Trees/Update-and-Query/README.md)                                   |
 | **#98** | [`XOR in Tree`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Tree/README.md)                                             |
+| **#99** | [`XOR in Sequence`](./Advanced-Data-Structures/Segment-Trees/XOR-in-Sequence/README.md)                                     |
