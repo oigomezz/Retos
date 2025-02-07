@@ -1,4 +1,4 @@
-# Something Genuine
+# [Something Genuine][link]
 
 Jeffrey is the creator of the Fenêtres operating system, the most popular operating system in the world. Sales are dropping recently, and an initial inquiry into the issue turned up that some people were using pirated versions of Fenêtres. Developers of his company promised to crack down on those users. They implemented a feature — the pirated copy of the operating system would change to a black desktop background and display "This copy of Fenêtres is not genuine." But it's not empty words Jeffrey was after. There was something else he desired all along. He wants the raw data!
 
@@ -14,3 +14,5 @@ Therefore, you conducted a survey of N copies of Fenêtres, recording their lice
 ## Output format
 
 The first and only line of output should contain the result as described in the problem statement. Since this value may be large, you should output it modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/something-genuine/
