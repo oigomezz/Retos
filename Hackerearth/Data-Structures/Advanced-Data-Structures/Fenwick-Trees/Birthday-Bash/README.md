@@ -1,4 +1,4 @@
-# Birthday Bash
+# [Birthday Bash][link]
 
 Emma planned to buy a string S consisting of lowercase English characters of size N as a gift for her friend Ava on her birthday. Ava had Q other friends who also wanted to contribute but were not happy with the string. So all Q of her friends decide to do either of the two operations:
 
@@ -21,3 +21,5 @@ All of this was too much for Emma to handle alone. So she asked you to help her 
 ## Output format
 
 For each test case, print a string of size N denoting the final string.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/birthday-bash-ebb30537/
