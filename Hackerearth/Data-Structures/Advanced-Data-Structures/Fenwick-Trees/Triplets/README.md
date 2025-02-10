@@ -1,4 +1,4 @@
-# Triplets
+# [Triplets][link]
 
 You are given an integer n and two arrays each of which is a permutation of numbers from 1to n.
 
@@ -20,3 +20,5 @@ You are given an integer n and two arrays each of which is a permutation of numb
 ## Output format
 
 For each test case, print the number of ordered triplets in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/triplets-3-231a9aea/

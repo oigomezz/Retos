@@ -332,3 +332,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Storage manager`](./Advanced-Data-Structures/Fenwick-Trees/Storage-Manager/README.md)   |
 | **#03** | [`Birthday Bash`](./Advanced-Data-Structures/Fenwick-Trees/Birthday-Bash/README.md)       |
 | **#04** | [`Yasser's Medians`](./Advanced-Data-Structures/Fenwick-Trees/Yasser's-Medians/README.md) |
+| **#05** | [`Triplets`](./Advanced-Data-Structures/Fenwick-Trees/Triplets/README.md)                 |
