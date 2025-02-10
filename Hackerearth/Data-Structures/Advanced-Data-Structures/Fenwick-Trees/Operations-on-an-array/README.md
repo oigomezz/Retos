@@ -1,4 +1,4 @@
-# Operations on an array
+# [Operations on an array][link]
 
 You are given an array of n elements and an integer x. You must perform the following types of operations on the array:
 
@@ -19,3 +19,5 @@ For each query of type 1, print the index of the K-th occurrence of x.
 ## Output format
 
 Print q integers as the answer to type 1 queries. If there are no indexes that satisfy the condition, then print -1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/kth-element-2-7d970b44/
