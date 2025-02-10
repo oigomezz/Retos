@@ -1,4 +1,4 @@
-# Swapping numbers
+# [Swapping numbers][link]
 
 You are given a permutation p1,p2,...,pn of numbers from 1 to n.
 
@@ -14,3 +14,5 @@ If it is allowed to swap two elements of the permutation (not necessarily adjace
 ## Output format
 
 Print an integer denoting the minimum ugliness that we can get.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/move-minimization-8a9d3991/

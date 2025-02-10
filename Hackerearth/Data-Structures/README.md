@@ -334,3 +334,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Yasser's Medians`](./Advanced-Data-Structures/Fenwick-Trees/Yasser's-Medians/README.md) |
 | **#05** | [`Triplets`](./Advanced-Data-Structures/Fenwick-Trees/Triplets/README.md)                 |
 | **#06** | [`Range queries`](./Advanced-Data-Structures/Fenwick-Trees/Range-Queries/README.md)       |
+| **#07** | [`Swapping numbers`](./Advanced-Data-Structures/Fenwick-Trees/Swapping-Numbers/README.md) |
