@@ -335,3 +335,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Triplets`](./Advanced-Data-Structures/Fenwick-Trees/Triplets/README.md)                 |
 | **#06** | [`Range queries`](./Advanced-Data-Structures/Fenwick-Trees/Range-Queries/README.md)       |
 | **#07** | [`Swapping numbers`](./Advanced-Data-Structures/Fenwick-Trees/Swapping-Numbers/README.md) |
+| **#08** | [`A sorted string`](./Advanced-Data-Structures/Fenwick-Trees/A-Sorted-String/README.md)   |

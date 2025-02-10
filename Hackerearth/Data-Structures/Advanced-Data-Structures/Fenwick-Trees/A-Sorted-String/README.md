@@ -1,4 +1,4 @@
-# A sorted string
+# [A sorted string][link]
 
 You are given a string S of length N. The string contains only 'a', 'b', and 'c'.
 
@@ -14,3 +14,5 @@ Here, F(x) denotes the frequency of occurrence of character x in the string.
 ## Output format
 
 Print the count of substrings in string S that have F('a') > F('c') modulus 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/sorted-string-3-a95dada3/
