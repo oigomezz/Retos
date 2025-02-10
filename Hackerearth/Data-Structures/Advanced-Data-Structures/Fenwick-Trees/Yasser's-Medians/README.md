@@ -1,4 +1,4 @@
-# Yasser's Medians
+# [Yasser's Medians][link]
 
 Given N numbers and an integer K find:
 
@@ -16,3 +16,5 @@ Note that: the median of K numbers indexed from 1 is ((k+1)/2)-th smallest of th
 ## Output format
 
 Print the answer as described above.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/yassers-medians-b625cdde/
