@@ -325,3 +325,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#105** | [`Research on Numbers`](./Advanced-Data-Structures/Segment-Trees/Research-on-Numbers/README.md)                                            |
 
 ### [Fenwick (Binary Indexed) Trees](./Advanced-Data-Structures/Fenwick-Trees/README.md)
+
+| N°      | Enunciado                                                                         |
+| ------- | --------------------------------------------------------------------------------- |
+| **#01** | [`Count Tuples`](./Advanced-Data-Structures/Fenwick-Trees/Count-Tuples/README.md) |

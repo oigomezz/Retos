@@ -1,4 +1,4 @@
-# Count Tuples
+# [Count Tuples][link]
 
 You are given an array A having N integers. Find the number of triplets (i,j,k) such that
 
@@ -16,3 +16,5 @@ The median of three integers is the middle element after sorting the three integ
 ## Output format
 
 For each test case, print the number of triplets that satisfies the given conditions in a separate line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/median-triplets-2-6c348ffa/
