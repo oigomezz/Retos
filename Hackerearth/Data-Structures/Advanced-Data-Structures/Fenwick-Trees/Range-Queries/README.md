@@ -1,4 +1,4 @@
-# Range queries
+# [Range queries][link]
 
 You are given a permutation of N numbers that are denoted by array A.
 
@@ -20,3 +20,5 @@ Find the answer for Q queries.
 ## Output format
 
 For each test case, print Q space-separated integers denoting the answer for queries in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/range-queries-6-89a6d7c7/
