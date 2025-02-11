@@ -341,3 +341,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#11** | [`Heights of students`](./Advanced-Data-Structures/Fenwick-Trees/Heights-of-Students/README.md)       |
 | **#12** | [`Operations and tree`](./Advanced-Data-Structures/Fenwick-Trees/Operations-and-Tree/README.md)       |
 | **#13** | [`One Girl One Sequence`](./Advanced-Data-Structures/Fenwick-Trees/One-Girl-One-Sequence/README.md)   |
+| **#14** | [`Girls and the Boxes`](./Advanced-Data-Structures/Fenwick-Trees/Girls-and-the-Boxes/README.md)       |

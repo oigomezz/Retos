@@ -1,4 +1,4 @@
-# Girls and the Boxes
+# [Girls and the Boxes][link]
 
 You are given n boxes and each box contains two small boxes of Red and Blue color. The size of the Red and Blue colored boxes are b[i] and r[i] respectively.
 
@@ -16,3 +16,5 @@ Determine the maximum possible size of the suitable sequence.
 ## Output format
 
 Print only one integer representing the size of the maximum suitable sequence.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/girls-and-cups-f113fa57/
