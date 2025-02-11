@@ -343,3 +343,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#13** | [`One Girl One Sequence`](./Advanced-Data-Structures/Fenwick-Trees/One-Girl-One-Sequence/README.md)                                         |
 | **#14** | [`Girls and the Boxes`](./Advanced-Data-Structures/Fenwick-Trees/Girls-and-the-Boxes/README.md)                                             |
 | **#15** | [`Mojtabas Trees and Arpas Queries <March HourStorm>`](./Advanced-Data-Structures/Fenwick-Trees/Mojtabas-Trees-and-Arpas-Queries/README.md) |
+| **#16** | [`Mojtaba's Array and Arpa's Queries`](./Advanced-Data-Structures/Fenwick-Trees/Mojtaba's-Array-and-Arpa's-Queries/README.md)               |
