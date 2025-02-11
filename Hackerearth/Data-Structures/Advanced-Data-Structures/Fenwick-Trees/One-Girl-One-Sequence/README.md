@@ -1,4 +1,4 @@
-# One Girl One Sequence
+# [One Girl One Sequence][link]
 
 You are given a sequence of distinct integers a1,a2,...,an and an integer x and you have to perform the following operations:
 
@@ -16,3 +16,5 @@ What is the minimum cost to erase the whole sequence?
 ## Output format
 
 Print an integer denoting the minimum cost to erase the whole sequence.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/test-132-77fbf74d/
