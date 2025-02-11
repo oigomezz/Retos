@@ -1,4 +1,4 @@
-# Buy 'Em All
+# [Buy 'Em All][link]
 
 Alice went shopping with her Dad to a magical shop.
 
@@ -23,3 +23,5 @@ Alice's Dad has exactly k Rupees(Currency in India) and he wants to spend it all
 ## Output format
 
 Output a single number as asked in the question.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/buy-em-all-d972d5c9/
