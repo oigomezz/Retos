@@ -1,4 +1,4 @@
-# Count the permutations
+# [Count the permutations][link]
 
 You are given two sequences A and B of length N. Determine the number of different ways to permute the sequence A such that it is lexicographically smaller than the sequence B.
 
@@ -21,3 +21,5 @@ A permutation X of A is considered different from another permutation Y of A, if
 ## Output format
 
 Print the remainder of the final answer when divided by 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/count-the-permutations-06ecd021/
