@@ -337,3 +337,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Swapping numbers`](./Advanced-Data-Structures/Fenwick-Trees/Swapping-Numbers/README.md)             |
 | **#08** | [`A sorted string`](./Advanced-Data-Structures/Fenwick-Trees/A-Sorted-String/README.md)               |
 | **#09** | [`Operations on an array`](./Advanced-Data-Structures/Fenwick-Trees/Operations-on-an-array/README.md) |
+| **#10** | [`Retrieve passwords`](./Advanced-Data-Structures/Fenwick-Trees/Retrieve-passwords/README.md)         |

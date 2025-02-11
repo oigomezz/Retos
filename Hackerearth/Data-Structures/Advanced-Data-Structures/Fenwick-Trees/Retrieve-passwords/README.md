@@ -1,4 +1,4 @@
-# Retrieve passwords
+# [Retrieve passwords][link]
 
 A password is a number that is exactly divisible by 9. It is the largest number that can be formed by rearranging all the available digits in a provided range (L,R) inclusive and adding another number of your own choice to this sequence at any position. The password is missing a digit that must be added. You are also given an encrypted number. You are also provided q queries. The queries could be of two types.
 
@@ -20,3 +20,5 @@ You must retrieve the password.
 ## Output format
 
 For each query of type 2, print the x-th digit of the formed password.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/password-cracker-de8d54f1/
