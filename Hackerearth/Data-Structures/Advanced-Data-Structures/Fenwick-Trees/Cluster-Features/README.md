@@ -1,4 +1,4 @@
-# Cluster Features
+# [Cluster Features][link]
 
 Given n 2-dimensional data objects or points in a cluster, we can define the centroid (x0,y0), radius R and diameter D of the cluster where R is the average distance from member objects to the centroid, and D is the average pairwise distance within the cluster. Both R and D reflect the tightness of the cluster around the centroid.
 
@@ -15,3 +15,5 @@ Given p data objects or points, you are supposed to answer q queries. In the i-t
 ## Output format
 
 Output q lines each containing a single integer. i-th line denotes the value of nX0 + ny0 + n²R² + n(n-1) D² of the i-th cluster.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/cluster-features-b6d64df9/

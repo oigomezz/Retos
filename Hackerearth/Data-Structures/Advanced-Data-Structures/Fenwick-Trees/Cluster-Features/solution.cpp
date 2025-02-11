@@ -1,117 +1,155 @@
 #include <bits/stdc++.h>
-using namespace std;
-int lft[2250150], rgt[2250150], cnt = 0;
-vector<pair<int, int>> queriesY[20005];
-vector<int> pointsY[20005];
-vector<pair<pair<int, int>, pair<int, int>>> queries;
 
-struct datos
+using namespace std;
+const int MAXX = 150005;
+const int N = 20005;
+int x[MAXX], y[MAXX], queryx1[MAXX], queryx2[MAXX], queryy1[MAXX], queryy2[MAXX];
+enum borderState
+{
+  OPEN,
+  POINT,
+  CLOSE,
+};
+
+struct segmentBorder
+{
+  borderState state;
+  int yd, yu, x, idx;
+  bool operator<(const segmentBorder &s)
+  {
+    return x < s.x || (x == s.x && state < s.state);
+  }
+};
+
+struct BIT
 {
   int n;
-  unsigned long long sumx2, sumy2, sumx, sumy;
-  datos()
+  long long int ls, ss;
+  BIT operator+(const BIT &a)
   {
-    n = sumx = sumy = sumx2 = sumy2 = 0;
+    return {n + a.n, ls + a.ls, ss + a.ss};
   }
-  datos(int x, int y)
-  {
-    n = 1, sumx = x, sumx2 = x * x, sumy = y, sumy2 = y * y;
-  }
-  datos operator+(const datos &D) const
-  {
-    datos ret;
-    ret.n = n + D.n;
-    ret.sumx = sumx + D.sumx;
-    ret.sumx2 = sumx2 + D.sumx2;
-    ret.sumy = sumy + D.sumy;
-    ret.sumy2 = sumy2 + D.sumy2;
-    return ret;
-  }
-  datos operator-(const datos &D) const
-  {
-    datos ret;
-    ret.n = n - D.n;
-    ret.sumx = sumx - D.sumx;
-    ret.sumx2 = sumx2 - D.sumx2;
-    ret.sumy = sumy - D.sumy;
-    ret.sumy2 = sumy2 - D.sumy2;
-    return ret;
-  }
-} tree[2250150];
 
-datos bit[20005];
-map<pair<int, int>, datos> store[20005];
-void update(int pos, const datos &D)
+  BIT operator-(const BIT &a)
+  {
+    return {n - a.n, ls - a.ls, ss - a.ss};
+  }
+} B[N];
+
+BIT ans[2][MAXX];
+
+void updateBit(int idx, int val)
 {
-  for (; pos < 20005; pos += (pos & (-pos)))
-    bit[pos] = bit[pos] + D;
+  long long int valss = val * 1LL * val;
+  while (idx < N)
+  {
+    B[idx].n += 1;
+    B[idx].ls += val;
+    B[idx].ss += valss;
+    idx += idx & -idx;
+  }
 }
 
-datos get(int i)
+BIT getBit(int idx)
 {
-  datos ret;
-  for (; i; i -= (i & -i))
-    ret = ret + bit[i];
+  BIT ret = {0, 0LL, 0LL};
+  while (idx > 0)
+  {
+    ret.n += B[idx].n;
+    ret.ls += B[idx].ls;
+    ret.ss += B[idx].ss;
+    idx -= idx & -idx;
+  }
   return ret;
 }
 
-datos get(int l, int r)
+BIT get(int l, int r)
 {
-  return get(r) - get(l - 1);
+  return getBit(r) - getBit(l - 1);
 }
 
-void insert(int x, int y)
+void solve(int p, int q, int turn)
 {
-  datos D = datos(x, y);
-  update(y, D);
+  vector<segmentBorder> borders;
+  for (int i = 0; i < p; i++)
+  {
+    borders.push_back({POINT, y[i], -1, x[i], -1});
+  }
+
+  for (int i = 0; i < q; i++)
+  {
+    segmentBorder left_border({OPEN, queryy1[i], queryy2[i], queryx1[i], i});
+    segmentBorder right_border({CLOSE, queryy1[i], queryy2[i], queryx2[i], i});
+
+    borders.push_back(left_border);
+    borders.push_back(right_border);
+  }
+
+  sort(borders.begin(), borders.end());
+
+  for (int i = 0; i < borders.size(); i++)
+  {
+
+    if (borders[i].state == POINT)
+    {
+
+      updateBit(borders[i].yd, borders[i].x);
+    }
+    else if (borders[i].state == OPEN)
+    {
+      BIT val = get(borders[i].yd, borders[i].yu);
+      ans[turn][borders[i].idx] = ans[turn][borders[i].idx] - val;
+    }
+    else if (borders[i].state == CLOSE)
+    {
+      BIT val = get(borders[i].yd, borders[i].yu);
+      ans[turn][borders[i].idx] = ans[turn][borders[i].idx] + val;
+    }
+  }
 }
 
-unsigned long long get_ans(datos D)
+long long int magic(BIT t)
 {
-  return D.sumx + D.sumy + 3 * (D.n * (D.sumx2 + D.sumy2) - D.sumx * D.sumx - D.sumy * D.sumy);
-}
-
-datos query(int x1, int y1, int x2, int y2)
-{
-  return store[x2][{y1, y2}] - store[x1 - 1][{y1, y2}];
-}
-
-void yes(int x, int y)
-{
-  assert(x >= 1 && x <= 20000 && y >= 1 && y <= 20000);
+  unsigned long long int ret = t.n * 1ULL * t.ss - t.ls * 1ULL * t.ls;
+  ret = ret * 3ULL;
+  ret += t.ls;
+  return ret;
 }
 
 int main()
 {
-  ios_base::sync_with_stdio(false);
-  cin.tie(NULL);
-  cout.tie(NULL);
   int p, q;
   cin >> p >> q;
-  for (int i = 1; i <= p; i++)
+  for (int i = 0; i < p; i++)
   {
-    int x, y;
-    cin >> x >> y;
-    yes(x, y);
-    pointsY[x].push_back(y);
+    cin >> x[i] >> y[i];
   }
-  for (int i = 1; i <= q; i++)
+  for (int i = 0; i < q; i++)
   {
-    int a, b, c, d;
-    cin >> a >> c >> b >> d;
-    yes(a, b);
-    yes(c, d);
-    queries.push_back({{a, b}, {c, d}});
-    queriesY[a - 1].push_back({b, d});
-    queriesY[c].push_back({b, d});
+    cin >> queryx1[i] >> queryx2[i] >> queryy1[i] >> queryy2[i];
   }
-  for (int x = 0; x < 20005; x++)
+
+  solve(p, q, 0);
+
+  for (int i = 0; i < p; i++)
   {
-    for (int y : pointsY[x])
-      insert(x, y);
-    for (auto y : queriesY[x])
-      store[x][y] = get(y.first, y.second);
+    swap(x[i], y[i]);
   }
-  for (auto it : queries)
-    cout << get_ans(query(it.first.first, it.first.second, it.second.first, it.second.second)) << endl;
+
+  for (int i = 0; i < q; i++)
+  {
+    swap(queryx1[i], queryy1[i]);
+    swap(queryx2[i], queryy2[i]);
+  }
+
+  memset(B, 0, sizeof B);
+  solve(p, q, 1);
+
+  for (int i = 0; i < q; i++)
+  {
+    unsigned long long int val = magic(ans[0][i]) + magic(ans[1][i]);
+    printf("%llu\n", val);
+  }
+
+  return 0;
 }
