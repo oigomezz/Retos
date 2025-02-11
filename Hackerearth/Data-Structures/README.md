@@ -326,19 +326,20 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Fenwick (Binary Indexed) Trees](./Advanced-Data-Structures/Fenwick-Trees/README.md)
 
-| N°      | Enunciado                                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------- |
-| **#01** | [`Count Tuples`](./Advanced-Data-Structures/Fenwick-Trees/Count-Tuples/README.md)                     |
-| **#02** | [`Storage manager`](./Advanced-Data-Structures/Fenwick-Trees/Storage-Manager/README.md)               |
-| **#03** | [`Birthday Bash`](./Advanced-Data-Structures/Fenwick-Trees/Birthday-Bash/README.md)                   |
-| **#04** | [`Yasser's Medians`](./Advanced-Data-Structures/Fenwick-Trees/Yasser's-Medians/README.md)             |
-| **#05** | [`Triplets`](./Advanced-Data-Structures/Fenwick-Trees/Triplets/README.md)                             |
-| **#06** | [`Range queries`](./Advanced-Data-Structures/Fenwick-Trees/Range-Queries/README.md)                   |
-| **#07** | [`Swapping numbers`](./Advanced-Data-Structures/Fenwick-Trees/Swapping-Numbers/README.md)             |
-| **#08** | [`A sorted string`](./Advanced-Data-Structures/Fenwick-Trees/A-Sorted-String/README.md)               |
-| **#09** | [`Operations on an array`](./Advanced-Data-Structures/Fenwick-Trees/Operations-on-an-array/README.md) |
-| **#10** | [`Retrieve passwords`](./Advanced-Data-Structures/Fenwick-Trees/Retrieve-passwords/README.md)         |
-| **#11** | [`Heights of students`](./Advanced-Data-Structures/Fenwick-Trees/Heights-of-Students/README.md)       |
-| **#12** | [`Operations and tree`](./Advanced-Data-Structures/Fenwick-Trees/Operations-and-Tree/README.md)       |
-| **#13** | [`One Girl One Sequence`](./Advanced-Data-Structures/Fenwick-Trees/One-Girl-One-Sequence/README.md)   |
-| **#14** | [`Girls and the Boxes`](./Advanced-Data-Structures/Fenwick-Trees/Girls-and-the-Boxes/README.md)       |
+| N°      | Enunciado                                                                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Count Tuples`](./Advanced-Data-Structures/Fenwick-Trees/Count-Tuples/README.md)                                                           |
+| **#02** | [`Storage manager`](./Advanced-Data-Structures/Fenwick-Trees/Storage-Manager/README.md)                                                     |
+| **#03** | [`Birthday Bash`](./Advanced-Data-Structures/Fenwick-Trees/Birthday-Bash/README.md)                                                         |
+| **#04** | [`Yasser's Medians`](./Advanced-Data-Structures/Fenwick-Trees/Yasser's-Medians/README.md)                                                   |
+| **#05** | [`Triplets`](./Advanced-Data-Structures/Fenwick-Trees/Triplets/README.md)                                                                   |
+| **#06** | [`Range queries`](./Advanced-Data-Structures/Fenwick-Trees/Range-Queries/README.md)                                                         |
+| **#07** | [`Swapping numbers`](./Advanced-Data-Structures/Fenwick-Trees/Swapping-Numbers/README.md)                                                   |
+| **#08** | [`A sorted string`](./Advanced-Data-Structures/Fenwick-Trees/A-Sorted-String/README.md)                                                     |
+| **#09** | [`Operations on an array`](./Advanced-Data-Structures/Fenwick-Trees/Operations-on-an-array/README.md)                                       |
+| **#10** | [`Retrieve passwords`](./Advanced-Data-Structures/Fenwick-Trees/Retrieve-passwords/README.md)                                               |
+| **#11** | [`Heights of students`](./Advanced-Data-Structures/Fenwick-Trees/Heights-of-Students/README.md)                                             |
+| **#12** | [`Operations and tree`](./Advanced-Data-Structures/Fenwick-Trees/Operations-and-Tree/README.md)                                             |
+| **#13** | [`One Girl One Sequence`](./Advanced-Data-Structures/Fenwick-Trees/One-Girl-One-Sequence/README.md)                                         |
+| **#14** | [`Girls and the Boxes`](./Advanced-Data-Structures/Fenwick-Trees/Girls-and-the-Boxes/README.md)                                             |
+| **#15** | [`Mojtabas Trees and Arpas Queries <March HourStorm>`](./Advanced-Data-Structures/Fenwick-Trees/Mojtabas-Trees-and-Arpas-Queries/README.md) |
