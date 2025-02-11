@@ -1,4 +1,4 @@
-# Operations and tree
+# [Operations and tree][link]
 
 Yuqi has an rooted indexed tree T of N nodes indexed from 1 to N. The node 1 is the root. Now on each node there is a value V[i].
 
@@ -28,3 +28,5 @@ Now he gives you the list of magic to proceed. You need to proceed them in order
 ## Output format
 
 For each magic 4, output the answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/tree-party-score-ba8a07b7/

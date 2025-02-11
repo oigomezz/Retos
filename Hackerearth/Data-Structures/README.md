@@ -339,3 +339,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Operations on an array`](./Advanced-Data-Structures/Fenwick-Trees/Operations-on-an-array/README.md) |
 | **#10** | [`Retrieve passwords`](./Advanced-Data-Structures/Fenwick-Trees/Retrieve-passwords/README.md)         |
 | **#11** | [`Heights of students`](./Advanced-Data-Structures/Fenwick-Trees/Heights-of-Students/README.md)       |
+| **#12** | [`Operations and tree`](./Advanced-Data-Structures/Fenwick-Trees/Operations-and-Tree/README.md)       |
