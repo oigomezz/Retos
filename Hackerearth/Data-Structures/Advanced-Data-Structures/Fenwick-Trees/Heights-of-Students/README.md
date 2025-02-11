@@ -1,4 +1,4 @@
-# Heights of students
+# [Heights of students][link]
 
 All N students of a class are standing on a straight line behind one other student. For example, student 2 is standing behind student 1, student 3 is standing behind student 2, and so on until the N-th student.
 
@@ -18,3 +18,5 @@ Now you can help minimize this sadness. Your task is to minimize the happiness l
 ## Output format
 
 For each test case, print the minimum total happiness that can be achived.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/assembly-5e181b92/
