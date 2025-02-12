@@ -1,4 +1,4 @@
-# Hacker with Team
+# [Hacker with Team][link]
 
 Alex has learnt many new concepts in hacking, and created his own team. He has N people (excluding Alex) in his team, where i-th person has individual skill value S[i] where 1 <= i <= N. They are standing in a particular order, where 1-st person being the leftmost person and N-th person being the rightmost person.
 
@@ -27,3 +27,5 @@ Being a great hacker, he is busy with other tasks, and needs your help in perfor
 ## Output format
 
 For each operation of the 1-st type, print the required answer in the new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/hacker-with-hack-function-03dd9bc0/
