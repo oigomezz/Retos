@@ -1,4 +1,4 @@
-# Mancunian and Twin Permutations
+# [Mancunian and Twin Permutations][link]
 
 You are given two arrays A and B of the same length N. Each is a permutation of the integers from 1 to N. You are allowed to perform operations on the first array. Each operation consists of swapping the values at any two indices in the first array.
 
@@ -15,3 +15,5 @@ There will be Q queries. Each query is specified by a quadruplet (L1,R1,L2,R2) w
 ## Output format
 
 For each query, output the answer in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/mancunian-and-twin-permutations-d988930c/
