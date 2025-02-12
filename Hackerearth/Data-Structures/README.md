@@ -348,3 +348,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#18** | [`Buy 'Em All`](./Advanced-Data-Structures/Fenwick-Trees/Buy-Em-All/README.md)                                                              |
 | **#19** | [`Cluster Features`](./Advanced-Data-Structures/Fenwick-Trees/Cluster-Features/README.md)                                                   |
 | **#20** | [`Increasing Subsequence`](./Advanced-Data-Structures/Fenwick-Trees/Increasing-Subsequence/README.md)                                       |
+| **#21** | [`HP and Splitting of Array`](./Advanced-Data-Structures/Fenwick-Trees/HP-and-Splitting-of-Array/README.md)                                 |

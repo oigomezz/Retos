@@ -1,4 +1,4 @@
-# HP and Splitting of Array
+# [HP and Splitting of Array][link]
 
 HP recently started learning about a property called inversion count. An inversion count of an array indicates how far from (or close to) being sorted the array is. If the array is already sorted, the inversion count is 0; if it's sorted in reverse order, the inversion count is maximal.
 
@@ -17,3 +17,5 @@ HP wants to know the inversion counts of i-rotations of array A. Compute this in
 ## Output format
 
 For each test case, print a single line containing N space-separated integers. The i-th of these integers should denote the inversion count of the i-rotation of A, for each 1 <= i <= N.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/hp-and-splitting-of-array-b8a54f7a/
