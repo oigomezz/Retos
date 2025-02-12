@@ -356,3 +356,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#26** | [`Permutation and Inversions`](./Advanced-Data-Structures/Fenwick-Trees/Permutation-and-Inversions/README.md)                               |
 | **#27** | [`Hacker with Team`](./Advanced-Data-Structures/Fenwick-Trees/Hacker-with-Team/README.md)                                                   |
 | **#28** | [`Micro and Array Function`](./Advanced-Data-Structures/Fenwick-Trees/Micro-and-Array-Function/README.md)                                   |
+| **#29** | [`Convoluted Operations`](./Advanced-Data-Structures/Fenwick-Trees/Convoluted-Operations/README.md)                                         |

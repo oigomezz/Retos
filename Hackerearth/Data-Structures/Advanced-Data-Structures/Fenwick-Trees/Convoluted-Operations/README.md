@@ -1,4 +1,4 @@
-# Convoluted Operations
+# [Convoluted Operations][link]
 
 Mishki is quite interested in playing games, and recently she found an empty stack. Now she wants to perform 3 types of operations on the stack:
 
@@ -16,3 +16,5 @@ Can you help her in performing the above operations ?
 ## Output format
 
 Print the required answer for each of the 3-rd type of operation, in new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/convoluted-operations/
