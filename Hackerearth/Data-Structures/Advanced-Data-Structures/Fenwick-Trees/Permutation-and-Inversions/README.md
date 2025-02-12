@@ -1,4 +1,4 @@
-# Permutation and Inversions
+# [Permutation and Inversions][link]
 
 For a permutation P of N numbers, let us define the cyclic shift of P as another permutation Pd such that Pd[i] = P[i+1] for all i from 1 to N-1, and Pd[N] = P[1].
 
@@ -17,3 +17,5 @@ First line of input contains an integer T, denoting the number of test cases. Ea
 ## Output format
 
 For each testcase, print an integer, the bitwise XOR of the number of inversions in each permutation which are created by cyclic shifts on the initial permutation.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/permutation-and-inversions-43b5147e/

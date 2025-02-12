@@ -352,4 +352,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`Mancunian and Twin Permutations`](./Advanced-Data-Structures/Fenwick-Trees/Mancunian-and-Twin-Permutations/README.md)                     |
 | **#23** | [`Beautiful pair of nodes`](./Advanced-Data-Structures/Fenwick-Trees/Beautiful-pair-of-nodes/README.md)                                     |
 | **#24** | [`COD love!! [Medium]`](./Advanced-Data-Structures/Fenwick-Trees/COD-love/README.md)                                                        |
-| **#25** | [`Triplets`](./Advanced-Data-Structures/Fenwick-Trees/Triplets/README.md)|
+| **#25** | [`Mr. Sinister and his World`](./Advanced-Data-Structures/Fenwick-Trees/Mr.Sinister-and-his-World/README.md)                                |
+| **#26** | [`Permutation and Inversions`](./Advanced-Data-Structures/Fenwick-Trees/Permutation-and-Inversions/README.md)                               |
