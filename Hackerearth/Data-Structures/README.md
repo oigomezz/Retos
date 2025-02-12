@@ -350,3 +350,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#20** | [`Increasing Subsequence`](./Advanced-Data-Structures/Fenwick-Trees/Increasing-Subsequence/README.md)                                       |
 | **#21** | [`HP and Splitting of Array`](./Advanced-Data-Structures/Fenwick-Trees/HP-and-Splitting-of-Array/README.md)                                 |
 | **#22** | [`Mancunian and Twin Permutations`](./Advanced-Data-Structures/Fenwick-Trees/Mancunian-and-Twin-Permutations/README.md)                     |
+| **#23** | [`Beautiful pair of nodes`](./Advanced-Data-Structures/Fenwick-Trees/Beautiful-pair-of-nodes/README.md)                                     |
