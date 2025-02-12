@@ -1,4 +1,4 @@
-# COD love!! [Medium]
+# [COD love!! [Medium]][link]
 
 Gurpreet and Shyamu were playing COD(yes you read right that is Call of Duty). As you all know Gurpreet is too good in it. Shyamu being jealous give Gurpreet a problem to solve so that he can clear more missions than him.
 
@@ -17,3 +17,5 @@ In each query Gurpreet has to delete kth occurence of character ch. And at the e
 ## Output format
 
 A String in single line after performing all queries.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/delete-kth-character/
