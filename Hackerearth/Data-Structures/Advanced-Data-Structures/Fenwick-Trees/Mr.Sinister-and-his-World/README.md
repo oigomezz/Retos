@@ -1,4 +1,4 @@
-# Mr. Sinister and his World
+# [Mr. Sinister and his World][link]
 
 It is a very bad time for human race, as powerful mutant Mr. Sinister has taken control of the world. He is killing a lot of people. The world is one dimensional and at most one man can stay at one point of the world. The points are numbered from (1,0) to (INF,0) where INF denotes infinity.
 
@@ -26,3 +26,5 @@ As Mr. Sinister is not a very good programmer, can you help answer all queries o
 ## Output format
 
 For each query of type 2, print three integers, the maximum distance between any two adjacent humans and the co-ordinate of this two humans. The co-ordinate have to be printed in increasing order.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/mr-sinister-and-his-world-4cc82c88/
