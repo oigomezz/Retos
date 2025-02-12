@@ -1,4 +1,4 @@
-# Micro and Array Function
+# [Micro and Array Function][link]
 
 Micro has made a breakthrough. He made a function which he proudly calls Micro's Array Fucntion. It takes an array of integers A and an integer K as input and optimally finds out the number of unordered pairs (i,j), i != j such that |A[i] - A[j]| >= K.
 
@@ -13,3 +13,5 @@ Micro is getting a lot of recognition because of it. His best friend Mike wants 
 ## Output format
 
 For each test case, print the value of g(A,K) in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/micro-and-array-function/
