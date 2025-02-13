@@ -366,3 +366,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#36** | [`Utkarsh and Party Row House`](./Advanced-Data-Structures/Fenwick-Trees/Utkarsh-and-Party-Row-House/README.md)                             |
 | **#37** | [`Gori's Crush`](./Advanced-Data-Structures/Fenwick-Trees/Gori's-Crush/README.md)                                                           |
 | **#38** | [`Dilku and Love Triangle`](./Advanced-Data-Structures/Fenwick-Trees/Dilku-and-Love-Triangle/README.md)                                     |
+| **#39** | [`Valentina and the Gift Tree`](./Advanced-Data-Structures/Fenwick-Trees/Valentina-and-the-Gift-Tree/README.md)                             |
