@@ -1,4 +1,4 @@
-# Vanya and Array
+# [Vanya and Array][link]
 
 Let's define 2 functions a function F(i) and Val(i,j) for an Array A of size N as follows:
 
@@ -16,3 +16,5 @@ Now, Vanya has been given one such array A of size N and an integer K. She needs
 ## Output format
 
 You need to print the required answer on a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/vanya-and-array-4/

@@ -360,3 +360,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`K-th mean path`](./Advanced-Data-Structures/Fenwick-Trees/K-th-Mean-Path/README.md)                                                       |
 | **#31** | [`Counting In Byteland`](./Advanced-Data-Structures/Fenwick-Trees/Counting-In-Byteland/README.md)                                           |
 | **#32** | [`Buy and Sell !`](./Advanced-Data-Structures/Fenwick-Trees/Buy-and-Sell/README.md)                                                         |
+| **#33** | [`Vanya and Array`](./Advanced-Data-Structures/Fenwick-Trees/Vanya-and-Array/README.md)                                                     |
