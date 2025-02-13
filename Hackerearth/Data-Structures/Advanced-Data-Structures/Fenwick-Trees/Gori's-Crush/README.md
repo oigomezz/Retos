@@ -1,4 +1,4 @@
-# Gori's Crush
+# [Gori's Crush][link]
 
 Our web developer Gori is having this huge crush on a girl of his batch. But he is very afraid of proposing her. He does not know whether to do it or not. He told this to his best friend Micro, who is an astrologer. Micro came up with an idea to help Gori. He is having a list of N fortune numbers. He asked Gori two numbers, say a & b (a<=b). He also asked two numbers from Gori's crush, say c & d (c<=d) (The numbers a, b, c & d do not necessarily belong to the list). Then he made two lists from fortune numbers. One having fortune numbers which lie between a & b (inclusive) and one having fortune numbers which lie between c & d (inclusive). Then he counted the number of same elements in the two lists and called it the Matching factor, say m. Micro has a special number say k, now if m >= k, then Gori should propose his crush, otherwise not.
 
@@ -15,3 +15,5 @@ But Gori was not satisified with just one result. So they followed above procedu
 ## Output format
 
 For each query of type 1, print "Propose" (without quotes) in a new line if for given a, b, c & d value of matching factor, m ≥ k, otherwise print "Do not propose" (without quotes) in a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/goris-crush/
