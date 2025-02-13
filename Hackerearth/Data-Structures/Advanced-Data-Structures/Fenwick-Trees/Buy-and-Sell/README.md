@@ -1,4 +1,4 @@
-# Buy and Sell
+# [Buy and Sell][link]
 
 A good and robust is always difficult to design, however, its benefits are unlimited and is much better in the long term.
 
@@ -29,3 +29,5 @@ Initially the stock list is empty. For each query of the 3rd type, you need to p
 ## Output format
 
 For each query of the 3rd type, print the answer on a new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/buy-and-sell/
