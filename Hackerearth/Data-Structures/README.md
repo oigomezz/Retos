@@ -362,3 +362,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`Buy and Sell !`](./Advanced-Data-Structures/Fenwick-Trees/Buy-and-Sell/README.md)                                                         |
 | **#33** | [`Vanya and Array`](./Advanced-Data-Structures/Fenwick-Trees/Vanya-and-Array/README.md)                                                     |
 | **#34** | [`Jiraiya and Rasengan Attacks`](./Advanced-Data-Structures/Fenwick-Trees/Jiraiya-and-Rasengan-Attacks/README.md)                           |
+| **#35** | [`3B - Bear and Special Dfs`](./Advanced-Data-Structures/Fenwick-Trees/3B-Bear-and-Special-DFS/README.md)                                   |
