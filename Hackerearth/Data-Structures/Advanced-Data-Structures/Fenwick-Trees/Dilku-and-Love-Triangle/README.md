@@ -1,4 +1,4 @@
-# Dilku and Love Triangle
+# [Dilku and Love Triangle][link]
 
 Dilku, as we all know, is very fond of girls. This time, he is trapped into a love triangle!
 
@@ -26,3 +26,5 @@ All integers in a description of a query are separated by a single space.
 ## Output format
 
 For each query of the second type, output a single line containing a single integer representing the answer to this query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/dilku-and-love-triangle/
