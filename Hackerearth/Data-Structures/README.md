@@ -358,3 +358,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#28** | [`Micro and Array Function`](./Advanced-Data-Structures/Fenwick-Trees/Micro-and-Array-Function/README.md)                                   |
 | **#29** | [`Convoluted Operations`](./Advanced-Data-Structures/Fenwick-Trees/Convoluted-Operations/README.md)                                         |
 | **#30** | [`K-th mean path`](./Advanced-Data-Structures/Fenwick-Trees/K-th-Mean-Path/README.md)                                                       |
+| **#31** | [`Counting In Byteland`](./Advanced-Data-Structures/Fenwick-Trees/Counting-In-Byteland/README.md)|

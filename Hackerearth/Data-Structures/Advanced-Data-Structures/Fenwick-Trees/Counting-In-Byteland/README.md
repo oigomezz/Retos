@@ -1,4 +1,4 @@
-# Counting In Byteland
+# [Counting In Byteland][link]
 
 For once, lets assume Byteland to be a 3 dimensional space of size N X N X N. The Lolympics Committee has decided that every contingent representing a country will stay in a hotel at a particular coordinate denoted by its x-axis, y-axis and z-axis. Now, the Players Welfare Association(PWA) has to answer some queries as well as give accommodation to the Lolympic players. There will be Q number of queries which can be of two types:
 
@@ -13,3 +13,5 @@ For once, lets assume Byteland to be a 3 dimensional space of size N X N X N. Th
 ## Output format
 
 Print the answer for query 2 in a single line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/counting-in-byteland/
