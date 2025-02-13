@@ -361,3 +361,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#31** | [`Counting In Byteland`](./Advanced-Data-Structures/Fenwick-Trees/Counting-In-Byteland/README.md)                                           |
 | **#32** | [`Buy and Sell !`](./Advanced-Data-Structures/Fenwick-Trees/Buy-and-Sell/README.md)                                                         |
 | **#33** | [`Vanya and Array`](./Advanced-Data-Structures/Fenwick-Trees/Vanya-and-Array/README.md)                                                     |
+| **#34** | [`Jiraiya and Rasengan Attacks`](./Advanced-Data-Structures/Fenwick-Trees/Jiraiya-and-Rasengan-Attacks/README.md)                           |

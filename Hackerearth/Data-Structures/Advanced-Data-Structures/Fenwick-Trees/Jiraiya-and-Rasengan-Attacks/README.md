@@ -1,4 +1,4 @@
-# Jiraiya and Rasengan Attacks
+# [Jiraiya and Rasengan Attacks][link]
 
 Naruto has started training from Jiraiya to develop the most powerful Rasengan attack. Jiraiya as always uses weird training exercises.
 
@@ -14,3 +14,5 @@ To make the task a little difficult, he chooses a subsegment of the permutation 
 ## Output format
 
 Print (A \* B⁻¹) mod 10⁹ + 7 where A / B is the Expected value of number of Rasengan attacks he need to sort P (expressed as an irreducible fraction)
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/jiraiya-and-rasengan-attacks-circuit-1/
