@@ -1,4 +1,4 @@
-# Utkarsh and Party Row House
+# [Utkarsh and Party Row House][link]
 
 In the college where Utkarsh studies, all the students live in N Row Houses. The colony containing the Row Houses is a straight line = x axis. Ith Row House is located at x = i and Ai students live in it.
 
@@ -18,3 +18,5 @@ Utkarsh wants you to handle Q events. An event can be one of the following 2 typ
 ## Output format
 
 Print the result to all events of type 1.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/utkarsh-and-party-row-house-february-easy/
