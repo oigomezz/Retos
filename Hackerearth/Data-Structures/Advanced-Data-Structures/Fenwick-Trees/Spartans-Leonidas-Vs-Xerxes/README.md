@@ -1,4 +1,4 @@
-# Spartans: Leonidas Vs Xerxes
+# [Spartans: Leonidas Vs Xerxes][link]
 
 The battle of Thermopylae is between the Persians and Greeks during the Persian invasion. The Greek force is very small but determined to make a stand against the huge Persian army.
 
@@ -25,3 +25,5 @@ At any time, King Xerxes will do two operations:
 ## Output format
 
 For Each query of type 0, Print the answer as asked in the problem.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/spartans-leonidas-vs-xerxes-monk/

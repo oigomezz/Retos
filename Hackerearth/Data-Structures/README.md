@@ -371,3 +371,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#41** | [`Shil and Round Numbers`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Round-Numbers/README.md)                                       |
 | **#42** | [`Shil and Wave seqeunce`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Wave-seqeunce/README.md)                                       |
 | **#43** | [`Shil and Palindrome Research`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Palindrome-Research/README.md)                           |
+| **#44** | [`Spartans : Leonidas Vs Xerxes`](./Advanced-Data-Structures/Fenwick-Trees/Spartans-Leonidas-Vs-Xerxes/README.md)                           |
