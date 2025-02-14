@@ -1,4 +1,4 @@
-# Shil and Palindrome Research
+# [Shil and Palindrome Research][link]
 
 Shil got interested in palindrome research. For that he needs some research data for a particular string S. To obtain this data he has some queries of following type:
 
@@ -17,3 +17,5 @@ Since you decided to help Shil with his research, its your responsibililty to ma
 ## Output format
 
 For each query of 2nd type, output "yes" or "no" without the quotes.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/shil-and-palindrome-research/
