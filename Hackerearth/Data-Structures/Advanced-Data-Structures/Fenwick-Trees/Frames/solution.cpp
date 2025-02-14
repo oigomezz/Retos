@@ -1,92 +1,98 @@
 #include <bits/stdc++.h>
 using namespace std;
-long n, m, d[2050][2050], u[2050][2050], l[2050][2050], r[2050][2050], ul[2050][2050], dr[2050][2050], t[2050], board[2050][2050];
 
-void add(long ps, long val)
+const int MAXN = 2e3 + 3;
+int BIT[MAXN];
+char mat[MAXN][MAXN];
+pair<int, int> dp[MAXN][MAXN], rdp[MAXN][MAXN];
+vector<pair<int, int>> top;
+vector<int> del[MAXN];
+int n, m, MAX;
+
+inline int min(pair<int, int> p)
 {
-  for (; ps <= n; ps = (ps | (ps + 1)))
-    t[ps] += val;
+  return min(p.first, p.second);
 }
 
-long sum(long r)
+void update(int k, int delta)
 {
-  long res = 0;
-  for (; r >= 0; r = (r & (r + 1)) - 1)
-    res += t[r];
-  return res;
+  while (k <= MAX)
+  {
+    BIT[k] += delta;
+    k += k & -k;
+  }
 }
 
-long sum(long l, long r)
+int getSum(int k)
 {
-  return sum(r) - sum(l - 1);
+  int ret = 0;
+  while (k > 0)
+  {
+    ret += BIT[k];
+    k -= k & -k;
+  }
+  return ret;
 }
 
 int main()
 {
-  ios_base::sync_with_stdio(0);
-  cin.tie(NULL);
-  cout.tie(NULL);
-  long long ans = 0;
-  cin >> n >> m;
-  for (int i = 0; i <= n + 1; i++)
-    for (int j = 0; j <= m + 1; j++)
-      board[i][j] = 1;
-  for (int i = 1; i <= n; i++)
+
+  scanf("%d %d\n", &n, &m);
+  for (int i = 1; i <= n; ++i)
   {
-    string st;
-    cin >> st;
-    for (int j = 1; j <= m; j++)
-      board[i][j] = st[j - 1] - 48;
-  }
-  for (int i = n; i; --i)
-    for (int j = m; j; --j)
+    scanf("%s\n", mat[i] + 1);
+    for (int j = 1; j <= m; ++j)
     {
-      r[i][j] = r[i][j + 1] + 1;
-      d[i][j] = d[i + 1][j] + 1;
-      if (board[i][j] == 1)
-        r[i][j] = d[i][j] = 0;
-    }
-  for (int i = 1; i <= n; i++)
-    for (int j = 1; j <= m; j++)
-    {
-      u[i][j] = u[i - 1][j] + 1;
-      l[i][j] = l[i][j - 1] + 1;
-      if (board[i][j] == 1)
-        u[i][j] = l[i][j] = 0;
-    }
-  for (int i = 1; i <= n; i++)
-    for (int j = 1; j <= m; j++)
-    {
-      ul[i][j] = min(u[i][j], l[i][j]);
-      dr[i][j] = min(d[i][j], r[i][j]);
-    }
-  for (int Dif = -n - m; Dif <= n + m; Dif++)
-  {
-    vector<long> event[2050];
-    for (int i = 1; i <= n; i++)
-      event[i].clear();
-    for (int i = 0; i <= n; i++)
-      t[i] = 0;
-    for (int i = 1; i <= n; i++)
-    {
-      for (int j = 0; j < event[i].size(); j++)
+      if (mat[i][j] == '0')
       {
-        long ps = event[i][j];
-        add(ps, -1);
+        dp[i][j].first = dp[i][j - 1].first + 1;
+        dp[i][j].second = dp[i - 1][j].second + 1;
       }
-      long j = i + Dif;
-      if (j < 1 || j > m)
-        continue;
-      if (board[i][j])
-        continue;
-      add(i, 1);
-      long q = dr[i][j];
-      if (i + q <= n)
-        event[i + q].push_back(i);
-      q = ul[i][j];
-      ans += sum(i - q + 1, i);
     }
   }
-  cout << ans << endl;
-  return 0;
+  for (int i = n; i > 0; --i)
+  {
+    for (int j = m; j > 0; --j)
+    {
+      if (mat[i][j] == '0')
+      {
+        rdp[i][j].first = rdp[i][j + 1].first + 1;
+        rdp[i][j].second = rdp[i + 1][j].second + 1;
+      }
+    }
+  }
+
+  int x, y, pos;
+  MAX = min(m, n);
+  top.push_back(pair<int, int>(1, 1));
+  for (int i = 2; i <= n; ++i)
+    top.push_back(pair<int, int>(i, 1));
+  for (int i = 2; i <= m; ++i)
+    top.push_back(pair<int, int>(1, i));
+  long long res = 0;
+  for (int i = 0; i < top.size(); ++i)
+  {
+    x = top[i].first, y = top[i].second;
+    pos = 0;
+    memset(BIT, 0, sizeof(BIT));
+    for (int j = 1; j <= MAX; ++j)
+      del[j].clear();
+    while (x <= n && y <= m)
+    {
+      pos++;
+      for (int j = 0; j < del[pos].size(); ++j)
+      {
+        update(del[pos][j], -1);
+      }
+      if (mat[x][y] == '0')
+      {
+        del[pos + min(rdp[x][y])].push_back(pos);
+        update(pos, 1);
+        res += getSum(pos) - getSum(pos - min(dp[x][y]) - 1);
+      }
+      x++;
+      y++;
+    }
+  }
+  cout << res;
 }
