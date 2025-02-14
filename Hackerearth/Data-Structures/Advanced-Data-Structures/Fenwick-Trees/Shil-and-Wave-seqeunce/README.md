@@ -1,4 +1,4 @@
-# Shil and Wave seqeunce
+# [Shil and Wave seqeunce][link]
 
 Given a sequence A1 , A2 , A3 .. AN of length N . Find total number of wave subsequences having length greater than 1.
 
@@ -12,3 +12,5 @@ Wave subsequence of sequence A1 , A2 , A3 .. AN is defined as a set of integers 
 ## Output format
 
 Output total number of wave subsequences of given sequence . Since answer can be large, output it modulo 10⁹ + 7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/shil-and-wave-seqeuncemonk/
