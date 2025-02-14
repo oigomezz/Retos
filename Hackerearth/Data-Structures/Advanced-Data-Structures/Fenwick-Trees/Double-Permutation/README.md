@@ -1,4 +1,4 @@
-# Double Permutation
+# [Double Permutation][link]
 
 Ted has a random problem. This morning, he took two arrays consisting of permutations of the first N natural numbers and concatenated them together into a single array. But during his lunch break, his co-worker, Calvin, shuffled the numbers around!
 
@@ -16,3 +16,5 @@ Since Ted doesn't like real numbers with a lot of digits after the decimal point
 ## Output format
 
 Output one integer, the expected number of inversions times 2^N modulo 10⁹+7.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/double-permutation/
