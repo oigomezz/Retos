@@ -1,4 +1,4 @@
-# 2 vs 3
+# [2 vs 3][link]
 
 The fight for the best number in the globe is going to finally come to an end.The top two contenders for the best number are number 2 and number 3.It's the final the entire world was waiting for. Expectorates from all across the globe came to witness the breath taking finals.
 
@@ -21,3 +21,5 @@ The problem proved to be a really tough one for both of them.Hours passed by but
 ## Output format
 
 For each query of Type 0 print the value modulo 3
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/2-vs-3/
