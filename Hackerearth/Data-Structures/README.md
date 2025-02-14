@@ -373,4 +373,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#43** | [`Shil and Palindrome Research`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Palindrome-Research/README.md)                           |
 | **#44** | [`Spartans : Leonidas Vs Xerxes`](./Advanced-Data-Structures/Fenwick-Trees/Spartans-Leonidas-Vs-Xerxes/README.md)                           |
 | **#45** | [`2 vs 3`](./Advanced-Data-Structures/Fenwick-Trees/2vs3/README.md)                                                                         |
-| **#46** | [`Rotations and Inversions`](./Advanced-Data-Structures/Fenwick-Trees/Rotations-and-Inversions/README.md)|
+| **#46** | [`Rotations and Inversions`](./Advanced-Data-Structures/Fenwick-Trees/Rotations-and-Inversions/README.md)                                   |
+| **#47** | [`Ambiguous Tree`](./Advanced-Data-Structures/Fenwick-Trees/Ambiguous-Tree/README.md)                                                       |
