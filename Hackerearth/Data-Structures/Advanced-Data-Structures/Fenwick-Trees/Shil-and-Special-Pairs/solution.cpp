@@ -1,31 +1,56 @@
 #include <bits/stdc++.h>
+#include <string>
+#include <vector>
 using namespace std;
-long long int bt[100011], ans[100011];
-int N, pos[100011];
+
+typedef long long int ll;
+typedef vector<int> vi;
+typedef pair<int, int> ii;
+typedef vector<ii> vii;
+typedef vector<vi> vvi;
+typedef vector<vii> vvii;
+
+#define INF 1e18
+#define MOD 1000000007
+#define pb push_back
+#define mp make_pair
+#define fi first
+#define se second
+#define loop(i, n) for (ll i = 0; i < n; i++)
+#define leep(i, n) for (ll i = 1; i <= n; i++)
+
+const int maxn = 1e5 + 6;
+ll n, m, d;
+ll a[maxn], pos[maxn], res[maxn], BIT[maxn];
+
+struct Query
+{
+  int l, r, pos;
+  bool operator<(const Query &q2)
+  {
+    return r < q2.r;
+  }
+};
+vector<Query> Q(maxn);
 
 void update(int ind)
 {
-  while (ind <= N)
+  while (ind <= n)
   {
-    bt[ind]++;
-    ind += (ind & -ind);
+    BIT[ind]++;
+    ind += ind & (-ind);
   }
 }
 
-long long int query(int ind)
+ll query(ll ind)
 {
-  long long int ans = 0;
+  ll sum = 0;
   while (ind > 0)
   {
-    ans += bt[ind];
-    ind -= (ind & -ind);
+    sum += BIT[ind];
+    ind -= ind & (-ind);
   }
-  return ans;
-}
-
-bool func(pair<pair<long long int, long long int>, long long int> a, pair<pair<long long int, long long int>, long long int> b)
-{
-  return a.first.second < b.first.second;
+  return sum;
 }
 
 int main()
@@ -33,34 +58,43 @@ int main()
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
   cout.tie(NULL);
-  int M, D;
-  cin >> N >> M >> D;
-  int p[N + 1], l, r, ind, j = 0;
-  for (int i = 1; i <= N; i++)
+
+  cin >> n >> m >> d;
+
+  for (int i = 1; i <= n; i++)
   {
-    cin >> p[i];
-    pos[p[i]] = i;
+    cin >> a[i];
+    pos[a[i]] = i;
   }
-  vector<pair<pair<long long int, long long int>, long long int>> Q;
-  for (int i = 0; i < M; i++)
+
+  for (int i = 0; i < m; i++)
   {
-    cin >> l >> r;
-    Q.push_back(make_pair(make_pair(l, r), i));
+    cin >> Q[i].l >> Q[i].r;
+    Q[i].pos = i;
   }
-  sort(Q.begin(), Q.end(), func);
-  for (int i = 1; i <= N; i++)
+
+  sort(Q.begin(), Q.begin() + m);
+  int k = 0;
+  for (int i = 1; i <= n; i++)
   {
-    for (int k = max(1, p[i] - D); k <= min(N, p[i] + D); k++)
+
+    for (int j = max(1LL, a[i] - d); j <= min(n, a[i] + d); j++)
     {
-      if (pos[k] <= i)
-        update(pos[k]);
+      if (pos[j] <= i)
+        update(pos[j]);
     }
-    while (j < Q.size() and Q[j].first.second == i)
+
+    while (k < m && Q[k].r == i)
     {
-      ans[Q[j].second] = query(Q[j].first.second) - query(Q[j].first.first - 1);
-      j++;
+      res[Q[k].pos] = query(i) - query(Q[k].l - 1);
+      k++;
     }
   }
-  for (int i = 0; i < M; i++)
-    cout << ans[i] << endl;
+
+  for (int i = 0; i < m; i++)
+  {
+    cout << res[i] << "\n";
+  }
+
+  return 0;
 }

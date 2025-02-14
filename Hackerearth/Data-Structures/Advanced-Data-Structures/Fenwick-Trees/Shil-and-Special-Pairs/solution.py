@@ -1,46 +1,57 @@
+INF = 1e18
+MOD = 1000000007
+maxn = int(1e5) + 6
+Q = [None] * maxn
+
+
+class Query:
+    def __init__(self, l, r, pos):
+        self.l = l
+        self.r = r
+        self.pos = pos
+
+    def __lt__(self, other):
+        return self.r < other.r
+
+
 def update(ind):
-    while ind <= N:
-        bt[ind] += 1
-        ind += (ind & -ind)
+    while ind <= n:
+        BIT[ind] += 1
+        ind += ind & (-ind)
 
 
 def query(ind):
-    ans = 0
+    suma = 0
     while ind > 0:
-        ans += bt[ind]
-        ind -= (ind & -ind)
-    return ans
+        suma += BIT[ind]
+        ind -= ind & (-ind)
+    return suma
 
 
-def func(a, b):
-    return a[0][1] < b[0][1]
+n, m, d = map(int, input().split())
+a = [0] * maxn
+pos = [0] * maxn
+res = [0] * maxn
+BIT = [0] * maxn
+arr = list(map(int, input().split()))
+for i in range(1, n + 1):
+    a[i] = arr[i - 1]
+    pos[a[i]] = i
 
-
-N, M, D = map(int, input().split())
-bt = [0] * (N + 1)
-ans = [0] * M
-pos = [0] * (N + 1)
-p = [0] * (N + 1)
-
-permutation = list(map(int, input().split()))
-for i in range(1, N + 1):
-    p[i] = permutation[i-1]
-    pos[p[i]] = i
-
-Q = []
-for i in range(M):
+for i in range(m):
     l, r = map(int, input().split())
-    Q.append(((l, r), i))
+    Q[i] = Query(l, r, i)
 
-Q.sort()
-j = 0
+Q = sorted(Q[:m])
+k = 0
+for i in range(1, n + 1):
+    for j in range(max(1, a[i] - d), min(n, a[i] + d) + 1):
+        if pos[j] <= i:
+            update(pos[j])
 
-for i in range(1, N + 1):
-    for k in range(max(1, p[i] - D), min(N, p[i] + D) + 1):
-        if pos[k] <= i:
-            update(pos[k])
-    while j < len(Q) and Q[j][0][1] == i:
-        ans[Q[j][1]] = query(Q[j][0][1]) - query(Q[j][0][0] - 1)
-        j += 1
+    while k < m and Q[k].r == i:
+        res[Q[k].pos] = query(i) - query(Q[k].l - 1)
+        k += 1
 
-print('\n'.join(map(str, ans)))
+for i in range(m):
+    print(res[i])

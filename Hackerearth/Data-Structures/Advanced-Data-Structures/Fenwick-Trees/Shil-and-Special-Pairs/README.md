@@ -1,4 +1,4 @@
-# Shil and Special Pairs
+# [Shil and Special Pairs][link]
 
 Shil has a permutation p1, p2, ..., pN of numbers from 1 to N and M queries. Each query consists of two integers l and r. Answer to each query is total number of pairs[i , j] such that l ≤ i ≤ j ≤ r and|pi - pj| ≤ D.
 
@@ -11,3 +11,5 @@ Shil has a permutation p1, p2, ..., pN of numbers from 1 to N and M queries. Eac
 ## Output format
 
 Output M integers with i-th integer corresponding answer to i-th query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/shil-and-special-pairs/
