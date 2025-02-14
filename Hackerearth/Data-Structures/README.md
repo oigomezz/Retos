@@ -367,4 +367,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#37** | [`Gori's Crush`](./Advanced-Data-Structures/Fenwick-Trees/Gori's-Crush/README.md)                                                           |
 | **#38** | [`Dilku and Love Triangle`](./Advanced-Data-Structures/Fenwick-Trees/Dilku-and-Love-Triangle/README.md)                                     |
 | **#39** | [`Valentina and the Gift Tree`](./Advanced-Data-Structures/Fenwick-Trees/Valentina-and-the-Gift-Tree/README.md)                             |
-| **#40** | [`Shil and Special Pairs`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Special-Pairs/README.md)|
+| **#40** | [`Shil and Special Pairs`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Special-Pairs/README.md)                                       |
+| **#41** | [`Shil and Round Numbers`](./Advanced-Data-Structures/Fenwick-Trees/Shil-and-Round-Numbers/README.md)                                       |
