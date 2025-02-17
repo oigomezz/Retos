@@ -1,4 +1,4 @@
-# Distinct Digits I
+# [Distinct Digits I][link]
 
 Andi and Bob are best friends. They both are good programmers as well. They love programming together because if one of them gets stuck on some problem other can help. But these days Andi is quite busy as his exams are approaching. So, Bob has to tackle the problems alone. While practicing on HackerEarth Bob encounters an interesting problem which he was unable to solve efficiently. So, he asked Andi for help.
 
@@ -20,3 +20,5 @@ Given an array of N elements, Q queries need to be processed over this array. A 
 ## Output format
 
 For each query of type 2 print the desired answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/distinct-digits-i-6/
