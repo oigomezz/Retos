@@ -21,4 +21,4 @@ There are two types of queries:
 
 For each of the type 2 queries, output an integer denoting the decimal value of the binary representation of the queried range modulo 10⁹ + 7.
 
-[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/bob-and-string-easy/
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-mod-query-ffd459d7/
