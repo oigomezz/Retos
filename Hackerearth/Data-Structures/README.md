@@ -377,3 +377,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#47** | [`Ambiguous Tree`](./Advanced-Data-Structures/Fenwick-Trees/Ambiguous-Tree/README.md)                                                       |
 | **#48** | [`Double Permutation`](./Advanced-Data-Structures/Fenwick-Trees/Double-Permutation/README.md)                                               |
 | **#49** | [`Frames`](./Advanced-Data-Structures/Fenwick-Trees/Frames/README.md)                                                                       |
+| **#50** | [`Sherlock and Inversions`](./Advanced-Data-Structures/Fenwick-Trees/Sherlock-and-Inversions/README.md)                                     |

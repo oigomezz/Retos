@@ -1,4 +1,4 @@
-# Sherlock and Inversions
+# [Sherlock and Inversions][link]
 
 Watson gives to Sherlock an array of N integers denoted by A1, A2 ... AN.
 
@@ -14,3 +14,5 @@ Inversions in a subarray denoted by [a, b] are number of pairs (i, j) such that 
 ## Output format
 
 For each query, print the required answer in one line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/sherlock-and-inversions/

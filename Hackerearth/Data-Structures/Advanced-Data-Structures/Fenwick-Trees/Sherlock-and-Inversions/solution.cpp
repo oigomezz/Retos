@@ -1,82 +1,134 @@
 #include <bits/stdc++.h>
 using namespace std;
-int N, bit[200010];
 
-bool cmp(const pair<pair<int, int>, int> &a, const pair<pair<int, int>, int> &b)
-{
-  if (a.first.first / 300 != b.first.first / 300)
-    return a.first.first / 300 < b.first.first / 300;
-  return a.first.second < b.first.second;
-}
+const int N = 1e5 + 5;
+const int sq = sqrtl(N);
 
-inline void add(int x, int v)
+struct Query
 {
-  for (; x <= N; x += x & -x)
-    bit[x] += v;
-}
+  int l, r, id;
+  bool operator<(const Query &q) const
+  {
+    if (l / sq != q.l / sq)
+    {
+      return l < q.l;
+    }
+    if ((l / sq) & 1)
+    {
+      return r < q.r;
+    }
+    return r > q.r;
+  }
+};
 
-inline int sum(int x)
+template <typename T>
+struct fenwick
 {
-  int ret = 0;
-  for (; x > 0; x -= x & -x)
-    ret += bit[x];
-  return ret;
-}
+  int n;
+  vector<T> fen;
+  fenwick(int n)
+  {
+    this->n = n + 1;
+    fen.assign(n + 1, 0);
+  }
+  void update(int x, int val)
+  {
+    x++;
+    while (x < n)
+    {
+      fen[x] += val;
+      x += x & -x;
+    }
+  }
+  T query(int x)
+  {
+    T res = 0;
+    x++;
+    while (x > 0)
+    {
+      res += fen[x];
+      x -= x & -x;
+    }
+    return res;
+  }
+  T query(int l, int r)
+  {
+    return query(r) - query(l - 1);
+  }
+};
 
 int main()
 {
   ios_base::sync_with_stdio(false);
-  cin.tie(NULL);
-  cout.tie(NULL);
-  int Q, A[200010], X[200010], l = 1, r = 1, pre = -1;
-  long long ans[200000], inv = 0;
-  pair<pair<int, int>, int> queries[200000];
-  cin >> N >> Q;
-  for (int i = 1; i <= N; i++)
+  cin.tie(0);
+
+  int n, x;
+  cin >> n >> x;
+
+  vector<int> a(n), t;
+  for (int i = 0; i < n; ++i)
   {
-    cin >> A[i];
-    X[i] = A[i];
+    cin >> a[i];
+    t.push_back(a[i]);
   }
-  sort(X + 1, X + 1 + N);
-  for (int i = 1; i <= N; i++)
-    A[i] = lower_bound(X + 1, X + 1 + N, A[i]) - X;
-  for (int i = 0; i < Q; i++)
+
+  vector<long long> res(x);
+
+  vector<Query> q(x);
+  for (int i = 0; i < x; ++i)
   {
-    cin >> queries[i].first.first >> queries[i].first.second;
-    queries[i].second = i;
+    cin >> q[i].l >> q[i].r;
+    q[i].l--, q[i].r--;
+    q[i].id = i;
   }
-  sort(queries, queries + Q, cmp);
-  for (int i = 0; i < Q; i++)
+
+  sort(q.begin(), q.end());
+
+  sort(t.begin(), t.end());
+  for (auto &xx : a)
   {
-    if (queries[i].first.first / 300 != pre)
+    xx = lower_bound(t.begin(), t.end(), xx) - t.begin() + 1;
+  }
+
+  fenwick<int> ds(n + 5);
+
+  long long inv = 0;
+
+  int l = 0, r = 0;
+
+  for (int i = 0; i < x; ++i)
+  {
+    while (r <= q[i].r)
     {
-      memset(bit, 0, sizeof bit);
-      l = r = queries[i].first.first;
-      add(A[queries[i].first.first], 1);
-      inv = 0;
-      pre = queries[i].first.first / 300;
+      inv += ds.query(a[r] + 1, n + 4);
+      ds.update(a[r], 1);
+      r++;
     }
-    while (l < queries[i].first.first)
+    while (r - 1 > q[i].r)
     {
-      inv -= sum(A[l] - 1);
-      add(A[l], -1);
-      l++;
+      r--;
+      ds.update(a[r], -1);
+      inv -= ds.query(a[r] + 1, n + 4);
     }
-    while (l > queries[i].first.first)
+    while (l > q[i].l)
     {
       l--;
-      add(A[l], 1);
-      inv += sum(A[l] - 1);
+      inv += ds.query(0, a[l] - 1);
+      ds.update(a[l], 1);
     }
-    while (r < queries[i].first.second)
+    while (l < q[i].l)
     {
-      r++;
-      add(A[r], 1);
-      inv += (r - l + 1) - sum(A[r]);
+      ds.update(a[l], -1);
+      inv -= ds.query(0, a[l] - 1);
+      l++;
     }
-    ans[queries[i].second] = inv;
+    res[q[i].id] = inv;
   }
-  for (int i = 0; i < Q; i++)
-    cout << ans[i] << endl;
+
+  for (int i = 0; i < x; ++i)
+  {
+    cout << res[i] << '\n';
+  }
+
   return 0;
 }
