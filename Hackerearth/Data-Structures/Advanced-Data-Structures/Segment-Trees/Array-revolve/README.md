@@ -38,4 +38,4 @@ You are given an array A(1-based index) consisting of N integers. You have to pr
 
 For each type 2 query, output the answer modulo 10⁹ + 7 in a new line.
 
-[link]: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/bob-and-string-easy/
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/array-revolve-b9c514cb/
