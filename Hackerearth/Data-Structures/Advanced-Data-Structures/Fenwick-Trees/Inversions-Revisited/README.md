@@ -1,4 +1,4 @@
-# Inversions Revisited
+# [Inversions Revisited][link]
 
 Most of us know how to count the number of inversions in an array. An inversion in an array is a pair of indices(i,j) such that a[i] > a[j] and i < j.
 
@@ -13,3 +13,5 @@ In this problem you are given 2 arrays A and B and you have to return number of 
 ## Output format
 
 Print the total number of pairs satisfying the above condition.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/inversions-revisited/
