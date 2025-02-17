@@ -1,4 +1,4 @@
-# Gifts
+# [Gifts][link]
 
 This festive Season HackerEarth decided to send gifts to all of its contributors. Xsquare , Sentinel , Subway , darkshadows and Venomous got their favourite gifts i.e ,an array full of integers. Contrary to that ma5termind got his favourite string str consisting of upper case letters 'A' , 'B' , 'C' , 'D' and 'E' only. To avoid any kind of comparison ,all the gifts are of same size i.e N. As HackerEarth promotes a very friendly culture, all of them have decided to play together with these gifts. For the purpose to serve ...
 
@@ -52,3 +52,5 @@ Although they love this game, but all of them have to go to a party tonight. So,
 ## Output format
 
 Output consists of several lines. For each task of type Qs, print the required answer.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/gifts/
