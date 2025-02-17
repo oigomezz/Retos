@@ -1,4 +1,4 @@
-# Distinct Digits II
+# [Distinct Digits II][link]
 
 Andi and Bob are the best friends of each other.They both are good programmers as well,They like to do programming together so that if one finds any difficulty other can help.But these days Andi is quite busy as his exams are on the way . So, Bob has to do programming alone.while practising on HackerEarth Bob encounters an interesting problem which he was unable to solve efficiently.So, he asked for Andi's help.
 
@@ -22,3 +22,5 @@ Given an array of N elements and Q queries need to be processed over this array.
 ## Output format
 
 For each query of type MIN and MAX print two space seperated integers number of distinct digits and number of such numbers.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/distinct-digits-ii-1/
