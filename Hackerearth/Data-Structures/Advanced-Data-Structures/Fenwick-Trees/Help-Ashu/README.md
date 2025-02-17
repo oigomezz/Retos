@@ -1,4 +1,4 @@
-# Help Ashu
+# [Help Ashu][link]
 
 Ashu and Shanu are best buddies. One day Shanu gives Ashu a problem to test his intelligence.He gives him an array of N natural numbers and asks him to solve the following queries:
 
@@ -13,3 +13,5 @@ Ashu and Shanu are best buddies. One day Shanu gives Ashu a problem to test his 
 - 0 x y - modify the number at index x to y.
 - 1 x y - count the number of even numbers in range l to r inclusive.
 - 2 x y - count the number of odd numbers in range l to r inclusive.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/
