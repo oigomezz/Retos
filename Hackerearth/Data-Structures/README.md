@@ -379,3 +379,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#49** | [`Frames`](./Advanced-Data-Structures/Fenwick-Trees/Frames/README.md)                                                                       |
 | **#50** | [`Sherlock and Inversions`](./Advanced-Data-Structures/Fenwick-Trees/Sherlock-and-Inversions/README.md)                                     |
 | **#51** | [`Help Ashu`](./Advanced-Data-Structures/Fenwick-Trees/Help-Ashu/README.md)                                                                 |
+| **#52** | [`String query`](./Advanced-Data-Structures/Fenwick-Trees/String-Query/README.md)                                                           |

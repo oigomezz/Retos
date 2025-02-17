@@ -1,4 +1,4 @@
-# String query
+# [String query][link]
 
 Given a string s and m queries. For each query delete the K-th occurence of a character x.
 
@@ -9,3 +9,5 @@ The first line contains the string s followed by an integer m. The string consis
 ## Output format
 
 Print the string after all the m queries.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/string-query-22/
