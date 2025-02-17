@@ -1,4 +1,4 @@
-# Gaming Triples
+# [Gaming Triples][link]
 
 All the Games are not Mathematical at all but Mathematical games are generally favourite of all. Ananya offered such a Mathematical game to Sarika. Ananya starts dictating the rules of the game to Sarika. Sarika finds the game interesting and wishes to play it. Ananya said that they have an array of N elements. Each second either Ananya or Sarika can make a move. First one to make a move can select any 3 elements from the given array which satisfies the following condition.
 
@@ -30,3 +30,5 @@ Ananya and Sarika move alternatively and play optimally. Determine the winner of
 ## Output format
 
 Output consists of 2\*T lines. 2 lines corresponding to each test case. First line contains name of the winner of the game and second line contains number of seconds for which the game lasts.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/gaming-triples/

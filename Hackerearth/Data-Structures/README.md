@@ -382,3 +382,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#52** | [`String query`](./Advanced-Data-Structures/Fenwick-Trees/String-Query/README.md)                                                           |
 | **#53** | [`Inversions Revisited`](./Advanced-Data-Structures/Fenwick-Trees/Inversions-Revisited/README.md)                                           |
 | **#54** | [`Gifts`](./Advanced-Data-Structures/Fenwick-Trees/Gifts/README.md)                                                                         |
+| **#55** | [`Gaming Triples`](./Advanced-Data-Structures/Fenwick-Trees/Gaming-Triples/README.md)                                                       |
