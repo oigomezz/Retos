@@ -403,3 +403,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`One mismatch`](./Advanced-Data-Structures/Suffix-Arrays/One-mismatch/README.md)                                         |
 | **#05** | [`Joseph and String`](./Advanced-Data-Structures/Suffix-Arrays/Joseph-and-String/README.md)                               |
 | **#06** | [`Cats Substrings`](./Advanced-Data-Structures/Suffix-Arrays/Cats-Substrings/README.md)                                   |
+| **#07** | [`Sonya and string shifts`](./Advanced-Data-Structures/Suffix-Arrays/Sonya-and-String-Shifts/README.md)                   |
