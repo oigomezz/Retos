@@ -392,3 +392,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | -------------------------------------------------------------------------------------- |
 | **#01** | [`Computer Virus`](./Advanced-Data-Structures/Suffix-Trees/Computer-Virus/README.md)   |
 | **#02** | [`Power of String`](./Advanced-Data-Structures/Suffix-Trees/Power-of-String/README.md) |
+
+### [Suffix Arrays](./Advanced-Data-Structures/Suffix-Arrays/README.md)
+
+| N°      | Enunciado                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------- |
+| **#01** | [`Concert capacity`](./Advanced-Data-Structures/Suffix-Arrays/Concert-Capacity/README.md) |

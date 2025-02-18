@@ -1,4 +1,4 @@
-# Concert capacity
+# [Concert capacity][link]
 
 A concert is organized in an auditorium with capacity C. They have opened a booking system where fans can buy tickets by giving their group size, entry time and exit time. The organizers want to accommodate all the groups in order to maximize profit. All this information is stored in a 2D array audience, where audience[i] = [strength, entry time, exit time].
 
@@ -13,3 +13,5 @@ A concert is organized in an auditorium with capacity C. They have opened a book
 ## Output format
 
 Print a string representing if it is possible to accommodate all groups.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/concert-capacity-2cef594a/
