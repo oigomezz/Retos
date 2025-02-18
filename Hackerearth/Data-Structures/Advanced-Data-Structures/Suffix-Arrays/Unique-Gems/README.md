@@ -1,4 +1,4 @@
-# Unique Gems
+# [Unique Gems][link]
 
 Rahul has entered into a mysterious land of gems. There is a record S for each of the gems that is maintained in form of a string. Each gem is characterized by some substring of this string. Interestingly, the number of occurrences of a sub-string in S is the exact number of such gems present in the land.
 
@@ -12,3 +12,5 @@ However, Rahul is only interested in unique gems. Please tell the number of such
 ## Output format
 
 The output file should contain exactly T numbers, each representing output to corresponding test case.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/unique-gems/
