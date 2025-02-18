@@ -1,4 +1,4 @@
-# Maximum binary numbers
+# [Maximum binary numbers][link]
 
 A large binary number is represented by a string A of size N and comprises of 0s and 1s. You must perform a cyclic shift on this string. The cyclic shift operation is defined as follows:
 
@@ -16,3 +16,5 @@ You performed the shift infinite number of times and each time you recorded the 
 ## Output format
 
 For each test case, print a single line containing one integer that represents the number of cyclic shift operations performed such that the value represented by string Ais equal to B for the K-th time.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/maximum-binary-number-2980dd7b/

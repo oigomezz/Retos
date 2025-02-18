@@ -395,6 +395,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Suffix Arrays](./Advanced-Data-Structures/Suffix-Arrays/README.md)
 
-| N°      | Enunciado                                                                                 |
-| ------- | ----------------------------------------------------------------------------------------- |
-| **#01** | [`Concert capacity`](./Advanced-Data-Structures/Suffix-Arrays/Concert-Capacity/README.md) |
+| N°      | Enunciado                                                                                             |
+| ------- | ----------------------------------------------------------------------------------------------------- |
+| **#01** | [`Concert capacity`](./Advanced-Data-Structures/Suffix-Arrays/Concert-Capacity/README.md)             |
+| **#02** | [`Maximum binary numbers`](./Advanced-Data-Structures/Suffix-Arrays/Maximum-Binary-Numbers/README.md) |
