@@ -388,6 +388,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Suffix Trees](./Advanced-Data-Structures/Suffix-Trees/README.md)
 
-| N°      | Enunciado                                                                            |
-| ------- | ------------------------------------------------------------------------------------ |
-| **#01** | [`Computer Virus`](./Advanced-Data-Structures/Suffix-Trees/Computer-Virus/README.md) |
+| N°      | Enunciado                                                                              |
+| ------- | -------------------------------------------------------------------------------------- |
+| **#01** | [`Computer Virus`](./Advanced-Data-Structures/Suffix-Trees/Computer-Virus/README.md)   |
+| **#02** | [`Power of String`](./Advanced-Data-Structures/Suffix-Trees/Power-of-String/README.md) |
