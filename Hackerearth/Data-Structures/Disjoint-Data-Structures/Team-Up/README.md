@@ -1,4 +1,4 @@
-# Team Up
+# [Team Up][link]
 
 N children want to play a game, so they need to form teams. Each child has strength. The strength of the i-th children is i. Initially, no team is created, and all children are on their own, so there are N teams in the beginning.
 
@@ -20,3 +20,5 @@ For each query of type 2, you need to output two things, the team's size and tot
 ## Output format
 
 For each test case, output an array that contains the answer for every query of type 2.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/team-up-2-8dc5d882/

@@ -408,3 +408,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Unique Gems`](./Advanced-Data-Structures/Suffix-Arrays/Unique-Gems/README.md)                                           |
 | **#10** | [`The Suffix Matches`](./Advanced-Data-Structures/Suffix-Arrays/The-Suffix-Matches/README.md)                             |
 | **#11** | [`Little bear and strings`](./Advanced-Data-Structures/Suffix-Arrays/Little-bear-and-strings/README.md)                   |
+
+### [Basics of Disjoint Data Structures](./Advanced-Data-Structures/Disjoint-Data-Structures/README.md)
+
+| N°      | Enunciado                                                                          |
+| ------- | ---------------------------------------------------------------------------------- |
+| **#01** | [`Team Up`](./Advanced-Data-Structures/Disjoint-Data-Structures/Team-Up/README.md) |
