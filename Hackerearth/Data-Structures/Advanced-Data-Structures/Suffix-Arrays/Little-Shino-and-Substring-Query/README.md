@@ -1,4 +1,4 @@
-# Little Shino and Substring Query
+# [Little Shino and Substring Query][link]
 
 Given N words and Q queries. Each query will have a string. You have to print two integers. Index of lexicographical smallest and largest string that contains the query string as substring. If there are multiple lexicographical smallest string, print the smallest index. If there are multiple lexicographical largest string, print the largest index. If there is no word that contains the query string as substring, print 1.
 
@@ -13,3 +13,5 @@ Given N words and Q queries. Each query will have a string. You have to print tw
 ## Output format
 
 Print the index of lexicographical smallest and largest string that contains the string S as substring.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/little-shino-and-substring-query-2/
