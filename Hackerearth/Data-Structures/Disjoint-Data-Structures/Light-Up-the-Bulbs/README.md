@@ -1,4 +1,4 @@
-# Light Up the Bulbs
+# [Light Up the Bulbs][link]
 
 Demon has a warehouse and he wants to light up the warehouse by lighting N bulbs on the ceiling. Consider the ceiling as a coordinate axis and Demon knows the X - Y coordinates of the bulbs that need to be put at the ceiling. Now the bulbs need to be connected with each other using wires. Demon wants to know the minimum sum of the square of the length of wires required to connect the bulbs.
 
@@ -12,3 +12,5 @@ Demon has a warehouse and he wants to light up the warehouse by lighting N bulbs
 ## Output format
 
 Output the minimum length of wire required to connect the light bulbs.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/a-69-5718e916/
