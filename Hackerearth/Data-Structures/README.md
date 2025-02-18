@@ -406,3 +406,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Sonya and string shifts`](./Advanced-Data-Structures/Suffix-Arrays/Sonya-and-String-Shifts/README.md)                   |
 | **#08** | [`DifDif`](./Advanced-Data-Structures/Suffix-Arrays/DifDif/README.md)                                                     |
 | **#09** | [`Unique Gems`](./Advanced-Data-Structures/Suffix-Arrays/Unique-Gems/README.md)                                           |
+| **#10** | [`The Suffix Matches`](./Advanced-Data-Structures/Suffix-Arrays/The-Suffix-Matches/README.md)                             |

@@ -1,4 +1,4 @@
-# The Suffix Matches
+# [The Suffix Matches][link]
 
 Rob needs to give a string to each of his students. There is huge string S that is known to all. He doesn't want to work much, hence decides to give each of them, some prefix of S.
 
@@ -15,3 +15,5 @@ So, now you are to help in this computation. So, given an integer i, find the lo
 ## Output format
 
 Output q lines each containing the answer as explained above.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/the-suffix-matches-4/
