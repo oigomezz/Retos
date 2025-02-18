@@ -407,3 +407,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`DifDif`](./Advanced-Data-Structures/Suffix-Arrays/DifDif/README.md)                                                     |
 | **#09** | [`Unique Gems`](./Advanced-Data-Structures/Suffix-Arrays/Unique-Gems/README.md)                                           |
 | **#10** | [`The Suffix Matches`](./Advanced-Data-Structures/Suffix-Arrays/The-Suffix-Matches/README.md)                             |
+| **#11** | [`Little bear and strings`](./Advanced-Data-Structures/Suffix-Arrays/Little-bear-and-strings/README.md)                   |
