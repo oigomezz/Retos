@@ -1,112 +1,204 @@
 #include <bits/stdc++.h>
-using namespace std;
-string s[2005];
-char _s[4000100];
-int ql[1000100], qr[1000100], qans[1000100], last[4000100], base;
-vector<int> queries[2005][2005], ones[2005];
+#define lli long long int
+#define llu unsigned long long int
+#define ld long double
+#define all(v) v.begin(), v.end()
+#define pb push_back
+#define mp make_pair
+#define F first
+#define S second
+#define si(n) scanf("%d", &n)
+#define slli(n) scanf("%lld", &n);
+#define ss(n) scanf("%s", n);
 
-struct E
+const lli MOD = 1000000007ll;
+int INF = (int)1e9;
+
+using namespace std;
+
+lli bit_count(lli _x)
 {
-  int pre, suf, mx, len;
-  E() : pre(0), suf(0), mx(0), len(0) {}
-  E(int x) : pre(x), suf(x), mx(x), len(x) {}
-  E(const E &l, const E &r)
+  lli _ret = 0;
+  while (_x)
   {
-    len = l.len + r.len;
-    if (l.len == l.mx)
-      pre = l.len + r.pre;
+    if (_x % 2 == 1)
+      _ret++;
+    _x /= 2;
+  }
+  return _ret;
+}
+lli bit(lli _mask, lli _i) { return (_mask & (1ll << _i)) == 0 ? 0 : 1; }
+lli powermod(lli _a, lli _b, lli _m = MOD)
+{
+  lli _r = 1;
+  while (_b)
+  {
+    if (_b % 2 == 1)
+      _r = (_r * _a) % _m;
+    _b /= 2;
+    _a = (_a * _a) % _m;
+  }
+  return _r;
+}
+lli add(lli a, lli b, lli m = MOD)
+{
+  lli x = a + b;
+  while (x >= m)
+    x -= m;
+  while (x < 0)
+    x += m;
+  return x;
+}
+lli sub(lli a, lli b, lli m = MOD)
+{
+  lli x = a - b;
+  while (x < 0)
+    x += m;
+  while (x >= m)
+    x -= m;
+  return x;
+}
+lli mul(lli a, lli b, lli m = MOD)
+{
+  lli x = a * 1ll * b;
+  x %= m;
+  while (x < 0)
+    x += m;
+  return x;
+}
+
+struct SegtreeNode
+{
+  int l, r, best, sz;
+};
+
+struct Segtree
+{
+  typedef SegtreeNode stt;
+  static const int MAXN = 4000010;
+  stt Segtree[4 * MAXN];
+
+  stt MergeSegTree(stt a, stt b)
+  {
+    stt temp;
+
+    temp.sz = a.sz + b.sz;
+    if (a.l == a.sz)
+      temp.l = a.sz + b.l;
     else
-      pre = l.pre;
-    if (r.len == r.mx)
-      suf = r.len + l.suf;
+      temp.l = a.l;
+    if (b.r == b.sz)
+      temp.r = b.sz + a.r;
     else
-      suf = r.suf;
-    mx = max(max(l.mx, r.mx), l.suf + r.pre);
+      temp.r = b.r;
+    temp.best = max(a.best, b.best);
+    temp.best = max(temp.best, a.r + b.l);
+
+    return temp;
+  }
+
+  void BuildSegTree(int s, int e, int idx)
+  {
+    if (s == e)
+    {
+      Segtree[idx].l = Segtree[idx].r = 0;
+      Segtree[idx].best = 0;
+      Segtree[idx].sz = 1;
+    }
+    else
+    {
+      int mid = (s + e) >> 1;
+      BuildSegTree(s, mid, 2 * idx + 1);
+      BuildSegTree(mid + 1, e, 2 * idx + 2);
+      Segtree[idx] = MergeSegTree(Segtree[2 * idx + 1], Segtree[2 * idx + 2]);
+    }
+  }
+
+  void UpdateSegTree(int s, int e, int x, int idx)
+  {
+    if (s == e)
+    {
+      Segtree[idx].l = Segtree[idx].r = 1;
+      Segtree[idx].best = 1;
+      Segtree[idx].sz = 1;
+      return;
+    }
+    int mid = (s + e) >> 1;
+    if (x <= mid)
+      UpdateSegTree(s, mid, x, 2 * idx + 1);
+    else
+      UpdateSegTree(mid + 1, e, x, 2 * idx + 2);
+    Segtree[idx] = MergeSegTree(Segtree[2 * idx + 1], Segtree[2 * idx + 2]);
+  }
+
+  stt QuerySegTree(int s, int e, int x, int y, int idx)
+  {
+    if (s == x && e == y)
+      return Segtree[idx];
+    int mid = (s + e) >> 1;
+    if (y <= mid)
+      return QuerySegTree(s, mid, x, y, 2 * idx + 1);
+    if (x > mid)
+      return QuerySegTree(mid + 1, e, x, y, 2 * idx + 2);
+    return MergeSegTree(QuerySegTree(s, mid, x, mid, 2 * idx + 1), QuerySegTree(mid + 1, e, mid + 1, y, 2 * idx + 2));
   }
 };
 
-namespace T
-{
-  E t[1 << 23];
-  void clear()
-  {
-    for (int i = 0; i < base; ++i)
-    {
-      t[i + base] = E();
-      t[i + base].len = 1;
-    }
-    for (int i = base - 1; i > 0; --i)
-      t[i] = E(t[i * 2], t[i * 2 + 1]);
-  }
-  void put(int v)
-  {
-    v += base;
-    t[v] = E(1);
-    while (v > 1)
-    {
-      v /= 2;
-      t[v] = E(t[v * 2], t[v * 2 + 1]);
-    }
-  }
-  E get(int l, int r, int v = 1, int cl = 0, int cr = base)
-  {
-    if (l <= cl && cr <= r)
-      return t[v];
-    if (r <= cl || cr <= l)
-      return E();
-    int cc = (cl + cr) / 2;
-    return E(get(l, r, v * 2, cl, cc), get(l, r, v * 2 + 1, cc, cr));
-  }
-}
+int N, M, Q;
+string S[2010];
+vector<int> next1[2010];
+int x1[1000010], yy1[1000010], x2[1000010], y2[1000010];
+vector<int> queries[2010][2010];
+vector<int> dothis[2010];
+int ans[1000010];
+Segtree stt;
 
 int main()
 {
-  ios_base::sync_with_stdio(false);
-  cin.tie(NULL);
-  cout.tie(NULL);
-  int n, m, q;
-  cin >> n >> m;
-  for (int i = 0; i < n; ++i)
+  cin >> N >> M;
+  for (int i = 1; i <= N; i++)
   {
-    cin >> _s;
-    s[i] = _s;
+    cin >> S[i];
+    S[i] = ' ' + S[i];
+    next1[i].resize(M + 1);
   }
-  base = 1;
-  while (base < m)
-    base *= 2;
-  cin >> q;
-  for (int i = 0; i < q; ++i)
+  cin >> Q;
+  for (int i = 1; i <= Q; i++)
   {
-    int xl, yl, xr, yr;
-    cin >> xl >> yl >> xr >> yr;
-    --xl, --yl;
-    queries[xl][xr].push_back(i);
-    ql[i] = yl, qr[i] = yr;
+    cin >> x1[i] >> yy1[i] >> x2[i] >> y2[i];
+    queries[x1[i]][x2[i]].pb(i);
   }
-  for (int i = 0; i < m; ++i)
-    last[i] = n;
-  for (int l = n - 1; l >= 0; --l)
+
+  for (int j = 1; j <= M; j++)
   {
-    for (int j = 0; j < m; ++j)
-      if (s[l][j] == '1')
-        last[j] = l;
-    T::clear();
-    for (int i = 0; i < n + 1; ++i)
-      ones[i].clear();
-    for (int j = 0; j < m; ++j)
-      ones[last[j]].push_back(j);
-    for (int r = l + 1; r <= n; ++r)
+    int prev = INF;
+    for (int i = N; i >= 1; i--)
     {
-      for (int x : ones[r - 1])
-        T::put(x);
-      for (int id : queries[l][r])
-      {
-        int L = ql[id], R = qr[id];
-        auto e = T::get(L, R);
-        qans[id] = e.mx * (r - l);
-      }
+      if (S[i][j] == '1')
+        prev = i;
+      next1[i][j] = prev;
     }
   }
-  for (int i = 0; i < q; ++i)
-    cout << qans[i] << "\n";
+
+  for (int i1 = 1; i1 <= N; i1++)
+  {
+    for (int i = i1; i <= N; i++)
+      dothis[i].clear();
+    for (int j = 1; j <= M; j++)
+      if (next1[i1][j] <= N)
+        dothis[next1[i1][j]].pb(j);
+    stt.BuildSegTree(1, M, 0);
+    for (int i2 = i1; i2 <= N; i2++)
+    {
+      for (int idx : dothis[i2])
+        stt.UpdateSegTree(1, M, idx, 0);
+      for (int q : queries[i1][i2])
+        ans[q] = stt.QuerySegTree(1, M, yy1[q], y2[q], 0).best * (x2[q] - x1[q] + 1);
+    }
+  }
+
+  for (int i = 1; i <= Q; i++)
+    cout << ans[i] << "\n";
+
+  return 0;
 }

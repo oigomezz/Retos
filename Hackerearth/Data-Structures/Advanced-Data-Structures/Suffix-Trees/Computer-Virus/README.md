@@ -1,4 +1,4 @@
-# Computer Virus
+# [Computer Virus][link]
 
 Oh no! The virus infected Nick's computer after he downloaded a bunch of TAS preparation books from BayPirate, and now he needs your (the best programmer in Lalalandia's) help!
 
@@ -17,3 +17,5 @@ Can you help Nick with this tricky problem?
 ## Output format
 
 The Q lines should each contain single integer A - the password for the window i (1 <= i <= Q).
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-trees/practice-problems/algorithm/computer-virus/

@@ -385,3 +385,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#55** | [`Gaming Triples`](./Advanced-Data-Structures/Fenwick-Trees/Gaming-Triples/README.md)                                                       |
 | **#56** | [`Distinct Digits I`](./Advanced-Data-Structures/Fenwick-Trees/Distinct-Digits-I/README.md)                                                 |
 | **#57** | [`Distinct Digits II`](./Advanced-Data-Structures/Fenwick-Trees/Distinct-Digits-II/README.md)                                               |
+
+### [Suffix Trees](./Advanced-Data-Structures/Suffix-Trees/README.md)
+
+| N°      | Enunciado                                                                            |
+| ------- | ------------------------------------------------------------------------------------ |
+| **#01** | [`Computer Virus`](./Advanced-Data-Structures/Suffix-Trees/Computer-Virus/README.md) |
