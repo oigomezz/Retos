@@ -1,4 +1,4 @@
-# One mismatch
+# [One mismatch][link]
 
 Given a string s and a set of n strings Pi.
 
@@ -21,3 +21,5 @@ Strings s and r are equal with at most one k-length gap if:
 ## Output format
 
 Print n lines. The i-th of them should contain the number of occurrences Pi in s with at most one k-length gap.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/one-mismatch/
