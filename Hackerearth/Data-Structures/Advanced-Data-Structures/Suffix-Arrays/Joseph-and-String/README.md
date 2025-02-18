@@ -1,4 +1,4 @@
-# Joseph and String
+# [Joseph and String][link]
 
 One day, Joseph got a new homework from his teacher. He hates doing homework, especially about the strings. Nick, as his friend, decided to help him. But he didn't know how difficult the problem is!
 
@@ -20,3 +20,5 @@ Lets say, t is a concatenation S[l]S[l+1]...S[r], then F(l, r - l + 1) = occur(t
 ## Output format
 
 Print the answer for each query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/joseph-and-stringaugclash/

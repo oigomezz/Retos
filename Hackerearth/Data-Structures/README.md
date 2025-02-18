@@ -401,3 +401,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Maximum binary numbers`](./Advanced-Data-Structures/Suffix-Arrays/Maximum-Binary-Numbers/README.md)                     |
 | **#03** | [`Little Shino and Substring Query`](./Advanced-Data-Structures/Suffix-Arrays/Little-Shino-and-Substring-Query/README.md) |
 | **#04** | [`One mismatch`](./Advanced-Data-Structures/Suffix-Arrays/One-mismatch/README.md)                                         |
+| **#05** | [`Joseph and String`](./Advanced-Data-Structures/Suffix-Arrays/Joseph-and-String/README.md)                               |
