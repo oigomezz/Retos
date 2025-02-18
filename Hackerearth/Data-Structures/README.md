@@ -402,3 +402,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Little Shino and Substring Query`](./Advanced-Data-Structures/Suffix-Arrays/Little-Shino-and-Substring-Query/README.md) |
 | **#04** | [`One mismatch`](./Advanced-Data-Structures/Suffix-Arrays/One-mismatch/README.md)                                         |
 | **#05** | [`Joseph and String`](./Advanced-Data-Structures/Suffix-Arrays/Joseph-and-String/README.md)                               |
+| **#06** | [`Cats Substrings`](./Advanced-Data-Structures/Suffix-Arrays/Cats-Substrings/README.md)                                   |

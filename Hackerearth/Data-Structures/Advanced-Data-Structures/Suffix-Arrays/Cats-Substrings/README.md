@@ -1,4 +1,4 @@
-# Cats Substrings
+# [Cats Substrings][link]
 
 There are two cats playing, and each of them has a set of strings consisted of lower case English letters.
 
@@ -15,3 +15,5 @@ The cats are going to give you all N \* M possible pairs. They are interested in
 ## Output format
 
 In one line print the answer to the problem.
+
+[link]: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/practice-problems/algorithm/cats-substrings/
