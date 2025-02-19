@@ -425,3 +425,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Lexicographically minimal string`](./Disjoint-Data-Structures/Lexicographically-Minimal-String/README.md)      |
 | **#11** | [`Fruits in a state`](./Disjoint-Data-Structures/Fruits-in-a-state/README.md)                                    |
 | **#12** | [`Strange Road System`](./Disjoint-Data-Structures/Strange-Road-System/README.md)                                |
+| **#13** | [`Merge the groups`](./Disjoint-Data-Structures/Merge-the-groups/README.md)                                      |

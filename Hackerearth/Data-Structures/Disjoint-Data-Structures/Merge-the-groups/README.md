@@ -1,4 +1,4 @@
-# Merge the groups
+# [Merge the groups][link]
 
 You are given an array A of N elements. Each element belongs to its own group initially.
 
@@ -20,3 +20,5 @@ Note: It is possible that the elements X and Y in the query of type 1 already be
 ## Output format
 
 For each query of type 1, print the answer in a new line
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/merge-the-boxes-7fb988ac/
