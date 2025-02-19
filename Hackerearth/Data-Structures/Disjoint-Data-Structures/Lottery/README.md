@@ -1,4 +1,4 @@
-# Lottery
+# [Lottery][link]
 
 There is a lottery winner who has lives in a house which has R \* C rooms such that there are R rows where each row has C rooms and C columns and each column has R rooms, he will receive N coins worth Xi $ as a winner. He will place each coin in one of R \* C rooms and also note that more than one coin can be placed in a single room. You will be given which rooms he has chosen. Now robbers have known about the coins and want to loot him as much as possible. Robbers will do the following:
 
@@ -18,3 +18,5 @@ What is the maximum possible sum of amount robbers can rob?
 ## Output format
 
 For each test case: Print a single line denoting the maximum amount that can be robbed.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/robbed-ad9d3ba8/
