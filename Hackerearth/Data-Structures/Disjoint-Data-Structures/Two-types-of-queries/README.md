@@ -1,4 +1,4 @@
-# Two types of queries
+# [Two types of queries][link]
 
 You are given a string str. It costs one unit of a coin to change a character at an index. Your task is to convert it into a palindrome with minimum coins. Also, you are given q number of queries. The queries are of the following types:
 
@@ -19,3 +19,5 @@ After solving the first type of query, you can convert character A into characte
 ## Output format
 
 For each query of type 2, print the minimum cost to convert a given string into a palindrome.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/motu-and-patlu-2-d108529a/
