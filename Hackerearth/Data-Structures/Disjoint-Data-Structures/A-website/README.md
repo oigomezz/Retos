@@ -1,4 +1,4 @@
-# A website
+# [A website][link]
 
 On a website, there are M users and they want to change their names. You will be given M lines consisting of two strings A and B, where username A wants to change his username to B. But the website does not support multiple users with the same username that is No two users can have the same username at the same time. A user can change his username from his current name to any name (X) if there is no user named X.
 
@@ -20,3 +20,5 @@ Notes
 ## Output format
 
 For each test case print a single line denoting the minimum cost for completing the changes in usernames.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/website-0317dd3a/
