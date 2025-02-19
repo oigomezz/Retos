@@ -1,4 +1,4 @@
-# Tri-State-Area
+# [Tri-State-Area][link]
 
 Given a weighted tree (T) and an integer MAXW, count the number of weighted graphs whose non-negative edges weight at most MAXW and T is an MST (minimum spanning tree) for that graph. Output the result modulo 987654319.
 
@@ -11,3 +11,5 @@ Given a weighted tree (T) and an integer MAXW, count the number of weighted grap
 ## Output format
 
 Print only one integer, the number of desired graphs modulo 987654319.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/tri-state-area-58343781/

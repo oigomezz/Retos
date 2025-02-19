@@ -419,3 +419,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`A website`](./Disjoint-Data-Structures/A-website/README.md)                       |
 | **#05** | [`A fair competition`](./Disjoint-Data-Structures/A-fair-competition/README.md)     |
 | **#06** | [`Two types of queries`](./Disjoint-Data-Structures/Two-types-of-queries/README.md) |
+| **#07** | [`Tri-State-Area<May Cir 19>`](./Disjoint-Data-Structures/Tri-State-Area/README.md) |
