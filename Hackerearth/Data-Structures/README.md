@@ -421,3 +421,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`Two types of queries`](./Disjoint-Data-Structures/Two-types-of-queries/README.md)                              |
 | **#07** | [`Tri-State-Area<May Cir 19>`](./Disjoint-Data-Structures/Tri-State-Area/README.md)                              |
 | **#08** | [`Students and their arrangements <CAST>`](./Disjoint-Data-Structures/Students-and-their-arrangements/README.md) |
+| **#09** | [`Group Range`](./Disjoint-Data-Structures/Group-Range/README.md)                                                |
