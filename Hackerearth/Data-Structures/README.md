@@ -411,12 +411,13 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### [Basics of Disjoint Data Structures](./Disjoint-Data-Structures/README.md)
 
-| N°      | Enunciado                                                                           |
-| ------- | ----------------------------------------------------------------------------------- |
-| **#01** | [`Team Up`](./Disjoint-Data-Structures/Team-Up/README.md)                           |
-| **#02** | [`Light Up the Bulbs`](./Disjoint-Data-Structures/Light-Up-the-Bulbs/README.md)     |
-| **#03** | [`Lottery`](./Disjoint-Data-Structures/Lottery/README.md)                           |
-| **#04** | [`A website`](./Disjoint-Data-Structures/A-website/README.md)                       |
-| **#05** | [`A fair competition`](./Disjoint-Data-Structures/A-fair-competition/README.md)     |
-| **#06** | [`Two types of queries`](./Disjoint-Data-Structures/Two-types-of-queries/README.md) |
-| **#07** | [`Tri-State-Area<May Cir 19>`](./Disjoint-Data-Structures/Tri-State-Area/README.md) |
+| N°      | Enunciado                                                                                                        |
+| ------- | ---------------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Team Up`](./Disjoint-Data-Structures/Team-Up/README.md)                                                        |
+| **#02** | [`Light Up the Bulbs`](./Disjoint-Data-Structures/Light-Up-the-Bulbs/README.md)                                  |
+| **#03** | [`Lottery`](./Disjoint-Data-Structures/Lottery/README.md)                                                        |
+| **#04** | [`A website`](./Disjoint-Data-Structures/A-website/README.md)                                                    |
+| **#05** | [`A fair competition`](./Disjoint-Data-Structures/A-fair-competition/README.md)                                  |
+| **#06** | [`Two types of queries`](./Disjoint-Data-Structures/Two-types-of-queries/README.md)                              |
+| **#07** | [`Tri-State-Area<May Cir 19>`](./Disjoint-Data-Structures/Tri-State-Area/README.md)                              |
+| **#08** | [`Students and their arrangements <CAST>`](./Disjoint-Data-Structures/Students-and-their-arrangements/README.md) |
