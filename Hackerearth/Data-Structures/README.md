@@ -427,3 +427,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Strange Road System`](./Disjoint-Data-Structures/Strange-Road-System/README.md)                                |
 | **#13** | [`Merge the groups`](./Disjoint-Data-Structures/Merge-the-groups/README.md)                                      |
 | **#14** | [`Boruto and Dojutsu`](./Disjoint-Data-Structures/Boruto-and-Dojutsu/README.md)                                  |
+| **#15** | [`Classic task`](./Disjoint-Data-Structures/Classic-Task/README.md)                                              |
