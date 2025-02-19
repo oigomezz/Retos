@@ -1,4 +1,4 @@
-# Lexicographically minimal string
+# [Lexicographically minimal string][link]
 
 You are given three strings named as A, B, and C. Here, the length of the strings A and B is equal. All strings contain lowercase English letters. The string A and B contain the following properties:
 
@@ -16,3 +16,5 @@ You are given three strings named as A, B, and C. Here, the length of the string
 ## Output format
 
 Print the lexicographically smallest string.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/lexicographically-minimal-string-6edc1406/
