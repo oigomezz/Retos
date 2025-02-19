@@ -423,3 +423,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#08** | [`Students and their arrangements <CAST>`](./Disjoint-Data-Structures/Students-and-their-arrangements/README.md) |
 | **#09** | [`Group Range`](./Disjoint-Data-Structures/Group-Range/README.md)                                                |
 | **#10** | [`Lexicographically minimal string`](./Disjoint-Data-Structures/Lexicographically-Minimal-String/README.md)      |
+| **#11** | [`Fruits in a state`](./Disjoint-Data-Structures/Fruits-in-a-state/README.md)                                    |
