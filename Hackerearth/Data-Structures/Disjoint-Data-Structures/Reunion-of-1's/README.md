@@ -1,4 +1,4 @@
-# Reunion of 1's
+# [Reunion of 1's][link]
 
 You are given a string of size n consisting of 0s and/or 1s. You have to perform total k queries and there are two types of queries possible:
 
@@ -14,3 +14,5 @@ You are given a string of size n consisting of 0s and/or 1s. You have to perform
 ## Output format
 
 For each query of type 1, print in a new line the maximum size of the subarray with all 1's
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/reunion-of-1s-1b5bd063/

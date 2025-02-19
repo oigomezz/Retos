@@ -428,3 +428,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#13** | [`Merge the groups`](./Disjoint-Data-Structures/Merge-the-groups/README.md)                                      |
 | **#14** | [`Boruto and Dojutsu`](./Disjoint-Data-Structures/Boruto-and-Dojutsu/README.md)                                  |
 | **#15** | [`Classic task`](./Disjoint-Data-Structures/Classic-Task/README.md)                                              |
+| **#16** | [`Reunion of 1's`](./Disjoint-Data-Structures/Reunion-of-1's/README.md)                                          |
