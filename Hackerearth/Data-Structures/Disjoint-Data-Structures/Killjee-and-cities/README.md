@@ -1,4 +1,4 @@
-# Killjee and cities
+# [Killjee and cities][link]
 
 Killjee lives in Codaland. Codaland has n cities and m bidirectional roads connecting these cities, but not all cities are connected. Now the President of Codaland has passed an order to build q new roads one by one connecting two different cities.
 
@@ -19,3 +19,5 @@ Killjee wonders how many new roads are needed to connect all the cities of Codal
 ## Output format
 
 Output q space separated integers, i-th of which denotes number of roads needed to connect all the cities of Codaland after creation of first i roads.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/killjee-and-cities-8a82b6fe/
