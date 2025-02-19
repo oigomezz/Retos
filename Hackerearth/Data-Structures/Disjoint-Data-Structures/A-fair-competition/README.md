@@ -1,4 +1,4 @@
-# A fair competition
+# [A fair competition][link]
 
 In competition, N participants are competing against each other for the top two spots. There are M friendly relations between participants. In each friendship relation, you will be given two integers L and R, indicating L and R are friends.
 
@@ -19,3 +19,5 @@ Now, the jury has to decide the winners for the top two spots but he does not wa
 ## Output format
 
 For each test case, print a single line denoting the number of ways in which the jury can choose the top two participants.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/fair-competition-0315250e/

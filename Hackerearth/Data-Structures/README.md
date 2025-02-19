@@ -417,3 +417,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Light Up the Bulbs`](./Disjoint-Data-Structures/Light-Up-the-Bulbs/README.md) |
 | **#03** | [`Lottery`](./Disjoint-Data-Structures/Lottery/README.md)                       |
 | **#04** | [`A website`](./Disjoint-Data-Structures/A-website/README.md)                   |
+| **#05** | [`A fair competition`](./Disjoint-Data-Structures/A-fair-competition/README.md) |
