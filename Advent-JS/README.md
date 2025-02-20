@@ -69,3 +69,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | N°     | Reto                                                      | Dificultad | Solucion                                 |
 | ------ | --------------------------------------------------------- | ---------- | ---------------------------------------- |
 | **01** | [`🎁 ¡Primer regalo repetido!`](./2024/Reto-01/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-01/solution.js)] |
+| **02** | [`🖼️ Enmarcando nombres`](./2024/Reto-02/README.md)       | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-02/solution.js)] |
