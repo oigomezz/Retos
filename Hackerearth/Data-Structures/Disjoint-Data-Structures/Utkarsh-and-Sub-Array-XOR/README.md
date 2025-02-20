@@ -1,4 +1,4 @@
-# Utkarsh and Sub Array Xor
+# [Utkarsh and Sub Array Xor][link]
 
 Utkarsh loves binary sequences. Once he was playing with his favorite binary sequence of length N. But somehow he misplaced it. He remembers the bitwise XOR of exactly K subarrays. Utkarsh fears that you will steal his sequence so he will not reveal the actual XOR value of any sub array.
 
@@ -12,3 +12,5 @@ He plans to recover the sequence using this information only. You being his best
 ## Output format
 
 Print K integers, ith integer being the maximum number of binary sequences of length N satisfying first i XOR constraints. As the answer can be large, output each result mod 10⁹+7
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/utkarsh-and-sub-array-xor-february-easy/
