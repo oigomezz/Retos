@@ -1,4 +1,4 @@
-# City and Campers
+# [City and Campers][link]
 
 "Money money MONEY, I want money" thought Alex. "Now how do I get money? Well... I'll open up a camp!"
 
@@ -14,3 +14,5 @@ Also note, if the two campers in the query are already in the same group, print 
 ## Output format
 
 Output Q lines, the answer after each query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-campers/
