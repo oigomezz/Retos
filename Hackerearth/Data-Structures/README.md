@@ -433,3 +433,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#18** | [`Little Shino and Path Divisor`](./Disjoint-Data-Structures/Little-Shino-and-Path-Divisor/README.md)            |
 | **#19** | [`What's wrong with this CYPHER guys?`](./Disjoint-Data-Structures/What's-wrong-with-this-CYPHER-guys/README.md) |
 | **#20** | [`Utkarsh and Sub Array Xor`](./Disjoint-Data-Structures/Utkarsh-and-Sub-Array-XOR/README.md)                    |
+| **#21** | [`City and Campers 2`](./Disjoint-Data-Structures/City-and-Campers-2/README.md)                                  |

@@ -1,4 +1,4 @@
-# City and Campers 2
+# [City and Campers 2][link]
 
 The campers turn against Alex after joining together!
 
@@ -14,3 +14,5 @@ Also note, if the two Alex's in the query are already in the same group, print t
 ## Output format
 
 Output Q lines, the answer after each query.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-campers-2/
