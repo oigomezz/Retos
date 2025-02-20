@@ -1,4 +1,4 @@
-# Little Shino and Path Divisor
+# [Little Shino and Path Divisor][link]
 
 There is no partial marking in the problem.
 
@@ -13,3 +13,5 @@ Given a weighted undirected tree of N nodes and Q queries. Each query contains a
 ## Output format
 
 For each query, print number of paths such that all the edges in the path are divisible by D in new line.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/little-shino-and-path-divisor/
