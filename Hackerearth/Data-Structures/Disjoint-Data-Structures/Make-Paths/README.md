@@ -1,4 +1,4 @@
-# Make Paths
+# [Make Paths][link]
 
 Walter White and Jesse Pinkman have now established their bases at different places.
 
@@ -20,3 +20,5 @@ What is the minimum cost such that a network is formed.
 ## Output format
 
 Print the minimum cost of building the network.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/make-paths-3/
