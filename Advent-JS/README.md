@@ -32,7 +32,7 @@ Si quieres ayudarnos, comparte el proyecto en las redes sociales y con tus amigo
 
 ## Listado de retos 2023
 
-Aquí encontrarás el listado de retos y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
+Aquí encontrarás el listado de retos y enunciado del ejercicio.
 
 | N°     | Reto                                                             | Dificultad   | Solucion                                 |
 | ------ | ---------------------------------------------------------------- | ------------ | ---------------------------------------- |
@@ -64,9 +64,11 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 
 ## Listado de retos 2024
 
-Aquí encontrarás el listado de retos y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
+Aquí encontrarás el listado de retos y enunciado del ejercicio.
 
-| N°     | Reto                                                      | Dificultad | Solucion                                 |
-| ------ | --------------------------------------------------------- | ---------- | ---------------------------------------- |
-| **01** | [`🎁 ¡Primer regalo repetido!`](./2024/Reto-01/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-01/solution.js)] |
-| **02** | [`🖼️ Enmarcando nombres`](./2024/Reto-02/README.md)       | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-02/solution.js)] |
+| N°     | Reto                                                           | Dificultad | Solucion                                 |
+| ------ | -------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| **01** | [`🎁 ¡Primer regalo repetido!`](./2024/Reto-01/README.md)      | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-01/solution.js)] |
+| **02** | [`🖼️ Enmarcando nombres`](./2024/Reto-02/README.md)            | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-02/solution.js)] |
+| **03** | [`🏗️ Organizando el inventario`](./2024/Reto-03/README.md)     | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-03/solution.js)] |
+| **04** | [`🎄 Decorando el árbol de Navidad`](./2024/Reto-04/README.md) | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-04/solution.js)] |
