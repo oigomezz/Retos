@@ -1,4 +1,4 @@
-# Ikshu and his class
+# [Ikshu and his class][link]
 
 Ikshu's class is very fond of playing games. Their teacher tied them with many ropes with each other, Such that each student is tied with exactly one rope. It means that if students 2 and 3 are connected and 2 is connected to 4 as well then 2,3 and 4 must be sharing the same rope.
 
@@ -16,3 +16,5 @@ What is the total number of distinct exchanges possible ? Two exchanges are dist
 ## Output format
 
 Print a single integer which is the total number of exchanges possible modulus (10⁹ + 7)
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/ikshu-and-his-class-1/

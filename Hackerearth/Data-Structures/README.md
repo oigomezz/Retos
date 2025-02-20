@@ -438,3 +438,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#23** | [`City and Campers`](./Disjoint-Data-Structures/City-and-Campers/README.md)                                      |
 | **#24** | [`City and Fireman Vincent`](./Disjoint-Data-Structures/City-and-Fireman-Vincent/README.md)                      |
 | **#25** | [`City and Flood`](./Disjoint-Data-Structures/City-and-Flood/README.md)                                          |
+| **#26** | [`Ikshu and his class`](./Disjoint-Data-Structures/Ikshu-and-his-class/README.md)                                |
