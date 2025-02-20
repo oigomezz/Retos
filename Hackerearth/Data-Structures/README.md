@@ -431,3 +431,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Reunion of 1's`](./Disjoint-Data-Structures/Reunion-of-1's/README.md)                                          |
 | **#17** | [`Killjee and cities`](./Disjoint-Data-Structures/Killjee-and-cities/README.md)                                  |
 | **#18** | [`Little Shino and Path Divisor`](./Disjoint-Data-Structures/Little-Shino-and-Path-Divisor/README.md)            |
+| **#19** | [`What's wrong with this CYPHER guys?`](./Disjoint-Data-Structures/What's-wrong-with-this-CYPHER-guys/README.md) |
