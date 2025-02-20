@@ -1,4 +1,4 @@
-# City and Soldiers
+# [City and Soldiers][link]
 
 Today, King Trophies is on another rampage to destroy the small village controlled by Alex. Please help his soldiers.
 
@@ -19,3 +19,5 @@ At first, there are N individual soldiers, who haven't yet joined together; each
 ## Output format
 
 Output the answer for each query of type 3.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-soldiers/
