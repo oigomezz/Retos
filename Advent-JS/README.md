@@ -61,3 +61,11 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio. En su director
 | **23** | [`🍽️ La comida de Navidad`](./2023/Reto-23/README.md)            | 🟢 _Fácil_   | [[SOLUCIÓN](./2023/Reto-23/solution.js)] |
 | **24** | [`🪜 Brincos en la escalera`](./2023/Reto-24/README.md)          | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-24/solution.js)] |
 | **25** | [`🗺️ Calculando distancias`](./2023/Reto-25/README.md)           | 🟠 _Medio_   | [[SOLUCIÓN](./2023/Reto-25/solution.js)] |
+
+## Listado de retos 2024
+
+Aquí encontrarás el listado de retos y enunciado del ejercicio. En su directorio podrás consultar las distintas correcciones del ejercicio agrupadas por lenguaje de programación.
+
+| N°     | Reto                                                      | Dificultad | Solucion                                 |
+| ------ | --------------------------------------------------------- | ---------- | ---------------------------------------- |
+| **01** | [`🎁 ¡Primer regalo repetido!`](./2024/Reto-01/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-01/solution.js)] |
