@@ -1,4 +1,4 @@
-# City and Flood
+# [City and Flood][link]
 
 Fatland is a town that started with N distinct empires, namely empires 1, 2, ..., N. But over time, the armies of some of these empires have taken over other ones. Each takeover occurred when the army of empire i invaded empire j. After each invasion, all of empire j became part of empire i, and empire j was renamed as empire i.
 
@@ -13,3 +13,5 @@ Empire Huang, leader of Badland, wants to invade Fatland. To do this, he needs t
 ## Output format
 
 Output one integer, the number of empires that exist in Fatland.
+
+[link]: https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/
