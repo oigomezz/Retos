@@ -77,3 +77,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **07** | [`👹 El ataque del Grinch`](./2024/Reto-07/README.md)          | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-07/solution.js)] |
 | **08** | [`🦌 La carrera de renos`](./2024/Reto-08/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-08/solution.js)] |
 | **09** | [`🚂 El tren mágico`](./2024/Reto-09/README.md)                | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-09/solution.js)] |
+| **10** | [`👩‍💻 El ensamblador élfico`](./2024/Reto-10/README.md)         | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-10/solution.js)] |
