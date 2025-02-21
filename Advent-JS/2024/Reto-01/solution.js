@@ -1,11 +1,9 @@
+/**
+ * @param {number[]} gifts
+ * @returns {number[]}
+ */
 function prepareGifts(gifts) {
-  let noRepetidos = [];
-  for (const element of gifts) {
-    if (!noRepetidos.includes(element)) {
-      noRepetidos.push(element);
-    }
-  }
-  return noRepetidos.sort((a, b) => a - b);
+  return Array.from(new Set(gifts.sort((a, b) => a - b)));
 }
 
 const gifts1 = [3, 1, 2, 3, 4, 2, 5];
