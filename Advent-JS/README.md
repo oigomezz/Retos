@@ -66,15 +66,16 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 
 Aquí encontrarás el listado de retos y enunciado del ejercicio.
 
-| N°     | Reto                                                           | Dificultad | Solucion                                 |
-| ------ | -------------------------------------------------------------- | ---------- | ---------------------------------------- |
-| **01** | [`🎁 ¡Primer regalo repetido!`](./2024/Reto-01/README.md)      | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-01/solution.js)] |
-| **02** | [`🖼️ Enmarcando nombres`](./2024/Reto-02/README.md)            | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-02/solution.js)] |
-| **03** | [`🏗️ Organizando el inventario`](./2024/Reto-03/README.md)     | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-03/solution.js)] |
-| **04** | [`🎄 Decorando el árbol de Navidad`](./2024/Reto-04/README.md) | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-04/solution.js)] |
-| **05** | [`👞 Emparejando botas`](./2024/Reto-05/README.md)             | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-05/solution.js)] |
-| **06** | [`📦 ¿Regalo dentro de la caja?`](./2024/Reto-06/README.md)    | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-06/solution.js)] |
-| **07** | [`👹 El ataque del Grinch`](./2024/Reto-07/README.md)          | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-07/solution.js)] |
-| **08** | [`🦌 La carrera de renos`](./2024/Reto-08/README.md)           | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-08/solution.js)] |
-| **09** | [`🚂 El tren mágico`](./2024/Reto-09/README.md)                | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-09/solution.js)] |
-| **10** | [`👩‍💻 El ensamblador élfico`](./2024/Reto-10/README.md)         | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-10/solution.js)] |
+| N°     | Reto                                                             | Dificultad | Solucion                                 |
+| ------ | ---------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| **01** | [`🎁 ¡Primer regalo repetido!`](./2024/Reto-01/README.md)        | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-01/solution.js)] |
+| **02** | [`🖼️ Enmarcando nombres`](./2024/Reto-02/README.md)              | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-02/solution.js)] |
+| **03** | [`🏗️ Organizando el inventario`](./2024/Reto-03/README.md)       | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-03/solution.js)] |
+| **04** | [`🎄 Decorando el árbol de Navidad`](./2024/Reto-04/README.md)   | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-04/solution.js)] |
+| **05** | [`👞 Emparejando botas`](./2024/Reto-05/README.md)               | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-05/solution.js)] |
+| **06** | [`📦 ¿Regalo dentro de la caja?`](./2024/Reto-06/README.md)      | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-06/solution.js)] |
+| **07** | [`👹 El ataque del Grinch`](./2024/Reto-07/README.md)            | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-07/solution.js)] |
+| **08** | [`🦌 La carrera de renos`](./2024/Reto-08/README.md)             | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-08/solution.js)] |
+| **09** | [`🚂 El tren mágico`](./2024/Reto-09/README.md)                  | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-09/solution.js)] |
+| **10** | [`👩‍💻 El ensamblador élfico`](./2024/Reto-10/README.md)           | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-10/solution.js)] |
+| **11** | [`🏴‍☠️ Nombres de archivos codificados`](./2024/Reto-11/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-11/solution.js)] |
