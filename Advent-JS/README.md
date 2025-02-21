@@ -73,3 +73,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **03** | [`🏗️ Organizando el inventario`](./2024/Reto-03/README.md)     | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-03/solution.js)] |
 | **04** | [`🎄 Decorando el árbol de Navidad`](./2024/Reto-04/README.md) | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-04/solution.js)] |
 | **05** | [`👞 Emparejando botas`](./2024/Reto-05/README.md)             | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-05/solution.js)] |
+| **06** | [`📦 ¿Regalo dentro de la caja?`](./2024/Reto-06/README.md)    | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-06/solution.js)] |
