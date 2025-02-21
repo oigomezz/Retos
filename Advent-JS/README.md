@@ -81,3 +81,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **11** | [`🏴‍☠️ Nombres de archivos codificados`](./2024/Reto-11/README.md) | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-11/solution.js)] |
 | **12** | [`💵 ¿Cuańto cuesta el arbol?`](./2024/Reto-12/README.md)        | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-12/solution.js)] |
 | **13** | [`🤖 ¿El robot está de vuelta?`](./2024/Reto-13/README.md)       | 🔴 _Dificil_ | [[SOLUCIÓN](./2024/Reto-13/solution.js)] |
+| **14** | [`🦌 Acomodando los renos`](./2024/Reto-14/README.md)            | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-14/solution.js)] |
