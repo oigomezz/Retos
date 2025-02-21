@@ -79,3 +79,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **09** | [`🚂 El tren mágico`](./2024/Reto-09/README.md)                  | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-09/solution.js)] |
 | **10** | [`👩‍💻 El ensamblador élfico`](./2024/Reto-10/README.md)           | 🟠 _Medio_ | [[SOLUCIÓN](./2024/Reto-10/solution.js)] |
 | **11** | [`🏴‍☠️ Nombres de archivos codificados`](./2024/Reto-11/README.md) | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-11/solution.js)] |
+| **12** | [`💵 ¿Cuańto cuesta el arbol?`](./2024/Reto-12/README.md)        | 🟢 _Fácil_ | [[SOLUCIÓN](./2024/Reto-12/solution.js)] |
