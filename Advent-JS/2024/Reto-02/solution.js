@@ -1,11 +1,17 @@
+/**
+ * @param {string[]} names
+ * @returns {string}
+ */
 function createFrame(names) {
-  const max = names.reduce(
-    (acc, name) => (name.length > acc ? name.length : acc),
-    0
-  );
-  const border = "*".repeat(max + 4);
-  const body = names
-    .map((name) => `* ${name}${" ".repeat(max - name.length)} *`)
-    .join("\n");
-  return `${border}\n${body}\n${border}`;
+  const maxLength = Math.max(...names.map((name) => name.length));
+
+  const border = "*".repeat(maxLength + 4);
+
+  const framedNames = names.map((name) => {
+    const paddedName = name.padEnd(maxLength, " ");
+
+    return `* ${paddedName} *`;
+  });
+
+  return [border, ...framedNames, border].join("\n");
 }
