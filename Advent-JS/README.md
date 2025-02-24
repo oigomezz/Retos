@@ -83,3 +83,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **13** | [`🤖 ¿El robot está de vuelta?`](./2024/Reto-13/README.md)       | 🔴 _Dificil_ | [[SOLUCIÓN](./2024/Reto-13/solution.js)] |
 | **14** | [`🦌 Acomodando los renos`](./2024/Reto-14/README.md)            | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-14/solution.js)] |
 | **15** | [`✏️ Dibujando tablas`](./2024/Reto-15/README.md)                | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-15/solution.js)] |
+| **16** | [`❄️ Limpiando la nieve del camino`](./2024/Reto-16/README.md)   | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-16/solution.js)] |
