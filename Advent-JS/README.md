@@ -88,3 +88,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **18** | [`📇 La agenda mágica de Santa`](./2024/Reto-18/README.md)                    | 🔴 _Dificil_ | [[SOL](./2024/Reto-18/solution.js)] |
 | **19** | [`📦 Apila cajas mágicas para repartir regalos`](./2024/Reto-19/README.md)    | 🔴 _Dificil_ | [[SOL](./2024/Reto-19/solution.js)] |
 | **20** | [`🎁 Encuentra los regalos faltantes y duplicados`](./2024/Reto-20/README.md) | 🟢 _Fácil_   | [[SOL](./2024/Reto-20/solution.js)] |
+| **21** | [`🎄 Calcula la altura del árbol de Navidad`](./2024/Reto-21/README.md)       | 🟢 _Fácil_   | [[SOL](./2024/Reto-21/solution.js)] |
