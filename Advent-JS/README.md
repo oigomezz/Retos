@@ -91,3 +91,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **21** | [`🎄 Calcula la altura del árbol de Navidad`](./2024/Reto-21/README.md)       | 🟢 _Fácil_   | [[SOL](./2024/Reto-21/solution.js)] |
 | **22** | [`🎁 Genera combinaciones de regalos`](./2024/Reto-22/README.md)              | 🟠 _Medio_   | [[SOL](./2024/Reto-22/solution.js)] |
 | **23** | [`🔢 Encuentra los numeros perdidos`](./2024/Reto-23/README.md)               | 🟢 _Fácil_   | [[SOL](./2024/Reto-23/solution.js)] |
+| **24** | [`🪞 Verifia si los árboles son espejos mágicos`](./2024/Reto-24/README.md)   | 🟠 _Medio_   | [[SOL](./2024/Reto-24/solution.js)] |
