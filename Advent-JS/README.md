@@ -84,3 +84,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **14** | [`🦌 Acomodando los renos`](./2024/Reto-14/README.md)            | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-14/solution.js)] |
 | **15** | [`✏️ Dibujando tablas`](./2024/Reto-15/README.md)                | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-15/solution.js)] |
 | **16** | [`❄️ Limpiando la nieve del camino`](./2024/Reto-16/README.md)   | 🟢 _Fácil_   | [[SOLUCIÓN](./2024/Reto-16/solution.js)] |
+| **17** | [`💣 Busca las bombas del Grinch`](./2024/Reto-17/README.md)     | 🟠 _Medio_   | [[SOLUCIÓN](./2024/Reto-17/solution.js)] |
