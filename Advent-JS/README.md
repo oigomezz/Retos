@@ -92,3 +92,4 @@ Aquí encontrarás el listado de retos y enunciado del ejercicio.
 | **22** | [`🎁 Genera combinaciones de regalos`](./2024/Reto-22/README.md)              | 🟠 _Medio_   | [[SOL](./2024/Reto-22/solution.js)] |
 | **23** | [`🔢 Encuentra los numeros perdidos`](./2024/Reto-23/README.md)               | 🟢 _Fácil_   | [[SOL](./2024/Reto-23/solution.js)] |
 | **24** | [`🪞 Verifia si los árboles son espejos mágicos`](./2024/Reto-24/README.md)   | 🟠 _Medio_   | [[SOL](./2024/Reto-24/solution.js)] |
+| **25** | [`🪄 Ejecuta el lenguaje mágico`](./2024/Reto-25/README.md)                   | 🟠 _Medio_   | [[SOL](./2024/Reto-25/solution.js)] |
