@@ -12,28 +12,16 @@ function execute(code: string): number {
   };
 
   while (pos < code.length) {
-    const char = code[pos];
-    switch (char) {
-      case "{":
-      case "[":
-        {
-          if (val === 0) {
-            const pair = pairs[char];
-            pos += code.slice(pos).indexOf(pair);
-          } else if (char === "[") loopIndex = pos;
-        }
-        break;
-
-      case "]":
-        {
-          if (char === "]" && val !== 0) pos = loopIndex;
-        }
-        break;
-
-      default:
-        val += delta[char] ?? 0;
-    }
-    pos++;
+    let char = code[pos];
+    if (char in pairs) {
+      if (val === 0) {
+        let pair = pairs[char];
+        pos += code.substring(pos).indexOf(pair);
+      } else if (char === "[") loopIndex = pos;
+    } else if (char === "]") {
+      if (val !== 0) pos = loopIndex;
+    } else val += delta[char] || 0;
+    pos += 1;
   }
 
   return val;
