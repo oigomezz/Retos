@@ -5,3 +5,4 @@ Searching for a given data in some given collection is one of the most fundament
 | N°     | Problem                                          | Level   | Points | Status   |
 | ------ | ------------------------------------------------ | ------- | ------ | -------- |
 | **01** | [`Monk and Search`](./Monk-and-Search/README.md) | 🟢 EASY | **20** | _Solved_ |
+| **02** | [`Wet clothes`](./Wet-Clothes/README.md)         | 🟢 EASY | **20** | _Solved_ |
