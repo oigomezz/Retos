@@ -6,6 +6,6 @@ Dynamic programming is basically, recursion plus using common sense. What it mea
 | ------ | ---------------------------------------------------------------------------- | --------- | ------ | --------- |
 | **01** | [`Vaishu and Tower Arrangements`](./Vaishu-and-Tower-Arrangements/README.md) | 🟢 EASY   | **20** | _Solved_  |
 | **02** | [`Jump on the stones`](./Jump-on-the-stones/README.md)                       | 🟢 EASY   | **20** | _Solved_  |
-| **03** | [`Vaishu and Queries`](./Vaishu-and-Queries/README.md)                       | 🟠 MEDIUM | **30** | _Solving_ |
+| **03** | [`Vaishu and Queries`](./Vaishu-and-Queries/README.md)                       | 🟠 MEDIUM | **30** | _Solved_  |
 | **04** | [`Vaishu and Maths Assignment`](./Vaishu-and-Maths-Assignment/README.md)     | 🟠 MEDIUM | **30** | _Solving_ |
 | **05** | [`Palindromes in a table`](./Palindromes-in-a-table/README.md)               | 🔴 HARD   | **50** | _Solving_ |
