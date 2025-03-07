@@ -5,7 +5,7 @@ Working on bytes, or data types comprising of bytes like ints, floats, doubles o
 | N°     | Problem                                                                | Level     | Points | Status    |
 | ------ | ---------------------------------------------------------------------- | --------- | ------ | --------- |
 | **01** | [`Monk and his Father`](./Monk-and-his-Father/README.md)               | 🟢 EASY   | **20** | _Solved_  |
-| **02** | [`The Game of OXA`](./The-Game-of-OXA/README.md)                       | 🟢 EASY   | **20** | _Solving_ |
+| **02** | [`The Game of OXA`](./The-Game-of-OXA/README.md)                       | 🟢 EASY   | **20** | _Solved_  |
 | **03** | [`Monk's visit to Amathville`](./Monk's-visit-to-Amathville/README.md) | 🟠 MEDIUM | **30** | _Solving_ |
 | **04** | [`The Three Musketeers`](./The-Three-Musketeers/README.md)             | 🟠 MEDIUM | **30** | _Solving_ |
 | **05** | [`Maximize the expression`](./Maximize-the-expression/README.md)       | 🔴 HARD   | **50** | _Solving_ |
