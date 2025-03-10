@@ -14,3 +14,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | -------------------------------------------------------------------- |
 | **#01** | [`Make an array`](./Searching/Linear-Search/Make-an-array/README.md) |
 | **#02** | [`Find Mex`](./Searching/Linear-Search/Find-Mex/README.md)           |
+| **#03** | [`Equal Strings`](./Searching/Linear-Search/Equal-Strings/README.md) |
