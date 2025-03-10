@@ -14,6 +14,12 @@ for(start to end of array){
 }
 ```
 
+For example, consider the following image:
+
+```c
+[0,1,2,3,4,5,6,7,8,9]
+```
+
 If you want to determine the positions of the occurrence of the number 7 in this array. To determine the positions, every element in the array from start to end, i.e., from index 1 to 10 index will be compared with number 7, to check which element matches the number 7.
 
 **Time Complexity:** The time complexity of the linear search is O(N) because each element in an array is compared only once.
