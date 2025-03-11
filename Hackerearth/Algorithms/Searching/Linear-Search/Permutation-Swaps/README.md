@@ -1,4 +1,4 @@
-# Permutation Swaps
+# [Permutation Swaps][link]
 
 A permutation of length N is an array of N integers such that every integer from 1 to N appears exactly once. For example, [2,3,4,1,5] is a permutation of length 5, while [1,2,2], [4,5,1,3] are not permutations.
 
@@ -17,3 +17,5 @@ Find if it is possible to convert the array A into a permutation of length N.
 ## Output format
 
 For each test case, print YES if it is possible to obtain a permutation from the array A using the given operation, otherwise print NO.
+
+[link]: https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/guess-permutation-2-be0b2b90/
