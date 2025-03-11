@@ -1,4 +1,4 @@
-# Guess Permutation
+# [Guess Permutation][link]
 
 A permutation of length N is an array of N integers such that every integer from 1 to N appears exactly once. For example, [2,3,4,1,5] is a permutation of length 5, while [1,2,2], [4,5,1,3] are not permutations.
 
@@ -15,3 +15,5 @@ Alice gives you an array A of length N. Find a permutation P of length N+1 such 
 ## Output format
 
 For each test case, print -1 if no suitable permutation exists or print N+1 space-separated integer denoting the elements of the permutation.
+
+[link]: https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/permutation-swaps-2-01766245/
