@@ -1,4 +1,4 @@
-# Equal Diverse Teams
+# [Equal Diverse Teams][link]
 
 Alice has N students in his class, numbered 1 through N. The i-th student has expertise in a subject numbered A[i].
 
@@ -15,3 +15,5 @@ Alice wants to distribute the students of the class into two teams such that eac
 ## Output format
 
 For each test case, print YES if Alice is able to make two teams satisfying the given conditions, otherwise print NO.
+
+[link]: https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/equal-diverse-teams-cbdb8fe2/
