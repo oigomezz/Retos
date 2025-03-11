@@ -17,3 +17,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Equal Strings`](./Searching/Linear-Search/Equal-Strings/README.md)                             |
 | **#04** | [`AND Subsequence`](./Searching/Linear-Search/AND-Subsequence/README.md)                         |
 | **#05** | [`Adjacent Sum Greater than K`](./Searching/Linear-Search/Adjacent-Sum-Greater-than-K/README.md) |
+| **#06** | [`Equal Diverse Teams`](./Searching/Linear-Search/Equal-Diverse-Teams/README.md)                 |
