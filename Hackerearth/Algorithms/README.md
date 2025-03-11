@@ -21,3 +21,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Permutation Swaps`](./Searching/Linear-Search/Permutation-Swaps/README.md)                     |
 | **#08** | [`Guess Permutation`](./Searching/Linear-Search/Guess-Permutation/README.md)                     |
 | **#09** | [`Count Mex`](./Searching/Linear-Search/Count-Mex/README.md)                                     |
+| **#10** | [`Equal Parity Sum`](./Searching/Linear-Search/Equal-Parity-Sum/README.md)                       |
