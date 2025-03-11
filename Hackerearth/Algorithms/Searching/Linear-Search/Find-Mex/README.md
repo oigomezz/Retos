@@ -1,4 +1,4 @@
-# Find Mex
+# [Find Mex][link]
 
 You are given an integer array of length N. You have to find MEX of i-th element for all 1 <= i <= N.
 
@@ -12,3 +12,5 @@ MEX of the i-th element is the minimum element greater than or equal to 0 which 
 ## Output format
 
 Print N integers. i-th element should be the MEX of the array prefix till i.
+
+[link]: https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/find-mex-62916c25/
