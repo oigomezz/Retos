@@ -23,3 +23,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Count Mex`](./Searching/Linear-Search/Count-Mex/README.md)                                     |
 | **#10** | [`Equal Parity Sum`](./Searching/Linear-Search/Equal-Parity-Sum/README.md)                       |
 | **#11** | [`Employee rating`](./Searching/Linear-Search/Employee-Rating/README.md)                         |
+| **#12** | [`Equal Parity`](./Searching/Linear-Search/Equal-Parity/README.md)                               |
