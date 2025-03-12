@@ -24,3 +24,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Equal Parity Sum`](./Searching/Linear-Search/Equal-Parity-Sum/README.md)                       |
 | **#11** | [`Employee rating`](./Searching/Linear-Search/Employee-Rating/README.md)                         |
 | **#12** | [`Equal Parity`](./Searching/Linear-Search/Equal-Parity/README.md)                               |
+| **#13** | [`Sort String`](./Searching/Linear-Search/Sort-String/README.md)                                 |
