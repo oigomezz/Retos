@@ -29,3 +29,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Candy in the box`](./Searching/Linear-Search/Candy-in-the-box/README.md)                       |
 | **#16** | [`Count Permutations`](./Searching/Linear-Search/Count-Permutations/README.md)                   |
 | **#17** | [`Max difference`](./Searching/Linear-Search/Max-Difference/README.md)                           |
+| **#18** | [`Equal Operation`](./Searching/Linear-Search/Equal-Operation/README.md)                         |
