@@ -39,3 +39,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#25** | [`Easy Sum Set Problem`](./Searching/Linear-Search/Easy-Sum-Set-Problem/README.md)               |
 | **#26** | [`Special Shop`](./Searching/Linear-Search/Special-Shop/README.md)                               |
 | **#27** | [`Maximum Sum`](./Searching/Linear-Search/Maximum-Sum/README.md)                                 |
+| **#28** | [`Policemen and thieves`](./Searching/Linear-Search/Policemen-and-Thieves/README.md)             |
