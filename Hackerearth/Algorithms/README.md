@@ -35,3 +35,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Velocities of balls`](./Searching/Linear-Search/Velocities-of-Balls/README.md)                 |
 | **#22** | [`Hexadecimal numbers`](./Searching/Linear-Search/Hexadecimal-Numbers/README.md)                 |
 | **#23** | [`Golden rectangles`](./Searching/Linear-Search/Golden-Rectangles/README.md)                     |
+| **#24** | [`Counting Frog Paths`](./Searching/Linear-Search/Counting-Frog-Paths/README.md)                 |
