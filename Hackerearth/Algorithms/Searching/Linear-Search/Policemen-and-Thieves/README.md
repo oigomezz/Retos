@@ -20,4 +20,4 @@ Write a program to find the maximum number of thieves that can be caught in the 
 
 For each test case, print the maximum number of thieves that can be caught in the grid.
 
-[link]: https://example.com
+[link]: https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/joker-and-thieves-53e59f4a/
