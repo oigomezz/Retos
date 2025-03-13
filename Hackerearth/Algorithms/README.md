@@ -33,3 +33,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Maximum Inequality`](./Searching/Linear-Search/Maximum-Inequality/README.md)                   |
 | **#20** | [`Adjacent Parity`](./Searching/Linear-Search/Adjacent-Parity/README.md)                         |
 | **#21** | [`Velocities of balls`](./Searching/Linear-Search/Velocities-of-Balls/README.md)                 |
+| **#22** | [`Hexadecimal numbers`](./Searching/Linear-Search/Hexadecimal-Numbers/README.md)                 |
