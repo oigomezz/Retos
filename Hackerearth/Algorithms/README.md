@@ -43,3 +43,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#29** | [`Holiday Season`](./Searching/Linear-Search/Holiday-Season/README.md)                           |
 | **#30** | [`The Normal Type`](./Searching/Linear-Search/The-Normal-Type/README.md)                         |
 | **#31** | [`Square Transaction`](./Searching/Linear-Search/Square-Transaction/README.md)                   |
+| **#32** | [`Breakup App`](./Searching/Linear-Search/Breakup-App/README.md)                                 |
