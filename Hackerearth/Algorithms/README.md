@@ -8,7 +8,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ## Listado de retos
 
-### [Searching](./Searching/README.md)
+### Searching
+
+#### [Linear Search](./Searching/README.md)
 
 | N°      | Enunciado                                                                                        |
 | ------- | ------------------------------------------------------------------------------------------------ |
