@@ -10,7 +10,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ### Searching
 
-#### [Linear Search](./Searching/README.md)
+#### [Linear Search](./Searching/Linear-Search/README.md)
 
 | N°      | Enunciado                                                                                        |
 | ------- | ------------------------------------------------------------------------------------------------ |
@@ -47,3 +47,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#31** | [`Square Transaction`](./Searching/Linear-Search/Square-Transaction/README.md)                   |
 | **#32** | [`Breakup App`](./Searching/Linear-Search/Breakup-App/README.md)                                 |
 | **#33** | [`Rest in peace - 21-1!`](./Searching/Linear-Search/Rest-in-Peace-21-1/README.md)                |
+
+#### [Binary Search](./Searching/Binary-Search/README.md)
+
+| N°      | Enunciado                                                      |
+| ------- | -------------------------------------------------------------- |
+| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md) |
