@@ -50,8 +50,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Binary Search](./Searching/Binary-Search/README.md)
 
-| N°      | Enunciado                                                        |
-| ------- | ---------------------------------------------------------------- |
-| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md)   |
-| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)     |
-| **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md) |
+| N°      | Enunciado                                                                  |
+| ------- | -------------------------------------------------------------------------- |
+| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md)             |
+| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)               |
+| **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md)           |
+| **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md) |
