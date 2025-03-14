@@ -41,3 +41,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#27** | [`Maximum Sum`](./Searching/Linear-Search/Maximum-Sum/README.md)                                 |
 | **#28** | [`Policemen and thieves`](./Searching/Linear-Search/Policemen-and-Thieves/README.md)             |
 | **#29** | [`Holiday Season`](./Searching/Linear-Search/Holiday-Season/README.md)                           |
+| **#30** | [`The Normal Type`](./Searching/Linear-Search/The-Normal-Type/README.md)                         |
