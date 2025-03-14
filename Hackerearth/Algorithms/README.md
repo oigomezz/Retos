@@ -53,3 +53,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                      |
 | ------- | -------------------------------------------------------------- |
 | **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md) |
+| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)   |
