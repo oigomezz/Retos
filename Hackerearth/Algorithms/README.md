@@ -58,3 +58,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md) |
 | **#05** | [`Optimal Division`](./Searching/Binary-Search/Optimal-Division/README.md) |
 | **#06** | [`Remove Interval`](./Searching/Binary-Search/Remove-Interval/README.md)   |
+| **#07** | [`Make Max Groups`](./Searching/Binary-Search/Make-Max-Groups/README.md)   |
