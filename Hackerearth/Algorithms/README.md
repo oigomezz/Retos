@@ -57,3 +57,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md)           |
 | **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md) |
 | **#05** | [`Optimal Division`](./Searching/Binary-Search/Optimal-Division/README.md) |
+| **#06** | [`Remove Interval`](./Searching/Binary-Search/Remove-Interval/README.md)   |
