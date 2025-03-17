@@ -63,3 +63,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Endless Integer Sequence`](./Searching/Binary-Search/Endless-Integer-Sequence/README.md) |
 | **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                         |
 | **#11** | [`Remainder Twist`](./Searching/Binary-Search/Remainder-Twist/README.md)                   |
+| **#12** | [`Horse Race`](./Searching/Binary-Search/Horse-Race/README.md)                             |
