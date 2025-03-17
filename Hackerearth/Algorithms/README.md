@@ -64,3 +64,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                         |
 | **#11** | [`Remainder Twist`](./Searching/Binary-Search/Remainder-Twist/README.md)                   |
 | **#12** | [`Horse Race`](./Searching/Binary-Search/Horse-Race/README.md)                             |
+| **#13** | [`Alice's Sweets`](./Searching/Binary-Search/Alice's-Sweets/README.md)                     |
