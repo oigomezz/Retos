@@ -61,3 +61,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Make Max Groups`](./Searching/Binary-Search/Make-Max-Groups/README.md)                   |
 | **#08** | [`Segment Cost`](./Searching/Binary-Search/Segment-Cost/README.md)                         |
 | **#09** | [`Endless Integer Sequence`](./Searching/Binary-Search/Endless-Integer-Sequence/README.md) |
+| **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                         |
