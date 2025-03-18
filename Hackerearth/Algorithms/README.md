@@ -70,3 +70,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)           |
 | **#17** | [`Longest Subsequence Queries`](./Searching/Binary-Search/Longest-Subsequence-Queries/README.md) |
 | **#18** | [`Cover Line`](./Searching/Binary-Search/Cover-Line/README.md)                                   |
+| **#19** | [`Customer and Discount`](./Searching/Binary-Search/Customer-and-Discount/README.md)             |
