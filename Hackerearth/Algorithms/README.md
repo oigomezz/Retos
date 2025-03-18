@@ -50,21 +50,22 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Binary Search](./Searching/Binary-Search/README.md)
 
-| N°      | Enunciado                                                                                  |
-| ------- | ------------------------------------------------------------------------------------------ |
-| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md)                             |
-| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)                               |
-| **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md)                           |
-| **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md)                 |
-| **#05** | [`Optimal Division`](./Searching/Binary-Search/Optimal-Division/README.md)                 |
-| **#06** | [`Remove Interval`](./Searching/Binary-Search/Remove-Interval/README.md)                   |
-| **#07** | [`Make Max Groups`](./Searching/Binary-Search/Make-Max-Groups/README.md)                   |
-| **#08** | [`Segment Cost`](./Searching/Binary-Search/Segment-Cost/README.md)                         |
-| **#09** | [`Endless Integer Sequence`](./Searching/Binary-Search/Endless-Integer-Sequence/README.md) |
-| **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                         |
-| **#11** | [`Remainder Twist`](./Searching/Binary-Search/Remainder-Twist/README.md)                   |
-| **#12** | [`Horse Race`](./Searching/Binary-Search/Horse-Race/README.md)                             |
-| **#13** | [`Alice's Sweets`](./Searching/Binary-Search/Alice's-Sweets/README.md)                     |
-| **#14** | [`Special Subarray`](./Searching/Binary-Search/Special-Subarray/README.md)                 |
-| **#15** | [`Plus and Minus`](./Searching/Binary-Search/Plus-and-Minus/README.md)                     |
-| **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)     |
+| N°      | Enunciado                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md)                                   |
+| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)                                     |
+| **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md)                                 |
+| **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md)                       |
+| **#05** | [`Optimal Division`](./Searching/Binary-Search/Optimal-Division/README.md)                       |
+| **#06** | [`Remove Interval`](./Searching/Binary-Search/Remove-Interval/README.md)                         |
+| **#07** | [`Make Max Groups`](./Searching/Binary-Search/Make-Max-Groups/README.md)                         |
+| **#08** | [`Segment Cost`](./Searching/Binary-Search/Segment-Cost/README.md)                               |
+| **#09** | [`Endless Integer Sequence`](./Searching/Binary-Search/Endless-Integer-Sequence/README.md)       |
+| **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                               |
+| **#11** | [`Remainder Twist`](./Searching/Binary-Search/Remainder-Twist/README.md)                         |
+| **#12** | [`Horse Race`](./Searching/Binary-Search/Horse-Race/README.md)                                   |
+| **#13** | [`Alice's Sweets`](./Searching/Binary-Search/Alice's-Sweets/README.md)                           |
+| **#14** | [`Special Subarray`](./Searching/Binary-Search/Special-Subarray/README.md)                       |
+| **#15** | [`Plus and Minus`](./Searching/Binary-Search/Plus-and-Minus/README.md)                           |
+| **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)           |
+| **#17** | [`Longest Subsequence Queries`](./Searching/Binary-Search/Longest-Subsequence-Queries/README.md) |
