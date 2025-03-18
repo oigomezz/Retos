@@ -73,3 +73,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Customer and Discount`](./Searching/Binary-Search/Customer-and-Discount/README.md)             |
 | **#20** | [`Bob and his special string`](./Searching/Binary-Search/Bob-and-his-special-string/README.md)   |
 | **#21** | [`Distinct solutions`](./Searching/Binary-Search/Distinct-Solutions/README.md)                   |
+| **#22** | [`Maximum work`](./Searching/Binary-Search/Maximum-Work/README.md)                               |
