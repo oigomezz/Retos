@@ -69,3 +69,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Plus and Minus`](./Searching/Binary-Search/Plus-and-Minus/README.md)                           |
 | **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)           |
 | **#17** | [`Longest Subsequence Queries`](./Searching/Binary-Search/Longest-Subsequence-Queries/README.md) |
+| **#18** | [`Cover Line`](./Searching/Binary-Search/Cover-Line/README.md)                                   |
