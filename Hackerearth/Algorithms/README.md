@@ -75,3 +75,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Distinct solutions`](./Searching/Binary-Search/Distinct-Solutions/README.md)                   |
 | **#22** | [`Maximum work`](./Searching/Binary-Search/Maximum-Work/README.md)                               |
 | **#23** | [`Minimum radius`](./Searching/Binary-Search/Minimum-Radius/README.md)                           |
+| **#24** | [`A digit in a sequence`](./Searching/Binary-Search/A-digit-in-a-sequence/README.md)             |
