@@ -71,3 +71,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#17** | [`Longest Subsequence Queries`](./Searching/Binary-Search/Longest-Subsequence-Queries/README.md) |
 | **#18** | [`Cover Line`](./Searching/Binary-Search/Cover-Line/README.md)                                   |
 | **#19** | [`Customer and Discount`](./Searching/Binary-Search/Customer-and-Discount/README.md)             |
+| **#20** | [`Bob and his special string`](./Searching/Binary-Search/Bob-and-his-special-string/README.md)   |
