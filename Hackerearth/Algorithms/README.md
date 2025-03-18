@@ -76,3 +76,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`Maximum work`](./Searching/Binary-Search/Maximum-Work/README.md)                               |
 | **#23** | [`Minimum radius`](./Searching/Binary-Search/Minimum-Radius/README.md)                           |
 | **#24** | [`A digit in a sequence`](./Searching/Binary-Search/A-digit-in-a-sequence/README.md)             |
+| **#25** | [`Counting numbers`](./Searching/Binary-Search/Counting-Numbers/README.md)                       |
