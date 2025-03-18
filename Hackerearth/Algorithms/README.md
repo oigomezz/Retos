@@ -67,3 +67,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#13** | [`Alice's Sweets`](./Searching/Binary-Search/Alice's-Sweets/README.md)                     |
 | **#14** | [`Special Subarray`](./Searching/Binary-Search/Special-Subarray/README.md)                 |
 | **#15** | [`Plus and Minus`](./Searching/Binary-Search/Plus-and-Minus/README.md)                     |
+| **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)     |
