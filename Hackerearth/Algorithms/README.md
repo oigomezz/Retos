@@ -84,3 +84,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`Special paths`](./Searching/Binary-Search/Special-Paths/README.md)                             |
 | **#31** | [`Failed ranges`](./Searching/Binary-Search/Failed-Ranges/README.md)                             |
 | **#32** | [`Customer satisfaction`](./Searching/Binary-Search/Customer-Satisfaction/README.md)             |
+| **#33** | [`A plane journey`](./Searching/Binary-Search/A-plane-journey/README.md)                         |
