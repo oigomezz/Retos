@@ -79,3 +79,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#25** | [`Counting numbers`](./Searching/Binary-Search/Counting-Numbers/README.md)                       |
 | **#26** | [`Highways`](./Searching/Binary-Search/Highways/README.md)                                       |
 | **#27** | [`Road to playoffs`](./Searching/Binary-Search/Road-to-Playoffs/README.md)                       |
+| **#28** | [`A special sequence`](./Searching/Binary-Search/A-Special-Sequence/README.md)                   |
