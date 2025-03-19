@@ -80,3 +80,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#26** | [`Highways`](./Searching/Binary-Search/Highways/README.md)                                       |
 | **#27** | [`Road to playoffs`](./Searching/Binary-Search/Road-to-Playoffs/README.md)                       |
 | **#28** | [`A special sequence`](./Searching/Binary-Search/A-Special-Sequence/README.md)                   |
+| **#29** | [`Smallest subarrays`](./Searching/Binary-Search/Smallest-Subarrays/README.md)                   |
