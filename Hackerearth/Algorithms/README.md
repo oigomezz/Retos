@@ -82,3 +82,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#28** | [`A special sequence`](./Searching/Binary-Search/A-Special-Sequence/README.md)                   |
 | **#29** | [`Smallest subarrays`](./Searching/Binary-Search/Smallest-Subarrays/README.md)                   |
 | **#30** | [`Special paths`](./Searching/Binary-Search/Special-Paths/README.md)                             |
+| **#31** | [`Failed ranges`](./Searching/Binary-Search/Failed-Ranges/README.md)                             |
