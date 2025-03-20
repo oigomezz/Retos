@@ -91,3 +91,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#37** | [`Smallest substring`](./Searching/Binary-Search/Smallest-Substring/README.md)                   |
 | **#38** | [`Queries problem`](./Searching/Binary-Search/Queries-Problem/README.md)                         |
 | **#39** | [`N girls`](./Searching/Binary-Search/N-girls/README.md)                                         |
+| **#40** | [`Partitions`](./Searching/Binary-Search/Partitions/README.md)                                   |
