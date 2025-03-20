@@ -87,3 +87,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#33** | [`A plane journey`](./Searching/Binary-Search/A-plane-journey/README.md)                         |
 | **#34** | [`F. Sub-array Problem`](./Searching/Binary-Search/Sub-array-Problem/README.md)                  |
 | **#35** | [`Sequences`](./Searching/Binary-Search/Sequences/README.md)                                     |
+| **#36** | [`Base numbers`](./Searching/Binary-Search/Base-Numbers/README.md)                               |
