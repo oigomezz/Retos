@@ -95,3 +95,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#41** | [`Development Cost`](./Searching/Binary-Search/Development-Cost/README.md)                       |
 | **#42** | [`Largest Substring`](./Searching/Binary-Search/Largest-Substring/README.md)                     |
 | **#43** | [`Superior Substring`](./Searching/Binary-Search/Superior-Substring/README.md)                   |
+| **#44** | [`Picu Bank`](./Searching/Binary-Search/Picu-Bank/README.md)                                     |
