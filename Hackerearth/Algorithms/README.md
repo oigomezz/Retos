@@ -104,3 +104,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#50** | [`Candies`](./Searching/Binary-Search/Candies/README.md)                                         |
 | **#51** | [`Bugs`](./Searching/Binary-Search/Bugs/README.md)                                               |
 | **#52** | [`Compare Strings`](./Searching/Binary-Search/Compare-Strings/README.md)                         |
+| **#53** | [`Magic Potion`](./Searching/Binary-Search/Magic-Potion/README.md)                               |
