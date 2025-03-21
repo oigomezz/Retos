@@ -97,3 +97,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#43** | [`Superior Substring`](./Searching/Binary-Search/Superior-Substring/README.md)                   |
 | **#44** | [`Picu Bank`](./Searching/Binary-Search/Picu-Bank/README.md)                                     |
 | **#45** | [`Highest average <Nissan>`](./Searching/Binary-Search/Highest-Average-Nissan/README.md)         |
+| **#46** | [`Highest average`](./Searching/Binary-Search/Highest-Average/README.md)                         |
