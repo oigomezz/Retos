@@ -100,3 +100,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#46** | [`Highest average`](./Searching/Binary-Search/Highest-Average/README.md)                         |
 | **#47** | [`Coins`](./Searching/Binary-Search/Coins/README.md)                                             |
 | **#48** | [`Vowel Query`](./Searching/Binary-Search/Vowel-Query/README.md)                                 |
+| **#49** | [`Zero Xor`](./Searching/Binary-Search/Zero-XOR/README.md)                                       |
