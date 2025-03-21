@@ -105,3 +105,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#51** | [`Bugs`](./Searching/Binary-Search/Bugs/README.md)                                               |
 | **#52** | [`Compare Strings`](./Searching/Binary-Search/Compare-Strings/README.md)                         |
 | **#53** | [`Magic Potion`](./Searching/Binary-Search/Magic-Potion/README.md)                               |
+| **#54** | [`Gaurav And Sub-array`](./Searching/Binary-Search/Gaurav-and-Sub-array/README.md)               |
