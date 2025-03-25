@@ -121,3 +121,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#67** | [`Monk and Chocolates`](./Searching/Binary-Search/Monk-and-Chocolates/README.md)                 |
 | **#68** | [`Danny !`](./Searching/Binary-Search/Danny/README.md)                                           |
 | **#69** | [`Help Fredo`](./Searching/Binary-Search/Help-Fredo/README.md)                                   |
+| **#70** | [`Cocktail Range Query`](./Searching/Binary-Search/Cocktail-Range-Query/README.md)               |
