@@ -112,3 +112,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#58** | [`The Substring Game!`](./Searching/Binary-Search/The-Substring-Game/README.md)                  |
 | **#59** | [`The furious five`](./Searching/Binary-Search/The-Furious-Five/README.md)                       |
 | **#60** | [`Watching Video`](./Searching/Binary-Search/Watching-Video/README.md)                           |
+| **#61** | [`Round Table Meeting`](./Searching/Binary-Search/Round-Table-Meeting/README.md)                 |
