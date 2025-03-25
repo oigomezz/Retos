@@ -118,3 +118,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#64** | [`Choose K Numbers`](./Searching/Binary-Search/Choose-K-Numbers/README.md)                       |
 | **#65** | [`Numbers II`](./Searching/Binary-Search/Numbers-II/README.md)                                   |
 | **#66** | [`Naruto's Punishment`](./Searching/Binary-Search/Naruto's-Punishment/README.md)                 |
+| **#67** | [`Monk and Chocolates`](./Searching/Binary-Search/Monk-and-Chocolates/README.md)                 |
