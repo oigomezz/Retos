@@ -117,3 +117,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#63** | [`Code Apocalypse 3.0`](./Searching/Binary-Search/Code-Apocalypse-3/README.md)                   |
 | **#64** | [`Choose K Numbers`](./Searching/Binary-Search/Choose-K-Numbers/README.md)                       |
 | **#65** | [`Numbers II`](./Searching/Binary-Search/Numbers-II/README.md)                                   |
+| **#66** | [`Naruto's Punishment`](./Searching/Binary-Search/Naruto's-Punishment/README.md)                 |
