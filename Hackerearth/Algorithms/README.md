@@ -110,3 +110,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#56** | [`Mobile Selection`](./Searching/Binary-Search/Mobile-Selection/README.md)                       |
 | **#57** | [`PartitTwo Arraysions`](./Searching/Binary-Search/Two-Arrays/README.md)                         |
 | **#58** | [`The Substring Game!`](./Searching/Binary-Search/The-Substring-Game/README.md)                  |
+| **#59** | [`The furious five`](./Searching/Binary-Search/The-Furious-Five/README.md)                       |
