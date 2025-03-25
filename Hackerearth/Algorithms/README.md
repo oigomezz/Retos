@@ -109,3 +109,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#55** | [`Rolling Balls`](./Searching/Binary-Search/Rolling-Balls/README.md)                             |
 | **#56** | [`Mobile Selection`](./Searching/Binary-Search/Mobile-Selection/README.md)                       |
 | **#57** | [`PartitTwo Arraysions`](./Searching/Binary-Search/Two-Arrays/README.md)                         |
+| **#58** | [`The Substring Game!`](./Searching/Binary-Search/The-Substring-Game/README.md)                  |
