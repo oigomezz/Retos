@@ -113,3 +113,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#59** | [`The furious five`](./Searching/Binary-Search/The-Furious-Five/README.md)                       |
 | **#60** | [`Watching Video`](./Searching/Binary-Search/Watching-Video/README.md)                           |
 | **#61** | [`Round Table Meeting`](./Searching/Binary-Search/Round-Table-Meeting/README.md)                 |
+| **#62** | [`Query multiples`](./Searching/Binary-Search/Query-Multiples/README.md)                         |
