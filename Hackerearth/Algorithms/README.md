@@ -128,3 +128,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#74** | [`New World`](./Searching/Binary-Search/New-World/README.md)                                     |
 | **#75** | [`Doghouses`](./Searching/Binary-Search/Doghouses/README.md)                                     |
 | **#76** | [`C - GukiZ Height`](./Searching/Binary-Search/C-GukiZ-Height/README.md)                         |
+| **#77** | [`Rasta and Kheshtak`](./Searching/Binary-Search/Rasta-and-Kheshtak/README.md)                   |
