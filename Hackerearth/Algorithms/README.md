@@ -123,3 +123,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#69** | [`Help Fredo`](./Searching/Binary-Search/Help-Fredo/README.md)                                   |
 | **#70** | [`Cocktail Range Query`](./Searching/Binary-Search/Cocktail-Range-Query/README.md)               |
 | **#71** | [`Student Arrangement`](./Searching/Binary-Search/Student-Arrangement/README.md)                 |
+| **#72** | [`Timely Orders`](./Searching/Binary-Search/Timely-Orders/README.md)                             |
