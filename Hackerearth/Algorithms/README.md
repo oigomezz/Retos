@@ -134,3 +134,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#80** | [`Monk's Encounter with Polynomial`](./Searching/Binary-Search/Monk's-Encounter-with-Polynomial/README.md) |
 | **#81** | [`Discover the Monk`](./Searching/Binary-Search/Discover-the-Monk/README.md)                               |
 | **#82** | [`Kth smallest number again`](./Searching/Binary-Search/Kth-smallest-number-again/README.md)               |
+| **#83** | [`Xsquare And Number List`](./Searching/Binary-Search/Xsquare-and-Number-List/README.md)                   |
