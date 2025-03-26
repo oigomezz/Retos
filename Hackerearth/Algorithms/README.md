@@ -124,3 +124,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#70** | [`Cocktail Range Query`](./Searching/Binary-Search/Cocktail-Range-Query/README.md)               |
 | **#71** | [`Student Arrangement`](./Searching/Binary-Search/Student-Arrangement/README.md)                 |
 | **#72** | [`Timely Orders`](./Searching/Binary-Search/Timely-Orders/README.md)                             |
+| **#73** | [`The String Monster`](./Searching/Binary-Search/The-String-Monster/README.md)                   |
