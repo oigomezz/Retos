@@ -50,84 +50,85 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Binary Search](./Searching/Binary-Search/README.md)
 
-| N°      | Enunciado                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------------ |
-| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md)                                   |
-| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)                                     |
-| **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md)                                 |
-| **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md)                       |
-| **#05** | [`Optimal Division`](./Searching/Binary-Search/Optimal-Division/README.md)                       |
-| **#06** | [`Remove Interval`](./Searching/Binary-Search/Remove-Interval/README.md)                         |
-| **#07** | [`Make Max Groups`](./Searching/Binary-Search/Make-Max-Groups/README.md)                         |
-| **#08** | [`Segment Cost`](./Searching/Binary-Search/Segment-Cost/README.md)                               |
-| **#09** | [`Endless Integer Sequence`](./Searching/Binary-Search/Endless-Integer-Sequence/README.md)       |
-| **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                               |
-| **#11** | [`Remainder Twist`](./Searching/Binary-Search/Remainder-Twist/README.md)                         |
-| **#12** | [`Horse Race`](./Searching/Binary-Search/Horse-Race/README.md)                                   |
-| **#13** | [`Alice's Sweets`](./Searching/Binary-Search/Alice's-Sweets/README.md)                           |
-| **#14** | [`Special Subarray`](./Searching/Binary-Search/Special-Subarray/README.md)                       |
-| **#15** | [`Plus and Minus`](./Searching/Binary-Search/Plus-and-Minus/README.md)                           |
-| **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)           |
-| **#17** | [`Longest Subsequence Queries`](./Searching/Binary-Search/Longest-Subsequence-Queries/README.md) |
-| **#18** | [`Cover Line`](./Searching/Binary-Search/Cover-Line/README.md)                                   |
-| **#19** | [`Customer and Discount`](./Searching/Binary-Search/Customer-and-Discount/README.md)             |
-| **#20** | [`Bob and his special string`](./Searching/Binary-Search/Bob-and-his-special-string/README.md)   |
-| **#21** | [`Distinct solutions`](./Searching/Binary-Search/Distinct-Solutions/README.md)                   |
-| **#22** | [`Maximum work`](./Searching/Binary-Search/Maximum-Work/README.md)                               |
-| **#23** | [`Minimum radius`](./Searching/Binary-Search/Minimum-Radius/README.md)                           |
-| **#24** | [`A digit in a sequence`](./Searching/Binary-Search/A-digit-in-a-sequence/README.md)             |
-| **#25** | [`Counting numbers`](./Searching/Binary-Search/Counting-Numbers/README.md)                       |
-| **#26** | [`Highways`](./Searching/Binary-Search/Highways/README.md)                                       |
-| **#27** | [`Road to playoffs`](./Searching/Binary-Search/Road-to-Playoffs/README.md)                       |
-| **#28** | [`A special sequence`](./Searching/Binary-Search/A-Special-Sequence/README.md)                   |
-| **#29** | [`Smallest subarrays`](./Searching/Binary-Search/Smallest-Subarrays/README.md)                   |
-| **#30** | [`Special paths`](./Searching/Binary-Search/Special-Paths/README.md)                             |
-| **#31** | [`Failed ranges`](./Searching/Binary-Search/Failed-Ranges/README.md)                             |
-| **#32** | [`Customer satisfaction`](./Searching/Binary-Search/Customer-Satisfaction/README.md)             |
-| **#33** | [`A plane journey`](./Searching/Binary-Search/A-plane-journey/README.md)                         |
-| **#34** | [`F. Sub-array Problem`](./Searching/Binary-Search/Sub-array-Problem/README.md)                  |
-| **#35** | [`Sequences`](./Searching/Binary-Search/Sequences/README.md)                                     |
-| **#36** | [`Base numbers`](./Searching/Binary-Search/Base-Numbers/README.md)                               |
-| **#37** | [`Smallest substring`](./Searching/Binary-Search/Smallest-Substring/README.md)                   |
-| **#38** | [`Queries problem`](./Searching/Binary-Search/Queries-Problem/README.md)                         |
-| **#39** | [`N girls`](./Searching/Binary-Search/N-girls/README.md)                                         |
-| **#40** | [`Partitions`](./Searching/Binary-Search/Partitions/README.md)                                   |
-| **#41** | [`Development Cost`](./Searching/Binary-Search/Development-Cost/README.md)                       |
-| **#42** | [`Largest Substring`](./Searching/Binary-Search/Largest-Substring/README.md)                     |
-| **#43** | [`Superior Substring`](./Searching/Binary-Search/Superior-Substring/README.md)                   |
-| **#44** | [`Picu Bank`](./Searching/Binary-Search/Picu-Bank/README.md)                                     |
-| **#45** | [`Highest average <Nissan>`](./Searching/Binary-Search/Highest-Average-Nissan/README.md)         |
-| **#46** | [`Highest average`](./Searching/Binary-Search/Highest-Average/README.md)                         |
-| **#47** | [`Coins`](./Searching/Binary-Search/Coins/README.md)                                             |
-| **#48** | [`Vowel Query`](./Searching/Binary-Search/Vowel-Query/README.md)                                 |
-| **#49** | [`Zero Xor`](./Searching/Binary-Search/Zero-XOR/README.md)                                       |
-| **#50** | [`Candies`](./Searching/Binary-Search/Candies/README.md)                                         |
-| **#51** | [`Bugs`](./Searching/Binary-Search/Bugs/README.md)                                               |
-| **#52** | [`Compare Strings`](./Searching/Binary-Search/Compare-Strings/README.md)                         |
-| **#53** | [`Magic Potion`](./Searching/Binary-Search/Magic-Potion/README.md)                               |
-| **#54** | [`Gaurav And Sub-array`](./Searching/Binary-Search/Gaurav-and-Sub-array/README.md)               |
-| **#55** | [`Rolling Balls`](./Searching/Binary-Search/Rolling-Balls/README.md)                             |
-| **#56** | [`Mobile Selection`](./Searching/Binary-Search/Mobile-Selection/README.md)                       |
-| **#57** | [`PartitTwo Arraysions`](./Searching/Binary-Search/Two-Arrays/README.md)                         |
-| **#58** | [`The Substring Game!`](./Searching/Binary-Search/The-Substring-Game/README.md)                  |
-| **#59** | [`The furious five`](./Searching/Binary-Search/The-Furious-Five/README.md)                       |
-| **#60** | [`Watching Video`](./Searching/Binary-Search/Watching-Video/README.md)                           |
-| **#61** | [`Round Table Meeting`](./Searching/Binary-Search/Round-Table-Meeting/README.md)                 |
-| **#62** | [`Query multiples`](./Searching/Binary-Search/Query-Multiples/README.md)                         |
-| **#63** | [`Code Apocalypse 3.0`](./Searching/Binary-Search/Code-Apocalypse-3/README.md)                   |
-| **#64** | [`Choose K Numbers`](./Searching/Binary-Search/Choose-K-Numbers/README.md)                       |
-| **#65** | [`Numbers II`](./Searching/Binary-Search/Numbers-II/README.md)                                   |
-| **#66** | [`Naruto's Punishment`](./Searching/Binary-Search/Naruto's-Punishment/README.md)                 |
-| **#67** | [`Monk and Chocolates`](./Searching/Binary-Search/Monk-and-Chocolates/README.md)                 |
-| **#68** | [`Danny !`](./Searching/Binary-Search/Danny/README.md)                                           |
-| **#69** | [`Help Fredo`](./Searching/Binary-Search/Help-Fredo/README.md)                                   |
-| **#70** | [`Cocktail Range Query`](./Searching/Binary-Search/Cocktail-Range-Query/README.md)               |
-| **#71** | [`Student Arrangement`](./Searching/Binary-Search/Student-Arrangement/README.md)                 |
-| **#72** | [`Timely Orders`](./Searching/Binary-Search/Timely-Orders/README.md)                             |
-| **#73** | [`The String Monster`](./Searching/Binary-Search/The-String-Monster/README.md)                   |
-| **#74** | [`New World`](./Searching/Binary-Search/New-World/README.md)                                     |
-| **#75** | [`Doghouses`](./Searching/Binary-Search/Doghouses/README.md)                                     |
-| **#76** | [`C - GukiZ Height`](./Searching/Binary-Search/C-GukiZ-Height/README.md)                         |
-| **#77** | [`Rasta and Kheshtak`](./Searching/Binary-Search/Rasta-and-Kheshtak/README.md)                   |
-| **#78** | [`The Enlightened Ones`](./Searching/Binary-Search/The-Enlightened-Ones/README.md)               |
-| **#79** | [`The Old Monk`](./Searching/Binary-Search/The-Old-Monk/README.md)                               |
+| N°      | Enunciado                                                                                                  |
+| ------- | ---------------------------------------------------------------------------------------------------------- |
+| **#01** | [`RebelReach`](./Searching/Binary-Search/RebelReach/README.md)                                             |
+| **#02** | [`Text Wrap`](./Searching/Binary-Search/Text-Wrap/README.md)                                               |
+| **#03** | [`X Subarrays`](./Searching/Binary-Search/X-Subarrays/README.md)                                           |
+| **#04** | [`Scroll-a-palooza`](./Searching/Binary-Search/Scroll-a-palooza/README.md)                                 |
+| **#05** | [`Optimal Division`](./Searching/Binary-Search/Optimal-Division/README.md)                                 |
+| **#06** | [`Remove Interval`](./Searching/Binary-Search/Remove-Interval/README.md)                                   |
+| **#07** | [`Make Max Groups`](./Searching/Binary-Search/Make-Max-Groups/README.md)                                   |
+| **#08** | [`Segment Cost`](./Searching/Binary-Search/Segment-Cost/README.md)                                         |
+| **#09** | [`Endless Integer Sequence`](./Searching/Binary-Search/Endless-Integer-Sequence/README.md)                 |
+| **#10** | [`Maze maximum`](./Searching/Binary-Search/Maze-Maximum/README.md)                                         |
+| **#11** | [`Remainder Twist`](./Searching/Binary-Search/Remainder-Twist/README.md)                                   |
+| **#12** | [`Horse Race`](./Searching/Binary-Search/Horse-Race/README.md)                                             |
+| **#13** | [`Alice's Sweets`](./Searching/Binary-Search/Alice's-Sweets/README.md)                                     |
+| **#14** | [`Special Subarray`](./Searching/Binary-Search/Special-Subarray/README.md)                                 |
+| **#15** | [`Plus and Minus`](./Searching/Binary-Search/Plus-and-Minus/README.md)                                     |
+| **#16** | [`Distribute the Numbers`](./Searching/Binary-Search/Distribute-the-Numbers/README.md)                     |
+| **#17** | [`Longest Subsequence Queries`](./Searching/Binary-Search/Longest-Subsequence-Queries/README.md)           |
+| **#18** | [`Cover Line`](./Searching/Binary-Search/Cover-Line/README.md)                                             |
+| **#19** | [`Customer and Discount`](./Searching/Binary-Search/Customer-and-Discount/README.md)                       |
+| **#20** | [`Bob and his special string`](./Searching/Binary-Search/Bob-and-his-special-string/README.md)             |
+| **#21** | [`Distinct solutions`](./Searching/Binary-Search/Distinct-Solutions/README.md)                             |
+| **#22** | [`Maximum work`](./Searching/Binary-Search/Maximum-Work/README.md)                                         |
+| **#23** | [`Minimum radius`](./Searching/Binary-Search/Minimum-Radius/README.md)                                     |
+| **#24** | [`A digit in a sequence`](./Searching/Binary-Search/A-digit-in-a-sequence/README.md)                       |
+| **#25** | [`Counting numbers`](./Searching/Binary-Search/Counting-Numbers/README.md)                                 |
+| **#26** | [`Highways`](./Searching/Binary-Search/Highways/README.md)                                                 |
+| **#27** | [`Road to playoffs`](./Searching/Binary-Search/Road-to-Playoffs/README.md)                                 |
+| **#28** | [`A special sequence`](./Searching/Binary-Search/A-Special-Sequence/README.md)                             |
+| **#29** | [`Smallest subarrays`](./Searching/Binary-Search/Smallest-Subarrays/README.md)                             |
+| **#30** | [`Special paths`](./Searching/Binary-Search/Special-Paths/README.md)                                       |
+| **#31** | [`Failed ranges`](./Searching/Binary-Search/Failed-Ranges/README.md)                                       |
+| **#32** | [`Customer satisfaction`](./Searching/Binary-Search/Customer-Satisfaction/README.md)                       |
+| **#33** | [`A plane journey`](./Searching/Binary-Search/A-plane-journey/README.md)                                   |
+| **#34** | [`F. Sub-array Problem`](./Searching/Binary-Search/Sub-array-Problem/README.md)                            |
+| **#35** | [`Sequences`](./Searching/Binary-Search/Sequences/README.md)                                               |
+| **#36** | [`Base numbers`](./Searching/Binary-Search/Base-Numbers/README.md)                                         |
+| **#37** | [`Smallest substring`](./Searching/Binary-Search/Smallest-Substring/README.md)                             |
+| **#38** | [`Queries problem`](./Searching/Binary-Search/Queries-Problem/README.md)                                   |
+| **#39** | [`N girls`](./Searching/Binary-Search/N-girls/README.md)                                                   |
+| **#40** | [`Partitions`](./Searching/Binary-Search/Partitions/README.md)                                             |
+| **#41** | [`Development Cost`](./Searching/Binary-Search/Development-Cost/README.md)                                 |
+| **#42** | [`Largest Substring`](./Searching/Binary-Search/Largest-Substring/README.md)                               |
+| **#43** | [`Superior Substring`](./Searching/Binary-Search/Superior-Substring/README.md)                             |
+| **#44** | [`Picu Bank`](./Searching/Binary-Search/Picu-Bank/README.md)                                               |
+| **#45** | [`Highest average <Nissan>`](./Searching/Binary-Search/Highest-Average-Nissan/README.md)                   |
+| **#46** | [`Highest average`](./Searching/Binary-Search/Highest-Average/README.md)                                   |
+| **#47** | [`Coins`](./Searching/Binary-Search/Coins/README.md)                                                       |
+| **#48** | [`Vowel Query`](./Searching/Binary-Search/Vowel-Query/README.md)                                           |
+| **#49** | [`Zero Xor`](./Searching/Binary-Search/Zero-XOR/README.md)                                                 |
+| **#50** | [`Candies`](./Searching/Binary-Search/Candies/README.md)                                                   |
+| **#51** | [`Bugs`](./Searching/Binary-Search/Bugs/README.md)                                                         |
+| **#52** | [`Compare Strings`](./Searching/Binary-Search/Compare-Strings/README.md)                                   |
+| **#53** | [`Magic Potion`](./Searching/Binary-Search/Magic-Potion/README.md)                                         |
+| **#54** | [`Gaurav And Sub-array`](./Searching/Binary-Search/Gaurav-and-Sub-array/README.md)                         |
+| **#55** | [`Rolling Balls`](./Searching/Binary-Search/Rolling-Balls/README.md)                                       |
+| **#56** | [`Mobile Selection`](./Searching/Binary-Search/Mobile-Selection/README.md)                                 |
+| **#57** | [`PartitTwo Arraysions`](./Searching/Binary-Search/Two-Arrays/README.md)                                   |
+| **#58** | [`The Substring Game!`](./Searching/Binary-Search/The-Substring-Game/README.md)                            |
+| **#59** | [`The furious five`](./Searching/Binary-Search/The-Furious-Five/README.md)                                 |
+| **#60** | [`Watching Video`](./Searching/Binary-Search/Watching-Video/README.md)                                     |
+| **#61** | [`Round Table Meeting`](./Searching/Binary-Search/Round-Table-Meeting/README.md)                           |
+| **#62** | [`Query multiples`](./Searching/Binary-Search/Query-Multiples/README.md)                                   |
+| **#63** | [`Code Apocalypse 3.0`](./Searching/Binary-Search/Code-Apocalypse-3/README.md)                             |
+| **#64** | [`Choose K Numbers`](./Searching/Binary-Search/Choose-K-Numbers/README.md)                                 |
+| **#65** | [`Numbers II`](./Searching/Binary-Search/Numbers-II/README.md)                                             |
+| **#66** | [`Naruto's Punishment`](./Searching/Binary-Search/Naruto's-Punishment/README.md)                           |
+| **#67** | [`Monk and Chocolates`](./Searching/Binary-Search/Monk-and-Chocolates/README.md)                           |
+| **#68** | [`Danny !`](./Searching/Binary-Search/Danny/README.md)                                                     |
+| **#69** | [`Help Fredo`](./Searching/Binary-Search/Help-Fredo/README.md)                                             |
+| **#70** | [`Cocktail Range Query`](./Searching/Binary-Search/Cocktail-Range-Query/README.md)                         |
+| **#71** | [`Student Arrangement`](./Searching/Binary-Search/Student-Arrangement/README.md)                           |
+| **#72** | [`Timely Orders`](./Searching/Binary-Search/Timely-Orders/README.md)                                       |
+| **#73** | [`The String Monster`](./Searching/Binary-Search/The-String-Monster/README.md)                             |
+| **#74** | [`New World`](./Searching/Binary-Search/New-World/README.md)                                               |
+| **#75** | [`Doghouses`](./Searching/Binary-Search/Doghouses/README.md)                                               |
+| **#76** | [`C - GukiZ Height`](./Searching/Binary-Search/C-GukiZ-Height/README.md)                                   |
+| **#77** | [`Rasta and Kheshtak`](./Searching/Binary-Search/Rasta-and-Kheshtak/README.md)                             |
+| **#78** | [`The Enlightened Ones`](./Searching/Binary-Search/The-Enlightened-Ones/README.md)                         |
+| **#79** | [`The Old Monk`](./Searching/Binary-Search/The-Old-Monk/README.md)                                         |
+| **#80** | [`Monk's Encounter with Polynomial`](./Searching/Binary-Search/Monk's-Encounter-with-Polynomial/README.md) |
