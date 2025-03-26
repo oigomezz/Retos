@@ -125,3 +125,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#71** | [`Student Arrangement`](./Searching/Binary-Search/Student-Arrangement/README.md)                 |
 | **#72** | [`Timely Orders`](./Searching/Binary-Search/Timely-Orders/README.md)                             |
 | **#73** | [`The String Monster`](./Searching/Binary-Search/The-String-Monster/README.md)                   |
+| **#74** | [`New World`](./Searching/Binary-Search/New-World/README.md)                                     |
