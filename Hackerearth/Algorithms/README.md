@@ -132,3 +132,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#78** | [`The Enlightened Ones`](./Searching/Binary-Search/The-Enlightened-Ones/README.md)                         |
 | **#79** | [`The Old Monk`](./Searching/Binary-Search/The-Old-Monk/README.md)                                         |
 | **#80** | [`Monk's Encounter with Polynomial`](./Searching/Binary-Search/Monk's-Encounter-with-Polynomial/README.md) |
+| **#81** | [`Discover the Monk`](./Searching/Binary-Search/Discover-the-Monk/README.md) |
