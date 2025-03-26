@@ -136,3 +136,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#82** | [`Kth smallest number again`](./Searching/Binary-Search/Kth-smallest-number-again/README.md)               |
 | **#83** | [`Xsquare And Number List`](./Searching/Binary-Search/Xsquare-and-Number-List/README.md)                   |
 | **#84** | [`Kriti and her Birthday Gift`](./Searching/Binary-Search/Kriti-and-her-Birthday-Gift/README.md)           |
+| **#85** | [`Roy and Tiles`](./Searching/Binary-Search/Roy-and-Tiles/README.md)                                       |
