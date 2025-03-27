@@ -145,3 +145,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#91** | [`Mehta And Subarrays`](./Searching/Binary-Search/Mehta-and-Subarrays/README.md)                           |
 | **#92** | [`Starting Game development`](./Searching/Binary-Search/Starting-Game-Development/README.md)               |
 | **#93** | [`Glowing Bulbs`](./Searching/Binary-Search/Glowing-Bulbs/README.md)                                       |
+| **#94** | [`Triangular Ranges`](./Searching/Binary-Search/Triangular-Ranges/README.md)                               |
