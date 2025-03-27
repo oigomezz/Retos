@@ -140,3 +140,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#86** | [`Sherlock and Numbers`](./Searching/Binary-Search/Sherlock-and-Numbers/README.md)                         |
 | **#87** | [`Random Generator`](./Searching/Binary-Search/Random-Generator/README.md)                                 |
 | **#88** | [`Troubling Triple`](./Searching/Binary-Search/Troubling-Triple/README.md)                                 |
+| **#89** | [`Weighted String`](./Searching/Binary-Search/Weighted-String/README.md)                                   |
