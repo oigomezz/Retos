@@ -147,3 +147,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#93** | [`Glowing Bulbs`](./Searching/Binary-Search/Glowing-Bulbs/README.md)                                       |
 | **#94** | [`Triangular Ranges`](./Searching/Binary-Search/Triangular-Ranges/README.md)                               |
 | **#95** | [`Supertables`](./Searching/Binary-Search/Supertables/README.md)                                           |
+| **#96** | [`Promotion`](./Searching/Binary-Search/Promotion/README.md)                                               |
