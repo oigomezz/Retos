@@ -138,3 +138,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#84** | [`Kriti and her Birthday Gift`](./Searching/Binary-Search/Kriti-and-her-Birthday-Gift/README.md)           |
 | **#85** | [`Roy and Tiles`](./Searching/Binary-Search/Roy-and-Tiles/README.md)                                       |
 | **#86** | [`Sherlock and Numbers`](./Searching/Binary-Search/Sherlock-and-Numbers/README.md)                         |
+| **#87** | [`Random Generator`](./Searching/Binary-Search/Random-Generator/README.md)                                 |
