@@ -146,3 +146,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#92** | [`Starting Game development`](./Searching/Binary-Search/Starting-Game-Development/README.md)               |
 | **#93** | [`Glowing Bulbs`](./Searching/Binary-Search/Glowing-Bulbs/README.md)                                       |
 | **#94** | [`Triangular Ranges`](./Searching/Binary-Search/Triangular-Ranges/README.md)                               |
+| **#95** | [`Supertables`](./Searching/Binary-Search/Supertables/README.md)                                           |
