@@ -149,3 +149,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#95** | [`Supertables`](./Searching/Binary-Search/Supertables/README.md)                                           |
 | **#96** | [`Promotion`](./Searching/Binary-Search/Promotion/README.md)                                               |
 | **#97** | [`Interesting Coins`](./Searching/Binary-Search/Interesting-Coins/README.md)                               |
+| **#98** | [`Foo and Exams`](./Searching/Binary-Search/Foo-and-Exams/README.md)                                       |
