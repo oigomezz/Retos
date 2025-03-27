@@ -139,3 +139,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#85** | [`Roy and Tiles`](./Searching/Binary-Search/Roy-and-Tiles/README.md)                                       |
 | **#86** | [`Sherlock and Numbers`](./Searching/Binary-Search/Sherlock-and-Numbers/README.md)                         |
 | **#87** | [`Random Generator`](./Searching/Binary-Search/Random-Generator/README.md)                                 |
+| **#88** | [`Troubling Triple`](./Searching/Binary-Search/Troubling-Triple/README.md)                                 |
