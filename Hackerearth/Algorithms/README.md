@@ -158,3 +158,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | --------------------------------------------------------------------- |
 | **#01** | [`Download file`](./Searching/Ternary-Search/Download-File/README.md) |
 | **#02** | [`The exam`](./Searching/Ternary-Search/The-Exam/README.md)           |
+| **#03** | [`Puzzled Grid`](./Searching/Ternary-Search/Puzzled-Grid/README.md)   |
