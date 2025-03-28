@@ -154,8 +154,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Ternary Search](./Searching/Ternary-Search/README.md)
 
-| N°      | Enunciado                                                             |
-| ------- | --------------------------------------------------------------------- |
-| **#01** | [`Download file`](./Searching/Ternary-Search/Download-File/README.md) |
-| **#02** | [`The exam`](./Searching/Ternary-Search/The-Exam/README.md)           |
-| **#03** | [`Puzzled Grid`](./Searching/Ternary-Search/Puzzled-Grid/README.md)   |
+| N°      | Enunciado                                                                   |
+| ------- | --------------------------------------------------------------------------- |
+| **#01** | [`Download file`](./Searching/Ternary-Search/Download-File/README.md)       |
+| **#02** | [`The exam`](./Searching/Ternary-Search/The-Exam/README.md)                 |
+| **#03** | [`Puzzled Grid`](./Searching/Ternary-Search/Puzzled-Grid/README.md)         |
+| **#04** | [`Small Factorials`](./Searching/Ternary-Search/Small-Factorials/README.md) |
