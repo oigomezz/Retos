@@ -172,3 +172,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Easy Going.(Very Easy)`](./Sorting/Bubble-Sort/Easy-Going/README.md)     |
 | **#06** | [`The Best Player`](./Sorting/Bubble-Sort/The-Best-Player/README.md)       |
 | **#07** | [`Benny and Segments`](./Sorting/Bubble-Sort/Benny-and-Segments/README.md) |
+| **#08** | [`Save Patients`](./Sorting/Bubble-Sort/Save-Patients/README.md)           |
