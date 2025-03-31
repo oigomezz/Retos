@@ -169,3 +169,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`Bubble Sort`](./Sorting/Bubble-Sort/Bubble-Sort/README.md)               |
 | **#03** | [`Balanced Partition`](./Sorting/Bubble-Sort/Balanced-Partition/README.md) |
 | **#04** | [`Shubham and Xor`](./Sorting/Bubble-Sort/Shubham-and-XOR/README.md)       |
+| **#05** | [`Easy Going.(Very Easy)`](./Sorting/Bubble-Sort/Easy-Going/README.md)     |
