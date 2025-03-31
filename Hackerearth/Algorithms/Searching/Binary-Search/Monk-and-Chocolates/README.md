@@ -17,4 +17,4 @@ On correctly guessing the maximum length winner will be awarded those chocolates
 
 For each of the test case, output the maximum length in a separate line.
 
-[link]: https://example.com
+[link]: https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/monk-and-chocolates-60875f0e/
