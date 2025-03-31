@@ -166,3 +166,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                              |
 | ------- | ---------------------------------------------------------------------- |
 | **#01** | [`Ants on a circle`](./Sorting/Bubble-Sort/Ants-on-a-circle/README.md) |
+| **#02** | [`Bubble Sort`](./Sorting/Bubble-Sort/Bubble-Sort/README.md)           |
