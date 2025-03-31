@@ -173,3 +173,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`The Best Player`](./Sorting/Bubble-Sort/The-Best-Player/README.md)       |
 | **#07** | [`Benny and Segments`](./Sorting/Bubble-Sort/Benny-and-Segments/README.md) |
 | **#08** | [`Save Patients`](./Sorting/Bubble-Sort/Save-Patients/README.md)           |
+
+#### [Selection Sort](./Sorting/Selection-Sort/README.md)
+
+| N°      | Enunciado                                                                                         |
+| ------- | ------------------------------------------------------------------------------------------------- |
+| **#01** | [`Old keypad in a foreign land`](./Sorting/Selection-Sort/Old-Keypad-in-a-Foreign-Land/README.md) |
