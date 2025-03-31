@@ -185,3 +185,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                                           |
 | ------- | ----------------------------------------------------------------------------------- |
 | **#01** | [`Monk and Nice Strings`](./Sorting/Insertion-Sort/Monk-and-Nice-Strings/README.md) |
+
+#### [Merge Sort](./Sorting/Merge-Sort/README.md)
+
+| N°      | Enunciado                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------- |
+| **#01** | [`Maximum length subsequence`](./Sorting/Merge-Sort/Maximum-Length-Subsequence/README.md) |
