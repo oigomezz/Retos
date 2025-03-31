@@ -163,7 +163,8 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Bubble Sort](./Sorting/Bubble-Sort/README.md)
 
-| N°      | Enunciado                                                              |
-| ------- | ---------------------------------------------------------------------- |
-| **#01** | [`Ants on a circle`](./Sorting/Bubble-Sort/Ants-on-a-circle/README.md) |
-| **#02** | [`Bubble Sort`](./Sorting/Bubble-Sort/Bubble-Sort/README.md)           |
+| N°      | Enunciado                                                                  |
+| ------- | -------------------------------------------------------------------------- |
+| **#01** | [`Ants on a circle`](./Sorting/Bubble-Sort/Ants-on-a-circle/README.md)     |
+| **#02** | [`Bubble Sort`](./Sorting/Bubble-Sort/Bubble-Sort/README.md)               |
+| **#03** | [`Balanced Partition`](./Sorting/Bubble-Sort/Balanced-Partition/README.md) |
