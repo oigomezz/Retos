@@ -179,3 +179,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                                                         |
 | ------- | ------------------------------------------------------------------------------------------------- |
 | **#01** | [`Old keypad in a foreign land`](./Sorting/Selection-Sort/Old-Keypad-in-a-Foreign-Land/README.md) |
+
+#### [Insertion Sort](./Sorting/Insertion-Sort/README.md)
