@@ -160,3 +160,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#02** | [`The exam`](./Searching/Ternary-Search/The-Exam/README.md)                 |
 | **#03** | [`Puzzled Grid`](./Searching/Ternary-Search/Puzzled-Grid/README.md)         |
 | **#04** | [`Small Factorials`](./Searching/Ternary-Search/Small-Factorials/README.md) |
+
+#### [Bubble Sort](./Sorting/Bubble-Sort/README.md)
+
+| N°      | Enunciado                                                              |
+| ------- | ---------------------------------------------------------------------- |
+| **#01** | [`Ants on a circle`](./Sorting/Bubble-Sort/Ants-on-a-circle/README.md) |
