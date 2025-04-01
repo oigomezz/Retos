@@ -196,3 +196,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Select the subset`](./Sorting/Merge-Sort/Select-the-Subset/README.md)                   |
 | **#05** | [`Friendly Neighbors`](./Sorting/Merge-Sort/Friendly-Neighbors/README.md)                 |
 | **#06** | [`Let's swap`](./Sorting/Merge-Sort/Let's-Swap/README.md)                                 |
+| **#07** | [`Number of overtakes`](./Sorting/Merge-Sort/Number-of-Overtakes/README.md)               |
