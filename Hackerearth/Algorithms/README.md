@@ -199,3 +199,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Number of overtakes`](./Sorting/Merge-Sort/Number-of-Overtakes/README.md)               |
 | **#08** | [`Sam Height <HSBC>`](<./Sorting/Merge-Sort/Sam-Height(HSBC)/README.md>)                  |
 | **#09** | [`Median Game`](./Sorting/Merge-Sort/Median-Game/README.md)                               |
+| **#10** | [`Different queries`](./Sorting/Merge-Sort/Different-Queries/README.md)                   |
