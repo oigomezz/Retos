@@ -193,4 +193,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#01** | [`Maximum length subsequence`](./Sorting/Merge-Sort/Maximum-Length-Subsequence/README.md) |
 | **#02** | [`Awkward operation`](./Sorting/Merge-Sort/Awkward-Operation/README.md)                   |
 | **#03** | [`Digit sum`](./Sorting/Merge-Sort/Digit-Sum/README.md)                                   |
-| **#03** | [`Select the subset`](./Sorting/Merge-Sort/Select-the-Subset/README.md)                   |
+| **#04** | [`Select the subset`](./Sorting/Merge-Sort/Select-the-Subset/README.md)                   |
+| **#05** | [`Friendly Neighbors`](./Sorting/Merge-Sort/Friendly-Neighbors/README.md)                 |
