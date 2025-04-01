@@ -197,3 +197,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Friendly Neighbors`](./Sorting/Merge-Sort/Friendly-Neighbors/README.md)                 |
 | **#06** | [`Let's swap`](./Sorting/Merge-Sort/Let's-Swap/README.md)                                 |
 | **#07** | [`Number of overtakes`](./Sorting/Merge-Sort/Number-of-Overtakes/README.md)               |
+| **#08** | [`Sam Height <HSBC>`](<./Sorting/Merge-Sort/Sam-Height(HSBC)/README.md>)                  |
