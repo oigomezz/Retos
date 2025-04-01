@@ -204,3 +204,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Fredo and Sums`](./Sorting/Merge-Sort/Fredo-and-Sums/README.md)                               |
 | **#13** | [`Sum of sum of digits`](./Sorting/Merge-Sort/Sum-of-Sum-of-Digits/README.md)                   |
 | **#14** | [`Pebbles Game`](./Sorting/Merge-Sort/Pebbles-Game/README.md)                                   |
+| **#15** | [`Monk's School`](./Sorting/Merge-Sort/Monk's-School/README.md)                                 |
