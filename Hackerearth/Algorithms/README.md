@@ -195,3 +195,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Digit sum`](./Sorting/Merge-Sort/Digit-Sum/README.md)                                   |
 | **#04** | [`Select the subset`](./Sorting/Merge-Sort/Select-the-Subset/README.md)                   |
 | **#05** | [`Friendly Neighbors`](./Sorting/Merge-Sort/Friendly-Neighbors/README.md)                 |
+| **#06** | [`Let's swap`](./Sorting/Merge-Sort/Let's-Swap/README.md)                                 |
