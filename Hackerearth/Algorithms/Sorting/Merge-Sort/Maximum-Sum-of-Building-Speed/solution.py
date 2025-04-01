@@ -1,0 +1,6 @@
+n = int(input())
+a = list(map(int, input().strip().split()))
+a.sort()
+workers = list(zip(*(iter(a),) * 2))
+max_sum = sum(i[0] for i in workers)
+print(max_sum)
