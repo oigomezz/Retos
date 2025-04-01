@@ -191,3 +191,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                                                 |
 | ------- | ----------------------------------------------------------------------------------------- |
 | **#01** | [`Maximum length subsequence`](./Sorting/Merge-Sort/Maximum-Length-Subsequence/README.md) |
+| **#02** | [`Awkward operation`](./Sorting/Merge-Sort/Awkward-Operation/README.md)                   |
