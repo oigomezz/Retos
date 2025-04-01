@@ -201,3 +201,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Median Game`](./Sorting/Merge-Sort/Median-Game/README.md)                                     |
 | **#10** | [`Different queries`](./Sorting/Merge-Sort/Different-Queries/README.md)                         |
 | **#11** | [`Maximum Sum of Building Speed`](./Sorting/Merge-Sort/Maximum-Sum-of-Building-Speed/README.md) |
+| **#12** | [`Fredo and Sums`](./Sorting/Merge-Sort/Fredo-and-Sums/README.md)                               |
