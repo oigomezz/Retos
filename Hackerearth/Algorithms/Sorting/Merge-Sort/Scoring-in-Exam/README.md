@@ -1,4 +1,4 @@
-# [Example][link]
+# [Scoring in Exam][link]
 
 Milly is at the examination hall where she is reading a question paper. She checked the question paper and discovered that there are N questions in that paper. Each question has some score value. Ideally it's like questions requiring more time have more score value and strangely no two questions on the paper require same time to be solved.
 
