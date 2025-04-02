@@ -206,3 +206,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#14** | [`Pebbles Game`](./Sorting/Merge-Sort/Pebbles-Game/README.md)                                   |
 | **#15** | [`Monk's School`](./Sorting/Merge-Sort/Monk's-School/README.md)                                 |
 | **#16** | [`Scoring in Exam`](./Sorting/Merge-Sort/Scoring-in-Exam/README.md)                             |
+| **#17** | [`Missing Soldiers`](./Sorting/Merge-Sort/Missing-Soldiers/README.md)                           |
