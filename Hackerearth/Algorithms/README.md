@@ -211,3 +211,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Chandu and his Girlfriend Returns`](./Sorting/Merge-Sort/Chandu-and-his-Girlfriend-Returns/README.md) |
 | **#20** | [`Puchi and Luggage`](./Sorting/Merge-Sort/Puchi-and-Luggage/README.md)                                 |
 | **#21** | [`Match makers`](./Sorting/Merge-Sort/Match-Makers/README.md)                                           |
+| **#22** | [`AltF4 and the beetles`](./Sorting/Merge-Sort/AltF4-and-the-beetles/README.md)                         |
