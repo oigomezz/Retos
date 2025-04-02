@@ -207,3 +207,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Monk's School`](./Sorting/Merge-Sort/Monk's-School/README.md)                                 |
 | **#16** | [`Scoring in Exam`](./Sorting/Merge-Sort/Scoring-in-Exam/README.md)                             |
 | **#17** | [`Missing Soldiers`](./Sorting/Merge-Sort/Missing-Soldiers/README.md)                           |
+| **#18** | [`Shil and Lucky String`](./Sorting/Merge-Sort/Shil-and-Lucky-String/README.md)                 |
