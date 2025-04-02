@@ -213,3 +213,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Match makers`](./Sorting/Merge-Sort/Match-Makers/README.md)                                                  |
 | **#22** | [`AltF4 and the beetles`](./Sorting/Merge-Sort/AltF4-and-the-beetles/README.md)                                |
 | **#23** | [`Criminals: Little Deepu and Little Kuldeep`](./Sorting/Merge-Sort/Little-Deepu-and-Little-Kuldeep/README.md) |
+| **#24** | [`Sherlock and Magic`](./Sorting/Merge-Sort/Sherlock-and-Magic/README.md)                                      |
