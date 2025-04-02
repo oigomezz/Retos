@@ -1,4 +1,4 @@
-# [Example][link]
+# [Code Apocalypse 3.0][link]
 
 Cypher guys are ready for the grand event Code Apocalypse!!.
 
