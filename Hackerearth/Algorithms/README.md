@@ -188,23 +188,24 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Merge Sort](./Sorting/Merge-Sort/README.md)
 
-| N°      | Enunciado                                                                                       |
-| ------- | ----------------------------------------------------------------------------------------------- |
-| **#01** | [`Maximum length subsequence`](./Sorting/Merge-Sort/Maximum-Length-Subsequence/README.md)       |
-| **#02** | [`Awkward operation`](./Sorting/Merge-Sort/Awkward-Operation/README.md)                         |
-| **#03** | [`Digit sum`](./Sorting/Merge-Sort/Digit-Sum/README.md)                                         |
-| **#04** | [`Select the subset`](./Sorting/Merge-Sort/Select-the-Subset/README.md)                         |
-| **#05** | [`Friendly Neighbors`](./Sorting/Merge-Sort/Friendly-Neighbors/README.md)                       |
-| **#06** | [`Let's swap`](./Sorting/Merge-Sort/Let's-Swap/README.md)                                       |
-| **#07** | [`Number of overtakes`](./Sorting/Merge-Sort/Number-of-Overtakes/README.md)                     |
-| **#08** | [`Sam Height <HSBC>`](<./Sorting/Merge-Sort/Sam-Height(HSBC)/README.md>)                        |
-| **#09** | [`Median Game`](./Sorting/Merge-Sort/Median-Game/README.md)                                     |
-| **#10** | [`Different queries`](./Sorting/Merge-Sort/Different-Queries/README.md)                         |
-| **#11** | [`Maximum Sum of Building Speed`](./Sorting/Merge-Sort/Maximum-Sum-of-Building-Speed/README.md) |
-| **#12** | [`Fredo and Sums`](./Sorting/Merge-Sort/Fredo-and-Sums/README.md)                               |
-| **#13** | [`Sum of sum of digits`](./Sorting/Merge-Sort/Sum-of-Sum-of-Digits/README.md)                   |
-| **#14** | [`Pebbles Game`](./Sorting/Merge-Sort/Pebbles-Game/README.md)                                   |
-| **#15** | [`Monk's School`](./Sorting/Merge-Sort/Monk's-School/README.md)                                 |
-| **#16** | [`Scoring in Exam`](./Sorting/Merge-Sort/Scoring-in-Exam/README.md)                             |
-| **#17** | [`Missing Soldiers`](./Sorting/Merge-Sort/Missing-Soldiers/README.md)                           |
-| **#18** | [`Shil and Lucky String`](./Sorting/Merge-Sort/Shil-and-Lucky-String/README.md)                 |
+| N°      | Enunciado                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Maximum length subsequence`](./Sorting/Merge-Sort/Maximum-Length-Subsequence/README.md)               |
+| **#02** | [`Awkward operation`](./Sorting/Merge-Sort/Awkward-Operation/README.md)                                 |
+| **#03** | [`Digit sum`](./Sorting/Merge-Sort/Digit-Sum/README.md)                                                 |
+| **#04** | [`Select the subset`](./Sorting/Merge-Sort/Select-the-Subset/README.md)                                 |
+| **#05** | [`Friendly Neighbors`](./Sorting/Merge-Sort/Friendly-Neighbors/README.md)                               |
+| **#06** | [`Let's swap`](./Sorting/Merge-Sort/Let's-Swap/README.md)                                               |
+| **#07** | [`Number of overtakes`](./Sorting/Merge-Sort/Number-of-Overtakes/README.md)                             |
+| **#08** | [`Sam Height <HSBC>`](<./Sorting/Merge-Sort/Sam-Height(HSBC)/README.md>)                                |
+| **#09** | [`Median Game`](./Sorting/Merge-Sort/Median-Game/README.md)                                             |
+| **#10** | [`Different queries`](./Sorting/Merge-Sort/Different-Queries/README.md)                                 |
+| **#11** | [`Maximum Sum of Building Speed`](./Sorting/Merge-Sort/Maximum-Sum-of-Building-Speed/README.md)         |
+| **#12** | [`Fredo and Sums`](./Sorting/Merge-Sort/Fredo-and-Sums/README.md)                                       |
+| **#13** | [`Sum of sum of digits`](./Sorting/Merge-Sort/Sum-of-Sum-of-Digits/README.md)                           |
+| **#14** | [`Pebbles Game`](./Sorting/Merge-Sort/Pebbles-Game/README.md)                                           |
+| **#15** | [`Monk's School`](./Sorting/Merge-Sort/Monk's-School/README.md)                                         |
+| **#16** | [`Scoring in Exam`](./Sorting/Merge-Sort/Scoring-in-Exam/README.md)                                     |
+| **#17** | [`Missing Soldiers`](./Sorting/Merge-Sort/Missing-Soldiers/README.md)                                   |
+| **#18** | [`Shil and Lucky String`](./Sorting/Merge-Sort/Shil-and-Lucky-String/README.md)                         |
+| **#19** | [`Chandu and his Girlfriend Returns`](./Sorting/Merge-Sort/Chandu-and-his-Girlfriend-Returns/README.md) |
