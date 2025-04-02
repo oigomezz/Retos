@@ -216,3 +216,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#24** | [`Sherlock and Magic`](./Sorting/Merge-Sort/Sherlock-and-Magic/README.md)                                      |
 | **#25** | [`Pro and Con List`](./Sorting/Merge-Sort/Pro-and-Con-List/README.md)                                          |
 | **#26** | [`Game Of Strengths`](./Sorting/Merge-Sort/Game-Of-Strengths/README.md)                                        |
+| **#27** | [`Write a checker !`](./Sorting/Merge-Sort/Write-a-Checker/README.md)                                          |
