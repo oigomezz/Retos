@@ -220,15 +220,16 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Quick Sort](./Sorting/Quick-Sort/README.md)
 
-| N°      | Enunciado                                                                           |
-| ------- | ----------------------------------------------------------------------------------- |
-| **#01** | [`A cricket tournament`](./Sorting/Quick-Sort/A-Cricket-Tournament/README.md)       |
-| **#02** | [`Eating apples`](./Sorting/Quick-Sort/Eating-Apples/README.md)                     |
-| **#03** | [`Specialty of a sequence`](./Sorting/Quick-Sort/Specialty-of-a-Sequence/README.md) |
-| **#04** | [`Find the Next!`](./Sorting/Quick-Sort/Find-the-Next/README.md)                    |
-| **#05** | [`Noor and his pond`](./Sorting/Quick-Sort/Noor-and-his-Pond/README.md)             |
-| **#06** | [`Max Power`](./Sorting/Quick-Sort/Max-Power/README.md)                             |
-| **#07** | [`Card game`](./Sorting/Quick-Sort/Card-Game/README.md)                             |
-| **#08** | [`Missing Number`](./Sorting/Quick-Sort/Missing-Number/README.md)                   |
-| **#09** | [`One-Sized Game`](./Sorting/Quick-Sort/One-Sized-Game/README.md)                   |
-| **#10** | [`Benny and Gifts`](./Sorting/Quick-Sort/Benny-and-Gifts/README.md)                 |
+| N°      | Enunciado                                                                             |
+| ------- | ------------------------------------------------------------------------------------- |
+| **#01** | [`A cricket tournament`](./Sorting/Quick-Sort/A-Cricket-Tournament/README.md)         |
+| **#02** | [`Eating apples`](./Sorting/Quick-Sort/Eating-Apples/README.md)                       |
+| **#03** | [`Specialty of a sequence`](./Sorting/Quick-Sort/Specialty-of-a-Sequence/README.md)   |
+| **#04** | [`Find the Next!`](./Sorting/Quick-Sort/Find-the-Next/README.md)                      |
+| **#05** | [`Noor and his pond`](./Sorting/Quick-Sort/Noor-and-his-Pond/README.md)               |
+| **#06** | [`Max Power`](./Sorting/Quick-Sort/Max-Power/README.md)                               |
+| **#07** | [`Card game`](./Sorting/Quick-Sort/Card-Game/README.md)                               |
+| **#08** | [`Missing Number`](./Sorting/Quick-Sort/Missing-Number/README.md)                     |
+| **#09** | [`One-Sized Game`](./Sorting/Quick-Sort/One-Sized-Game/README.md)                     |
+| **#10** | [`Benny and Gifts`](./Sorting/Quick-Sort/Benny-and-Gifts/README.md)                   |
+| **#11** | [`Earth and The Meteorites`](./Sorting/Quick-Sort/Earth-and-The-Meteorites/README.md) |
