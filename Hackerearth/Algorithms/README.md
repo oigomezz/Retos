@@ -230,3 +230,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#06** | [`Max Power`](./Sorting/Quick-Sort/Max-Power/README.md)                             |
 | **#07** | [`Card game`](./Sorting/Quick-Sort/Card-Game/README.md)                             |
 | **#08** | [`Missing Number`](./Sorting/Quick-Sort/Missing-Number/README.md)                   |
+| **#09** | [`One-Sized Game`](./Sorting/Quick-Sort/One-Sized-Game/README.md)                   |
