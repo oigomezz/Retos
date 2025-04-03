@@ -223,3 +223,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                                     |
 | ------- | ----------------------------------------------------------------------------- |
 | **#01** | [`A cricket tournament`](./Sorting/Quick-Sort/A-Cricket-Tournament/README.md) |
+| **#02** | [`Eating apples`](./Sorting/Quick-Sort/Eating-Apples/README.md)               |
