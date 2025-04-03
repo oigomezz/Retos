@@ -235,3 +235,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#11** | [`Earth and The Meteorites`](./Sorting/Quick-Sort/Earth-and-The-Meteorites/README.md) |
 | **#12** | [`Prom Night`](./Sorting/Quick-Sort/Prom-Night/README.md)                             |
 | **#13** | [`Beautiful Strings`](./Sorting/Quick-Sort/Beautiful-Strings/README.md)               |
+| **#14** | [`Gotta catch 'em all!`](./Sorting/Quick-Sort/Gotta-catch-them-all/README.md)         |
