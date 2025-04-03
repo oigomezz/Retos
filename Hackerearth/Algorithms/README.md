@@ -231,3 +231,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Card game`](./Sorting/Quick-Sort/Card-Game/README.md)                             |
 | **#08** | [`Missing Number`](./Sorting/Quick-Sort/Missing-Number/README.md)                   |
 | **#09** | [`One-Sized Game`](./Sorting/Quick-Sort/One-Sized-Game/README.md)                   |
+| **#10** | [`Benny and Gifts`](./Sorting/Quick-Sort/Benny-and-Gifts/README.md)                 |
