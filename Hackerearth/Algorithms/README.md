@@ -236,3 +236,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Prom Night`](./Sorting/Quick-Sort/Prom-Night/README.md)                             |
 | **#13** | [`Beautiful Strings`](./Sorting/Quick-Sort/Beautiful-Strings/README.md)               |
 | **#14** | [`Gotta catch 'em all!`](./Sorting/Quick-Sort/Gotta-catch-them-all/README.md)         |
+
+#### [Counting Sort](./Sorting/Counting-Sort/README.md)
+
+| N°      | Enunciado                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------- |
+| **#01** | [`Distinct Arithmetic Sequences`](./Sorting/Counting-Sort/Distinct-Arithmetic-Sequences/README.md) |
