@@ -228,3 +228,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Find the Next!`](./Sorting/Quick-Sort/Find-the-Next/README.md)                    |
 | **#05** | [`Noor and his pond`](./Sorting/Quick-Sort/Noor-and-his-Pond/README.md)             |
 | **#06** | [`Max Power`](./Sorting/Quick-Sort/Max-Power/README.md)                             |
+| **#07** | [`Card game`](./Sorting/Quick-Sort/Card-Game/README.md)                             |
