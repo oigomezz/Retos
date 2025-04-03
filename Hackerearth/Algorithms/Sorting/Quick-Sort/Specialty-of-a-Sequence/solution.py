@@ -1,0 +1,5 @@
+n, k = map(int, input().split())
+a = list(map(int, input().split()))
+a.sort()
+result = sum(a[:n - k])
+print(result)

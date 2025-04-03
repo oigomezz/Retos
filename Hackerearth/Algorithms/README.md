@@ -220,7 +220,8 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Quick Sort](./Sorting/Quick-Sort/README.md)
 
-| N°      | Enunciado                                                                     |
-| ------- | ----------------------------------------------------------------------------- |
-| **#01** | [`A cricket tournament`](./Sorting/Quick-Sort/A-Cricket-Tournament/README.md) |
-| **#02** | [`Eating apples`](./Sorting/Quick-Sort/Eating-Apples/README.md)               |
+| N°      | Enunciado                                                                           |
+| ------- | ----------------------------------------------------------------------------------- |
+| **#01** | [`A cricket tournament`](./Sorting/Quick-Sort/A-Cricket-Tournament/README.md)       |
+| **#02** | [`Eating apples`](./Sorting/Quick-Sort/Eating-Apples/README.md)                     |
+| **#03** | [`Specialty of a sequence`](./Sorting/Quick-Sort/Specialty-of-a-Sequence/README.md) |
