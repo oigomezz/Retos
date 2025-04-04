@@ -261,3 +261,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | N°      | Enunciado                                                                  |
 | ------- | -------------------------------------------------------------------------- |
 | **#01** | [`Descending Weights`](./Sorting/Bucket-Sort/Descending-Weights/README.md) |
+
+#### [Basics of Greedy Algorithms](./Greedy-Algorithms/README.md)
+
+| N°      | Enunciado                                          |
+| ------- | -------------------------------------------------- |
+| **#01** | [`OrOasis`](./Greedy-Algorithms/OrOasis/README.md) |
