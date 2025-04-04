@@ -253,3 +253,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | ---------------------------------------------------------------------------------------------------- |
 | **#01** | [`Cube Change`](./Sorting/Heap-Sort/Cube-Change/README.md)                                           |
 | **#02** | [`Chandu and chandni's secret chat`](./Sorting/Heap-Sort/Chandu-and-Chandni's-Secret-Chat/README.md) |
+| **#03** | [`Raghu Vs Sayan`](./Sorting/Heap-Sort/Raghu-VS-Sayan/README.md)                                     |
