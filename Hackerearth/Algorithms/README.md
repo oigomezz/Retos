@@ -264,7 +264,8 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Basics of Greedy Algorithms](./Greedy-Algorithms/README.md)
 
-| N°      | Enunciado                                                    |
-| ------- | ------------------------------------------------------------ |
-| **#01** | [`OrOasis`](./Greedy-Algorithms/OrOasis/README.md)           |
-| **#02** | [`Equal Arrays`](./Greedy-Algorithms/Equal-Arrays/README.md) |
+| N°      | Enunciado                                                            |
+| ------- | -------------------------------------------------------------------- |
+| **#01** | [`OrOasis`](./Greedy-Algorithms/OrOasis/README.md)                   |
+| **#02** | [`Equal Arrays`](./Greedy-Algorithms/Equal-Arrays/README.md)         |
+| **#03** | [`Not Even Max Sum`](./Greedy-Algorithms/Not-Even-Max-Sum/README.md) |
