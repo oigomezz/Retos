@@ -249,6 +249,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Heap Sort](./Sorting/Heap-Sort/README.md)
 
-| N°      | Enunciado                                                  |
-| ------- | ---------------------------------------------------------- |
-| **#01** | [`Cube Change`](./Sorting/Heap-Sort/Cube-Change/README.md) |
+| N°      | Enunciado                                                                                            |
+| ------- | ---------------------------------------------------------------------------------------------------- |
+| **#01** | [`Cube Change`](./Sorting/Heap-Sort/Cube-Change/README.md)                                           |
+| **#02** | [`Chandu and chandni's secret chat`](./Sorting/Heap-Sort/Chandu-and-Chandni's-Secret-Chat/README.md) |
