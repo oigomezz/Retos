@@ -243,3 +243,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | -------------------------------------------------------------------------------------------------- |
 | **#01** | [`Distinct Arithmetic Sequences`](./Sorting/Counting-Sort/Distinct-Arithmetic-Sequences/README.md) |
 | **#02** | [`Shil and Birthday present`](./Sorting/Counting-Sort/Shil-and-Birthday-Present/README.md)         |
+| **#03** | [`Finding Pairs`](./Sorting/Counting-Sort/Finding-Pairs/README.md)                                 |
