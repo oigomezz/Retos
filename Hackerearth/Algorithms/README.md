@@ -244,3 +244,11 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#01** | [`Distinct Arithmetic Sequences`](./Sorting/Counting-Sort/Distinct-Arithmetic-Sequences/README.md) |
 | **#02** | [`Shil and Birthday present`](./Sorting/Counting-Sort/Shil-and-Birthday-Present/README.md)         |
 | **#03** | [`Finding Pairs`](./Sorting/Counting-Sort/Finding-Pairs/README.md)                                 |
+
+#### [Radix Sort](./Sorting/Radix-Sort/README.md)
+
+#### [Heap Sort](./Sorting/Heap-Sort/README.md)
+
+| N°      | Enunciado                                                  |
+| ------- | ---------------------------------------------------------- |
+| **#01** | [`Cube Change`](./Sorting/Heap-Sort/Cube-Change/README.md) |
