@@ -279,3 +279,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#11** | [`Bob And The Magic Count`](./Greedy-Algorithms/Bob-and-The-Magic-Count/README.md)         |
 | **#12** | [`Too Chocolatey`](./Greedy-Algorithms/Too-Chocolatey/README.md)                           |
 | **#13** | [`Operation with X`](./Greedy-Algorithms/Operation-with-X/README.md)                       |
+| **#14** | [`Special Number`](./Greedy-Algorithms/Special-Number/README.md)                           |
