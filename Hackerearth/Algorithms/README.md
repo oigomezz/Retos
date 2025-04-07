@@ -273,3 +273,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Swap Sum`](./Greedy-Algorithms/Swap-Sum/README.md)                                       |
 | **#06** | [`Signaling`](./Greedy-Algorithms/Signaling/README.md)                                     |
 | **#07** | [`DreamGrid's Luxury Shopping`](./Greedy-Algorithms/DreamGrid's-Luxury-Shopping/README.md) |
+| **#08** | [`Empty Game`](./Greedy-Algorithms/Empty-Game/README.md)                                   |
