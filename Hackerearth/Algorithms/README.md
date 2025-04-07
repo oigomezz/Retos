@@ -271,3 +271,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Not Even Max Sum`](./Greedy-Algorithms/Not-Even-Max-Sum/README.md) |
 | **#04** | [`Bob's Quest`](./Greedy-Algorithms/Bob's-Quest/README.md)           |
 | **#05** | [`Swap Sum`](./Greedy-Algorithms/Swap-Sum/README.md)                 |
+| **#06** | [`Signaling`](./Greedy-Algorithms/Signaling/README.md)               |
