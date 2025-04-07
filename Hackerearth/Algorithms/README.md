@@ -282,3 +282,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#14** | [`Special Number`](./Greedy-Algorithms/Special-Number/README.md)                           |
 | **#15** | [`Split String`](./Greedy-Algorithms/Split-String/README.md)                               |
 | **#16** | [`Legendary Magician`](./Greedy-Algorithms/Legendary-Magician/README.md)                   |
+| **#17** | [`Closer`](./Greedy-Algorithms/Closer/README.md)                                           |
