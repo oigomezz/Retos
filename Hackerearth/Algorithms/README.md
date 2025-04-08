@@ -289,3 +289,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Fruit Slicing`](./Greedy-Algorithms/Fruit-Slicing/README.md)                             |
 | **#22** | [`Safe programming`](./Greedy-Algorithms/Safe-Programming/README.md)                       |
 | **#23** | [`Stay Healthy!`](./Greedy-Algorithms/Stay-Healthy/README.md)                              |
+| **#24** | [`Minimum Cost`](./Greedy-Algorithms/Minimum-Cost/README.md)                               |
