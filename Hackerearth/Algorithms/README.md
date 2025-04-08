@@ -285,3 +285,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#17** | [`Closer`](./Greedy-Algorithms/Closer/README.md)                                           |
 | **#18** | [`Maximum Operation Count`](./Greedy-Algorithms/Maximum-Operation-Count/README.md)         |
 | **#19** | [`Minimum Score`](./Greedy-Algorithms/Minimum-Score/README.md)                             |
+| **#20** | [`Tree of Candles`](./Greedy-Algorithms/Tree-of-Candles/README.md)                         |
