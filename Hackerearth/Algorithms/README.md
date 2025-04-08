@@ -290,3 +290,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`Safe programming`](./Greedy-Algorithms/Safe-Programming/README.md)                       |
 | **#23** | [`Stay Healthy!`](./Greedy-Algorithms/Stay-Healthy/README.md)                              |
 | **#24** | [`Minimum Cost`](./Greedy-Algorithms/Minimum-Cost/README.md)                               |
+| **#25** | [`Bob and the minimum string`](./Greedy-Algorithms/Bob-and-the-Minimum-String/README.md)   |
