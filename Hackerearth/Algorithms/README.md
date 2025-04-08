@@ -292,3 +292,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#24** | [`Minimum Cost`](./Greedy-Algorithms/Minimum-Cost/README.md)                               |
 | **#25** | [`Bob and the minimum string`](./Greedy-Algorithms/Bob-and-the-Minimum-String/README.md)   |
 | **#26** | [`Flip AB`](./Greedy-Algorithms/Flip-AB/README.md)                                         |
+| **#27** | [`Wesam and Omar`](./Greedy-Algorithms/Wesam-and-Omar/README.md)                           |
