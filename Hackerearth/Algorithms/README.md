@@ -299,3 +299,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#31** | [`Bob's empire`](./Greedy-Algorithms/Bob's-Empire/README.md)                               |
 | **#32** | [`A dice tower`](./Greedy-Algorithms/A-dice-tower/README.md)                               |
 | **#33** | [`The maximum value`](./Greedy-Algorithms/The-Maximum-Value/README.md)                     |
+| **#34** | [`Beautiful numbers`](./Greedy-Algorithms/Beautiful-Numbers/README.md)                     |
