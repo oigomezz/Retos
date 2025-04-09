@@ -302,3 +302,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#34** | [`Beautiful numbers`](./Greedy-Algorithms/Beautiful-Numbers/README.md)                     |
 | **#35** | [`Sum of cards`](./Greedy-Algorithms/Sum-of-cards/README.md)                               |
 | **#36** | [`Three rectangles`](./Greedy-Algorithms/Three-Rectangles/README.md)                       |
+| **#37** | [`Bob's confusion`](./Greedy-Algorithms/Bob's-Confusion/README.md)                         |
