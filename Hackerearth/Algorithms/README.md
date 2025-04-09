@@ -304,3 +304,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#36** | [`Three rectangles`](./Greedy-Algorithms/Three-Rectangles/README.md)                       |
 | **#37** | [`Bob's confusion`](./Greedy-Algorithms/Bob's-Confusion/README.md)                         |
 | **#38** | [`Manhattan distance`](./Greedy-Algorithms/Manhattan-Distance/README.md)                   |
+| **#39** | [`Factors`](./Greedy-Algorithms/Factors/README.md)                                         |
