@@ -298,3 +298,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`Types of burgers`](./Greedy-Algorithms/Types-of-Burgers/README.md)                       |
 | **#31** | [`Bob's empire`](./Greedy-Algorithms/Bob's-Empire/README.md)                               |
 | **#32** | [`A dice tower`](./Greedy-Algorithms/A-dice-tower/README.md)                               |
+| **#33** | [`The maximum value`](./Greedy-Algorithms/The-Maximum-Value/README.md)                     |
