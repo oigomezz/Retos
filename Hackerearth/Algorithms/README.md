@@ -300,3 +300,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`A dice tower`](./Greedy-Algorithms/A-dice-tower/README.md)                               |
 | **#33** | [`The maximum value`](./Greedy-Algorithms/The-Maximum-Value/README.md)                     |
 | **#34** | [`Beautiful numbers`](./Greedy-Algorithms/Beautiful-Numbers/README.md)                     |
+| **#35** | [`Sum of cards`](./Greedy-Algorithms/Sum-of-cards/README.md)                               |
