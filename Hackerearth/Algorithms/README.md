@@ -306,3 +306,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#38** | [`Manhattan distance`](./Greedy-Algorithms/Manhattan-Distance/README.md)                   |
 | **#39** | [`Factors`](./Greedy-Algorithms/Factors/README.md)                                         |
 | **#40** | [`Team division`](./Greedy-Algorithms/Team-Division/README.md)                             |
+| **#41** | [`Operations on a tree`](./Greedy-Algorithms/Operations-on-a-tree/README.md)               |
