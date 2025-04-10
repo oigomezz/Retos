@@ -307,3 +307,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#39** | [`Factors`](./Greedy-Algorithms/Factors/README.md)                                         |
 | **#40** | [`Team division`](./Greedy-Algorithms/Team-Division/README.md)                             |
 | **#41** | [`Operations on a tree`](./Greedy-Algorithms/Operations-on-a-tree/README.md)               |
+| **#42** | [`Subtree swap`](./Greedy-Algorithms/Subtree-Swap/README.md)                               |
