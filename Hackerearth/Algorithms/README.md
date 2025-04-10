@@ -313,3 +313,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#45** | [`Minimize nodes`](./Greedy-Algorithms/Minimize-Nodes/README.md)                           |
 | **#46** | [`Meeting the origin`](./Greedy-Algorithms/Meeting-the-origin/README.md)                   |
 | **#47** | [`A special date`](./Greedy-Algorithms/A-Special-Date/README.md)                           |
+| **#48** | [`Three problems`](./Greedy-Algorithms/Three-Problems/README.md)                           |
