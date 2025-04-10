@@ -312,3 +312,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#44** | [`A color box`](./Greedy-Algorithms/A-Color-Box/README.md)                                 |
 | **#45** | [`Minimize nodes`](./Greedy-Algorithms/Minimize-Nodes/README.md)                           |
 | **#46** | [`Meeting the origin`](./Greedy-Algorithms/Meeting-the-origin/README.md)                   |
+| **#47** | [`A special date`](./Greedy-Algorithms/A-Special-Date/README.md)                           |
