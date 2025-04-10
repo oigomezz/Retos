@@ -310,3 +310,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#42** | [`Subtree swap`](./Greedy-Algorithms/Subtree-Swap/README.md)                               |
 | **#43** | [`Average Subarray`](./Greedy-Algorithms/Average-Subarray/README.md)                       |
 | **#44** | [`A color box`](./Greedy-Algorithms/A-Color-Box/README.md)                                 |
+| **#45** | [`Minimize nodes`](./Greedy-Algorithms/Minimize-Nodes/README.md)                           |
