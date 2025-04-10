@@ -311,3 +311,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#43** | [`Average Subarray`](./Greedy-Algorithms/Average-Subarray/README.md)                       |
 | **#44** | [`A color box`](./Greedy-Algorithms/A-Color-Box/README.md)                                 |
 | **#45** | [`Minimize nodes`](./Greedy-Algorithms/Minimize-Nodes/README.md)                           |
+| **#46** | [`Meeting the origin`](./Greedy-Algorithms/Meeting-the-origin/README.md)                   |
