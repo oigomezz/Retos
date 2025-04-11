@@ -320,3 +320,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#52** | [`Divide the digits`](./Greedy-Algorithms/Divide-the-Digits/README.md)                     |
 | **#53** | [`Smallest number`](./Greedy-Algorithms/Smallest-Number/README.md)                         |
 | **#54** | [`A smallest number`](./Greedy-Algorithms/A-Smallest-Number/README.md)                     |
+| **#55** | [`Multiple of 3`](./Greedy-Algorithms/Multiple-of-3/README.md)                             |
