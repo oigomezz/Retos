@@ -315,3 +315,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#47** | [`A special date`](./Greedy-Algorithms/A-Special-Date/README.md)                           |
 | **#48** | [`Three problems`](./Greedy-Algorithms/Three-Problems/README.md)                           |
 | **#49** | [`The score game`](./Greedy-Algorithms/The-Score-Game/README.md)                           |
+| **#50** | [`Likeable arrays`](./Greedy-Algorithms/Likeable-Arrays/README.md)                         |
