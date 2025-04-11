@@ -323,3 +323,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#55** | [`Multiple of 3`](./Greedy-Algorithms/Multiple-of-3/README.md)                             |
 | **#56** | [`XOR subsequences`](./Greedy-Algorithms/XOR-Subsequences/README.md)                       |
 | **#57** | [`Filling stones`](./Greedy-Algorithms/Filling-Stones/README.md)                           |
+| **#58** | [`Divide arrays`](./Greedy-Algorithms/Divide-Arrays/README.md)                             |
