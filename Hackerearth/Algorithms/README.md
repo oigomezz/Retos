@@ -318,3 +318,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#50** | [`Likeable arrays`](./Greedy-Algorithms/Likeable-Arrays/README.md)                         |
 | **#51** | [`Zero subarray`](./Greedy-Algorithms/Zero-Subarray/README.md)                             |
 | **#52** | [`Divide the digits`](./Greedy-Algorithms/Divide-the-Digits/README.md)                     |
+| **#53** | [`Smallest number`](./Greedy-Algorithms/Smallest-Number/README.md)                         |
