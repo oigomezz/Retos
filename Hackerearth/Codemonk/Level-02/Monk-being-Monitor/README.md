@@ -1,4 +1,4 @@
-# Example
+# Monk being monitor
 
 Monk being the monitor of the class needs to have all the information about the class students. He is very busy with many tasks related to the same, so he asked his friend Mishki for her help in one task. She will be given heights of all the students present in the class and she needs to choose 2 students having heights h1 and h2 respectively, such that h1 > h2 and difference between the number of students having height h1 and number of students having height h2 is maximum.
 
