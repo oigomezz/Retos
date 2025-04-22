@@ -293,7 +293,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#25** | [`Bob and the minimum string`](./Greedy-Algorithms/Bob-and-the-Minimum-String/README.md)   |
 | **#26** | [`Flip AB`](./Greedy-Algorithms/Flip-AB/README.md)                                         |
 | **#27** | [`Wesam and Omar`](./Greedy-Algorithms/Wesam-and-Omar/README.md)                           |
-| **#28** | [`Alternative moves`](./Greedy-Algorithms/Alternative-moves/README.md)                     |
+| **#28** | [`Alternative moves`](./Greedy-Algorithms/Alternative-Moves/README.md)                     |
 | **#29** | [`A good array`](./Greedy-Algorithms/A-Good-Array/README.md)                               |
 | **#30** | [`Types of burgers`](./Greedy-Algorithms/Types-of-Burgers/README.md)                       |
 | **#31** | [`Bob's empire`](./Greedy-Algorithms/Bob's-Empire/README.md)                               |
