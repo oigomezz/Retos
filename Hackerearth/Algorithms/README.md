@@ -330,3 +330,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#62** | [`A bitwise pair`](./Greedy-Algorithms/A-Bitwise-Pair/README.md)                           |
 | **#63** | [`A XOR value`](./Greedy-Algorithms/A-XOR-Value/README.md)                                 |
 | **#64** | [`The smallest string`](./Greedy-Algorithms/The-Smallest-String/README.md)                 |
+| **#65** | [`The smallest permutation`](./Greedy-Algorithms/The-Smallest-Permutation/README.md)       |
