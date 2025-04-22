@@ -326,3 +326,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#58** | [`Divide arrays`](./Greedy-Algorithms/Divide-Arrays/README.md)                             |
 | **#59** | [`Equalize strings`](./Greedy-Algorithms/Equalize-Strings/README.md)                       |
 | **#60** | [`The weighted graph`](./Greedy-Algorithms/The-Weighted-Graph/README.md)                   |
+| **#61** | [`Equalize strings`](./Greedy-Algorithms/Equalize-strings/README.md)                       |
