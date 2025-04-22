@@ -1,4 +1,4 @@
-# Example
+# Monk and His Birthday Party
 
 Monk went to a really nice place for celebrating birthday with his friends. He booked an awesome resort for hosting the birthday party. But the resort is very costly so he wants to wrap up the party as soon as possible.
 
