@@ -334,3 +334,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#66** | [`Deleting arrays`](./Greedy-Algorithms/Deleting-Arrays/README.md)                         |
 | **#67** | [`A chessboard`](./Greedy-Algorithms/A-Chessboard/README.md)                               |
 | **#68** | [`Providing gifts`](./Greedy-Algorithms/Providing-Gifts/README.md)                         |
+| **#69** | [`The maximum range`](./Greedy-Algorithms/The-Maximum-Range/README.md)                     |
