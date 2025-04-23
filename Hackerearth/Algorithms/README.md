@@ -333,3 +333,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#65** | [`The smallest permutation`](./Greedy-Algorithms/The-Smallest-Permutation/README.md)       |
 | **#66** | [`Deleting arrays`](./Greedy-Algorithms/Deleting-Arrays/README.md)                         |
 | **#67** | [`A chessboard`](./Greedy-Algorithms/A-Chessboard/README.md)                               |
+| **#68** | [`Providing gifts`](./Greedy-Algorithms/Providing-Gifts/README.md)                         |
