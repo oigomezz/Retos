@@ -339,3 +339,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#71** | [`Unique sorting`](./Greedy-Algorithms/Unique-Sorting/README.md)                           |
 | **#72** | [`An interesting game`](./Greedy-Algorithms/An-Interesting-Game/README.md)                 |
 | **#73** | [`Profits by cars`](./Greedy-Algorithms/Profits-by-Cars/README.md)                         |
+| **#74** | [`The maximum number`](./Greedy-Algorithms/The-Maximum-Number/README.md)                   |
