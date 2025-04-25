@@ -344,3 +344,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#76** | [`Destination cost`](./Greedy-Algorithms/Destination-Cost/README.md)                       |
 | **#77** | [`Smallest chosen word`](./Greedy-Algorithms/Smallest-Chosen-Word/README.md)               |
 | **#78** | [`Coprimes`](./Greedy-Algorithms/Coprimes/README.md)                                       |
+| **#79** | [`Mosaics and holes`](./Greedy-Algorithms/Mosaics-and-Holes/README.md)                     |
