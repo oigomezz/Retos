@@ -348,3 +348,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#080** | [`Subxor`](./Greedy-Algorithms/Subxor/README.md)                                           |
 | **#081** | [`Operations on an Array`](./Greedy-Algorithms/Operations-on-an-Array/README.md)           |
 | **#082** | [`Toy Box`](./Greedy-Algorithms/Toy-Box/README.md)                                         |
+| **#083** | [`An Easy Problem`](./Greedy-Algorithms/An-Easy-Problem/README.md)                         |
