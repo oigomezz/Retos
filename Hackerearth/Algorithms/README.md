@@ -341,3 +341,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#73** | [`Profits by cars`](./Greedy-Algorithms/Profits-by-Cars/README.md)                         |
 | **#74** | [`The maximum number`](./Greedy-Algorithms/The-Maximum-Number/README.md)                   |
 | **#75** | [`Changes in a string`](./Greedy-Algorithms/Changes-in-a-String/README.md)                 |
+| **#76** | [`Destination cost`](./Greedy-Algorithms/Destination-Cost/README.md)                       |
