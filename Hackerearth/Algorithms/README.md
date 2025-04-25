@@ -347,3 +347,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#079** | [`Mosaics and holes`](./Greedy-Algorithms/Mosaics-and-Holes/README.md)                     |
 | **#080** | [`Subxor`](./Greedy-Algorithms/Subxor/README.md)                                           |
 | **#081** | [`Operations on an Array`](./Greedy-Algorithms/Operations-on-an-Array/README.md)           |
+| **#082** | [`Toy Box`](./Greedy-Algorithms/Toy-Box/README.md)                                         |
