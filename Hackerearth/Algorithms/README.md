@@ -353,3 +353,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#085** | [`Hectic Game`](./Greedy-Algorithms/Hectic-Game/README.md)                                 |
 | **#086** | [`Equal Division`](./Greedy-Algorithms/Equal-Division/README.md)                           |
 | **#087** | [`( Problem A ) Pikachu and the Game of Strings`](./Greedy-Algorithms/Problem-A/README.md) |
+| **#088** | [`Binary Matrix`](./Greedy-Algorithms/Binary-Matrix/README.md)                             |
