@@ -356,3 +356,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#088** | [`Binary Matrix`](./Greedy-Algorithms/Binary-Matrix/README.md)                             |
 | **#089** | [`Three Equal parts`](./Greedy-Algorithms/Three-Equal-Parts/README.md)                     |
 | **#090** | [`One Swap to Palindrome`](./Greedy-Algorithms/One-Swap-to-Palindrome/README.md)           |
+| **#091** | [`Maximize Array Sum`](./Greedy-Algorithms/Maximize-Array-Sum/README.md)                   |
