@@ -358,3 +358,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#090** | [`One Swap to Palindrome`](./Greedy-Algorithms/One-Swap-to-Palindrome/README.md)           |
 | **#091** | [`Maximize Array Sum`](./Greedy-Algorithms/Maximize-Array-Sum/README.md)                   |
 | **#092** | [`Remove the element`](./Greedy-Algorithms/Remove-the-Element/README.md)                   |
+| **#093** | [`Bob And GCD`](./Greedy-Algorithms/Bob-and-GCD/README.md)                                 |
