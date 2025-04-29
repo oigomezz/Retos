@@ -264,99 +264,100 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Basics of Greedy Algorithms](./Greedy-Algorithms/README.md)
 
-| N°       | Enunciado                                                                                  |
-| -------- | ------------------------------------------------------------------------------------------ |
-| **#001** | [`OrOasis`](./Greedy-Algorithms/OrOasis/README.md)                                         |
-| **#002** | [`Equal Arrays`](./Greedy-Algorithms/Equal-Arrays/README.md)                               |
-| **#003** | [`Not Even Max Sum`](./Greedy-Algorithms/Not-Even-Max-Sum/README.md)                       |
-| **#004** | [`Bob's Quest`](./Greedy-Algorithms/Bob's-Quest/README.md)                                 |
-| **#005** | [`Swap Sum`](./Greedy-Algorithms/Swap-Sum/README.md)                                       |
-| **#006** | [`Signaling`](./Greedy-Algorithms/Signaling/README.md)                                     |
-| **#007** | [`DreamGrid's Luxury Shopping`](./Greedy-Algorithms/DreamGrid's-Luxury-Shopping/README.md) |
-| **#008** | [`Empty Game`](./Greedy-Algorithms/Empty-Game/README.md)                                   |
-| **#009** | [`Double Beauty`](./Greedy-Algorithms/Double-Beauty/README.md)                             |
-| **#010** | [`Bob And The Tasks`](./Greedy-Algorithms/Bob-and-the-Tasks/README.md)                     |
-| **#011** | [`Bob And The Magic Count`](./Greedy-Algorithms/Bob-and-The-Magic-Count/README.md)         |
-| **#012** | [`Too Chocolatey`](./Greedy-Algorithms/Too-Chocolatey/README.md)                           |
-| **#013** | [`Operation with X`](./Greedy-Algorithms/Operation-with-X/README.md)                       |
-| **#014** | [`Special Number`](./Greedy-Algorithms/Special-Number/README.md)                           |
-| **#015** | [`Split String`](./Greedy-Algorithms/Split-String/README.md)                               |
-| **#016** | [`Legendary Magician`](./Greedy-Algorithms/Legendary-Magician/README.md)                   |
-| **#017** | [`Closer`](./Greedy-Algorithms/Closer/README.md)                                           |
-| **#018** | [`Maximum Operation Count`](./Greedy-Algorithms/Maximum-Operation-Count/README.md)         |
-| **#019** | [`Minimum Score`](./Greedy-Algorithms/Minimum-Score/README.md)                             |
-| **#020** | [`Tree of Candles`](./Greedy-Algorithms/Tree-of-Candles/README.md)                         |
-| **#021** | [`Fruit Slicing`](./Greedy-Algorithms/Fruit-Slicing/README.md)                             |
-| **#022** | [`Safe programming`](./Greedy-Algorithms/Safe-Programming/README.md)                       |
-| **#023** | [`Stay Healthy!`](./Greedy-Algorithms/Stay-Healthy/README.md)                              |
-| **#024** | [`Minimum Cost`](./Greedy-Algorithms/Minimum-Cost/README.md)                               |
-| **#025** | [`Bob and the minimum string`](./Greedy-Algorithms/Bob-and-the-Minimum-String/README.md)   |
-| **#026** | [`Flip AB`](./Greedy-Algorithms/Flip-AB/README.md)                                         |
-| **#027** | [`Wesam and Omar`](./Greedy-Algorithms/Wesam-and-Omar/README.md)                           |
-| **#028** | [`Alternative moves`](./Greedy-Algorithms/Alternative-Moves/README.md)                     |
-| **#029** | [`A good array`](./Greedy-Algorithms/A-Good-Array/README.md)                               |
-| **#030** | [`Types of burgers`](./Greedy-Algorithms/Types-of-Burgers/README.md)                       |
-| **#031** | [`Bob's empire`](./Greedy-Algorithms/Bob's-Empire/README.md)                               |
-| **#032** | [`A dice tower`](./Greedy-Algorithms/A-Dice-Tower/README.md)                               |
-| **#033** | [`The maximum value`](./Greedy-Algorithms/The-Maximum-Value/README.md)                     |
-| **#034** | [`Beautiful numbers`](./Greedy-Algorithms/Beautiful-Numbers/README.md)                     |
-| **#035** | [`Sum of cards`](./Greedy-Algorithms/Sum-of-cards/README.md)                               |
-| **#036** | [`Three rectangles`](./Greedy-Algorithms/Three-Rectangles/README.md)                       |
-| **#037** | [`Bob's confusion`](./Greedy-Algorithms/Bob's-Confusion/README.md)                         |
-| **#038** | [`Manhattan distance`](./Greedy-Algorithms/Manhattan-Distance/README.md)                   |
-| **#039** | [`Factors`](./Greedy-Algorithms/Factors/README.md)                                         |
-| **#040** | [`Team division`](./Greedy-Algorithms/Team-Division/README.md)                             |
-| **#041** | [`Operations on a tree`](./Greedy-Algorithms/Operations-on-a-tree/README.md)               |
-| **#042** | [`Subtree swap`](./Greedy-Algorithms/Subtree-Swap/README.md)                               |
-| **#043** | [`Average Subarray`](./Greedy-Algorithms/Average-Subarray/README.md)                       |
-| **#044** | [`A color box`](./Greedy-Algorithms/A-Color-Box/README.md)                                 |
-| **#045** | [`Minimize nodes`](./Greedy-Algorithms/Minimize-Nodes/README.md)                           |
-| **#046** | [`Meeting the origin`](./Greedy-Algorithms/Meeting-the-Origin/README.md)                   |
-| **#047** | [`A special date`](./Greedy-Algorithms/A-Special-Date/README.md)                           |
-| **#048** | [`Three problems`](./Greedy-Algorithms/Three-Problems/README.md)                           |
-| **#049** | [`The score game`](./Greedy-Algorithms/The-Score-Game/README.md)                           |
-| **#050** | [`Likeable arrays`](./Greedy-Algorithms/Likeable-Arrays/README.md)                         |
-| **#051** | [`Zero subarray`](./Greedy-Algorithms/Zero-Subarray/README.md)                             |
-| **#052** | [`Divide the digits`](./Greedy-Algorithms/Divide-the-Digits/README.md)                     |
-| **#053** | [`Smallest number`](./Greedy-Algorithms/Smallest-Number/README.md)                         |
-| **#054** | [`A smallest number`](./Greedy-Algorithms/A-Smallest-Number/README.md)                     |
-| **#055** | [`Multiple of 3`](./Greedy-Algorithms/Multiple-of-3/README.md)                             |
-| **#056** | [`XOR subsequences`](./Greedy-Algorithms/XOR-Subsequences/README.md)                       |
-| **#057** | [`Filling stones`](./Greedy-Algorithms/Filling-Stones/README.md)                           |
-| **#058** | [`Divide arrays`](./Greedy-Algorithms/Divide-Arrays/README.md)                             |
-| **#059** | [`Equalize strings`](./Greedy-Algorithms/Equalize-Strings/README.md)                       |
-| **#060** | [`The weighted graph`](./Greedy-Algorithms/The-Weighted-Graph/README.md)                   |
-| **#061** | [`Equalize strings`](./Greedy-Algorithms/Equalize-Strings-2/README.md)                     |
-| **#062** | [`A bitwise pair`](./Greedy-Algorithms/A-Bitwise-Pair/README.md)                           |
-| **#063** | [`A XOR value`](./Greedy-Algorithms/A-XOR-Value/README.md)                                 |
-| **#064** | [`The smallest string`](./Greedy-Algorithms/The-Smallest-String/README.md)                 |
-| **#065** | [`The smallest permutation`](./Greedy-Algorithms/The-Smallest-Permutation/README.md)       |
-| **#066** | [`Deleting arrays`](./Greedy-Algorithms/Deleting-Arrays/README.md)                         |
-| **#067** | [`A chessboard`](./Greedy-Algorithms/A-Chessboard/README.md)                               |
-| **#068** | [`Providing gifts`](./Greedy-Algorithms/Providing-Gifts/README.md)                         |
-| **#069** | [`The maximum range`](./Greedy-Algorithms/The-Maximum-Range/README.md)                     |
-| **#070** | [`Maximum subsequences`](./Greedy-Algorithms/Maximum-Subsequences/README.md)               |
-| **#071** | [`Unique sorting`](./Greedy-Algorithms/Unique-Sorting/README.md)                           |
-| **#072** | [`An interesting game`](./Greedy-Algorithms/An-Interesting-Game/README.md)                 |
-| **#073** | [`Profits by cars`](./Greedy-Algorithms/Profits-by-Cars/README.md)                         |
-| **#074** | [`The maximum number`](./Greedy-Algorithms/The-Maximum-Number/README.md)                   |
-| **#075** | [`Changes in a string`](./Greedy-Algorithms/Changes-in-a-String/README.md)                 |
-| **#076** | [`Destination cost`](./Greedy-Algorithms/Destination-Cost/README.md)                       |
-| **#077** | [`Smallest chosen word`](./Greedy-Algorithms/Smallest-Chosen-Word/README.md)               |
-| **#078** | [`Coprimes`](./Greedy-Algorithms/Coprimes/README.md)                                       |
-| **#079** | [`Mosaics and holes`](./Greedy-Algorithms/Mosaics-and-Holes/README.md)                     |
-| **#080** | [`Subxor`](./Greedy-Algorithms/Subxor/README.md)                                           |
-| **#081** | [`Operations on an Array`](./Greedy-Algorithms/Operations-on-an-Array/README.md)           |
-| **#082** | [`Toy Box`](./Greedy-Algorithms/Toy-Box/README.md)                                         |
-| **#083** | [`An Easy Problem`](./Greedy-Algorithms/An-Easy-Problem/README.md)                         |
-| **#084** | [`Array Modification`](./Greedy-Algorithms/Array-Modification/README.md)                   |
-| **#085** | [`Hectic Game`](./Greedy-Algorithms/Hectic-Game/README.md)                                 |
-| **#086** | [`Equal Division`](./Greedy-Algorithms/Equal-Division/README.md)                           |
-| **#087** | [`( Problem A ) Pikachu and the Game of Strings`](./Greedy-Algorithms/Problem-A/README.md) |
-| **#088** | [`Binary Matrix`](./Greedy-Algorithms/Binary-Matrix/README.md)                             |
-| **#089** | [`Three Equal parts`](./Greedy-Algorithms/Three-Equal-Parts/README.md)                     |
-| **#090** | [`One Swap to Palindrome`](./Greedy-Algorithms/One-Swap-to-Palindrome/README.md)           |
-| **#091** | [`Maximize Array Sum`](./Greedy-Algorithms/Maximize-Array-Sum/README.md)                   |
-| **#092** | [`Remove the element`](./Greedy-Algorithms/Remove-the-Element/README.md)                   |
-| **#093** | [`Bob And GCD`](./Greedy-Algorithms/Bob-and-GCD/README.md)                                 |
-| **#094** | [`Architect's Dilemma..!`](./Greedy-Algorithms/Architect's-Dilemma/README.md)              |
+| N°       | Enunciado                                                                                          |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| **#001** | [`OrOasis`](./Greedy-Algorithms/OrOasis/README.md)                                                 |
+| **#002** | [`Equal Arrays`](./Greedy-Algorithms/Equal-Arrays/README.md)                                       |
+| **#003** | [`Not Even Max Sum`](./Greedy-Algorithms/Not-Even-Max-Sum/README.md)                               |
+| **#004** | [`Bob's Quest`](./Greedy-Algorithms/Bob's-Quest/README.md)                                         |
+| **#005** | [`Swap Sum`](./Greedy-Algorithms/Swap-Sum/README.md)                                               |
+| **#006** | [`Signaling`](./Greedy-Algorithms/Signaling/README.md)                                             |
+| **#007** | [`DreamGrid's Luxury Shopping`](./Greedy-Algorithms/DreamGrid's-Luxury-Shopping/README.md)         |
+| **#008** | [`Empty Game`](./Greedy-Algorithms/Empty-Game/README.md)                                           |
+| **#009** | [`Double Beauty`](./Greedy-Algorithms/Double-Beauty/README.md)                                     |
+| **#010** | [`Bob And The Tasks`](./Greedy-Algorithms/Bob-and-the-Tasks/README.md)                             |
+| **#011** | [`Bob And The Magic Count`](./Greedy-Algorithms/Bob-and-The-Magic-Count/README.md)                 |
+| **#012** | [`Too Chocolatey`](./Greedy-Algorithms/Too-Chocolatey/README.md)                                   |
+| **#013** | [`Operation with X`](./Greedy-Algorithms/Operation-with-X/README.md)                               |
+| **#014** | [`Special Number`](./Greedy-Algorithms/Special-Number/README.md)                                   |
+| **#015** | [`Split String`](./Greedy-Algorithms/Split-String/README.md)                                       |
+| **#016** | [`Legendary Magician`](./Greedy-Algorithms/Legendary-Magician/README.md)                           |
+| **#017** | [`Closer`](./Greedy-Algorithms/Closer/README.md)                                                   |
+| **#018** | [`Maximum Operation Count`](./Greedy-Algorithms/Maximum-Operation-Count/README.md)                 |
+| **#019** | [`Minimum Score`](./Greedy-Algorithms/Minimum-Score/README.md)                                     |
+| **#020** | [`Tree of Candles`](./Greedy-Algorithms/Tree-of-Candles/README.md)                                 |
+| **#021** | [`Fruit Slicing`](./Greedy-Algorithms/Fruit-Slicing/README.md)                                     |
+| **#022** | [`Safe programming`](./Greedy-Algorithms/Safe-Programming/README.md)                               |
+| **#023** | [`Stay Healthy!`](./Greedy-Algorithms/Stay-Healthy/README.md)                                      |
+| **#024** | [`Minimum Cost`](./Greedy-Algorithms/Minimum-Cost/README.md)                                       |
+| **#025** | [`Bob and the minimum string`](./Greedy-Algorithms/Bob-and-the-Minimum-String/README.md)           |
+| **#026** | [`Flip AB`](./Greedy-Algorithms/Flip-AB/README.md)                                                 |
+| **#027** | [`Wesam and Omar`](./Greedy-Algorithms/Wesam-and-Omar/README.md)                                   |
+| **#028** | [`Alternative moves`](./Greedy-Algorithms/Alternative-Moves/README.md)                             |
+| **#029** | [`A good array`](./Greedy-Algorithms/A-Good-Array/README.md)                                       |
+| **#030** | [`Types of burgers`](./Greedy-Algorithms/Types-of-Burgers/README.md)                               |
+| **#031** | [`Bob's empire`](./Greedy-Algorithms/Bob's-Empire/README.md)                                       |
+| **#032** | [`A dice tower`](./Greedy-Algorithms/A-Dice-Tower/README.md)                                       |
+| **#033** | [`The maximum value`](./Greedy-Algorithms/The-Maximum-Value/README.md)                             |
+| **#034** | [`Beautiful numbers`](./Greedy-Algorithms/Beautiful-Numbers/README.md)                             |
+| **#035** | [`Sum of cards`](./Greedy-Algorithms/Sum-of-cards/README.md)                                       |
+| **#036** | [`Three rectangles`](./Greedy-Algorithms/Three-Rectangles/README.md)                               |
+| **#037** | [`Bob's confusion`](./Greedy-Algorithms/Bob's-Confusion/README.md)                                 |
+| **#038** | [`Manhattan distance`](./Greedy-Algorithms/Manhattan-Distance/README.md)                           |
+| **#039** | [`Factors`](./Greedy-Algorithms/Factors/README.md)                                                 |
+| **#040** | [`Team division`](./Greedy-Algorithms/Team-Division/README.md)                                     |
+| **#041** | [`Operations on a tree`](./Greedy-Algorithms/Operations-on-a-tree/README.md)                       |
+| **#042** | [`Subtree swap`](./Greedy-Algorithms/Subtree-Swap/README.md)                                       |
+| **#043** | [`Average Subarray`](./Greedy-Algorithms/Average-Subarray/README.md)                               |
+| **#044** | [`A color box`](./Greedy-Algorithms/A-Color-Box/README.md)                                         |
+| **#045** | [`Minimize nodes`](./Greedy-Algorithms/Minimize-Nodes/README.md)                                   |
+| **#046** | [`Meeting the origin`](./Greedy-Algorithms/Meeting-the-Origin/README.md)                           |
+| **#047** | [`A special date`](./Greedy-Algorithms/A-Special-Date/README.md)                                   |
+| **#048** | [`Three problems`](./Greedy-Algorithms/Three-Problems/README.md)                                   |
+| **#049** | [`The score game`](./Greedy-Algorithms/The-Score-Game/README.md)                                   |
+| **#050** | [`Likeable arrays`](./Greedy-Algorithms/Likeable-Arrays/README.md)                                 |
+| **#051** | [`Zero subarray`](./Greedy-Algorithms/Zero-Subarray/README.md)                                     |
+| **#052** | [`Divide the digits`](./Greedy-Algorithms/Divide-the-Digits/README.md)                             |
+| **#053** | [`Smallest number`](./Greedy-Algorithms/Smallest-Number/README.md)                                 |
+| **#054** | [`A smallest number`](./Greedy-Algorithms/A-Smallest-Number/README.md)                             |
+| **#055** | [`Multiple of 3`](./Greedy-Algorithms/Multiple-of-3/README.md)                                     |
+| **#056** | [`XOR subsequences`](./Greedy-Algorithms/XOR-Subsequences/README.md)                               |
+| **#057** | [`Filling stones`](./Greedy-Algorithms/Filling-Stones/README.md)                                   |
+| **#058** | [`Divide arrays`](./Greedy-Algorithms/Divide-Arrays/README.md)                                     |
+| **#059** | [`Equalize strings`](./Greedy-Algorithms/Equalize-Strings/README.md)                               |
+| **#060** | [`The weighted graph`](./Greedy-Algorithms/The-Weighted-Graph/README.md)                           |
+| **#061** | [`Equalize strings`](./Greedy-Algorithms/Equalize-Strings-2/README.md)                             |
+| **#062** | [`A bitwise pair`](./Greedy-Algorithms/A-Bitwise-Pair/README.md)                                   |
+| **#063** | [`A XOR value`](./Greedy-Algorithms/A-XOR-Value/README.md)                                         |
+| **#064** | [`The smallest string`](./Greedy-Algorithms/The-Smallest-String/README.md)                         |
+| **#065** | [`The smallest permutation`](./Greedy-Algorithms/The-Smallest-Permutation/README.md)               |
+| **#066** | [`Deleting arrays`](./Greedy-Algorithms/Deleting-Arrays/README.md)                                 |
+| **#067** | [`A chessboard`](./Greedy-Algorithms/A-Chessboard/README.md)                                       |
+| **#068** | [`Providing gifts`](./Greedy-Algorithms/Providing-Gifts/README.md)                                 |
+| **#069** | [`The maximum range`](./Greedy-Algorithms/The-Maximum-Range/README.md)                             |
+| **#070** | [`Maximum subsequences`](./Greedy-Algorithms/Maximum-Subsequences/README.md)                       |
+| **#071** | [`Unique sorting`](./Greedy-Algorithms/Unique-Sorting/README.md)                                   |
+| **#072** | [`An interesting game`](./Greedy-Algorithms/An-Interesting-Game/README.md)                         |
+| **#073** | [`Profits by cars`](./Greedy-Algorithms/Profits-by-Cars/README.md)                                 |
+| **#074** | [`The maximum number`](./Greedy-Algorithms/The-Maximum-Number/README.md)                           |
+| **#075** | [`Changes in a string`](./Greedy-Algorithms/Changes-in-a-String/README.md)                         |
+| **#076** | [`Destination cost`](./Greedy-Algorithms/Destination-Cost/README.md)                               |
+| **#077** | [`Smallest chosen word`](./Greedy-Algorithms/Smallest-Chosen-Word/README.md)                       |
+| **#078** | [`Coprimes`](./Greedy-Algorithms/Coprimes/README.md)                                               |
+| **#079** | [`Mosaics and holes`](./Greedy-Algorithms/Mosaics-and-Holes/README.md)                             |
+| **#080** | [`Subxor`](./Greedy-Algorithms/Subxor/README.md)                                                   |
+| **#081** | [`Operations on an Array`](./Greedy-Algorithms/Operations-on-an-Array/README.md)                   |
+| **#082** | [`Toy Box`](./Greedy-Algorithms/Toy-Box/README.md)                                                 |
+| **#083** | [`An Easy Problem`](./Greedy-Algorithms/An-Easy-Problem/README.md)                                 |
+| **#084** | [`Array Modification`](./Greedy-Algorithms/Array-Modification/README.md)                           |
+| **#085** | [`Hectic Game`](./Greedy-Algorithms/Hectic-Game/README.md)                                         |
+| **#086** | [`Equal Division`](./Greedy-Algorithms/Equal-Division/README.md)                                   |
+| **#087** | [`( Problem A ) Pikachu and the Game of Strings`](./Greedy-Algorithms/Problem-A/README.md)         |
+| **#088** | [`Binary Matrix`](./Greedy-Algorithms/Binary-Matrix/README.md)                                     |
+| **#089** | [`Three Equal parts`](./Greedy-Algorithms/Three-Equal-Parts/README.md)                             |
+| **#090** | [`One Swap to Palindrome`](./Greedy-Algorithms/One-Swap-to-Palindrome/README.md)                   |
+| **#091** | [`Maximize Array Sum`](./Greedy-Algorithms/Maximize-Array-Sum/README.md)                           |
+| **#092** | [`Remove the element`](./Greedy-Algorithms/Remove-the-Element/README.md)                           |
+| **#093** | [`Bob And GCD`](./Greedy-Algorithms/Bob-and-GCD/README.md)                                         |
+| **#094** | [`Architect's Dilemma..!`](./Greedy-Algorithms/Architect's-Dilemma/README.md)                      |
+| **#095** | [`Mathison and the funny subarray`](./Greedy-Algorithms/Mathison-and-the-Funny-Subarray/README.md) |
