@@ -359,3 +359,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#091** | [`Maximize Array Sum`](./Greedy-Algorithms/Maximize-Array-Sum/README.md)                   |
 | **#092** | [`Remove the element`](./Greedy-Algorithms/Remove-the-Element/README.md)                   |
 | **#093** | [`Bob And GCD`](./Greedy-Algorithms/Bob-and-GCD/README.md)                                 |
+| **#094** | [`Architect's Dilemma..!`](./Greedy-Algorithms/Architect's-Dilemma/README.md)              |
