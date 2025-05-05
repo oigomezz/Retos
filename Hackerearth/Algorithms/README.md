@@ -369,3 +369,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#101** | [`Cities and co-ordinates`](./Greedy-Algorithms/Cities-and-Co-ordinates/README.md)                 |
 | **#102** | [`Dorsplen`](./Greedy-Algorithms/Dorsplen/README.md)                                               |
 | **#103** | [`Exploring ruins`](./Greedy-Algorithms/Exploring-Ruins/README.md)                                 |
+| **#104** | [`Eat Or Not?`](./Greedy-Algorithms/Eat-Or-Not/README.md)                                          |
