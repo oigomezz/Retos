@@ -361,3 +361,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#093** | [`Bob And GCD`](./Greedy-Algorithms/Bob-and-GCD/README.md)                                         |
 | **#094** | [`Architect's Dilemma..!`](./Greedy-Algorithms/Architect's-Dilemma/README.md)                      |
 | **#095** | [`Mathison and the funny subarray`](./Greedy-Algorithms/Mathison-and-the-Funny-Subarray/README.md) |
+| **#096** | [`Help..!!`](./Greedy-Algorithms/Help/README.md)                                                   |
