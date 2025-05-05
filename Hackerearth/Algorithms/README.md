@@ -364,3 +364,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#096** | [`Help..!!`](./Greedy-Algorithms/Help/README.md)                                                   |
 | **#097** | [`Dexter and Points`](./Greedy-Algorithms/Dexter-and-Points/README.md)                             |
 | **#098** | [`K Friends`](./Greedy-Algorithms/K-Friends/README.md)                                             |
+| **#099** | [`Minimum Cabs`](./Greedy-Algorithms/Minimum-Cabs/README.md)                                       |
+| **#100** | [`Coprimes`](./Greedy-Algorithms/Coprimes/README.md)|
