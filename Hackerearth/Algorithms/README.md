@@ -377,3 +377,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#109** | [`Tree tearing`](./Greedy-Algorithms/Tree-Tearing/README.md)                                       |
 | **#110** | [`Array's force`](./Greedy-Algorithms/Array's-Force/README.md)                                     |
 | **#111** | [`Easy Strong Permutation`](./Greedy-Algorithms/Easy-Strong-Permutation/README.md)                 |
+| **#112** | [`In search of Samosa`](./Greedy-Algorithms/In-search-of-Samosa/README.md)                         |
