@@ -375,3 +375,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#107** | [`Milly and Chocolates IV`](./Greedy-Algorithms/Milly-and-Chocolates-IV/README.md)                 |
 | **#108** | [`Taxi Please!`](./Greedy-Algorithms/Taxi-Please/README.md)                                        |
 | **#109** | [`Tree tearing`](./Greedy-Algorithms/Tree-Tearing/README.md)                                       |
+| **#110** | [`Array's force`](./Greedy-Algorithms/Array's-Force/README.md)                                     |
