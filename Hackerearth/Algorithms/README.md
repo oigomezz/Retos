@@ -379,3 +379,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#111** | [`Easy Strong Permutation`](./Greedy-Algorithms/Easy-Strong-Permutation/README.md)                 |
 | **#112** | [`In search of Samosa`](./Greedy-Algorithms/In-search-of-Samosa/README.md)                         |
 | **#113** | [`Arjit and Printing Press`](./Greedy-Algorithms/Arjit-and-Printing-Press/README.md)               |
+| **#114** | [`Chandu and Consecutive Letters`](./Greedy-Algorithms/Chandu-and-Consecutive-Letters/README.md)   |
