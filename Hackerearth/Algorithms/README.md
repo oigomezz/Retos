@@ -374,3 +374,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#106** | [`Assorted Arrangement`](./Greedy-Algorithms/Assorted-Arrangement/README.md)                       |
 | **#107** | [`Milly and Chocolates IV`](./Greedy-Algorithms/Milly-and-Chocolates-IV/README.md)                 |
 | **#108** | [`Taxi Please!`](./Greedy-Algorithms/Taxi-Please/README.md)                                        |
+| **#109** | [`Tree tearing`](./Greedy-Algorithms/Tree-Tearing/README.md)                                       |
