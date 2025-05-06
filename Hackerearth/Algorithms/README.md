@@ -371,3 +371,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#103** | [`Exploring ruins`](./Greedy-Algorithms/Exploring-Ruins/README.md)                                 |
 | **#104** | [`Eat Or Not?`](./Greedy-Algorithms/Eat-Or-Not/README.md)                                          |
 | **#105** | [`Mike and LMS`](./Greedy-Algorithms/Mike-and-LMS/README.md)                                       |
+| **#106** | [`Assorted Arrangement`](./Greedy-Algorithms/Assorted-Arrangement/README.md)                       |
