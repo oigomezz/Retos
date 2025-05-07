@@ -385,3 +385,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#117** | [`Fast Sort`](./Greedy-Algorithms/Fast-Sort/README.md)                                             |
 | **#118** | [`Raj & his Slippers`](./Greedy-Algorithms/Raj-and-his-Slippers/README.md)                         |
 | **#119** | [`Hunger Games`](./Greedy-Algorithms/Hunger-Games/README.md)                                       |
+| **#120** | [`Rooms`](./Greedy-Algorithms/Rooms/README.md)                                                     |
