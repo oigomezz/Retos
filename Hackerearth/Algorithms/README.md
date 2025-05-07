@@ -390,3 +390,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#122** | [`Little Jhool and his punishment`](./Greedy-Algorithms/Little-Jhool-and-his-Punishment/README.md) |
 | **#123** | [`Chandu and his toy stack`](./Greedy-Algorithms/Chandu-and-his-Toy-Stack/README.md)               |
 | **#124** | [`Flip the World`](./Greedy-Algorithms/Flip-the-World/README.md)                                   |
+| **#125** | [`Process Scheduling`](./Greedy-Algorithms/Process-Scheduling/README.md)                           |
