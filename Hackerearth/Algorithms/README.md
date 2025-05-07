@@ -392,3 +392,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#124** | [`Flip the World`](./Greedy-Algorithms/Flip-the-World/README.md)                                   |
 | **#125** | [`Process Scheduling`](./Greedy-Algorithms/Process-Scheduling/README.md)                           |
 | **#126** | [`Shuffle Array`](./Greedy-Algorithms/Shuffle-Array/README.md)                                     |
+| **#127** | [`Special Substring`](./Greedy-Algorithms/Special-Substring/README.md)                             |
