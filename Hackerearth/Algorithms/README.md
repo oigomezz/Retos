@@ -382,3 +382,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#114** | [`Chandu and Consecutive Letters`](./Greedy-Algorithms/Chandu-and-Consecutive-Letters/README.md)   |
 | **#115** | [`Add - Subtract`](./Greedy-Algorithms/Add-Subtract/README.md)                                     |
 | **#116** | [`Sharpen the pencils`](./Greedy-Algorithms/Sharpen-the-Pencils/README.md)                         |
+| **#117** | [`Fast Sort`](./Greedy-Algorithms/Fast-Sort/README.md)                                             |
