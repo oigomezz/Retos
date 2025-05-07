@@ -262,6 +262,8 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | ------- | -------------------------------------------------------------------------- |
 | **#01** | [`Descending Weights`](./Sorting/Bucket-Sort/Descending-Weights/README.md) |
 
+### Greedy Algorithms
+
 #### [Basics of Greedy Algorithms](./Greedy-Algorithms/README.md)
 
 | N°       | Enunciado                                                                                          |
@@ -394,3 +396,9 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#126** | [`Shuffle Array`](./Greedy-Algorithms/Shuffle-Array/README.md)                                     |
 | **#127** | [`Special Substring`](./Greedy-Algorithms/Special-Substring/README.md)                             |
 | **#128** | [`Binary Sum`](./Greedy-Algorithms/Binary-Sum/README.md)                                           |
+
+#### [Graph Representation](./Graphs/Graph-Representation/README.md)
+
+| N°      | Enunciado                                                          |
+| ------- | ------------------------------------------------------------------ |
+| **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md) |
