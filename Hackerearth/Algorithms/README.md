@@ -388,3 +388,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#120** | [`Rooms`](./Greedy-Algorithms/Rooms/README.md)                                                     |
 | **#121** | [`Swap It`](./Greedy-Algorithms/Swap-It/README.md)                                                 |
 | **#122** | [`Little Jhool and his punishment`](./Greedy-Algorithms/Little-Jhool-and-his-Punishment/README.md) |
+| **#123** | [`Chandu and his toy stack`](./Greedy-Algorithms/Chandu-and-his-Toy-Stack/README.md)               |
