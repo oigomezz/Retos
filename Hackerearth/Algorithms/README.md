@@ -410,3 +410,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Weighted Tree Function`](./Graphs/Graph-Representation/Weighted-Tree-Function/README.md) |
 | **#06** | [`Special Edge`](./Graphs/Graph-Representation/Special-Edge/README.md)                     |
 | **#07** | [`Tree Path`](./Graphs/Graph-Representation/Tree-Path/README.md)                           |
+| **#08** | [`Connected Components`](./Graphs/Graph-Representation/Connected-Components/README.md)     |
