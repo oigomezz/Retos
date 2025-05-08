@@ -397,8 +397,11 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#127** | [`Special Substring`](./Greedy-Algorithms/Special-Substring/README.md)                             |
 | **#128** | [`Binary Sum`](./Greedy-Algorithms/Binary-Sum/README.md)                                           |
 
+### Graphs
+
 #### [Graph Representation](./Graphs/Graph-Representation/README.md)
 
 | N°      | Enunciado                                                          |
 | ------- | ------------------------------------------------------------------ |
 | **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md) |
+| **#02** | [`Checkpoint`](./Graphs/Graph-Representation/Checkpoint/README.md) |
