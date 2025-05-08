@@ -406,3 +406,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md)       |
 | **#02** | [`Checkpoint`](./Graphs/Graph-Representation/Checkpoint/README.md)       |
 | **#03** | [`Subtree Query`](./Graphs/Graph-Representation/Subtree-Query/README.md) |
+| **#04** | [`Path Value`](./Graphs/Graph-Representation/Path-Value/README.md)       |
