@@ -401,9 +401,10 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Graph Representation](./Graphs/Graph-Representation/README.md)
 
-| N°      | Enunciado                                                                |
-| ------- | ------------------------------------------------------------------------ |
-| **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md)       |
-| **#02** | [`Checkpoint`](./Graphs/Graph-Representation/Checkpoint/README.md)       |
-| **#03** | [`Subtree Query`](./Graphs/Graph-Representation/Subtree-Query/README.md) |
-| **#04** | [`Path Value`](./Graphs/Graph-Representation/Path-Value/README.md)       |
+| N°      | Enunciado                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------ |
+| **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md)                         |
+| **#02** | [`Checkpoint`](./Graphs/Graph-Representation/Checkpoint/README.md)                         |
+| **#03** | [`Subtree Query`](./Graphs/Graph-Representation/Subtree-Query/README.md)                   |
+| **#04** | [`Path Value`](./Graphs/Graph-Representation/Path-Value/README.md)                         |
+| **#05** | [`Weighted Tree Function`](./Graphs/Graph-Representation/Weighted-Tree-Function/README.md) |
