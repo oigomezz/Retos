@@ -408,3 +408,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#03** | [`Subtree Query`](./Graphs/Graph-Representation/Subtree-Query/README.md)                   |
 | **#04** | [`Path Value`](./Graphs/Graph-Representation/Path-Value/README.md)                         |
 | **#05** | [`Weighted Tree Function`](./Graphs/Graph-Representation/Weighted-Tree-Function/README.md) |
+| **#06** | [`Special Edge`](./Graphs/Graph-Representation/Special-Edge/README.md)                     |
