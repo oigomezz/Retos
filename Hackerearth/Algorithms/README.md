@@ -417,3 +417,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Making friends`](./Graphs/Graph-Representation/Making-Friends/README.md)                 |
 | **#13** | [`Largest path queries`](./Graphs/Graph-Representation/Largest-Path-Queries/README.md)     |
 | **#14** | [`Special graphs`](./Graphs/Graph-Representation/Special-Graphs/README.md)                 |
+| **#15** | [`Coloring trees`](./Graphs/Graph-Representation/Coloring-Trees/README.md)                 |
