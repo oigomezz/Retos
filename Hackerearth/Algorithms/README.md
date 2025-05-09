@@ -418,3 +418,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#13** | [`Largest path queries`](./Graphs/Graph-Representation/Largest-Path-Queries/README.md)     |
 | **#14** | [`Special graphs`](./Graphs/Graph-Representation/Special-Graphs/README.md)                 |
 | **#15** | [`Coloring trees`](./Graphs/Graph-Representation/Coloring-Trees/README.md)                 |
+| **#16** | [`Build a graph`](./Graphs/Graph-Representation/Build-a-Graph/README.md)                   |
