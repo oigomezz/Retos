@@ -415,3 +415,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`One Room to Another`](./Graphs/Graph-Representation/One-Room-to-Another/README.md)       |
 | **#11** | [`Rooted trees`](./Graphs/Graph-Representation/Rooted-Trees/README.md)                     |
 | **#12** | [`Making friends`](./Graphs/Graph-Representation/Making-Friends/README.md)                 |
+| **#13** | [`Largest path queries`](./Graphs/Graph-Representation/Largest-Path-Queries/README.md)     |
