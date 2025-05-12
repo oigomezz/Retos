@@ -429,3 +429,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#24** | [`Optimal Connectivity`](./Graphs/Graph-Representation/Optimal-Connectivity/README.md)     |
 | **#25** | [`Black and White`](./Graphs/Graph-Representation/Black-and-White/README.md)               |
 | **#26** | [`Tree-Stock Market`](./Graphs/Graph-Representation/Tree-Stock-Market/README.md)           |
+| **#27** | [`Buggy Bot`](./Graphs/Graph-Representation/Buggy-Bot/README.md)                           |
