@@ -427,3 +427,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`Counting triplets`](./Graphs/Graph-Representation/Counting-Triplets/README.md)           |
 | **#23** | [`Min-Max Weighted Edge`](./Graphs/Graph-Representation/Min-Max-Weighted-Edge/README.md)   |
 | **#24** | [`Optimal Connectivity`](./Graphs/Graph-Representation/Optimal-Connectivity/README.md)     |
+| **#25** | [`Black and White`](./Graphs/Graph-Representation/Black-and-White/README.md)               |
