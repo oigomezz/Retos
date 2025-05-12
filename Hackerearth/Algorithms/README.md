@@ -423,3 +423,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#18** | [`Separate paths`](./Graphs/Graph-Representation/Separate-Paths/README.md)                 |
 | **#19** | [`Uniformity`](./Graphs/Graph-Representation/Uniformity/README.md)                         |
 | **#20** | [`Minimum Valid Path`](./Graphs/Graph-Representation/Minimum-Valid-Path/README.md)         |
+| **#21** | [`So NP`](./Graphs/Graph-Representation/So-NP/README.md)                                   |
