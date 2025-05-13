@@ -434,3 +434,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#29** | [`N Div Tree`](./Graphs/Graph-Representation/N-Div-Tree/README.md)                                          |
 | **#30** | [`Final battle`](./Graphs/Graph-Representation/Final-Battle/README.md)                                      |
 | **#31** | [`Utkarsh in Gardens`](./Graphs/Graph-Representation/Utkarsh-in-Gardens/README.md)                          |
+| **#32** | [`Monk at the Graph Factory`](./Graphs/Graph-Representation/Monk-at-the-Graph-Factory/README.md)            |
