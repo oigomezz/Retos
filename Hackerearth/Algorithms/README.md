@@ -435,3 +435,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`Final battle`](./Graphs/Graph-Representation/Final-Battle/README.md)                                      |
 | **#31** | [`Utkarsh in Gardens`](./Graphs/Graph-Representation/Utkarsh-in-Gardens/README.md)                          |
 | **#32** | [`Monk at the Graph Factory`](./Graphs/Graph-Representation/Monk-at-the-Graph-Factory/README.md)            |
+| **#33** | [`Monk in the real estate`](./Graphs/Graph-Representation/Monk-in-the-Real-Estate/README.md)                |
