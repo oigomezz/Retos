@@ -7,8 +7,7 @@ inicio = time.time()
 ########################
 # Escribe tu codigo aqui
 
-lista_nueva = [
-    element for element in lista_original if element not in lista_auxiliar]
+lista_nueva = [element for element in lista_original if element not in lista_auxiliar]
 
 ########################
 
