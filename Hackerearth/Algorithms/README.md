@@ -447,6 +447,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Breadth First Search](./Graphs/Breadth-First-Search/README.md)
 
-| N°      | Enunciado                                                            |
-| ------- | -------------------------------------------------------------------- |
-| **#01** | [`Cloudy Days`](./Graphs/Breadth-First-Search/Cloudy-Days/README.md) |
+| N°      | Enunciado                                                                |
+| ------- | ------------------------------------------------------------------------ |
+| **#01** | [`Cloudy Days`](./Graphs/Breadth-First-Search/Cloudy-Days/README.md)     |
+| **#02** | [`Station Pairs`](./Graphs/Breadth-First-Search/Station-Pairs/README.md) |
