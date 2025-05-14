@@ -442,3 +442,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#37** | [`Covid Cure`](./Graphs/Graph-Representation/Covid-Cure/README.md)                                          |
 | **#38** | [`Xor over tree`](./Graphs/Graph-Representation/XOR-Over-Tree/README.md)                                    |
 | **#39** | [`Maximum Weight`](./Graphs/Graph-Representation/Maximum-Weight/README.md)                                  |
+| **#40** | [`Friendship value`](./Graphs/Graph-Representation/Friendship-Value/README.md) |
