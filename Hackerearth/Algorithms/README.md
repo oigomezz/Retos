@@ -440,3 +440,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#35** | [`Tree operations`](./Graphs/Graph-Representation/Tree-Operations/README.md)                                |
 | **#36** | [`Roads reconstruction`](./Graphs/Graph-Representation/Roads-Reconstruction/README.md)                      |
 | **#37** | [`Covid Cure`](./Graphs/Graph-Representation/Covid-Cure/README.md)                                          |
+| **#38** | [`Xor over tree`](./Graphs/Graph-Representation/XOR-Over-Tree/README.md)                                    |
