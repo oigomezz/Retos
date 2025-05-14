@@ -438,3 +438,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#33** | [`Monk in the real estate`](./Graphs/Graph-Representation/Monk-in-the-Real-Estate/README.md)                |
 | **#34** | [`Road Demolishing`](./Graphs/Graph-Representation/Road-Demolishing/README.md)                              |
 | **#35** | [`Tree operations`](./Graphs/Graph-Representation/Tree-Operations/README.md)                                |
+| **#36** | [`Roads reconstruction`](./Graphs/Graph-Representation/Roads-Reconstruction/README.md)                      |
