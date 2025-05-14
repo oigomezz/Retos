@@ -401,45 +401,46 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Graph Representation](./Graphs/Graph-Representation/README.md)
 
-| N°      | Enunciado                                                                                                   |
-| ------- | ----------------------------------------------------------------------------------------------------------- |
-| **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md)                                          |
-| **#02** | [`Checkpoint`](./Graphs/Graph-Representation/Checkpoint/README.md)                                          |
-| **#03** | [`Subtree Query`](./Graphs/Graph-Representation/Subtree-Query/README.md)                                    |
-| **#04** | [`Path Value`](./Graphs/Graph-Representation/Path-Value/README.md)                                          |
-| **#05** | [`Weighted Tree Function`](./Graphs/Graph-Representation/Weighted-Tree-Function/README.md)                  |
-| **#06** | [`Special Edge`](./Graphs/Graph-Representation/Special-Edge/README.md)                                      |
-| **#07** | [`Tree Path`](./Graphs/Graph-Representation/Tree-Path/README.md)                                            |
-| **#08** | [`Connected Components`](./Graphs/Graph-Representation/Connected-Components/README.md)                      |
-| **#09** | [`Split the Bill`](./Graphs/Graph-Representation/Split-the-Bill/README.md)                                  |
-| **#10** | [`One Room to Another`](./Graphs/Graph-Representation/One-Room-to-Another/README.md)                        |
-| **#11** | [`Rooted trees`](./Graphs/Graph-Representation/Rooted-Trees/README.md)                                      |
-| **#12** | [`Making friends`](./Graphs/Graph-Representation/Making-Friends/README.md)                                  |
-| **#13** | [`Largest path queries`](./Graphs/Graph-Representation/Largest-Path-Queries/README.md)                      |
-| **#14** | [`Special graphs`](./Graphs/Graph-Representation/Special-Graphs/README.md)                                  |
-| **#15** | [`Coloring trees`](./Graphs/Graph-Representation/Coloring-Trees/README.md)                                  |
-| **#16** | [`Build a graph`](./Graphs/Graph-Representation/Build-a-Graph/README.md)                                    |
-| **#17** | [`Levels of a tree`](./Graphs/Graph-Representation/Levels-of-a-Tree/README.md)                              |
-| **#18** | [`Separate paths`](./Graphs/Graph-Representation/Separate-Paths/README.md)                                  |
-| **#19** | [`Uniformity`](./Graphs/Graph-Representation/Uniformity/README.md)                                          |
-| **#20** | [`Minimum Valid Path`](./Graphs/Graph-Representation/Minimum-Valid-Path/README.md)                          |
-| **#21** | [`So NP`](./Graphs/Graph-Representation/So-NP/README.md)                                                    |
-| **#22** | [`Counting triplets`](./Graphs/Graph-Representation/Counting-Triplets/README.md)                            |
-| **#23** | [`Min-Max Weighted Edge`](./Graphs/Graph-Representation/Min-Max-Weighted-Edge/README.md)                    |
-| **#24** | [`Optimal Connectivity`](./Graphs/Graph-Representation/Optimal-Connectivity/README.md)                      |
-| **#25** | [`Black and White`](./Graphs/Graph-Representation/Black-and-White/README.md)                                |
-| **#26** | [`Tree-Stock Market`](./Graphs/Graph-Representation/Tree-Stock-Market/README.md)                            |
-| **#27** | [`Buggy Bot`](./Graphs/Graph-Representation/Buggy-Bot/README.md)                                            |
-| **#28** | [`Mancunian And Liverbird Go Bar Hopping`](./Graphs/Graph-Representation/Mancunian-and-Liverbird/README.md) |
-| **#29** | [`N Div Tree`](./Graphs/Graph-Representation/N-Div-Tree/README.md)                                          |
-| **#30** | [`Final battle`](./Graphs/Graph-Representation/Final-Battle/README.md)                                      |
-| **#31** | [`Utkarsh in Gardens`](./Graphs/Graph-Representation/Utkarsh-in-Gardens/README.md)                          |
-| **#32** | [`Monk at the Graph Factory`](./Graphs/Graph-Representation/Monk-at-the-Graph-Factory/README.md)            |
-| **#33** | [`Monk in the real estate`](./Graphs/Graph-Representation/Monk-in-the-Real-Estate/README.md)                |
-| **#34** | [`Road Demolishing`](./Graphs/Graph-Representation/Road-Demolishing/README.md)                              |
-| **#35** | [`Tree operations`](./Graphs/Graph-Representation/Tree-Operations/README.md)                                |
-| **#36** | [`Roads reconstruction`](./Graphs/Graph-Representation/Roads-Reconstruction/README.md)                      |
-| **#37** | [`Covid Cure`](./Graphs/Graph-Representation/Covid-Cure/README.md)                                          |
-| **#38** | [`Xor over tree`](./Graphs/Graph-Representation/XOR-Over-Tree/README.md)                                    |
-| **#39** | [`Maximum Weight`](./Graphs/Graph-Representation/Maximum-Weight/README.md)                                  |
-| **#40** | [`Friendship value`](./Graphs/Graph-Representation/Friendship-Value/README.md) |
+| N°      | Enunciado                                                                                                          |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| **#01** | [`Power Game`](./Graphs/Graph-Representation/Power-Game/README.md)                                                 |
+| **#02** | [`Checkpoint`](./Graphs/Graph-Representation/Checkpoint/README.md)                                                 |
+| **#03** | [`Subtree Query`](./Graphs/Graph-Representation/Subtree-Query/README.md)                                           |
+| **#04** | [`Path Value`](./Graphs/Graph-Representation/Path-Value/README.md)                                                 |
+| **#05** | [`Weighted Tree Function`](./Graphs/Graph-Representation/Weighted-Tree-Function/README.md)                         |
+| **#06** | [`Special Edge`](./Graphs/Graph-Representation/Special-Edge/README.md)                                             |
+| **#07** | [`Tree Path`](./Graphs/Graph-Representation/Tree-Path/README.md)                                                   |
+| **#08** | [`Connected Components`](./Graphs/Graph-Representation/Connected-Components/README.md)                             |
+| **#09** | [`Split the Bill`](./Graphs/Graph-Representation/Split-the-Bill/README.md)                                         |
+| **#10** | [`One Room to Another`](./Graphs/Graph-Representation/One-Room-to-Another/README.md)                               |
+| **#11** | [`Rooted trees`](./Graphs/Graph-Representation/Rooted-Trees/README.md)                                             |
+| **#12** | [`Making friends`](./Graphs/Graph-Representation/Making-Friends/README.md)                                         |
+| **#13** | [`Largest path queries`](./Graphs/Graph-Representation/Largest-Path-Queries/README.md)                             |
+| **#14** | [`Special graphs`](./Graphs/Graph-Representation/Special-Graphs/README.md)                                         |
+| **#15** | [`Coloring trees`](./Graphs/Graph-Representation/Coloring-Trees/README.md)                                         |
+| **#16** | [`Build a graph`](./Graphs/Graph-Representation/Build-a-Graph/README.md)                                           |
+| **#17** | [`Levels of a tree`](./Graphs/Graph-Representation/Levels-of-a-Tree/README.md)                                     |
+| **#18** | [`Separate paths`](./Graphs/Graph-Representation/Separate-Paths/README.md)                                         |
+| **#19** | [`Uniformity`](./Graphs/Graph-Representation/Uniformity/README.md)                                                 |
+| **#20** | [`Minimum Valid Path`](./Graphs/Graph-Representation/Minimum-Valid-Path/README.md)                                 |
+| **#21** | [`So NP`](./Graphs/Graph-Representation/So-NP/README.md)                                                           |
+| **#22** | [`Counting triplets`](./Graphs/Graph-Representation/Counting-Triplets/README.md)                                   |
+| **#23** | [`Min-Max Weighted Edge`](./Graphs/Graph-Representation/Min-Max-Weighted-Edge/README.md)                           |
+| **#24** | [`Optimal Connectivity`](./Graphs/Graph-Representation/Optimal-Connectivity/README.md)                             |
+| **#25** | [`Black and White`](./Graphs/Graph-Representation/Black-and-White/README.md)                                       |
+| **#26** | [`Tree-Stock Market`](./Graphs/Graph-Representation/Tree-Stock-Market/README.md)                                   |
+| **#27** | [`Buggy Bot`](./Graphs/Graph-Representation/Buggy-Bot/README.md)                                                   |
+| **#28** | [`Mancunian And Liverbird Go Bar Hopping`](./Graphs/Graph-Representation/Mancunian-and-Liverbird/README.md)        |
+| **#29** | [`N Div Tree`](./Graphs/Graph-Representation/N-Div-Tree/README.md)                                                 |
+| **#30** | [`Final battle`](./Graphs/Graph-Representation/Final-Battle/README.md)                                             |
+| **#31** | [`Utkarsh in Gardens`](./Graphs/Graph-Representation/Utkarsh-in-Gardens/README.md)                                 |
+| **#32** | [`Monk at the Graph Factory`](./Graphs/Graph-Representation/Monk-at-the-Graph-Factory/README.md)                   |
+| **#33** | [`Monk in the real estate`](./Graphs/Graph-Representation/Monk-in-the-Real-Estate/README.md)                       |
+| **#34** | [`Road Demolishing`](./Graphs/Graph-Representation/Road-Demolishing/README.md)                                     |
+| **#35** | [`Tree operations`](./Graphs/Graph-Representation/Tree-Operations/README.md)                                       |
+| **#36** | [`Roads reconstruction`](./Graphs/Graph-Representation/Roads-Reconstruction/README.md)                             |
+| **#37** | [`Covid Cure`](./Graphs/Graph-Representation/Covid-Cure/README.md)                                                 |
+| **#38** | [`Xor over tree`](./Graphs/Graph-Representation/XOR-Over-Tree/README.md)                                           |
+| **#39** | [`Maximum Weight`](./Graphs/Graph-Representation/Maximum-Weight/README.md)                                         |
+| **#40** | [`Friendship value`](./Graphs/Graph-Representation/Friendship-Value/README.md)                                     |
+| **#41** | [`The new traveling salesman problem`](./Graphs/Graph-Representation/The-New-Traveling-Salesman-Problem/README.md) |
