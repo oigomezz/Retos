@@ -447,10 +447,11 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Breadth First Search](./Graphs/Breadth-First-Search/README.md)
 
-| N°      | Enunciado                                                                |
-| ------- | ------------------------------------------------------------------------ |
-| **#01** | [`Cloudy Days`](./Graphs/Breadth-First-Search/Cloudy-Days/README.md)     |
-| **#02** | [`Station Pairs`](./Graphs/Breadth-First-Search/Station-Pairs/README.md) |
-| **#03** | [`Reach Quickly`](./Graphs/Breadth-First-Search/Reach-Quickly/README.md) |
-| **#04** | [`Vaccine`](./Graphs/Breadth-First-Search/Vaccine/README.md)             |
-| **#05** | [`Flip Grid`](./Graphs/Breadth-First-Search/Flip-Grid/README.md)         |
+| N°      | Enunciado                                                                  |
+| ------- | -------------------------------------------------------------------------- |
+| **#01** | [`Cloudy Days`](./Graphs/Breadth-First-Search/Cloudy-Days/README.md)       |
+| **#02** | [`Station Pairs`](./Graphs/Breadth-First-Search/Station-Pairs/README.md)   |
+| **#03** | [`Reach Quickly`](./Graphs/Breadth-First-Search/Reach-Quickly/README.md)   |
+| **#04** | [`Vaccine`](./Graphs/Breadth-First-Search/Vaccine/README.md)               |
+| **#05** | [`Flip Grid`](./Graphs/Breadth-First-Search/Flip-Grid/README.md)           |
+| **#06** | [`Two gold mines`](./Graphs/Breadth-First-Search/Two-Gold-Mines/README.md) |
