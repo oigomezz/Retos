@@ -462,3 +462,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#11** | [`Gears in a machine`](./Graphs/Breadth-First-Search/Gears-in-a-Machine/README.md)             |
 | **#12** | [`Printing patterns`](./Graphs/Breadth-First-Search/Printing-Patterns/README.md)               |
 | **#13** | [`Delete and Cut Game`](./Graphs/Breadth-First-Search/Delete-and-Cut-Game/README.md)           |
+| **#14** | [`Zero path operations`](./Graphs/Breadth-First-Search/Zero-Path-Operations/README.md)         |
