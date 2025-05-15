@@ -463,3 +463,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#12** | [`Printing patterns`](./Graphs/Breadth-First-Search/Printing-Patterns/README.md)               |
 | **#13** | [`Delete and Cut Game`](./Graphs/Breadth-First-Search/Delete-and-Cut-Game/README.md)           |
 | **#14** | [`Zero path operations`](./Graphs/Breadth-First-Search/Zero-Path-Operations/README.md)         |
+| **#15** | [`Robotic paths`](./Graphs/Breadth-First-Search/Robotic-Paths/README.md)                       |
