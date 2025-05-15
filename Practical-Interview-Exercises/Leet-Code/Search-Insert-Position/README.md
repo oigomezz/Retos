@@ -21,7 +21,7 @@ Output: 4
 
 ## Constraints
 
-- 1 <= nums.length <= 10^4
-- -10^4 <= nums[i] <= 10^4
+- 1 <= nums.length <= 10⁴
+- -10⁴ <= nums[i] <= 10⁴
 - nums contains distinct values sorted in ascending order.
-- -10^4 <= target <= 10^4
+- -10⁴ <= target <= 10⁴

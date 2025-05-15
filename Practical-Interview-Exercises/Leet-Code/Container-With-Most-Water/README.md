@@ -22,5 +22,5 @@ Output: 1
 ## Constraints
 
 - n == height.length
-- 2 <= n <= 10^5
-- 0 <= height[i] <= 10^4
+- 2 <= n <= 10⁵
+- 0 <= height[i] <= 10⁵
