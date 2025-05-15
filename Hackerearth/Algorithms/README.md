@@ -458,3 +458,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#07** | [`Tree construction`](./Graphs/Breadth-First-Search/Tree-Construction/README.md)               |
 | **#08** | [`Handshakes in a party`](./Graphs/Breadth-First-Search/Handshakes-in-a-party/README.md)       |
 | **#09** | [`The smallest subsequence`](./Graphs/Breadth-First-Search/The-Smallest-Subsequence/README.md) |
+| **#10** | [`Meet people`](./Graphs/Breadth-First-Search/Meet-People/README.md)                           |
