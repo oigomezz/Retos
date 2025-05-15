@@ -460,3 +460,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`The smallest subsequence`](./Graphs/Breadth-First-Search/The-Smallest-Subsequence/README.md) |
 | **#10** | [`Meet people`](./Graphs/Breadth-First-Search/Meet-People/README.md)                           |
 | **#11** | [`Gears in a machine`](./Graphs/Breadth-First-Search/Gears-in-a-Machine/README.md)             |
+| **#12** | [`Printing patterns`](./Graphs/Breadth-First-Search/Printing-Patterns/README.md)               |
