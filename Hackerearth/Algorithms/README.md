@@ -447,31 +447,32 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Breadth First Search](./Graphs/Breadth-First-Search/README.md)
 
-| N°      | Enunciado                                                                                      |
-| ------- | ---------------------------------------------------------------------------------------------- |
-| **#01** | [`Cloudy Days`](./Graphs/Breadth-First-Search/Cloudy-Days/README.md)                           |
-| **#02** | [`Station Pairs`](./Graphs/Breadth-First-Search/Station-Pairs/README.md)                       |
-| **#03** | [`Reach Quickly`](./Graphs/Breadth-First-Search/Reach-Quickly/README.md)                       |
-| **#04** | [`Vaccine`](./Graphs/Breadth-First-Search/Vaccine/README.md)                                   |
-| **#05** | [`Flip Grid`](./Graphs/Breadth-First-Search/Flip-Grid/README.md)                               |
-| **#06** | [`Two gold mines`](./Graphs/Breadth-First-Search/Two-Gold-Mines/README.md)                     |
-| **#07** | [`Tree construction`](./Graphs/Breadth-First-Search/Tree-Construction/README.md)               |
-| **#08** | [`Handshakes in a party`](./Graphs/Breadth-First-Search/Handshakes-in-a-party/README.md)       |
-| **#09** | [`The smallest subsequence`](./Graphs/Breadth-First-Search/The-Smallest-Subsequence/README.md) |
-| **#10** | [`Meet people`](./Graphs/Breadth-First-Search/Meet-People/README.md)                           |
-| **#11** | [`Gears in a machine`](./Graphs/Breadth-First-Search/Gears-in-a-Machine/README.md)             |
-| **#12** | [`Printing patterns`](./Graphs/Breadth-First-Search/Printing-Patterns/README.md)               |
-| **#13** | [`Delete and Cut Game`](./Graphs/Breadth-First-Search/Delete-and-Cut-Game/README.md)           |
-| **#14** | [`Zero path operations`](./Graphs/Breadth-First-Search/Zero-Path-Operations/README.md)         |
-| **#15** | [`Robotic paths`](./Graphs/Breadth-First-Search/Robotic-Paths/README.md)                       |
-| **#16** | [`Graphs`](./Graphs/Breadth-First-Search/Graphs/README.md)                                     |
-| **#17** | [`Escape from grid`](./Graphs/Breadth-First-Search/Escape-from-Grid/README.md)                 |
-| **#18** | [`Minimum cost`](./Graphs/Breadth-First-Search/Minimum-Cost/README.md)                         |
-| **#19** | [`Question paper`](./Graphs/Breadth-First-Search/Question-Paper/README.md)                     |
-| **#20** | [`Bob and cities`](./Graphs/Breadth-First-Search/Bob-and-Cities/README.md)                     |
-| **#21** | [`Permutation`](./Graphs/Breadth-First-Search/Permutation/README.md)                           |
-| **#22** | [`The Flight Plan`](./Graphs/Breadth-First-Search/The-Flight-Plan/README.md)                   |
-| **#23** | [`Matrix`](./Graphs/Breadth-First-Search/Matrix/README.md)                                     |
-| **#24** | [`Travel diaries`](./Graphs/Breadth-First-Search/Travel-Diaries/README.md)                     |
-| **#25** | [`The Circular jump (Lowe)`](./Graphs/Breadth-First-Search/The-Circular-Jump/README.md)        |
-| **#26** | [`Benny and the Universe`](./Graphs/Breadth-First-Search/Benny-and-the-Universe/README.md)     |
+| N°      | Enunciado                                                                                                  |
+| ------- | ---------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Cloudy Days`](./Graphs/Breadth-First-Search/Cloudy-Days/README.md)                                       |
+| **#02** | [`Station Pairs`](./Graphs/Breadth-First-Search/Station-Pairs/README.md)                                   |
+| **#03** | [`Reach Quickly`](./Graphs/Breadth-First-Search/Reach-Quickly/README.md)                                   |
+| **#04** | [`Vaccine`](./Graphs/Breadth-First-Search/Vaccine/README.md)                                               |
+| **#05** | [`Flip Grid`](./Graphs/Breadth-First-Search/Flip-Grid/README.md)                                           |
+| **#06** | [`Two gold mines`](./Graphs/Breadth-First-Search/Two-Gold-Mines/README.md)                                 |
+| **#07** | [`Tree construction`](./Graphs/Breadth-First-Search/Tree-Construction/README.md)                           |
+| **#08** | [`Handshakes in a party`](./Graphs/Breadth-First-Search/Handshakes-in-a-party/README.md)                   |
+| **#09** | [`The smallest subsequence`](./Graphs/Breadth-First-Search/The-Smallest-Subsequence/README.md)             |
+| **#10** | [`Meet people`](./Graphs/Breadth-First-Search/Meet-People/README.md)                                       |
+| **#11** | [`Gears in a machine`](./Graphs/Breadth-First-Search/Gears-in-a-Machine/README.md)                         |
+| **#12** | [`Printing patterns`](./Graphs/Breadth-First-Search/Printing-Patterns/README.md)                           |
+| **#13** | [`Delete and Cut Game`](./Graphs/Breadth-First-Search/Delete-and-Cut-Game/README.md)                       |
+| **#14** | [`Zero path operations`](./Graphs/Breadth-First-Search/Zero-Path-Operations/README.md)                     |
+| **#15** | [`Robotic paths`](./Graphs/Breadth-First-Search/Robotic-Paths/README.md)                                   |
+| **#16** | [`Graphs`](./Graphs/Breadth-First-Search/Graphs/README.md)                                                 |
+| **#17** | [`Escape from grid`](./Graphs/Breadth-First-Search/Escape-from-Grid/README.md)                             |
+| **#18** | [`Minimum cost`](./Graphs/Breadth-First-Search/Minimum-Cost/README.md)                                     |
+| **#19** | [`Question paper`](./Graphs/Breadth-First-Search/Question-Paper/README.md)                                 |
+| **#20** | [`Bob and cities`](./Graphs/Breadth-First-Search/Bob-and-Cities/README.md)                                 |
+| **#21** | [`Permutation`](./Graphs/Breadth-First-Search/Permutation/README.md)                                       |
+| **#22** | [`The Flight Plan`](./Graphs/Breadth-First-Search/The-Flight-Plan/README.md)                               |
+| **#23** | [`Matrix`](./Graphs/Breadth-First-Search/Matrix/README.md)                                                 |
+| **#24** | [`Travel diaries`](./Graphs/Breadth-First-Search/Travel-Diaries/README.md)                                 |
+| **#25** | [`The Circular jump (Lowe)`](./Graphs/Breadth-First-Search/The-Circular-Jump/README.md)                    |
+| **#26** | [`Benny and the Universe`](./Graphs/Breadth-First-Search/Benny-and-the-Universe/README.md)                 |
+| **#27** | [`Just shortest distance problem`](./Graphs/Breadth-First-Search/Just-Shortest-Distance-Problem/README.md) |
