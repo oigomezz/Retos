@@ -477,3 +477,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#26** | [`Benny and the Universe`](./Graphs/Breadth-First-Search/Benny-and-the-Universe/README.md)                 |
 | **#27** | [`Just shortest distance problem`](./Graphs/Breadth-First-Search/Just-Shortest-Distance-Problem/README.md) |
 | **#28** | [`Permutation Swaps`](./Graphs/Breadth-First-Search/Permutation-Swaps/README.md)                           |
+| **#29** | [`Connected Horses`](./Graphs/Breadth-First-Search/Connected-Horses/README.md)                             |
