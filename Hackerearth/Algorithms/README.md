@@ -470,3 +470,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#19** | [`Question paper`](./Graphs/Breadth-First-Search/Question-Paper/README.md)                     |
 | **#20** | [`Bob and cities`](./Graphs/Breadth-First-Search/Bob-and-Cities/README.md)                     |
 | **#21** | [`Permutation`](./Graphs/Breadth-First-Search/Permutation/README.md)                           |
+| **#22** | [`The Flight Plan`](./Graphs/Breadth-First-Search/The-Flight-Plan/README.md)                   |
