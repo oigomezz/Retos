@@ -473,3 +473,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#22** | [`The Flight Plan`](./Graphs/Breadth-First-Search/The-Flight-Plan/README.md)                   |
 | **#23** | [`Matrix`](./Graphs/Breadth-First-Search/Matrix/README.md)                                     |
 | **#24** | [`Travel diaries`](./Graphs/Breadth-First-Search/Travel-Diaries/README.md)                     |
+| **#25** | [`The Circular jump (Lowe)`](./Graphs/Breadth-First-Search/The-Circular-Jump/README.md)        |
