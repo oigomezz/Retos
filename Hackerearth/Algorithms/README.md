@@ -474,3 +474,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#23** | [`Matrix`](./Graphs/Breadth-First-Search/Matrix/README.md)                                     |
 | **#24** | [`Travel diaries`](./Graphs/Breadth-First-Search/Travel-Diaries/README.md)                     |
 | **#25** | [`The Circular jump (Lowe)`](./Graphs/Breadth-First-Search/The-Circular-Jump/README.md)        |
+| **#26** | [`Benny and the Universe`](./Graphs/Breadth-First-Search/Benny-and-the-Universe/README.md)     |
