@@ -467,4 +467,5 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Graphs`](./Graphs/Breadth-First-Search/Graphs/README.md)                                     |
 | **#17** | [`Escape from grid`](./Graphs/Breadth-First-Search/Escape-from-Grid/README.md)                 |
 | **#18** | [`Minimum cost`](./Graphs/Breadth-First-Search/Minimum-Cost/README.md)                         |
-| **#19** | [`Question paper`](./Graphs/Breadth-First-Search/Question-Paper/README.md)             |
+| **#19** | [`Question paper`](./Graphs/Breadth-First-Search/Question-Paper/README.md)                     |
+| **#20** | [`Bob and cities`](./Graphs/Breadth-First-Search/Bob-and-Cities/README.md)                     |
