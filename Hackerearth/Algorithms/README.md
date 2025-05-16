@@ -466,3 +466,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#15** | [`Robotic paths`](./Graphs/Breadth-First-Search/Robotic-Paths/README.md)                       |
 | **#16** | [`Graphs`](./Graphs/Breadth-First-Search/Graphs/README.md)                                     |
 | **#17** | [`Escape from grid`](./Graphs/Breadth-First-Search/Escape-from-Grid/README.md)                 |
+| **#18** | [`Minimum cost`](./Graphs/Breadth-First-Search/Minimum-Cost/README.md)                         |
