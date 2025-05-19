@@ -486,3 +486,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#35** | [`Big P and Party`](./Graphs/Breadth-First-Search/Big-P-and-Party/README.md)                               |
 | **#36** | [`The Witches of HEgwarts!`](./Graphs/Breadth-First-Search/The-Witches-of-HEgwarts/README.md)              |
 | **#37** | [`Capture Castle`](./Graphs/Breadth-First-Search/Capture-Castle/README.md)                                 |
+| **#38** | [`Balance Parenthesis Again`](./Graphs/Breadth-First-Search/Balance-Parenthesis-Again/README.md)           |
