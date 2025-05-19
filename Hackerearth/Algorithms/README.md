@@ -485,3 +485,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#34** | [`Oliver and the battle`](./Graphs/Breadth-First-Search/Oliver-and-the-battle/README.md)                   |
 | **#35** | [`Big P and Party`](./Graphs/Breadth-First-Search/Big-P-and-Party/README.md)                               |
 | **#36** | [`The Witches of HEgwarts!`](./Graphs/Breadth-First-Search/The-Witches-of-HEgwarts/README.md)              |
+| **#37** | [`Capture Castle`](./Graphs/Breadth-First-Search/Capture-Castle/README.md)                                 |
