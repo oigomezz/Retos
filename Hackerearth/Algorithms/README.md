@@ -480,3 +480,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#29** | [`Connected Horses`](./Graphs/Breadth-First-Search/Connected-Horses/README.md)                             |
 | **#30** | [`Monk and the Islands`](./Graphs/Breadth-First-Search/Monk-and-the-Islands/README.md)                     |
 | **#31** | [`Game of Cubes`](./Graphs/Breadth-First-Search/Game-of-Cubes/README.md)                                   |
+| **#32** | [`We Are On Fire`](./Graphs/Breadth-First-Search/We-Are-On-Fire/README.md)                                 |
