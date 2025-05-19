@@ -479,3 +479,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#28** | [`Permutation Swaps`](./Graphs/Breadth-First-Search/Permutation-Swaps/README.md)                           |
 | **#29** | [`Connected Horses`](./Graphs/Breadth-First-Search/Connected-Horses/README.md)                             |
 | **#30** | [`Monk and the Islands`](./Graphs/Breadth-First-Search/Monk-and-the-Islands/README.md)                     |
+| **#31** | [`Game of Cubes`](./Graphs/Breadth-First-Search/Game-of-Cubes/README.md)                                   |
