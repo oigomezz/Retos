@@ -496,3 +496,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md)                           |
 | **#02** | [`Tree Subtree Divisibility`](./Graphs/Depth-First-Search/Tree-Subtree-Divisibility/README.md) |
 | **#03** | [`Optimal Network Expansion`](./Graphs/Depth-First-Search/Optimal-Network-Expansion/README.md) |
+| **#04** | [`Min-Mystic`](./Graphs/Depth-First-Search/Min-Mystic/README.md)                               |
