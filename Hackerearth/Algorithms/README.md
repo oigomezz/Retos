@@ -499,3 +499,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#04** | [`Min-Mystic`](./Graphs/Depth-First-Search/Min-Mystic/README.md)                               |
 | **#05** | [`Another Problem`](./Graphs/Depth-First-Search/Another-Problem/README.md)                     |
 | **#06** | [`Surveillance`](./Graphs/Depth-First-Search/Surveillance/README.md)                           |
+| **#07** | [`Dividing the Kingdom`](./Graphs/Depth-First-Search/Dividing-the-Kingdom/README.md)           |
