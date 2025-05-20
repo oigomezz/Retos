@@ -490,3 +490,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#39** | [`Prime cells`](./Graphs/Breadth-First-Search/Prime-Cells/README.md)                                       |
 
 #### [Depth First Search](./Graphs/Depth-First-Search/README.md)
+
+| N°      | Enunciado                                                            |
+| ------- | -------------------------------------------------------------------- |
+| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md) |
