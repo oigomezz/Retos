@@ -500,3 +500,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#05** | [`Another Problem`](./Graphs/Depth-First-Search/Another-Problem/README.md)                     |
 | **#06** | [`Surveillance`](./Graphs/Depth-First-Search/Surveillance/README.md)                           |
 | **#07** | [`Dividing the Kingdom`](./Graphs/Depth-First-Search/Dividing-the-Kingdom/README.md)           |
+| **#08** | [`Prime Path`](./Graphs/Depth-First-Search/Prime-Path/README.md)                               |
