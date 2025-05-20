@@ -491,6 +491,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Depth First Search](./Graphs/Depth-First-Search/README.md)
 
-| N°      | Enunciado                                                            |
-| ------- | -------------------------------------------------------------------- |
-| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md) |
+| N°      | Enunciado                                                                                      |
+| ------- | ---------------------------------------------------------------------------------------------- |
+| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md)                           |
+| **#02** | [`Tree Subtree Divisibility`](./Graphs/Depth-First-Search/Tree-Subtree-Divisibility/README.md) |
