@@ -511,3 +511,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#16** | [`Tree Intersection Query`](./Graphs/Depth-First-Search/Tree-Intersection-Query/README.md)     |
 | **#17** | [`Temporary Tree`](./Graphs/Depth-First-Search/Temporary-Tree/README.md)                       |
 | **#18** | [`Bitwise Tree`](./Graphs/Depth-First-Search/Bitwise-Tree/README.md)                           |
+| **#19** | [`Tax Collection`](./Graphs/Depth-First-Search/Tax-Collection/README.md)                       |
