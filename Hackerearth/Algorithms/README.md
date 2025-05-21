@@ -505,3 +505,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#10** | [`Potential Tree`](./Graphs/Depth-First-Search/Potential-Tree/README.md)                       |
 | **#11** | [`Flip Color`](./Graphs/Depth-First-Search/Flip-Color/README.md)                               |
 | **#12** | [`Alice's Journey`](./Graphs/Depth-First-Search/Alice's-Journey/README.md)                     |
+| **#13** | [`Experiment in Berland`](./Graphs/Depth-First-Search/Experiment-in-Berland/README.md)         |
