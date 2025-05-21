@@ -504,3 +504,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#09** | [`Xorrrr`](./Graphs/Depth-First-Search/Xorrrr/README.md)                                       |
 | **#10** | [`Potential Tree`](./Graphs/Depth-First-Search/Potential-Tree/README.md)                       |
 | **#11** | [`Flip Color`](./Graphs/Depth-First-Search/Flip-Color/README.md)                               |
+| **#12** | [`Alice's Journey`](./Graphs/Depth-First-Search/Alice's-Journey/README.md)                     |
