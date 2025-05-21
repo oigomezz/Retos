@@ -508,3 +508,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#13** | [`Experiment in Berland`](./Graphs/Depth-First-Search/Experiment-in-Berland/README.md)         |
 | **#14** | [`Travelling Alex`](./Graphs/Depth-First-Search/Travelling-Alex/README.md)                     |
 | **#15** | [`Tree Trips`](./Graphs/Depth-First-Search/Tree-Trips/README.md)                               |
+| **#16** | [`Tree Intersection Query`](./Graphs/Depth-First-Search/Tree-Intersection-Query/README.md)     |
