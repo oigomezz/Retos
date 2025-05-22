@@ -515,3 +515,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#20** | [`Maximum component`](./Graphs/Depth-First-Search/Maximum-Component/README.md)                 |
 | **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)             |
 | **#22** | [`Path Queries`](./Graphs/Depth-First-Search/Path-Queries/README.md)                           |
+| **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                           |
