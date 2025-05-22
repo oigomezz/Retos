@@ -513,3 +513,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#18** | [`Bitwise Tree`](./Graphs/Depth-First-Search/Bitwise-Tree/README.md)                           |
 | **#19** | [`Tax Collection`](./Graphs/Depth-First-Search/Tax-Collection/README.md)                       |
 | **#20** | [`Maximum component`](./Graphs/Depth-First-Search/Maximum-Component/README.md)                 |
+| **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)             |
