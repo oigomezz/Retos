@@ -522,3 +522,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#27** | [`Segments maybe Super segments`](./Graphs/Depth-First-Search/Super-Segments/README.md)         |
 | **#28** | [`Root paths`](./Graphs/Depth-First-Search/Root-Paths/README.md)                                |
 | **#29** | [`Explosion`](./Graphs/Depth-First-Search/Explosion/README.md)                                  |
+| **#30** | [`A strange matrix`](./Graphs/Depth-First-Search/A-Strange-Matrix/README.md)                    |
