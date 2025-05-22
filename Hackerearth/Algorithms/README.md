@@ -520,3 +520,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#25** | [`Minimizing graphs' weights`](./Graphs/Depth-First-Search/Minimizing-graphs-weights/README.md) |
 | **#26** | [`Xor tree`](./Graphs/Depth-First-Search/XOR-Tree/README.md)                                    |
 | **#27** | [`Segments maybe Super segments`](./Graphs/Depth-First-Search/Super-Segments/README.md)         |
+| **#28** | [`Root paths`](./Graphs/Depth-First-Search/Root-Paths/README.md)                                |
