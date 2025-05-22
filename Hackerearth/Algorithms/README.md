@@ -516,3 +516,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)             |
 | **#22** | [`Path Queries`](./Graphs/Depth-First-Search/Path-Queries/README.md)                           |
 | **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                           |
+| **#24** | [`Breaking walls`](./Graphs/Depth-First-Search/Breaking-Walls/README.md)                       |
