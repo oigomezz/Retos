@@ -491,29 +491,30 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Depth First Search](./Graphs/Depth-First-Search/README.md)
 
-| N°      | Enunciado                                                                                      |
-| ------- | ---------------------------------------------------------------------------------------------- |
-| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md)                           |
-| **#02** | [`Tree Subtree Divisibility`](./Graphs/Depth-First-Search/Tree-Subtree-Divisibility/README.md) |
-| **#03** | [`Optimal Network Expansion`](./Graphs/Depth-First-Search/Optimal-Network-Expansion/README.md) |
-| **#04** | [`Min-Mystic`](./Graphs/Depth-First-Search/Min-Mystic/README.md)                               |
-| **#05** | [`Another Problem`](./Graphs/Depth-First-Search/Another-Problem/README.md)                     |
-| **#06** | [`Surveillance`](./Graphs/Depth-First-Search/Surveillance/README.md)                           |
-| **#07** | [`Dividing the Kingdom`](./Graphs/Depth-First-Search/Dividing-the-Kingdom/README.md)           |
-| **#08** | [`Prime Path`](./Graphs/Depth-First-Search/Prime-Path/README.md)                               |
-| **#09** | [`Xorrrr`](./Graphs/Depth-First-Search/Xorrrr/README.md)                                       |
-| **#10** | [`Potential Tree`](./Graphs/Depth-First-Search/Potential-Tree/README.md)                       |
-| **#11** | [`Flip Color`](./Graphs/Depth-First-Search/Flip-Color/README.md)                               |
-| **#12** | [`Alice's Journey`](./Graphs/Depth-First-Search/Alice's-Journey/README.md)                     |
-| **#13** | [`Experiment in Berland`](./Graphs/Depth-First-Search/Experiment-in-Berland/README.md)         |
-| **#14** | [`Travelling Alex`](./Graphs/Depth-First-Search/Travelling-Alex/README.md)                     |
-| **#15** | [`Tree Trips`](./Graphs/Depth-First-Search/Tree-Trips/README.md)                               |
-| **#16** | [`Tree Intersection Query`](./Graphs/Depth-First-Search/Tree-Intersection-Query/README.md)     |
-| **#17** | [`Temporary Tree`](./Graphs/Depth-First-Search/Temporary-Tree/README.md)                       |
-| **#18** | [`Bitwise Tree`](./Graphs/Depth-First-Search/Bitwise-Tree/README.md)                           |
-| **#19** | [`Tax Collection`](./Graphs/Depth-First-Search/Tax-Collection/README.md)                       |
-| **#20** | [`Maximum component`](./Graphs/Depth-First-Search/Maximum-Component/README.md)                 |
-| **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)             |
-| **#22** | [`Path Queries`](./Graphs/Depth-First-Search/Path-Queries/README.md)                           |
-| **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                           |
-| **#24** | [`Breaking walls`](./Graphs/Depth-First-Search/Breaking-Walls/README.md)                       |
+| N°      | Enunciado                                                                                       |
+| ------- | ----------------------------------------------------------------------------------------------- |
+| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md)                            |
+| **#02** | [`Tree Subtree Divisibility`](./Graphs/Depth-First-Search/Tree-Subtree-Divisibility/README.md)  |
+| **#03** | [`Optimal Network Expansion`](./Graphs/Depth-First-Search/Optimal-Network-Expansion/README.md)  |
+| **#04** | [`Min-Mystic`](./Graphs/Depth-First-Search/Min-Mystic/README.md)                                |
+| **#05** | [`Another Problem`](./Graphs/Depth-First-Search/Another-Problem/README.md)                      |
+| **#06** | [`Surveillance`](./Graphs/Depth-First-Search/Surveillance/README.md)                            |
+| **#07** | [`Dividing the Kingdom`](./Graphs/Depth-First-Search/Dividing-the-Kingdom/README.md)            |
+| **#08** | [`Prime Path`](./Graphs/Depth-First-Search/Prime-Path/README.md)                                |
+| **#09** | [`Xorrrr`](./Graphs/Depth-First-Search/Xorrrr/README.md)                                        |
+| **#10** | [`Potential Tree`](./Graphs/Depth-First-Search/Potential-Tree/README.md)                        |
+| **#11** | [`Flip Color`](./Graphs/Depth-First-Search/Flip-Color/README.md)                                |
+| **#12** | [`Alice's Journey`](./Graphs/Depth-First-Search/Alice's-Journey/README.md)                      |
+| **#13** | [`Experiment in Berland`](./Graphs/Depth-First-Search/Experiment-in-Berland/README.md)          |
+| **#14** | [`Travelling Alex`](./Graphs/Depth-First-Search/Travelling-Alex/README.md)                      |
+| **#15** | [`Tree Trips`](./Graphs/Depth-First-Search/Tree-Trips/README.md)                                |
+| **#16** | [`Tree Intersection Query`](./Graphs/Depth-First-Search/Tree-Intersection-Query/README.md)      |
+| **#17** | [`Temporary Tree`](./Graphs/Depth-First-Search/Temporary-Tree/README.md)                        |
+| **#18** | [`Bitwise Tree`](./Graphs/Depth-First-Search/Bitwise-Tree/README.md)                            |
+| **#19** | [`Tax Collection`](./Graphs/Depth-First-Search/Tax-Collection/README.md)                        |
+| **#20** | [`Maximum component`](./Graphs/Depth-First-Search/Maximum-Component/README.md)                  |
+| **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)              |
+| **#22** | [`Path Queries`](./Graphs/Depth-First-Search/Path-Queries/README.md)                            |
+| **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                            |
+| **#24** | [`Breaking walls`](./Graphs/Depth-First-Search/Breaking-Walls/README.md)                        |
+| **#25** | [`Minimizing graphs' weights`](./Graphs/Depth-First-Search/Minimizing-graphs-weights/README.md) |
