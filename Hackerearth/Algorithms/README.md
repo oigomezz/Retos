@@ -518,3 +518,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                            |
 | **#24** | [`Breaking walls`](./Graphs/Depth-First-Search/Breaking-Walls/README.md)                        |
 | **#25** | [`Minimizing graphs' weights`](./Graphs/Depth-First-Search/Minimizing-graphs-weights/README.md) |
+| **#26** | [`Xor tree`](./Graphs/Depth-First-Search/XOR-Tree/README.md)                                    |
