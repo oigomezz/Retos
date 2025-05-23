@@ -525,3 +525,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#30** | [`A strange matrix`](./Graphs/Depth-First-Search/A-Strange-Matrix/README.md)                    |
 | **#31** | [`A game of trees`](./Graphs/Depth-First-Search/A-Game-of-Trees/README.md)                      |
 | **#32** | [`Finding pairs`](./Graphs/Depth-First-Search/Finding-Pairs/README.md)                          |
+| **#33** | [`Areas`](./Graphs/Depth-First-Search/Areas/README.md)                                          |
