@@ -527,3 +527,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#32** | [`Finding pairs`](./Graphs/Depth-First-Search/Finding-Pairs/README.md)                          |
 | **#33** | [`Areas`](./Graphs/Depth-First-Search/Areas/README.md)                                          |
 | **#34** | [`Choose but not both`](./Graphs/Depth-First-Search/Choose-but-not-Both/README.md)              |
+| **#35** | [`The family tree of Bob`](./Graphs/Depth-First-Search/The-Family-Tree-of-Bob/README.md)        |
