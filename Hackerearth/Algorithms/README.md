@@ -530,3 +530,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#35** | [`The family tree of Bob`](./Graphs/Depth-First-Search/The-Family-Tree-of-Bob/README.md)        |
 | **#36** | [`Good strings`](./Graphs/Depth-First-Search/Good-Strings/README.md)                            |
 | **#37** | [`Separating Numbers`](./Graphs/Depth-First-Search/Separating-Numbers/README.md)                |
+| **#38** | [`XYZ Path queries`](./Graphs/Depth-First-Search/XYZ-Path-Queries/README.md)                    |
