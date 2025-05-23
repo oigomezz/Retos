@@ -528,3 +528,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#33** | [`Areas`](./Graphs/Depth-First-Search/Areas/README.md)                                          |
 | **#34** | [`Choose but not both`](./Graphs/Depth-First-Search/Choose-but-not-Both/README.md)              |
 | **#35** | [`The family tree of Bob`](./Graphs/Depth-First-Search/The-Family-Tree-of-Bob/README.md)        |
+| **#36** | [`Good strings`](./Graphs/Depth-First-Search/Good-Strings/README.md)                            |
