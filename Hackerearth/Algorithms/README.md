@@ -538,3 +538,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#43** | [`One and only flow`](./Graphs/Depth-First-Search/One-and-Only-Flow/README.md)                   |
 | **#44** | [`Connecting the special nodes`](./Graphs/Depth-First-Search/Connecting-Special-Nodes/README.md) |
 | **#45** | [`Weak nodes`](./Graphs/Depth-First-Search/Weak-Nodes/README.md)                                 |
+| **#46** | [`Restoring trees`](./Graphs/Depth-First-Search/Restoring-Trees/README.md)                       |
