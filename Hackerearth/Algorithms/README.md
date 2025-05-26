@@ -534,3 +534,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#39** | [`Inverted cells`](./Graphs/Depth-First-Search/Inverted-Cells/README.md)                        |
 | **#40** | [`Water supply`](./Graphs/Depth-First-Search/Water-Supply/README.md)                            |
 | **#41** | [`Random subsets on a tree`](./Graphs/Depth-First-Search/Random-Subsets-on-a-Tree/README.md)    |
+| **#42** | [`Petr solves CLRS`](./Graphs/Depth-First-Search/Petr-solves-CLRS/README.md)                    |
