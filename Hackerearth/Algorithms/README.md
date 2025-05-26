@@ -539,3 +539,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#44** | [`Connecting the special nodes`](./Graphs/Depth-First-Search/Connecting-Special-Nodes/README.md) |
 | **#45** | [`Weak nodes`](./Graphs/Depth-First-Search/Weak-Nodes/README.md)                                 |
 | **#46** | [`Restoring trees`](./Graphs/Depth-First-Search/Restoring-Trees/README.md)                       |
+| **#47** | [`Shelters and Tunnels`](./Graphs/Depth-First-Search/Shelters-and-Tunnels/README.md)             |
