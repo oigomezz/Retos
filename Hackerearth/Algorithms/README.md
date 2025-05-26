@@ -540,3 +540,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#45** | [`Weak nodes`](./Graphs/Depth-First-Search/Weak-Nodes/README.md)                                 |
 | **#46** | [`Restoring trees`](./Graphs/Depth-First-Search/Restoring-Trees/README.md)                       |
 | **#47** | [`Shelters and Tunnels`](./Graphs/Depth-First-Search/Shelters-and-Tunnels/README.md)             |
+| **#48** | [`Colorful Tree`](./Graphs/Depth-First-Search/Colorful-Tree/README.md)                           |
