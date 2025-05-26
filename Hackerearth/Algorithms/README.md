@@ -542,3 +542,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#47** | [`Shelters and Tunnels`](./Graphs/Depth-First-Search/Shelters-and-Tunnels/README.md)             |
 | **#48** | [`Colorful Tree`](./Graphs/Depth-First-Search/Colorful-Tree/README.md)                           |
 | **#49** | [`Sum of shortest paths`](./Graphs/Depth-First-Search/Sum-of-Shortest-Paths/README.md)           |
+| **#50** | [`Reduction Game`](./Graphs/Depth-First-Search/Reduction-Game/README.md)                         |
