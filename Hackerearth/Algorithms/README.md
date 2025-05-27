@@ -543,3 +543,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#48** | [`Colorful Tree`](./Graphs/Depth-First-Search/Colorful-Tree/README.md)                           |
 | **#49** | [`Sum of shortest paths`](./Graphs/Depth-First-Search/Sum-of-Shortest-Paths/README.md)           |
 | **#50** | [`Reduction Game`](./Graphs/Depth-First-Search/Reduction-Game/README.md)                         |
+| **#51** | [`Flight Tickets`](./Graphs/Depth-First-Search/Flight-Tickets/README.md)                         |
