@@ -545,3 +545,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#50** | [`Reduction Game`](./Graphs/Depth-First-Search/Reduction-Game/README.md)                         |
 | **#51** | [`Flight Tickets`](./Graphs/Depth-First-Search/Flight-Tickets/README.md)                         |
 | **#52** | [`Strange City`](./Graphs/Depth-First-Search/Strange-City/README.md)                             |
+| **#53** | [`( Problem E ) Pikachu and Champions League`](./Graphs/Depth-First-Search/Problem-E/README.md)  |
