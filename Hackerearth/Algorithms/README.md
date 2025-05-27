@@ -551,3 +551,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#56** | [`Minimize the value`](./Graphs/Depth-First-Search/Minimize-the-value/README.md)                 |
 | **#57** | [`Visiting friends`](./Graphs/Depth-First-Search/Visiting-Friends/README.md)                     |
 | **#58** | [`Breaking Edges`](./Graphs/Depth-First-Search/Breaking-Edges/README.md)                         |
+| **#59** | [`GCD Path on a Tree`](./Graphs/Depth-First-Search/GCD-Path-on-a-Tree/README.md)                 |
