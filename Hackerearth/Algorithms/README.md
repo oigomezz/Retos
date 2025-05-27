@@ -546,3 +546,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#51** | [`Flight Tickets`](./Graphs/Depth-First-Search/Flight-Tickets/README.md)                         |
 | **#52** | [`Strange City`](./Graphs/Depth-First-Search/Strange-City/README.md)                             |
 | **#53** | [`( Problem E ) Pikachu and Champions League`](./Graphs/Depth-First-Search/Problem-E/README.md)  |
+| **#54** | [`Tree and XOR`](./Graphs/Depth-First-Search/Tree-and-XOR/README.md)                             |
