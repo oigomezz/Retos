@@ -1,4 +1,4 @@
-import { ListNode } from "../../list-node";
+import { ListNode } from "../../../list-node";
 
 function getIntersectionNode(
   headA: ListNode | null,

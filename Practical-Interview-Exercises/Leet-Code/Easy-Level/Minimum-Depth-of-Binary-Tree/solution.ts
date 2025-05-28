@@ -1,4 +1,4 @@
-import { TreeNode } from "../../tree-node";
+import { TreeNode } from "../../../tree-node";
 
 function minDepth(root: TreeNode | null): number {
   if (!root) return 0;

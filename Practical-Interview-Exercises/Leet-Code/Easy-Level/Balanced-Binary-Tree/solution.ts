@@ -1,4 +1,4 @@
-import { TreeNode } from "../../tree-node";
+import { TreeNode } from "../../../tree-node";
 
 function isBalanced(root: TreeNode | null): boolean {
   function check(node: TreeNode | null): number {

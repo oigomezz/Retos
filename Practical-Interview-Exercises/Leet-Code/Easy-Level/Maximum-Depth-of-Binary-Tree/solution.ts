@@ -1,4 +1,4 @@
-import { TreeNode } from "../../tree-node";
+import { TreeNode } from "../../../tree-node";
 
 function maxDepth(root: TreeNode | null): number {
   if (root === null) return 0;

@@ -1,4 +1,4 @@
-import { ListNode } from "../../list-node.ts";
+import { ListNode } from "../../../list-node.ts";
 
 function hasCycle(head: ListNode | null): boolean {
   const visited = new Set<ListNode>();

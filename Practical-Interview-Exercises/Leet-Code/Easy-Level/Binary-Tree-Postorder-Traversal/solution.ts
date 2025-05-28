@@ -1,4 +1,4 @@
-import { TreeNode } from "../../tree-node";
+import { TreeNode } from "../../../tree-node";
 
 function postorderTraversal(root: TreeNode | null): number[] {
   const result: number[] = [];
