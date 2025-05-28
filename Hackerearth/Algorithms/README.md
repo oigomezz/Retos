@@ -560,3 +560,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#65** | [`Divide and distribute`](./Graphs/Depth-First-Search/Divide-and-Distribute/README.md)             |
 | **#66** | [`Matrix and Volume`](./Graphs/Depth-First-Search/Matrix-and-Volume/README.md)                     |
 | **#67** | [`Little Shino and K Ancestor`](./Graphs/Depth-First-Search/Little-Shino-and-K-Ancestor/README.md) |
+| **#68** | [`Game`](./Graphs/Depth-First-Search/Game/README.md)                                               |
