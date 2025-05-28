@@ -554,3 +554,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#59** | [`GCD Path on a Tree`](./Graphs/Depth-First-Search/GCD-Path-on-a-Tree/README.md)                 |
 | **#60** | [`Longest Path`](./Graphs/Depth-First-Search/Longest-Path/README.md)                             |
 | **#61** | [`Minimum Nodes`](./Graphs/Depth-First-Search/Minimum-Nodes/README.md)                           |
+| **#62** | [`Words And Trees`](./Graphs/Depth-First-Search/Words-and-Trees/README.md)                       |
