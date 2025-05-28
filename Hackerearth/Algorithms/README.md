@@ -491,71 +491,72 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 #### [Depth First Search](./Graphs/Depth-First-Search/README.md)
 
-| N°      | Enunciado                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------------ |
-| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md)                             |
-| **#02** | [`Tree Subtree Divisibility`](./Graphs/Depth-First-Search/Tree-Subtree-Divisibility/README.md)   |
-| **#03** | [`Optimal Network Expansion`](./Graphs/Depth-First-Search/Optimal-Network-Expansion/README.md)   |
-| **#04** | [`Min-Mystic`](./Graphs/Depth-First-Search/Min-Mystic/README.md)                                 |
-| **#05** | [`Another Problem`](./Graphs/Depth-First-Search/Another-Problem/README.md)                       |
-| **#06** | [`Surveillance`](./Graphs/Depth-First-Search/Surveillance/README.md)                             |
-| **#07** | [`Dividing the Kingdom`](./Graphs/Depth-First-Search/Dividing-the-Kingdom/README.md)             |
-| **#08** | [`Prime Path`](./Graphs/Depth-First-Search/Prime-Path/README.md)                                 |
-| **#09** | [`Xorrrr`](./Graphs/Depth-First-Search/Xorrrr/README.md)                                         |
-| **#10** | [`Potential Tree`](./Graphs/Depth-First-Search/Potential-Tree/README.md)                         |
-| **#11** | [`Flip Color`](./Graphs/Depth-First-Search/Flip-Color/README.md)                                 |
-| **#12** | [`Alice's Journey`](./Graphs/Depth-First-Search/Alice's-Journey/README.md)                       |
-| **#13** | [`Experiment in Berland`](./Graphs/Depth-First-Search/Experiment-in-Berland/README.md)           |
-| **#14** | [`Travelling Alex`](./Graphs/Depth-First-Search/Travelling-Alex/README.md)                       |
-| **#15** | [`Tree Trips`](./Graphs/Depth-First-Search/Tree-Trips/README.md)                                 |
-| **#16** | [`Tree Intersection Query`](./Graphs/Depth-First-Search/Tree-Intersection-Query/README.md)       |
-| **#17** | [`Temporary Tree`](./Graphs/Depth-First-Search/Temporary-Tree/README.md)                         |
-| **#18** | [`Bitwise Tree`](./Graphs/Depth-First-Search/Bitwise-Tree/README.md)                             |
-| **#19** | [`Tax Collection`](./Graphs/Depth-First-Search/Tax-Collection/README.md)                         |
-| **#20** | [`Maximum component`](./Graphs/Depth-First-Search/Maximum-Component/README.md)                   |
-| **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)               |
-| **#22** | [`Path Queries`](./Graphs/Depth-First-Search/Path-Queries/README.md)                             |
-| **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                             |
-| **#24** | [`Breaking walls`](./Graphs/Depth-First-Search/Breaking-Walls/README.md)                         |
-| **#25** | [`Minimizing graphs' weights`](./Graphs/Depth-First-Search/Minimizing-graphs-weights/README.md)  |
-| **#26** | [`Xor tree`](./Graphs/Depth-First-Search/XOR-Tree/README.md)                                     |
-| **#27** | [`Segments maybe Super segments`](./Graphs/Depth-First-Search/Super-Segments/README.md)          |
-| **#28** | [`Root paths`](./Graphs/Depth-First-Search/Root-Paths/README.md)                                 |
-| **#29** | [`Explosion`](./Graphs/Depth-First-Search/Explosion/README.md)                                   |
-| **#30** | [`A strange matrix`](./Graphs/Depth-First-Search/A-Strange-Matrix/README.md)                     |
-| **#31** | [`A game of trees`](./Graphs/Depth-First-Search/A-Game-of-Trees/README.md)                       |
-| **#32** | [`Finding pairs`](./Graphs/Depth-First-Search/Finding-Pairs/README.md)                           |
-| **#33** | [`Areas`](./Graphs/Depth-First-Search/Areas/README.md)                                           |
-| **#34** | [`Choose but not both`](./Graphs/Depth-First-Search/Choose-but-not-Both/README.md)               |
-| **#35** | [`The family tree of Bob`](./Graphs/Depth-First-Search/The-Family-Tree-of-Bob/README.md)         |
-| **#36** | [`Good strings`](./Graphs/Depth-First-Search/Good-Strings/README.md)                             |
-| **#37** | [`Separating Numbers`](./Graphs/Depth-First-Search/Separating-Numbers/README.md)                 |
-| **#38** | [`XYZ Path queries`](./Graphs/Depth-First-Search/XYZ-Path-Queries/README.md)                     |
-| **#39** | [`Inverted cells`](./Graphs/Depth-First-Search/Inverted-Cells/README.md)                         |
-| **#40** | [`Water supply`](./Graphs/Depth-First-Search/Water-Supply/README.md)                             |
-| **#41** | [`Random subsets on a tree`](./Graphs/Depth-First-Search/Random-Subsets-on-a-Tree/README.md)     |
-| **#42** | [`Petr solves CLRS`](./Graphs/Depth-First-Search/Petr-solves-CLRS/README.md)                     |
-| **#43** | [`One and only flow`](./Graphs/Depth-First-Search/One-and-Only-Flow/README.md)                   |
-| **#44** | [`Connecting the special nodes`](./Graphs/Depth-First-Search/Connecting-Special-Nodes/README.md) |
-| **#45** | [`Weak nodes`](./Graphs/Depth-First-Search/Weak-Nodes/README.md)                                 |
-| **#46** | [`Restoring trees`](./Graphs/Depth-First-Search/Restoring-Trees/README.md)                       |
-| **#47** | [`Shelters and Tunnels`](./Graphs/Depth-First-Search/Shelters-and-Tunnels/README.md)             |
-| **#48** | [`Colorful Tree`](./Graphs/Depth-First-Search/Colorful-Tree/README.md)                           |
-| **#49** | [`Sum of shortest paths`](./Graphs/Depth-First-Search/Sum-of-Shortest-Paths/README.md)           |
-| **#50** | [`Reduction Game`](./Graphs/Depth-First-Search/Reduction-Game/README.md)                         |
-| **#51** | [`Flight Tickets`](./Graphs/Depth-First-Search/Flight-Tickets/README.md)                         |
-| **#52** | [`Strange City`](./Graphs/Depth-First-Search/Strange-City/README.md)                             |
-| **#53** | [`( Problem E ) Pikachu and Champions League`](./Graphs/Depth-First-Search/Problem-E/README.md)  |
-| **#54** | [`Tree and XOR`](./Graphs/Depth-First-Search/Tree-and-XOR/README.md)                             |
-| **#55** | [`Tree And Special node`](./Graphs/Depth-First-Search/Tree-and-Special-Node/README.md)           |
-| **#56** | [`Minimize the value`](./Graphs/Depth-First-Search/Minimize-the-value/README.md)                 |
-| **#57** | [`Visiting friends`](./Graphs/Depth-First-Search/Visiting-Friends/README.md)                     |
-| **#58** | [`Breaking Edges`](./Graphs/Depth-First-Search/Breaking-Edges/README.md)                         |
-| **#59** | [`GCD Path on a Tree`](./Graphs/Depth-First-Search/GCD-Path-on-a-Tree/README.md)                 |
-| **#60** | [`Longest Path`](./Graphs/Depth-First-Search/Longest-Path/README.md)                             |
-| **#61** | [`Minimum Nodes`](./Graphs/Depth-First-Search/Minimum-Nodes/README.md)                           |
-| **#62** | [`Words And Trees`](./Graphs/Depth-First-Search/Words-and-Trees/README.md)                       |
-| **#63** | [`Optimal Edge Weights`](./Graphs/Depth-First-Search/Optimal-Edge-Weights/README.md)             |
-| **#64** | [`Multiple Subtrees <Liv.ai>`](./Graphs/Depth-First-Search/Multiple-Subtrees/README.md)          |
-| **#65** | [`Divide and distribute`](./Graphs/Depth-First-Search/Divide-and-Distribute/README.md)           |
-| **#66** | [`Matrix and Volume`](./Graphs/Depth-First-Search/Matrix-and-Volume/README.md)                   |
+| N°      | Enunciado                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------- |
+| **#01** | [`Cryptic Line`](./Graphs/Depth-First-Search/Cryptic-Line/README.md)                               |
+| **#02** | [`Tree Subtree Divisibility`](./Graphs/Depth-First-Search/Tree-Subtree-Divisibility/README.md)     |
+| **#03** | [`Optimal Network Expansion`](./Graphs/Depth-First-Search/Optimal-Network-Expansion/README.md)     |
+| **#04** | [`Min-Mystic`](./Graphs/Depth-First-Search/Min-Mystic/README.md)                                   |
+| **#05** | [`Another Problem`](./Graphs/Depth-First-Search/Another-Problem/README.md)                         |
+| **#06** | [`Surveillance`](./Graphs/Depth-First-Search/Surveillance/README.md)                               |
+| **#07** | [`Dividing the Kingdom`](./Graphs/Depth-First-Search/Dividing-the-Kingdom/README.md)               |
+| **#08** | [`Prime Path`](./Graphs/Depth-First-Search/Prime-Path/README.md)                                   |
+| **#09** | [`Xorrrr`](./Graphs/Depth-First-Search/Xorrrr/README.md)                                           |
+| **#10** | [`Potential Tree`](./Graphs/Depth-First-Search/Potential-Tree/README.md)                           |
+| **#11** | [`Flip Color`](./Graphs/Depth-First-Search/Flip-Color/README.md)                                   |
+| **#12** | [`Alice's Journey`](./Graphs/Depth-First-Search/Alice's-Journey/README.md)                         |
+| **#13** | [`Experiment in Berland`](./Graphs/Depth-First-Search/Experiment-in-Berland/README.md)             |
+| **#14** | [`Travelling Alex`](./Graphs/Depth-First-Search/Travelling-Alex/README.md)                         |
+| **#15** | [`Tree Trips`](./Graphs/Depth-First-Search/Tree-Trips/README.md)                                   |
+| **#16** | [`Tree Intersection Query`](./Graphs/Depth-First-Search/Tree-Intersection-Query/README.md)         |
+| **#17** | [`Temporary Tree`](./Graphs/Depth-First-Search/Temporary-Tree/README.md)                           |
+| **#18** | [`Bitwise Tree`](./Graphs/Depth-First-Search/Bitwise-Tree/README.md)                               |
+| **#19** | [`Tax Collection`](./Graphs/Depth-First-Search/Tax-Collection/README.md)                           |
+| **#20** | [`Maximum component`](./Graphs/Depth-First-Search/Maximum-Component/README.md)                     |
+| **#21** | [`Complementary Graph`](./Graphs/Depth-First-Search/Complementary-Graph/README.md)                 |
+| **#22** | [`Path Queries`](./Graphs/Depth-First-Search/Path-Queries/README.md)                               |
+| **#23** | [`Tree Control`](./Graphs/Depth-First-Search/Tree-Control/README.md)                               |
+| **#24** | [`Breaking walls`](./Graphs/Depth-First-Search/Breaking-Walls/README.md)                           |
+| **#25** | [`Minimizing graphs' weights`](./Graphs/Depth-First-Search/Minimizing-graphs-weights/README.md)    |
+| **#26** | [`Xor tree`](./Graphs/Depth-First-Search/XOR-Tree/README.md)                                       |
+| **#27** | [`Segments maybe Super segments`](./Graphs/Depth-First-Search/Super-Segments/README.md)            |
+| **#28** | [`Root paths`](./Graphs/Depth-First-Search/Root-Paths/README.md)                                   |
+| **#29** | [`Explosion`](./Graphs/Depth-First-Search/Explosion/README.md)                                     |
+| **#30** | [`A strange matrix`](./Graphs/Depth-First-Search/A-Strange-Matrix/README.md)                       |
+| **#31** | [`A game of trees`](./Graphs/Depth-First-Search/A-Game-of-Trees/README.md)                         |
+| **#32** | [`Finding pairs`](./Graphs/Depth-First-Search/Finding-Pairs/README.md)                             |
+| **#33** | [`Areas`](./Graphs/Depth-First-Search/Areas/README.md)                                             |
+| **#34** | [`Choose but not both`](./Graphs/Depth-First-Search/Choose-but-not-Both/README.md)                 |
+| **#35** | [`The family tree of Bob`](./Graphs/Depth-First-Search/The-Family-Tree-of-Bob/README.md)           |
+| **#36** | [`Good strings`](./Graphs/Depth-First-Search/Good-Strings/README.md)                               |
+| **#37** | [`Separating Numbers`](./Graphs/Depth-First-Search/Separating-Numbers/README.md)                   |
+| **#38** | [`XYZ Path queries`](./Graphs/Depth-First-Search/XYZ-Path-Queries/README.md)                       |
+| **#39** | [`Inverted cells`](./Graphs/Depth-First-Search/Inverted-Cells/README.md)                           |
+| **#40** | [`Water supply`](./Graphs/Depth-First-Search/Water-Supply/README.md)                               |
+| **#41** | [`Random subsets on a tree`](./Graphs/Depth-First-Search/Random-Subsets-on-a-Tree/README.md)       |
+| **#42** | [`Petr solves CLRS`](./Graphs/Depth-First-Search/Petr-solves-CLRS/README.md)                       |
+| **#43** | [`One and only flow`](./Graphs/Depth-First-Search/One-and-Only-Flow/README.md)                     |
+| **#44** | [`Connecting the special nodes`](./Graphs/Depth-First-Search/Connecting-Special-Nodes/README.md)   |
+| **#45** | [`Weak nodes`](./Graphs/Depth-First-Search/Weak-Nodes/README.md)                                   |
+| **#46** | [`Restoring trees`](./Graphs/Depth-First-Search/Restoring-Trees/README.md)                         |
+| **#47** | [`Shelters and Tunnels`](./Graphs/Depth-First-Search/Shelters-and-Tunnels/README.md)               |
+| **#48** | [`Colorful Tree`](./Graphs/Depth-First-Search/Colorful-Tree/README.md)                             |
+| **#49** | [`Sum of shortest paths`](./Graphs/Depth-First-Search/Sum-of-Shortest-Paths/README.md)             |
+| **#50** | [`Reduction Game`](./Graphs/Depth-First-Search/Reduction-Game/README.md)                           |
+| **#51** | [`Flight Tickets`](./Graphs/Depth-First-Search/Flight-Tickets/README.md)                           |
+| **#52** | [`Strange City`](./Graphs/Depth-First-Search/Strange-City/README.md)                               |
+| **#53** | [`( Problem E ) Pikachu and Champions League`](./Graphs/Depth-First-Search/Problem-E/README.md)    |
+| **#54** | [`Tree and XOR`](./Graphs/Depth-First-Search/Tree-and-XOR/README.md)                               |
+| **#55** | [`Tree And Special node`](./Graphs/Depth-First-Search/Tree-and-Special-Node/README.md)             |
+| **#56** | [`Minimize the value`](./Graphs/Depth-First-Search/Minimize-the-value/README.md)                   |
+| **#57** | [`Visiting friends`](./Graphs/Depth-First-Search/Visiting-Friends/README.md)                       |
+| **#58** | [`Breaking Edges`](./Graphs/Depth-First-Search/Breaking-Edges/README.md)                           |
+| **#59** | [`GCD Path on a Tree`](./Graphs/Depth-First-Search/GCD-Path-on-a-Tree/README.md)                   |
+| **#60** | [`Longest Path`](./Graphs/Depth-First-Search/Longest-Path/README.md)                               |
+| **#61** | [`Minimum Nodes`](./Graphs/Depth-First-Search/Minimum-Nodes/README.md)                             |
+| **#62** | [`Words And Trees`](./Graphs/Depth-First-Search/Words-and-Trees/README.md)                         |
+| **#63** | [`Optimal Edge Weights`](./Graphs/Depth-First-Search/Optimal-Edge-Weights/README.md)               |
+| **#64** | [`Multiple Subtrees <Liv.ai>`](./Graphs/Depth-First-Search/Multiple-Subtrees/README.md)            |
+| **#65** | [`Divide and distribute`](./Graphs/Depth-First-Search/Divide-and-Distribute/README.md)             |
+| **#66** | [`Matrix and Volume`](./Graphs/Depth-First-Search/Matrix-and-Volume/README.md)                     |
+| **#67** | [`Little Shino and K Ancestor`](./Graphs/Depth-First-Search/Little-Shino-and-K-Ancestor/README.md) |
