@@ -562,3 +562,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#67** | [`Little Shino and K Ancestor`](./Graphs/Depth-First-Search/Little-Shino-and-K-Ancestor/README.md) |
 | **#68** | [`Game`](./Graphs/Depth-First-Search/Game/README.md)                                               |
 | **#69** | [`Edge Strength (Lowe)`](./Graphs/Depth-First-Search/Edge-Strength/README.md)                      |
+| **#70** | [`King Arthur’s Kingdom`](./Graphs/Depth-First-Search/King-Arthur’s-Kingdom/README.md)             |
