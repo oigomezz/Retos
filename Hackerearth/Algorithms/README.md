@@ -555,3 +555,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#60** | [`Longest Path`](./Graphs/Depth-First-Search/Longest-Path/README.md)                             |
 | **#61** | [`Minimum Nodes`](./Graphs/Depth-First-Search/Minimum-Nodes/README.md)                           |
 | **#62** | [`Words And Trees`](./Graphs/Depth-First-Search/Words-and-Trees/README.md)                       |
+| **#63** | [`Optimal Edge Weights`](./Graphs/Depth-First-Search/Optimal-Edge-Weights/README.md)             |
