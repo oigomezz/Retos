@@ -557,3 +557,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#62** | [`Words And Trees`](./Graphs/Depth-First-Search/Words-and-Trees/README.md)                       |
 | **#63** | [`Optimal Edge Weights`](./Graphs/Depth-First-Search/Optimal-Edge-Weights/README.md)             |
 | **#64** | [`Multiple Subtrees <Liv.ai>`](./Graphs/Depth-First-Search/Multiple-Subtrees/README.md)          |
+| **#65** | [`Divide and distribute`](./Graphs/Depth-First-Search/Divide-and-Distribute/README.md)           |
