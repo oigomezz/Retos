@@ -567,3 +567,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#72** | [`El Nino !`](./Graphs/Depth-First-Search/El-Nino/README.md)                                       |
 | **#73** | [`Gas Stations`](./Graphs/Depth-First-Search/Gas-Stations/README.md)                               |
 | **#74** | [`Tree and K-Tuple`](./Graphs/Depth-First-Search/Tree-and-K-Tuple/README.md)                       |
+| **#75** | [`Studious Amit and His New College`](./Graphs/Depth-First-Search/Amit-and-His-College/README.md)  |
