@@ -569,3 +569,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#74** | [`Tree and K-Tuple`](./Graphs/Depth-First-Search/Tree-and-K-Tuple/README.md)                       |
 | **#75** | [`Studious Amit and His New College`](./Graphs/Depth-First-Search/Amit-and-His-College/README.md)  |
 | **#76** | [`Longest Paths in Tree`](./Graphs/Depth-First-Search/Longest-Paths-in-Tree/README.md)             |
+| **#77** | [`Minimum distance`](./Graphs/Depth-First-Search/Minimum-Distance/README.md)                       |
