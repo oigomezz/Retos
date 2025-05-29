@@ -570,3 +570,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#75** | [`Studious Amit and His New College`](./Graphs/Depth-First-Search/Amit-and-His-College/README.md)  |
 | **#76** | [`Longest Paths in Tree`](./Graphs/Depth-First-Search/Longest-Paths-in-Tree/README.md)             |
 | **#77** | [`Minimum distance`](./Graphs/Depth-First-Search/Minimum-Distance/README.md)                       |
+| **#78** | [`Largest Windmill`](./Graphs/Depth-First-Search/Largest-Windmill/README.md)                       |
