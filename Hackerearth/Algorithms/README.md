@@ -565,3 +565,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#70** | [`King Arthur’s Kingdom`](./Graphs/Depth-First-Search/King-Arthur’s-Kingdom/README.md)             |
 | **#71** | [`Skrtel !`](./Graphs/Depth-First-Search/Skrtel/README.md)                                         |
 | **#72** | [`El Nino !`](./Graphs/Depth-First-Search/El-Nino/README.md)                                       |
+| **#73** | [`Gas Stations`](./Graphs/Depth-First-Search/Gas-Stations/README.md)                               |
