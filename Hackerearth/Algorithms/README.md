@@ -564,3 +564,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#69** | [`Edge Strength (Lowe)`](./Graphs/Depth-First-Search/Edge-Strength/README.md)                      |
 | **#70** | [`King Arthur’s Kingdom`](./Graphs/Depth-First-Search/King-Arthur’s-Kingdom/README.md)             |
 | **#71** | [`Skrtel !`](./Graphs/Depth-First-Search/Skrtel/README.md)                                         |
+| **#72** | [`El Nino !`](./Graphs/Depth-First-Search/El-Nino/README.md)                                       |
