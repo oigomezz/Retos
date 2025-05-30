@@ -13,28 +13,28 @@ Return the integer as the final result.
 
 ## Example 1
 
-Input: s = "42"
-Output: 42
+- Input: s = "42"
+- Output: 42
 
 ## Example 2
 
-Input: s = " -042"
-Output: -42
+- Input: s = " -042"
+- Output: -42
 
 ## Example 3
 
-Input: s = "1337c0d3"
-Output: 1337
+- Input: s = "1337c0d3"
+- Output: 1337
 
 ## Example 4
 
-Input: s = "0-1"
-Output: 0
+- Input: s = "0-1"
+- Output: 0
 
 ## Example 5
 
-Input: s = "words and 987"
-Output: 0
+- Input: s = "words and 987"
+- Output: 0
 
 ## Constraints
 
