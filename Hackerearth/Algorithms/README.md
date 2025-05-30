@@ -575,3 +575,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#80** | [`Connected Intervals`](./Graphs/Depth-First-Search/Connected-Intervals/README.md)                 |
 | **#81** | [`Sum of Sums`](./Graphs/Depth-First-Search/Sum-of-Sums/README.md)                                 |
 | **#82** | [`Velma and Queries`](./Graphs/Depth-First-Search/Velma-and-Queries/README.md)                     |
+| **#83** | [`Easylife`](./Graphs/Depth-First-Search/Easylife/README.md)                                       |
