@@ -578,3 +578,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#83** | [`Easylife`](./Graphs/Depth-First-Search/Easylife/README.md)                                       |
 | **#84** | [`Explorer's Birthday`](./Graphs/Depth-First-Search/Explorer's-Birthday/README.md)                 |
 | **#85** | [`Alice and wheel-graph`](./Graphs/Depth-First-Search/Alice-and-Wheel-Graph/README.md)             |
+| **#86** | [`Matt's Graph Book`](./Graphs/Depth-First-Search/Matt's-Graph-Book/README.md)                     |
