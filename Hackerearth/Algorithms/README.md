@@ -574,3 +574,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#79** | [`Christmas tree`](./Graphs/Depth-First-Search/Christmas-Tree/README.md)                           |
 | **#80** | [`Connected Intervals`](./Graphs/Depth-First-Search/Connected-Intervals/README.md)                 |
 | **#81** | [`Sum of Sums`](./Graphs/Depth-First-Search/Sum-of-Sums/README.md)                                 |
+| **#82** | [`Velma and Queries`](./Graphs/Depth-First-Search/Velma-and-Queries/README.md)                     |
