@@ -581,3 +581,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#86** | [`Matt's Graph Book`](./Graphs/Depth-First-Search/Matt's-Graph-Book/README.md)                     |
 | **#87** | [`Sightseeing Walk`](./Graphs/Depth-First-Search/Sightseeing-Walk/README.md)                       |
 | **#88** | [`The Grass Type`](./Graphs/Depth-First-Search/The-Grass-Type/README.md)                           |
+| **#89** | [`Gudi trapped in the Room`](./Graphs/Depth-First-Search/Gudi-trapped-in-the-Room/README.md)       |
