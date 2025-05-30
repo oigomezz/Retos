@@ -572,3 +572,4 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 | **#77** | [`Minimum distance`](./Graphs/Depth-First-Search/Minimum-Distance/README.md)                       |
 | **#78** | [`Largest Windmill`](./Graphs/Depth-First-Search/Largest-Windmill/README.md)                       |
 | **#79** | [`Christmas tree`](./Graphs/Depth-First-Search/Christmas-Tree/README.md)                           |
+| **#80** | [`Connected Intervals`](./Graphs/Depth-First-Search/Connected-Intervals/README.md)                 |
