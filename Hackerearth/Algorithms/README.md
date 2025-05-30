@@ -4,7 +4,7 @@ Proyecto de retos para practicar lógica de programación utilizando cualquier l
 
 ## Información importante
 
-- Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
+Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
 
 ## Listado de retos
 
