@@ -577,3 +577,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#82** | [`Velma and Queries`](./Graphs/Depth-First-Search/Velma-and-Queries/README.md)                     |
 | **#83** | [`Easylife`](./Graphs/Depth-First-Search/Easylife/README.md)                                       |
 | **#84** | [`Explorer's Birthday`](./Graphs/Depth-First-Search/Explorer's-Birthday/README.md)                 |
+| **#85** | [`Alice and wheel-graph`](./Graphs/Depth-First-Search/Alice-and-Wheel-Graph/README.md)             |
