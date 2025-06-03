@@ -591,3 +591,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#96** | [`Monk's birthday treat`](./Graphs/Depth-First-Search/Monk's-Birthday-Treat/README.md)             |
 | **#97** | [`Kingdom Of Monkeys`](./Graphs/Depth-First-Search/Kingdom-of-Monkeys/README.md)                   |
 | **#98** | [`Xsquare And Management`](./Graphs/Depth-First-Search/Xsquare-and-Management/README.md)           |
+| **#99** | [`Pink and Blue`](./Graphs/Depth-First-Search/Pink-and-Blue/README.md)                             |
