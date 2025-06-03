@@ -587,3 +587,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#92** | [`Region Find`](./Graphs/Depth-First-Search/Region-Find/README.md)                                 |
 | **#93** | [`Childfree Time`](./Graphs/Depth-First-Search/Childfree-Time/README.md)                           |
 | **#94** | [`Feasible relations`](./Graphs/Depth-First-Search/Feasible-Relations/README.md)                   |
+| **#95** | [`Maximum Spanning Tree`](./Graphs/Depth-First-Search/Maximum-Spanning-Tree/README.md)             |
