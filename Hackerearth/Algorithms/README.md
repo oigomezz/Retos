@@ -588,3 +588,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#93** | [`Childfree Time`](./Graphs/Depth-First-Search/Childfree-Time/README.md)                           |
 | **#94** | [`Feasible relations`](./Graphs/Depth-First-Search/Feasible-Relations/README.md)                   |
 | **#95** | [`Maximum Spanning Tree`](./Graphs/Depth-First-Search/Maximum-Spanning-Tree/README.md)             |
+| **#96** | [`Monk's birthday treat`](./Graphs/Depth-First-Search/Monk's-Birthday-Treat/README.md)             |
