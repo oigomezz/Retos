@@ -585,3 +585,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#90** | [`Little Boruto And Rail Ways`](./Graphs/Depth-First-Search/Little-Boruto-And-Rail-Ways/README.md) |
 | **#91** | [`Rhezo and Critical Links`](./Graphs/Depth-First-Search/Rhezo-and-Critical-Links/README.md)       |
 | **#92** | [`Region Find`](./Graphs/Depth-First-Search/Region-Find/README.md)                                 |
+| **#93** | [`Childfree Time`](./Graphs/Depth-First-Search/Childfree-Time/README.md)                           |
