@@ -600,3 +600,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#105** | [`Magic Sum`](./Graphs/Depth-First-Search/Magic-Sum/README.md)                                                 |
 | **#106** | [`The Battle of Panipat`](./Graphs/Depth-First-Search/The-Battle-of-Panipat/README.md)                         |
 | **#107** | [`Prison Break`](./Graphs/Depth-First-Search/Prison-Break/README.md)                                           |
+| **#108** | [`Candy Game`](./Graphs/Depth-First-Search/Candy-Game/README.md)                                               |
