@@ -598,3 +598,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#103** | [`Jungle Run`](./Graphs/Depth-First-Search/Jungle-Run/README.md)                                               |
 | **#104** | [`Big P and The Road Less Travelled`](./Graphs/Depth-First-Search/Big-P-and-The-Road-Less-Travelled/README.md) |
 | **#105** | [`Magic Sum`](./Graphs/Depth-First-Search/Magic-Sum/README.md)                                                 |
+| **#106** | [`The Battle of Panipat`](./Graphs/Depth-First-Search/The-Battle-of-Panipat/README.md)                         |
