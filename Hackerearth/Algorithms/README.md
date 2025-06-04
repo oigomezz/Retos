@@ -597,3 +597,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#102** | [`A New Order`](./Graphs/Depth-First-Search/A-New-Order/README.md)                                             |
 | **#103** | [`Jungle Run`](./Graphs/Depth-First-Search/Jungle-Run/README.md)                                               |
 | **#104** | [`Big P and The Road Less Travelled`](./Graphs/Depth-First-Search/Big-P-and-The-Road-Less-Travelled/README.md) |
+| **#105** | [`Magic Sum`](./Graphs/Depth-First-Search/Magic-Sum/README.md)                                                 |
