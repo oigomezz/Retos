@@ -602,3 +602,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#107** | [`Prison Break`](./Graphs/Depth-First-Search/Prison-Break/README.md)                                           |
 | **#108** | [`Candy Game`](./Graphs/Depth-First-Search/Candy-Game/README.md)                                               |
 | **#109** | [`Visiting Islands`](./Graphs/Depth-First-Search/Visiting-Islands/README.md)                                   |
+| **#110** | [`Crazy Matrix`](./Graphs/Depth-First-Search/Crazy-Matrix/README.md)                                           |
