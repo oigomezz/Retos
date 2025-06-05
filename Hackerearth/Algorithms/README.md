@@ -604,3 +604,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#109** | [`Visiting Islands`](./Graphs/Depth-First-Search/Visiting-Islands/README.md)                                   |
 | **#110** | [`Crazy Matrix`](./Graphs/Depth-First-Search/Crazy-Matrix/README.md)                                           |
 | **#111** | [`Construct Tree`](./Graphs/Depth-First-Search/Construct-Tree/README.md)                                       |
+| **#112** | [`Maximize Tree Value`](./Graphs/Depth-First-Search/Maximize-Tree-Value/README.md)                             |
