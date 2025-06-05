@@ -618,3 +618,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Number of blocks`](./Graphs/Minimum-Spanning-Tree/Number-of-blocks/README.md)           |
 | **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)               |
 | **#06** | [`Grid of Many Xors`](./Graphs/Minimum-Spanning-Tree/Grid-of-Many-XORs/README.md)         |
+| **#07** | [`Rebuild`](./Graphs/Minimum-Spanning-Tree/Rebuild/README.md)                             |
