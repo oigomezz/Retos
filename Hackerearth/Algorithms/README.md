@@ -616,3 +616,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`Reduce the Array`](./Graphs/Minimum-Spanning-Tree/Reduce-the-Array/README.md)           |
 | **#03** | [`Hacker Land`](./Graphs/Minimum-Spanning-Tree/Hacker-Land/README.md)                     |
 | **#04** | [`Number of blocks`](./Graphs/Minimum-Spanning-Tree/Number-of-blocks/README.md)           |
+| **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)               |
