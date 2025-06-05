@@ -606,3 +606,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#111** | [`Construct Tree`](./Graphs/Depth-First-Search/Construct-Tree/README.md)                                       |
 | **#112** | [`Maximize Tree Value`](./Graphs/Depth-First-Search/Maximize-Tree-Value/README.md)                             |
 | **#113** | [`A tennis tournament`](./Graphs/Depth-First-Search/A-Tennis-Tournament/README.md)                             |
+| **#114** | [`JP and the Escape Plan`](./Graphs/Depth-First-Search/JP-and-the-Escape-Plan/README.md)                       |
