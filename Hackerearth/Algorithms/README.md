@@ -614,3 +614,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | ------- | ----------------------------------------------------------------------------------------- |
 | **#01** | [`I'll buy you anything`](./Graphs/Minimum-Spanning-Tree/I'll-buy-you-anything/README.md) |
 | **#02** | [`Reduce the Array`](./Graphs/Minimum-Spanning-Tree/Reduce-the-Array/README.md)           |
+| **#03** | [`Hacker Land`](./Graphs/Minimum-Spanning-Tree/Hacker-Land/README.md)                     |
