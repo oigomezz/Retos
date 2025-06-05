@@ -610,5 +610,6 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Minimum Spanning Tree](./Graphs/Minimum-Spanning-Tree/README.md)
 
-| N°  | Enunciado |
-| --- | --------- |
+| N°      | Enunciado                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------- |
+| **#01** | [`I'll buy you anything`](./Graphs/Minimum-Spanning-Tree/I'll-buy-you-anything/README.md) |
