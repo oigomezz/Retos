@@ -622,3 +622,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`Mr. President`](./Graphs/Minimum-Spanning-Tree/Mr-President/README.md)                        |
 | **#09** | [`3 types`](./Graphs/Minimum-Spanning-Tree/3-types/README.md)                                   |
 | **#10** | [`Quantitative coefficient`](./Graphs/Minimum-Spanning-Tree/Quantitative-Coefficient/README.md) |
+| **#11** | [`Panda and Destruction`](./Graphs/Minimum-Spanning-Tree/Panda-and-Destruction/README.md)       |
