@@ -610,20 +610,21 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Minimum Spanning Tree](./Graphs/Minimum-Spanning-Tree/README.md)
 
-| N°      | Enunciado                                                                                       |
-| ------- | ----------------------------------------------------------------------------------------------- |
-| **#01** | [`I'll buy you anything`](./Graphs/Minimum-Spanning-Tree/I'll-buy-you-anything/README.md)       |
-| **#02** | [`Reduce the Array`](./Graphs/Minimum-Spanning-Tree/Reduce-the-Array/README.md)                 |
-| **#03** | [`Hacker Land`](./Graphs/Minimum-Spanning-Tree/Hacker-Land/README.md)                           |
-| **#04** | [`Number of blocks`](./Graphs/Minimum-Spanning-Tree/Number-of-blocks/README.md)                 |
-| **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)                     |
-| **#06** | [`Grid of Many Xors`](./Graphs/Minimum-Spanning-Tree/Grid-of-Many-XORs/README.md)               |
-| **#07** | [`Rebuild`](./Graphs/Minimum-Spanning-Tree/Rebuild/README.md)                                   |
-| **#08** | [`Mr. President`](./Graphs/Minimum-Spanning-Tree/Mr-President/README.md)                        |
-| **#09** | [`3 types`](./Graphs/Minimum-Spanning-Tree/3-types/README.md)                                   |
-| **#10** | [`Quantitative coefficient`](./Graphs/Minimum-Spanning-Tree/Quantitative-Coefficient/README.md) |
-| **#11** | [`Panda and Destruction`](./Graphs/Minimum-Spanning-Tree/Panda-and-Destruction/README.md)       |
-| **#12** | [`Friendless Dr. Sheldon Cooper`](./Graphs/Minimum-Spanning-Tree/Friendless-Sheldon/README.md)  |
-| **#13** | [`To buy or not to buy`](./Graphs/Minimum-Spanning-Tree/To-buy-or-not-to-buy/README.md)         |
-| **#14** | [`Pilgrims and Portals`](./Graphs/Minimum-Spanning-Tree/Pilgrims-and-Portals/README.md)         |
-| **#16** | [`IOI 2050`](./Graphs/Minimum-Spanning-Tree/IOI-2050/README.md)                                 |
+| N°      | Enunciado                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------- |
+| **#01** | [`I'll buy you anything`](./Graphs/Minimum-Spanning-Tree/I'll-buy-you-anything/README.md)          |
+| **#02** | [`Reduce the Array`](./Graphs/Minimum-Spanning-Tree/Reduce-the-Array/README.md)                    |
+| **#03** | [`Hacker Land`](./Graphs/Minimum-Spanning-Tree/Hacker-Land/README.md)                              |
+| **#04** | [`Number of blocks`](./Graphs/Minimum-Spanning-Tree/Number-of-blocks/README.md)                    |
+| **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)                        |
+| **#06** | [`Grid of Many Xors`](./Graphs/Minimum-Spanning-Tree/Grid-of-Many-XORs/README.md)                  |
+| **#07** | [`Rebuild`](./Graphs/Minimum-Spanning-Tree/Rebuild/README.md)                                      |
+| **#08** | [`Mr. President`](./Graphs/Minimum-Spanning-Tree/Mr-President/README.md)                           |
+| **#09** | [`3 types`](./Graphs/Minimum-Spanning-Tree/3-types/README.md)                                      |
+| **#10** | [`Quantitative coefficient`](./Graphs/Minimum-Spanning-Tree/Quantitative-Coefficient/README.md)    |
+| **#11** | [`Panda and Destruction`](./Graphs/Minimum-Spanning-Tree/Panda-and-Destruction/README.md)          |
+| **#12** | [`Friendless Dr. Sheldon Cooper`](./Graphs/Minimum-Spanning-Tree/Friendless-Sheldon/README.md)     |
+| **#13** | [`To buy or not to buy`](./Graphs/Minimum-Spanning-Tree/To-buy-or-not-to-buy/README.md)            |
+| **#14** | [`Pilgrims and Portals`](./Graphs/Minimum-Spanning-Tree/Pilgrims-and-Portals/README.md)            |
+| **#16** | [`IOI 2050`](./Graphs/Minimum-Spanning-Tree/IOI-2050/README.md)                                    |
+| **#17** | [`Proving your intelligence to your girlfriend`](./Graphs/Minimum-Spanning-Tree/Proving/README.md) |
