@@ -619,3 +619,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)               |
 | **#06** | [`Grid of Many Xors`](./Graphs/Minimum-Spanning-Tree/Grid-of-Many-XORs/README.md)         |
 | **#07** | [`Rebuild`](./Graphs/Minimum-Spanning-Tree/Rebuild/README.md)                             |
+| **#08** | [`Mr. President`](./Graphs/Minimum-Spanning-Tree/Mr-President/README.md)                  |
