@@ -624,3 +624,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#10** | [`Quantitative coefficient`](./Graphs/Minimum-Spanning-Tree/Quantitative-Coefficient/README.md) |
 | **#11** | [`Panda and Destruction`](./Graphs/Minimum-Spanning-Tree/Panda-and-Destruction/README.md)       |
 | **#12** | [`Friendless Dr. Sheldon Cooper`](./Graphs/Minimum-Spanning-Tree/Friendless-Sheldon/README.md)  |
+| **#13** | [`To buy or not to buy`](./Graphs/Minimum-Spanning-Tree/To-buy-or-not-to-buy/README.md)         |
