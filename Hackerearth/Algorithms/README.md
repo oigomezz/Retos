@@ -626,3 +626,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#12** | [`Friendless Dr. Sheldon Cooper`](./Graphs/Minimum-Spanning-Tree/Friendless-Sheldon/README.md)  |
 | **#13** | [`To buy or not to buy`](./Graphs/Minimum-Spanning-Tree/To-buy-or-not-to-buy/README.md)         |
 | **#14** | [`Pilgrims and Portals`](./Graphs/Minimum-Spanning-Tree/Pilgrims-and-Portals/README.md)         |
+| **#16** | [`IOI 2050`](./Graphs/Minimum-Spanning-Tree/IOI-2050/README.md)                                 |
