@@ -631,5 +631,6 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Shortest Path Algorithms](./Graphs/Shortest-Path-Algorithms/README.md)
 
-| N°  | Enunciado |
-| --- | --------- |
+| N°      | Enunciado                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------ |
+| **#01** | [`Path with hyperloops`](./Graphs/Shortest-Path-Algorithms/Path-with-hyperloops/README.md) |
