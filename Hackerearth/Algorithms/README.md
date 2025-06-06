@@ -628,3 +628,8 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#14** | [`Pilgrims and Portals`](./Graphs/Minimum-Spanning-Tree/Pilgrims-and-Portals/README.md)            |
 | **#16** | [`IOI 2050`](./Graphs/Minimum-Spanning-Tree/IOI-2050/README.md)                                    |
 | **#17** | [`Proving your intelligence to your girlfriend`](./Graphs/Minimum-Spanning-Tree/Proving/README.md) |
+
+#### [Shortest Path Algorithms](./Graphs/Shortest-Path-Algorithms/README.md)
+
+| N°  | Enunciado |
+| --- | --------- |
