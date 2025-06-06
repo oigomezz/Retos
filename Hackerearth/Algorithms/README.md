@@ -610,14 +610,15 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Minimum Spanning Tree](./Graphs/Minimum-Spanning-Tree/README.md)
 
-| N°      | Enunciado                                                                                 |
-| ------- | ----------------------------------------------------------------------------------------- |
-| **#01** | [`I'll buy you anything`](./Graphs/Minimum-Spanning-Tree/I'll-buy-you-anything/README.md) |
-| **#02** | [`Reduce the Array`](./Graphs/Minimum-Spanning-Tree/Reduce-the-Array/README.md)           |
-| **#03** | [`Hacker Land`](./Graphs/Minimum-Spanning-Tree/Hacker-Land/README.md)                     |
-| **#04** | [`Number of blocks`](./Graphs/Minimum-Spanning-Tree/Number-of-blocks/README.md)           |
-| **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)               |
-| **#06** | [`Grid of Many Xors`](./Graphs/Minimum-Spanning-Tree/Grid-of-Many-XORs/README.md)         |
-| **#07** | [`Rebuild`](./Graphs/Minimum-Spanning-Tree/Rebuild/README.md)                             |
-| **#08** | [`Mr. President`](./Graphs/Minimum-Spanning-Tree/Mr-President/README.md)                  |
-| **#09** | [`3 types`](./Graphs/Minimum-Spanning-Tree/3-types/README.md)                             |
+| N°      | Enunciado                                                                                       |
+| ------- | ----------------------------------------------------------------------------------------------- |
+| **#01** | [`I'll buy you anything`](./Graphs/Minimum-Spanning-Tree/I'll-buy-you-anything/README.md)       |
+| **#02** | [`Reduce the Array`](./Graphs/Minimum-Spanning-Tree/Reduce-the-Array/README.md)                 |
+| **#03** | [`Hacker Land`](./Graphs/Minimum-Spanning-Tree/Hacker-Land/README.md)                           |
+| **#04** | [`Number of blocks`](./Graphs/Minimum-Spanning-Tree/Number-of-blocks/README.md)                 |
+| **#05** | [`Travelling Tom`](./Graphs/Minimum-Spanning-Tree/Travelling-Tom/README.md)                     |
+| **#06** | [`Grid of Many Xors`](./Graphs/Minimum-Spanning-Tree/Grid-of-Many-XORs/README.md)               |
+| **#07** | [`Rebuild`](./Graphs/Minimum-Spanning-Tree/Rebuild/README.md)                                   |
+| **#08** | [`Mr. President`](./Graphs/Minimum-Spanning-Tree/Mr-President/README.md)                        |
+| **#09** | [`3 types`](./Graphs/Minimum-Spanning-Tree/3-types/README.md)                                   |
+| **#10** | [`Quantitative coefficient`](./Graphs/Minimum-Spanning-Tree/Quantitative-Coefficient/README.md) |
