@@ -631,14 +631,15 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Shortest Path Algorithms](./Graphs/Shortest-Path-Algorithms/README.md)
 
-| N°      | Enunciado                                                                                  |
-| ------- | ------------------------------------------------------------------------------------------ |
-| **#01** | [`Path with hyperloops`](./Graphs/Shortest-Path-Algorithms/Path-with-hyperloops/README.md) |
-| **#02** | [`Harmonious Islands`](./Graphs/Shortest-Path-Algorithms/Harmonious-Islands/README.md)     |
-| **#03** | [`Two Friends`](./Graphs/Shortest-Path-Algorithms/Two-Friends/README.md)                   |
-| **#04** | [`Two Trees`](./Graphs/Shortest-Path-Algorithms/Two-Trees/README.md)                       |
-| **#05** | [`Shortest Path Again?`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Again/README.md)  |
-| **#06** | [`Shortest path`](./Graphs/Shortest-Path-Algorithms/Shortest-Path/README.md)               |
-| **#07** | [`Vertices and edges`](./Graphs/Shortest-Path-Algorithms/Vertices-and-Edges/README.md)     |
-| **#08** | [`Saving Ms. W`](./Graphs/Shortest-Path-Algorithms/Saving-Ms-W/README.md)                  |
-| **#09** | [`Palindromic changes`](./Graphs/Shortest-Path-Algorithms/Palindromic-Changes/README.md)   |
+| N°      | Enunciado                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| **#01** | [`Path with hyperloops`](./Graphs/Shortest-Path-Algorithms/Path-with-hyperloops/README.md)       |
+| **#02** | [`Harmonious Islands`](./Graphs/Shortest-Path-Algorithms/Harmonious-Islands/README.md)           |
+| **#03** | [`Two Friends`](./Graphs/Shortest-Path-Algorithms/Two-Friends/README.md)                         |
+| **#04** | [`Two Trees`](./Graphs/Shortest-Path-Algorithms/Two-Trees/README.md)                             |
+| **#05** | [`Shortest Path Again?`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Again/README.md)        |
+| **#06** | [`Shortest path`](./Graphs/Shortest-Path-Algorithms/Shortest-Path/README.md)                     |
+| **#07** | [`Vertices and edges`](./Graphs/Shortest-Path-Algorithms/Vertices-and-Edges/README.md)           |
+| **#08** | [`Saving Ms. W`](./Graphs/Shortest-Path-Algorithms/Saving-Ms-W/README.md)                        |
+| **#09** | [`Palindromic changes`](./Graphs/Shortest-Path-Algorithms/Palindromic-Changes/README.md)         |
+| **#10** | [`Shortest Path Revisited`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Revisited/README.md) |
