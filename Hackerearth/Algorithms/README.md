@@ -637,3 +637,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`Harmonious Islands`](./Graphs/Shortest-Path-Algorithms/Harmonious-Islands/README.md)     |
 | **#03** | [`Two Friends`](./Graphs/Shortest-Path-Algorithms/Two-Friends/README.md)                   |
 | **#04** | [`Two Trees`](./Graphs/Shortest-Path-Algorithms/Two-Trees/README.md)                       |
+| **#05** | [`Shortest Path Again?`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Again/README.md)  |
