@@ -639,3 +639,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Two Trees`](./Graphs/Shortest-Path-Algorithms/Two-Trees/README.md)                       |
 | **#05** | [`Shortest Path Again?`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Again/README.md)  |
 | **#06** | [`Shortest path`](./Graphs/Shortest-Path-Algorithms/Shortest-Path/README.md)               |
+| **#07** | [`Vertices and edges`](./Graphs/Shortest-Path-Algorithms/Vertices-and-Edges/README.md)     |
