@@ -652,3 +652,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#17** | [`The Parking Slot`](./Graphs/Shortest-Path-Algorithms/The-Parking-Slot/README.md)               |
 | **#18** | [`Grid`](./Graphs/Shortest-Path-Algorithms/Grid/README.md)                                       |
 | **#19** | [`Route Planning`](./Graphs/Shortest-Path-Algorithms/Route-Planning/README.md)                   |
+| **#20** | [`Buying items`](./Graphs/Shortest-Path-Algorithms/Buying-Items/README.md)                       |
