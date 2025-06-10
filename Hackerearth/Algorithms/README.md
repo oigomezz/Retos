@@ -649,3 +649,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#14** | [`Metro`](./Graphs/Shortest-Path-Algorithms/Metro/README.md)                                     |
 | **#15** | [`Routes`](./Graphs/Shortest-Path-Algorithms/Routes/README.md)                                   |
 | **#16** | [`Find the shortest path`](./Graphs/Shortest-Path-Algorithms/Find-the-Shortest-Path/README.md)   |
+| **#17** | [`The Parking Slot`](./Graphs/Shortest-Path-Algorithms/The-Parking-Slot/README.md)               |
