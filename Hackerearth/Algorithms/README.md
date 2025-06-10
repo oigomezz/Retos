@@ -644,3 +644,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#09** | [`Palindromic changes`](./Graphs/Shortest-Path-Algorithms/Palindromic-Changes/README.md)         |
 | **#10** | [`Shortest Path Revisited`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Revisited/README.md) |
 | **#11** | [`Cross the river`](./Graphs/Shortest-Path-Algorithms/Cross-the-River/README.md)                 |
+| **#12** | [`Lost in a city`](./Graphs/Shortest-Path-Algorithms/Lost-in-a-city/README.md)                   |
