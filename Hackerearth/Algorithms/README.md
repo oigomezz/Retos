@@ -643,3 +643,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`Saving Ms. W`](./Graphs/Shortest-Path-Algorithms/Saving-Ms-W/README.md)                        |
 | **#09** | [`Palindromic changes`](./Graphs/Shortest-Path-Algorithms/Palindromic-Changes/README.md)         |
 | **#10** | [`Shortest Path Revisited`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Revisited/README.md) |
+| **#11** | [`Cross the river`](./Graphs/Shortest-Path-Algorithms/Cross-the-River/README.md)                 |
