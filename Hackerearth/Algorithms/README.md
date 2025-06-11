@@ -660,3 +660,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#25** | [`Diverging Directions`](./Graphs/Shortest-Path-Algorithms/Diverging-Directions/README.md)       |
 | **#26** | [`Cross the street`](./Graphs/Shortest-Path-Algorithms/Cross-the-Street/README.md)               |
 | **#27** | [`Space smugglers`](./Graphs/Shortest-Path-Algorithms/Space-Smugglers/README.md)                 |
+| **#28** | [`Furthest vertex`](./Graphs/Shortest-Path-Algorithms/Furthest-Vertex/README.md)                 |
