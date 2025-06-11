@@ -658,3 +658,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#23** | [`Straightest path`](./Graphs/Shortest-Path-Algorithms/Straightest-Path/README.md)               |
 | **#24** | [`Completing Subgraphs`](./Graphs/Shortest-Path-Algorithms/Completing-Subgraphs/README.md)       |
 | **#25** | [`Diverging Directions`](./Graphs/Shortest-Path-Algorithms/Diverging-Directions/README.md)       |
+| **#26** | [`Cross the street`](./Graphs/Shortest-Path-Algorithms/Cross-the-Street/README.md)               |
