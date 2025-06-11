@@ -653,3 +653,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#18** | [`Grid`](./Graphs/Shortest-Path-Algorithms/Grid/README.md)                                       |
 | **#19** | [`Route Planning`](./Graphs/Shortest-Path-Algorithms/Route-Planning/README.md)                   |
 | **#20** | [`Buying items`](./Graphs/Shortest-Path-Algorithms/Buying-Items/README.md)                       |
+| **#21** | [`Historic Heist`](./Graphs/Shortest-Path-Algorithms/Historic-Heist/README.md)                   |
