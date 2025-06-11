@@ -655,3 +655,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#20** | [`Buying items`](./Graphs/Shortest-Path-Algorithms/Buying-Items/README.md)                       |
 | **#21** | [`Historic Heist`](./Graphs/Shortest-Path-Algorithms/Historic-Heist/README.md)                   |
 | **#22** | [`Chocolate Journey`](./Graphs/Shortest-Path-Algorithms/Chocolate-Journey/README.md)             |
+| **#23** | [`Straightest path`](./Graphs/Shortest-Path-Algorithms/Straightest-Path/README.md)               |
