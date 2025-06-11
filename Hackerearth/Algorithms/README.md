@@ -661,3 +661,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#26** | [`Cross the street`](./Graphs/Shortest-Path-Algorithms/Cross-the-Street/README.md)               |
 | **#27** | [`Space smugglers`](./Graphs/Shortest-Path-Algorithms/Space-Smugglers/README.md)                 |
 | **#28** | [`Furthest vertex`](./Graphs/Shortest-Path-Algorithms/Furthest-Vertex/README.md)                 |
+| **#29** | [`Trustworthy network`](./Graphs/Shortest-Path-Algorithms/Trustworthy-Network/README.md)         |
