@@ -666,3 +666,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#31** | [`Byteland Trip`](./Graphs/Shortest-Path-Algorithms/Byteland-Trip/README.md)                             |
 | **#32** | [`Mancunian And Nancy Play A Game`](./Graphs/Shortest-Path-Algorithms/Mancunian-and-Nancy/README.md)     |
 | **#33** | [`Mancunian Goes To The Derby`](./Graphs/Shortest-Path-Algorithms/Mancunian-goes-to-the-Derby/README.md) |
+| **#34** | [`Costly Phone Number`](./Graphs/Shortest-Path-Algorithms/Costly-Phone-Number/README.md)                 |
