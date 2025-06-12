@@ -669,3 +669,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#34** | [`Costly Phone Number`](./Graphs/Shortest-Path-Algorithms/Costly-Phone-Number/README.md)                 |
 | **#35** | [`Dangerous Dungeon`](./Graphs/Shortest-Path-Algorithms/Dangerous-Dungeon/README.md)                     |
 | **#36** | [`Mittal wants to go to play!`](./Graphs/Shortest-Path-Algorithms/Mittal-wants-to-go-to-play/README.md)  |
+| **#37** | [`Monk's Business Day`](./Graphs/Shortest-Path-Algorithms/Monk's-Business-Day/README.md)                 |
