@@ -672,3 +672,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#37** | [`Monk's Business Day`](./Graphs/Shortest-Path-Algorithms/Monk's-Business-Day/README.md)                 |
 | **#38** | [`Monk in the Secret Services`](./Graphs/Shortest-Path-Algorithms/Monk-in-the-Secret-Services/README.md) |
 | **#39** | [`Shil and Greedy approach`](./Graphs/Shortest-Path-Algorithms/Shil-and-Greedy-Approach/README.md)       |
+| **#40** | [`Minimizing Path Cost`](./Graphs/Shortest-Path-Algorithms/Minimizing-Path-Cost/README.md)               |
