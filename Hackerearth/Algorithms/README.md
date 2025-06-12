@@ -663,3 +663,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#28** | [`Furthest vertex`](./Graphs/Shortest-Path-Algorithms/Furthest-Vertex/README.md)                 |
 | **#29** | [`Trustworthy network`](./Graphs/Shortest-Path-Algorithms/Trustworthy-Network/README.md)         |
 | **#30** | [`Ways`](./Graphs/Shortest-Path-Algorithms/Ways/README.md)                                       |
+| **#31** | [`Byteland Trip`](./Graphs/Shortest-Path-Algorithms/Byteland-Trip/README.md)                     |
