@@ -631,37 +631,38 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Shortest Path Algorithms](./Graphs/Shortest-Path-Algorithms/README.md)
 
-| N°      | Enunciado                                                                                            |
-| ------- | ---------------------------------------------------------------------------------------------------- |
-| **#01** | [`Path with hyperloops`](./Graphs/Shortest-Path-Algorithms/Path-with-hyperloops/README.md)           |
-| **#02** | [`Harmonious Islands`](./Graphs/Shortest-Path-Algorithms/Harmonious-Islands/README.md)               |
-| **#03** | [`Two Friends`](./Graphs/Shortest-Path-Algorithms/Two-Friends/README.md)                             |
-| **#04** | [`Two Trees`](./Graphs/Shortest-Path-Algorithms/Two-Trees/README.md)                                 |
-| **#05** | [`Shortest Path Again?`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Again/README.md)            |
-| **#06** | [`Shortest path`](./Graphs/Shortest-Path-Algorithms/Shortest-Path/README.md)                         |
-| **#07** | [`Vertices and edges`](./Graphs/Shortest-Path-Algorithms/Vertices-and-Edges/README.md)               |
-| **#08** | [`Saving Ms. W`](./Graphs/Shortest-Path-Algorithms/Saving-Ms-W/README.md)                            |
-| **#09** | [`Palindromic changes`](./Graphs/Shortest-Path-Algorithms/Palindromic-Changes/README.md)             |
-| **#10** | [`Shortest Path Revisited`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Revisited/README.md)     |
-| **#11** | [`Cross the river`](./Graphs/Shortest-Path-Algorithms/Cross-the-River/README.md)                     |
-| **#12** | [`Lost in a city`](./Graphs/Shortest-Path-Algorithms/Lost-in-a-city/README.md)                       |
-| **#13** | [`Maximum Area`](./Graphs/Shortest-Path-Algorithms/Maximum-Area/README.md)                           |
-| **#14** | [`Metro`](./Graphs/Shortest-Path-Algorithms/Metro/README.md)                                         |
-| **#15** | [`Routes`](./Graphs/Shortest-Path-Algorithms/Routes/README.md)                                       |
-| **#16** | [`Find the shortest path`](./Graphs/Shortest-Path-Algorithms/Find-the-Shortest-Path/README.md)       |
-| **#17** | [`The Parking Slot`](./Graphs/Shortest-Path-Algorithms/The-Parking-Slot/README.md)                   |
-| **#18** | [`Grid`](./Graphs/Shortest-Path-Algorithms/Grid/README.md)                                           |
-| **#19** | [`Route Planning`](./Graphs/Shortest-Path-Algorithms/Route-Planning/README.md)                       |
-| **#20** | [`Buying items`](./Graphs/Shortest-Path-Algorithms/Buying-Items/README.md)                           |
-| **#21** | [`Historic Heist`](./Graphs/Shortest-Path-Algorithms/Historic-Heist/README.md)                       |
-| **#22** | [`Chocolate Journey`](./Graphs/Shortest-Path-Algorithms/Chocolate-Journey/README.md)                 |
-| **#23** | [`Straightest path`](./Graphs/Shortest-Path-Algorithms/Straightest-Path/README.md)                   |
-| **#24** | [`Completing Subgraphs`](./Graphs/Shortest-Path-Algorithms/Completing-Subgraphs/README.md)           |
-| **#25** | [`Diverging Directions`](./Graphs/Shortest-Path-Algorithms/Diverging-Directions/README.md)           |
-| **#26** | [`Cross the street`](./Graphs/Shortest-Path-Algorithms/Cross-the-Street/README.md)                   |
-| **#27** | [`Space smugglers`](./Graphs/Shortest-Path-Algorithms/Space-Smugglers/README.md)                     |
-| **#28** | [`Furthest vertex`](./Graphs/Shortest-Path-Algorithms/Furthest-Vertex/README.md)                     |
-| **#29** | [`Trustworthy network`](./Graphs/Shortest-Path-Algorithms/Trustworthy-Network/README.md)             |
-| **#30** | [`Ways`](./Graphs/Shortest-Path-Algorithms/Ways/README.md)                                           |
-| **#31** | [`Byteland Trip`](./Graphs/Shortest-Path-Algorithms/Byteland-Trip/README.md)                         |
-| **#32** | [`Mancunian And Nancy Play A Game`](./Graphs/Shortest-Path-Algorithms/Mancunian-and-Nancy/README.md) |
+| N°      | Enunciado                                                                                                |
+| ------- | -------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Path with hyperloops`](./Graphs/Shortest-Path-Algorithms/Path-with-hyperloops/README.md)               |
+| **#02** | [`Harmonious Islands`](./Graphs/Shortest-Path-Algorithms/Harmonious-Islands/README.md)                   |
+| **#03** | [`Two Friends`](./Graphs/Shortest-Path-Algorithms/Two-Friends/README.md)                                 |
+| **#04** | [`Two Trees`](./Graphs/Shortest-Path-Algorithms/Two-Trees/README.md)                                     |
+| **#05** | [`Shortest Path Again?`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Again/README.md)                |
+| **#06** | [`Shortest path`](./Graphs/Shortest-Path-Algorithms/Shortest-Path/README.md)                             |
+| **#07** | [`Vertices and edges`](./Graphs/Shortest-Path-Algorithms/Vertices-and-Edges/README.md)                   |
+| **#08** | [`Saving Ms. W`](./Graphs/Shortest-Path-Algorithms/Saving-Ms-W/README.md)                                |
+| **#09** | [`Palindromic changes`](./Graphs/Shortest-Path-Algorithms/Palindromic-Changes/README.md)                 |
+| **#10** | [`Shortest Path Revisited`](./Graphs/Shortest-Path-Algorithms/Shortest-Path-Revisited/README.md)         |
+| **#11** | [`Cross the river`](./Graphs/Shortest-Path-Algorithms/Cross-the-River/README.md)                         |
+| **#12** | [`Lost in a city`](./Graphs/Shortest-Path-Algorithms/Lost-in-a-city/README.md)                           |
+| **#13** | [`Maximum Area`](./Graphs/Shortest-Path-Algorithms/Maximum-Area/README.md)                               |
+| **#14** | [`Metro`](./Graphs/Shortest-Path-Algorithms/Metro/README.md)                                             |
+| **#15** | [`Routes`](./Graphs/Shortest-Path-Algorithms/Routes/README.md)                                           |
+| **#16** | [`Find the shortest path`](./Graphs/Shortest-Path-Algorithms/Find-the-Shortest-Path/README.md)           |
+| **#17** | [`The Parking Slot`](./Graphs/Shortest-Path-Algorithms/The-Parking-Slot/README.md)                       |
+| **#18** | [`Grid`](./Graphs/Shortest-Path-Algorithms/Grid/README.md)                                               |
+| **#19** | [`Route Planning`](./Graphs/Shortest-Path-Algorithms/Route-Planning/README.md)                           |
+| **#20** | [`Buying items`](./Graphs/Shortest-Path-Algorithms/Buying-Items/README.md)                               |
+| **#21** | [`Historic Heist`](./Graphs/Shortest-Path-Algorithms/Historic-Heist/README.md)                           |
+| **#22** | [`Chocolate Journey`](./Graphs/Shortest-Path-Algorithms/Chocolate-Journey/README.md)                     |
+| **#23** | [`Straightest path`](./Graphs/Shortest-Path-Algorithms/Straightest-Path/README.md)                       |
+| **#24** | [`Completing Subgraphs`](./Graphs/Shortest-Path-Algorithms/Completing-Subgraphs/README.md)               |
+| **#25** | [`Diverging Directions`](./Graphs/Shortest-Path-Algorithms/Diverging-Directions/README.md)               |
+| **#26** | [`Cross the street`](./Graphs/Shortest-Path-Algorithms/Cross-the-Street/README.md)                       |
+| **#27** | [`Space smugglers`](./Graphs/Shortest-Path-Algorithms/Space-Smugglers/README.md)                         |
+| **#28** | [`Furthest vertex`](./Graphs/Shortest-Path-Algorithms/Furthest-Vertex/README.md)                         |
+| **#29** | [`Trustworthy network`](./Graphs/Shortest-Path-Algorithms/Trustworthy-Network/README.md)                 |
+| **#30** | [`Ways`](./Graphs/Shortest-Path-Algorithms/Ways/README.md)                                               |
+| **#31** | [`Byteland Trip`](./Graphs/Shortest-Path-Algorithms/Byteland-Trip/README.md)                             |
+| **#32** | [`Mancunian And Nancy Play A Game`](./Graphs/Shortest-Path-Algorithms/Mancunian-and-Nancy/README.md)     |
+| **#33** | [`Mancunian Goes To The Derby`](./Graphs/Shortest-Path-Algorithms/Mancunian-goes-to-the-Derby/README.md) |
