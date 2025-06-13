@@ -678,3 +678,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#43** | [`Permutation`](./Graphs/Shortest-Path-Algorithms/Permutation/README.md)                                 |
 | **#44** | [`Wifi Routers`](./Graphs/Shortest-Path-Algorithms/Wifi-Routers/README.md)                               |
 | **#45** | [`Matrix Problem`](./Graphs/Shortest-Path-Algorithms/Matrix-Problem/README.md)                           |
+| **#46** | [`Maximize the distance in graph`](./Graphs/Shortest-Path-Algorithms/Maximize-the-Distance/README.md)    |
