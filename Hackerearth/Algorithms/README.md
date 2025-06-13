@@ -676,3 +676,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#41** | [`IRCTC`](./Graphs/Shortest-Path-Algorithms/IRCTC/README.md)                                             |
 | **#42** | [`Smart travel agent`](./Graphs/Shortest-Path-Algorithms/Smart-Travel-Agent/README.md)                   |
 | **#43** | [`Permutation`](./Graphs/Shortest-Path-Algorithms/Permutation/README.md)                                 |
+| **#44** | [`Wifi Routers`](./Graphs/Shortest-Path-Algorithms/Wifi-Routers/README.md)                               |
