@@ -674,3 +674,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#39** | [`Shil and Greedy approach`](./Graphs/Shortest-Path-Algorithms/Shil-and-Greedy-Approach/README.md)       |
 | **#40** | [`Minimizing Path Cost`](./Graphs/Shortest-Path-Algorithms/Minimizing-Path-Cost/README.md)               |
 | **#41** | [`IRCTC`](./Graphs/Shortest-Path-Algorithms/IRCTC/README.md)                                             |
+| **#42** | [`Smart travel agent`](./Graphs/Shortest-Path-Algorithms/Smart-Travel-Agent/README.md) |
