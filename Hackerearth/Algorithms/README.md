@@ -681,3 +681,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#46** | [`Maximize the distance in graph`](./Graphs/Shortest-Path-Algorithms/Maximize-the-Distance/README.md)    |
 
 #### [Flood-fill Algorithm](./Graphs/Flood-Fill-Algorithm/README.md)
+
+| N°      | Enunciado                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------ |
+| **#01** | [`The hydroelectric project`](./Graphs/Flood-Fill-Algorithm/The-Hydroelectric-Project/README.md) |
