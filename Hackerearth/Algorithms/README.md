@@ -688,3 +688,11 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`The rise of the weird... things`](./Graphs/Flood-Fill-Algorithm/The-Rise-of-the-Weird-Things/README.md) |
 
 #### [Articulation Points and Bridges](./Graphs/Articulation-Points-and-Bridges/README.md)
+
+| N°      | Enunciado                                                                                                     |
+| ------- | ------------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Edges on a path`](./Graphs/Articulation-Points-and-Bridges/Edges-on-a-Path/README.md)                       |
+| **#02** | [`Two paths`](./Graphs/Articulation-Points-and-Bridges/Two-Paths/README.md)                                   |
+| **#03** | [`Nick and JosephLand`](./Graphs/Articulation-Points-and-Bridges/Nick-and-JosephLand/README.md)               |
+| **#04** | [`Rhezo and Destructive Mind`](./Graphs/Articulation-Points-and-Bridges/Rhezo-and-Destructive-Mind/README.md) |
+| **#05** | [`Rhezo and HackerEarth`](./Graphs/Articulation-Points-and-Bridges/Rhezo-and-HackerEarth/README.md)           |
