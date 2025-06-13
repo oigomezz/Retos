@@ -686,3 +686,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | ------- | --------------------------------------------------------------------------------------------------------- |
 | **#01** | [`The hydroelectric project`](./Graphs/Flood-Fill-Algorithm/The-Hydroelectric-Project/README.md)          |
 | **#02** | [`The rise of the weird... things`](./Graphs/Flood-Fill-Algorithm/The-Rise-of-the-Weird-Things/README.md) |
+
+#### [Articulation Points and Bridges](./Graphs/Articulation-Points-and-Bridges/README.md)
