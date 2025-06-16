@@ -711,3 +711,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`GCD on directed graph`](./Graphs/Strongly-Connected-Components/GCD-on-Directed-Graph/README.md)      |
 | **#03** | [`Transportation network`](./Graphs/Strongly-Connected-Components/Transportation-Network/README.md)    |
 | **#04** | [`Benny and Some Magic`](./Graphs/Strongly-Connected-Components/Benny-and-Some-Magic/README.md)        |
+| **#05** | [`A Walk to Remember`](./Graphs/Strongly-Connected-Components/A-Walk-to-Remember/README.md)            |
