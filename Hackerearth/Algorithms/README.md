@@ -712,3 +712,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#03** | [`Transportation network`](./Graphs/Strongly-Connected-Components/Transportation-Network/README.md)    |
 | **#04** | [`Benny and Some Magic`](./Graphs/Strongly-Connected-Components/Benny-and-Some-Magic/README.md)        |
 | **#05** | [`A Walk to Remember`](./Graphs/Strongly-Connected-Components/A-Walk-to-Remember/README.md)            |
+
+#### [Topological Sort](./Graphs/Topological-Sort/README.md)
