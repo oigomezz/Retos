@@ -718,3 +718,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                                |
 | ------- | ------------------------------------------------------------------------ |
 | **#01** | [`Reach the Queen`](./Graphs/Topological-Sort/Reach-the-Queen/README.md) |
+| **#02** | [`Wise Business`](./Graphs/Topological-Sort/Wise-Business/README.md)     |
