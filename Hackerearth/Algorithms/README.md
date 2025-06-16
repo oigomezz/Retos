@@ -714,3 +714,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`A Walk to Remember`](./Graphs/Strongly-Connected-Components/A-Walk-to-Remember/README.md)            |
 
 #### [Topological Sort](./Graphs/Topological-Sort/README.md)
+
+| N°      | Enunciado                                                                |
+| ------- | ------------------------------------------------------------------------ |
+| **#01** | [`Reach the Queen`](./Graphs/Topological-Sort/Reach-the-Queen/README.md) |
