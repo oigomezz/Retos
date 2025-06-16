@@ -704,3 +704,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#01** | [`Two papers II`](./Graphs/Biconnected-Components/Two-Papers-II/README.md) |
 
 #### [Strongly Connected Components](./Graphs/Strongly-Connected-Components/README.md)
+
+| N°      | Enunciado                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------ |
+| **#01** | [`Components of Graph <Airbus>`](./Graphs/Strongly-Connected-Components/Components-of-Graph/README.md) |
