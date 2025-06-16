@@ -698,3 +698,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Rhezo and HackerEarth`](./Graphs/Articulation-Points-and-Bridges/Rhezo-and-HackerEarth/README.md)           |
 
 #### [Biconnected Components](./Graphs/Biconnected-Components/README.md)
+
+| N°      | Enunciado                                                                  |
+| ------- | -------------------------------------------------------------------------- |
+| **#01** | [`Two papers II`](./Graphs/Biconnected-Components/Two-Papers-II/README.md) |
