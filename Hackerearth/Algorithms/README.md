@@ -721,3 +721,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`Wise Business`](./Graphs/Topological-Sort/Wise-Business/README.md)                 |
 | **#03** | [`Maximum size of a set`](./Graphs/Topological-Sort/Maximum-Size-of-a-Set/README.md) |
 | **#04** | [`Cost Recovery`](./Graphs/Topological-Sort/Cost-Recovery/README.md)                 |
+| **#05** | [`Find the Array`](./Graphs/Topological-Sort/Find-the-Array/README.md)               |
