@@ -732,3 +732,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | ------- | ----------------------------------------------------------------------------------------- |
 | **#01** | [`Fredo's Crush`](./Graphs/Hamiltonian-Path/Fredo's-Crush/README.md)                      |
 | **#02** | [`Fredo and his Birthday Gift`](./Graphs/Hamiltonian-Path/Fredo-and-his-B-Gift/README.md) |
+| **#03** | [`Micro and Permutations`](./Graphs/Hamiltonian-Path/Micro-and-Permutations/README.md)    |
