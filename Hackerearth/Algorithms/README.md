@@ -723,3 +723,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Cost Recovery`](./Graphs/Topological-Sort/Cost-Recovery/README.md)                 |
 | **#05** | [`Find the Array`](./Graphs/Topological-Sort/Find-the-Array/README.md)               |
 | **#06** | [`Lonely Island`](./Graphs/Topological-Sort/Lonely-Island/README.md)                 |
+| **#07** | [`Partition it!`](./Graphs/Topological-Sort/Partition-it/README.md)                  |
