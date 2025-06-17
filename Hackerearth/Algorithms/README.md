@@ -727,3 +727,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`Oliver and the Game`](./Graphs/Topological-Sort/Oliver-and-the-Game/README.md)     |
 
 #### [Hamiltonian Path](./Graphs/Hamiltonian-Path/README.md)
+
+| N°      | Enunciado                                                            |
+| ------- | -------------------------------------------------------------------- |
+| **#01** | [`Fredo's Crush`](./Graphs/Hamiltonian-Path/Fredo's-Crush/README.md) |
