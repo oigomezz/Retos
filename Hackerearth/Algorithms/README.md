@@ -725,3 +725,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#06** | [`Lonely Island`](./Graphs/Topological-Sort/Lonely-Island/README.md)                 |
 | **#07** | [`Partition it!`](./Graphs/Topological-Sort/Partition-it/README.md)                  |
 | **#08** | [`Oliver and the Game`](./Graphs/Topological-Sort/Oliver-and-the-Game/README.md)     |
+
+#### [Hamiltonian Path](./Graphs/Hamiltonian-Path/README.md)
