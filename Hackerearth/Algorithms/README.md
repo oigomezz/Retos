@@ -736,3 +736,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Micro and Coins`](./Graphs/Hamiltonian-Path/Micro-and-Coins/README.md)                  |
 
 #### [Maximum flow](./Graphs/Maximum-Flow/README.md)
+
+| N°      | Enunciado                                                          |
+| ------- | ------------------------------------------------------------------ |
+| **#01** | [`Decaying Roads`](./Graphs/Maximum-Flow/Decaying-Roads/README.md) |
