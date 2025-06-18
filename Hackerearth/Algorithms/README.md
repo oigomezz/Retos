@@ -737,7 +737,8 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Maximum flow](./Graphs/Maximum-Flow/README.md)
 
-| N°      | Enunciado                                                          |
-| ------- | ------------------------------------------------------------------ |
-| **#01** | [`Decaying Roads`](./Graphs/Maximum-Flow/Decaying-Roads/README.md) |
-| **#02** | [`Telecom Towers`](./Graphs/Maximum-Flow/Telecom-Towers/README.md) |
+| N°      | Enunciado                                                              |
+| ------- | ---------------------------------------------------------------------- |
+| **#01** | [`Decaying Roads`](./Graphs/Maximum-Flow/Decaying-Roads/README.md)     |
+| **#02** | [`Telecom Towers`](./Graphs/Maximum-Flow/Telecom-Towers/README.md)     |
+| **#03** | [`Shubham and Grid`](./Graphs/Maximum-Flow/Shubham-and-Grid/README.md) |
