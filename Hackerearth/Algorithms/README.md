@@ -740,3 +740,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                          |
 | ------- | ------------------------------------------------------------------ |
 | **#01** | [`Decaying Roads`](./Graphs/Maximum-Flow/Decaying-Roads/README.md) |
+| **#02** | [`Telecom Towers`](./Graphs/Maximum-Flow/Telecom-Towers/README.md) |
