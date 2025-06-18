@@ -744,3 +744,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#03** | [`Shubham and Grid`](./Graphs/Maximum-Flow/Shubham-and-Grid/README.md)               |
 | **#04** | [`Shil and Lab Assignment`](./Graphs/Maximum-Flow/Shil-and-Lab-Assignment/README.md) |
 | **#05** | [`Find the Flow`](./Graphs/Maximum-Flow/Find-the-Flow/README.md)                     |
+| **#06** | [`Replace`](./Graphs/Maximum-Flow/Replace/README.md)                                 |
