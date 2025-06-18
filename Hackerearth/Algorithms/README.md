@@ -745,3 +745,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Shil and Lab Assignment`](./Graphs/Maximum-Flow/Shil-and-Lab-Assignment/README.md) |
 | **#05** | [`Find the Flow`](./Graphs/Maximum-Flow/Find-the-Flow/README.md)                     |
 | **#06** | [`Replace`](./Graphs/Maximum-Flow/Replace/README.md)                                 |
+| **#07** | [`Scheduling War`](./Graphs/Maximum-Flow/Scheduling-War/README.md)                   |
