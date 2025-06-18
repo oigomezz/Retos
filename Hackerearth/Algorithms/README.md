@@ -747,3 +747,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#06** | [`Replace`](./Graphs/Maximum-Flow/Replace/README.md)                                 |
 | **#07** | [`Scheduling War`](./Graphs/Maximum-Flow/Scheduling-War/README.md)                   |
 | **#08** | [`Beautiful Badges`](./Graphs/Maximum-Flow/Beautiful-Badges/README.md)               |
+| **#09** | [`Grids Everywhere`](./Graphs/Maximum-Flow/Grids-Everywhere/README.md)               |
