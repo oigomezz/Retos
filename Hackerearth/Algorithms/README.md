@@ -751,6 +751,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Minimum Cost Maximum Flow](./Graphs/Min-Cost-Max-Flow/README.md)
 
-| N°      | Enunciado                                                            |
-| ------- | -------------------------------------------------------------------- |
-| **#01** | [`Minimum changes`](./Graphs/Maximum-Flow/Minimum-Changes/README.md) |
+| N°      | Enunciado                                                                   |
+| ------- | --------------------------------------------------------------------------- |
+| **#01** | [`Minimum changes`](./Graphs/Min-Cost-Max-Flow/Minimum-Changes/README.md)   |
+| **#02** | [`Isomorphic Trees`](./Graphs/Min-Cost-Max-Flow/Isomorphic-Trees/README.md) |
