@@ -750,3 +750,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#09** | [`Grids Everywhere`](./Graphs/Maximum-Flow/Grids-Everywhere/README.md)               |
 
 #### [Minimum Cost Maximum Flow](./Graphs/Min-Cost-Max-Flow/README.md)
+
+| N°      | Enunciado                                                            |
+| ------- | -------------------------------------------------------------------- |
+| **#01** | [`Minimum changes`](./Graphs/Maximum-Flow/Minimum-Changes/README.md) |
