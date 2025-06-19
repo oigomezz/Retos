@@ -760,3 +760,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Encounter with the Lord`](./Graphs/Min-Cost-Max-Flow/Encounter-with-the-Lord/README.md)       |
 | **#06** | [`Bruce and the Chocolates`](./Graphs/Min-Cost-Max-Flow/Bruce-and-the-Chocolates/README.md)     |
 | **#07** | [`Beating the dices in their own game`](./Graphs/Min-Cost-Max-Flow/Beating-the-dices/README.md) |
+| **#08** | [`Amazing Race`](./Graphs/Min-Cost-Max-Flow/Amazing-Race/README.md)                             |
