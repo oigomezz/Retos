@@ -758,3 +758,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#03** | [`Holi and Cultural Festival`](./Graphs/Min-Cost-Max-Flow/Holi-and-Cultural-Festival/README.md) |
 | **#04** | [`Salesmen problem`](./Graphs/Min-Cost-Max-Flow/Salesmen-Problem/README.md)                     |
 | **#05** | [`Encounter with the Lord`](./Graphs/Min-Cost-Max-Flow/Encounter-with-the-Lord/README.md)       |
+| **#06** | [`Bruce and the Chocolates`](./Graphs/Min-Cost-Max-Flow/Bruce-and-the-Chocolates/README.md)     |
