@@ -756,3 +756,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#01** | [`Minimum changes`](./Graphs/Min-Cost-Max-Flow/Minimum-Changes/README.md)                       |
 | **#02** | [`Isomorphic Trees`](./Graphs/Min-Cost-Max-Flow/Isomorphic-Trees/README.md)                     |
 | **#03** | [`Holi and Cultural Festival`](./Graphs/Min-Cost-Max-Flow/Holi-and-Cultural-Festival/README.md) |
+| **#04** | [`Salesmen problem`](./Graphs/Min-Cost-Max-Flow/Salesmen-Problem/README.md)                     |
