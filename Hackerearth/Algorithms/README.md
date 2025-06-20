@@ -763,3 +763,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`Amazing Race`](./Graphs/Min-Cost-Max-Flow/Amazing-Race/README.md)                             |
 | **#09** | [`Earthland`](./Graphs/Min-Cost-Max-Flow/Earthland/README.md)                                   |
 | **#10** | [`Productive productivity`](./Graphs/Min-Cost-Max-Flow/Productive-Productivity/README.md)       |
+
+#### [Min-cut](./Graphs/Min-Cut/README.md)
