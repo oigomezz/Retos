@@ -770,6 +770,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | ------- | -------------------------------------------------------------------------------------- |
 | **#01** | [`Replace and maximize`](./Graphs/Min-Cut/Replace-and-Maximize/README.md)              |
 | **#02** | [`Mancunian, The Confectioner`](./Graphs/Min-Cut/Mancunian-The-Confectioner/README.md) |
+| **#03** | [`Edge Destruction`](./Graphs/Min-Cut/Edge-Destruction/README.md)                      |
 
 ### String Algorithm
 
