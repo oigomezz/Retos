@@ -765,3 +765,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#10** | [`Productive productivity`](./Graphs/Min-Cost-Max-Flow/Productive-Productivity/README.md)       |
 
 #### [Min-cut](./Graphs/Min-Cut/README.md)
+
+### String Algorithm
+
+#### [Basics of String Manipulation](./String-Algorithm/Basics-of-String-Manipulation/README.md)
