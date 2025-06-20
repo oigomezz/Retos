@@ -762,3 +762,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#07** | [`Beating the dices in their own game`](./Graphs/Min-Cost-Max-Flow/Beating-the-dices/README.md) |
 | **#08** | [`Amazing Race`](./Graphs/Min-Cost-Max-Flow/Amazing-Race/README.md)                             |
 | **#09** | [`Earthland`](./Graphs/Min-Cost-Max-Flow/Earthland/README.md)                                   |
+| **#10** | [`Productive productivity`](./Graphs/Min-Cost-Max-Flow/Productive-Productivity/README.md)       |
