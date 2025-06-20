@@ -766,9 +766,10 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Min-cut](./Graphs/Min-Cut/README.md)
 
-| N°      | Enunciado                                                                 |
-| ------- | ------------------------------------------------------------------------- |
-| **#01** | [`Replace and maximize`](./Graphs/Min-Cut/Replace-and-Maximize/README.md) |
+| N°      | Enunciado                                                                              |
+| ------- | -------------------------------------------------------------------------------------- |
+| **#01** | [`Replace and maximize`](./Graphs/Min-Cut/Replace-and-Maximize/README.md)              |
+| **#02** | [`Mancunian, The Confectioner`](./Graphs/Min-Cut/Mancunian-The-Confectioner/README.md) |
 
 ### String Algorithm
 
