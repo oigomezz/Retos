@@ -780,3 +780,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                                             |
 | ------- | ------------------------------------------------------------------------------------- |
 | **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md) |
+| **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)       |
