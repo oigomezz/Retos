@@ -766,6 +766,10 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Min-cut](./Graphs/Min-Cut/README.md)
 
+| N°      | Enunciado                                                                 |
+| ------- | ------------------------------------------------------------------------- |
+| **#01** | [`Replace and maximize`](./Graphs/Min-Cut/Replace-and-Maximize/README.md) |
+
 ### String Algorithm
 
 #### [Basics of String Manipulation](./String-Algorithm/Basics-of-String-Manipulation/README.md)
