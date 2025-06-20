@@ -775,4 +775,8 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 ### String Algorithm
 
-#### [Basics of String Manipulation](./String-Algorithm/Basics-of-String-Manipulation/README.md)
+#### [Basics of String Manipulation](./String-Algorithm/String-Manipulation/README.md)
+
+| N°      | Enunciado                                                                             |
+| ------- | ------------------------------------------------------------------------------------- |
+| **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md) |
