@@ -785,3 +785,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)     |
 | **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)   |
 | **#06** | [`Unique subsequences`](./String-Algorithm/String-Manipulation/Unique-Subsequences/README.md) |
+| **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                       |
