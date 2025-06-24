@@ -777,15 +777,16 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Basics of String Manipulation](./String-Algorithm/String-Manipulation/README.md)
 
-| N°      | Enunciado                                                                                     |
-| ------- | --------------------------------------------------------------------------------------------- |
-| **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md)         |
-| **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)               |
-| **#03** | [`Palindrome Swapping`](./String-Algorithm/String-Manipulation/Palindrome-Swapping/README.md) |
-| **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)     |
-| **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)   |
-| **#06** | [`Unique subsequences`](./String-Algorithm/String-Manipulation/Unique-Subsequences/README.md) |
-| **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                       |
-| **#08** | [`Good Subsequences`](./String-Algorithm/String-Manipulation/Good-Subsequences/README.md)     |
-| **#09** | [`Alice and Strings`](./String-Algorithm/String-Manipulation/Alice-and-Strings/README.md)     |
-| **#10** | [`Harry and String`](./String-Algorithm/String-Manipulation/Harry-and-String/README.md)       |
+| N°      | Enunciado                                                                                             |
+| ------- | ----------------------------------------------------------------------------------------------------- |
+| **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md)                 |
+| **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)                       |
+| **#03** | [`Palindrome Swapping`](./String-Algorithm/String-Manipulation/Palindrome-Swapping/README.md)         |
+| **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)             |
+| **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)           |
+| **#06** | [`Unique subsequences`](./String-Algorithm/String-Manipulation/Unique-Subsequences/README.md)         |
+| **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                               |
+| **#08** | [`Good Subsequences`](./String-Algorithm/String-Manipulation/Good-Subsequences/README.md)             |
+| **#09** | [`Alice and Strings`](./String-Algorithm/String-Manipulation/Alice-and-Strings/README.md)             |
+| **#10** | [`Harry and String`](./String-Algorithm/String-Manipulation/Harry-and-String/README.md)               |
+| **#11** | [`Largest Balanced String`](./String-Algorithm/String-Manipulation/Largest-Balanced-String/README.md) |
