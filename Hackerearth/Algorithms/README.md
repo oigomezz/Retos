@@ -783,3 +783,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)               |
 | **#03** | [`Palindrome Swapping`](./String-Algorithm/String-Manipulation/Palindrome-Swapping/README.md) |
 | **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)     |
+| **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)   |
