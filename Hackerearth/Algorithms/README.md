@@ -786,3 +786,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)   |
 | **#06** | [`Unique subsequences`](./String-Algorithm/String-Manipulation/Unique-Subsequences/README.md) |
 | **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                       |
+| **#08** | [`Good Subsequences`](./String-Algorithm/String-Manipulation/Good-Subsequences/README.md)     |
