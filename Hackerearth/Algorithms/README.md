@@ -782,3 +782,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md)         |
 | **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)               |
 | **#03** | [`Palindrome Swapping`](./String-Algorithm/String-Manipulation/Palindrome-Swapping/README.md) |
+| **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)     |
