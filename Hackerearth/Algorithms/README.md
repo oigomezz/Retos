@@ -788,3 +788,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                       |
 | **#08** | [`Good Subsequences`](./String-Algorithm/String-Manipulation/Good-Subsequences/README.md)     |
 | **#09** | [`Alice and Strings`](./String-Algorithm/String-Manipulation/Alice-and-Strings/README.md)     |
+| **#10** | [`Harry and String`](./String-Algorithm/String-Manipulation/Harry-and-String/README.md)       |
