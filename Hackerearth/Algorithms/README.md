@@ -792,3 +792,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#11** | [`Largest Balanced String`](./String-Algorithm/String-Manipulation/Largest-Balanced-String/README.md) |
 | **#12** | [`Alex and his String`](./String-Algorithm/String-Manipulation/Alex-and-his-String/README.md)         |
 | **#13** | [`Binary Swap`](./String-Algorithm/String-Manipulation/Binary-Swap/README.md)                         |
+| **#14** | [`Substrings`](./String-Algorithm/String-Manipulation/Substrings/README.md)|
