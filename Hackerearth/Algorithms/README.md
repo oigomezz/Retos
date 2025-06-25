@@ -790,3 +790,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#09** | [`Alice and Strings`](./String-Algorithm/String-Manipulation/Alice-and-Strings/README.md)             |
 | **#10** | [`Harry and String`](./String-Algorithm/String-Manipulation/Harry-and-String/README.md)               |
 | **#11** | [`Largest Balanced String`](./String-Algorithm/String-Manipulation/Largest-Balanced-String/README.md) |
+| **#12** | [`Alex and his String`](./String-Algorithm/String-Manipulation/Alex-and-his-String/README.md)         |
