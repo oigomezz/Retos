@@ -796,3 +796,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#15** | [`Can you count?`](./String-Algorithm/String-Manipulation/Can-You-Count/README.md)                    |
 | **#16** | [`Decode`](./String-Algorithm/String-Manipulation/Decode/README.md)                                   |
 | **#17** | [`Caesar's Cipher`](./String-Algorithm/String-Manipulation/Caesar's-Cipher/README.md)                 |
+| **#18** | [`Lexical Analyzer`](./String-Algorithm/String-Manipulation/Lexical-Analyzer/README.md)               |
