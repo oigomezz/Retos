@@ -802,3 +802,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#21** | [`Xenny and Partially Sorted Strings`](./String-Algorithm/String-Manipulation/Xenny/README.md)        |
 | **#22** | [`UpUp`](./String-Algorithm/String-Manipulation/UpUp/README.md)                                       |
 | **#23** | [`Sumit And Rohil`](./String-Algorithm/String-Manipulation/Sumit-and-Rohil/README.md)                 |
+| **#24** | [`Marut and Strings`](./String-Algorithm/String-Manipulation/Marut-and-Strings/README.md)             |
