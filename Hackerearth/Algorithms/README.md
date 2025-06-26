@@ -806,3 +806,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#25** | [`Terrible Chandu`](./String-Algorithm/String-Manipulation/Terrible-Chandu/README.md)                 |
 | **#26** | [`Palindromes`](./String-Algorithm/String-Manipulation/Palindromes/README.md)                         |
 | **#27** | [`Sorted String`](./String-Algorithm/String-Manipulation/Sorted-String/README.md)                     |
+| **#28** | [`Remove Duplicates`](./String-Algorithm/String-Manipulation/Remove-Duplicates/README.md)             |
