@@ -804,3 +804,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#23** | [`Sumit And Rohil`](./String-Algorithm/String-Manipulation/Sumit-and-Rohil/README.md)                 |
 | **#24** | [`Marut and Strings`](./String-Algorithm/String-Manipulation/Marut-and-Strings/README.md)             |
 | **#25** | [`Terrible Chandu`](./String-Algorithm/String-Manipulation/Terrible-Chandu/README.md)                 |
+| **#26** | [`Palindromes`](./String-Algorithm/String-Manipulation/Palindromes/README.md)                         |
