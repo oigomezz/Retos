@@ -816,3 +816,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#35** | [`Password`](./String-Algorithm/String-Manipulation/Password/README.md)                                 |
 | **#36** | [`Compiler Version`](./String-Algorithm/String-Manipulation/Compiler-Version/README.md)                 |
 | **#37** | [`Missing Alphabets`](./String-Algorithm/String-Manipulation/Missing-Alphabets/README.md)               |
+| **#38** | [`Find the substrings`](./String-Algorithm/String-Manipulation/Find-the-substrings/README.md)           |
