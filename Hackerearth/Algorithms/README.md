@@ -777,33 +777,34 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Basics of String Manipulation](./String-Algorithm/String-Manipulation/README.md)
 
-| N°      | Enunciado                                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------- |
-| **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md)                 |
-| **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)                       |
-| **#03** | [`Palindrome Swapping`](./String-Algorithm/String-Manipulation/Palindrome-Swapping/README.md)         |
-| **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)             |
-| **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)           |
-| **#06** | [`Unique subsequences`](./String-Algorithm/String-Manipulation/Unique-Subsequences/README.md)         |
-| **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                               |
-| **#08** | [`Good Subsequences`](./String-Algorithm/String-Manipulation/Good-Subsequences/README.md)             |
-| **#09** | [`Alice and Strings`](./String-Algorithm/String-Manipulation/Alice-and-Strings/README.md)             |
-| **#10** | [`Harry and String`](./String-Algorithm/String-Manipulation/Harry-and-String/README.md)               |
-| **#11** | [`Largest Balanced String`](./String-Algorithm/String-Manipulation/Largest-Balanced-String/README.md) |
-| **#12** | [`Alex and his String`](./String-Algorithm/String-Manipulation/Alex-and-his-String/README.md)         |
-| **#13** | [`Binary Swap`](./String-Algorithm/String-Manipulation/Binary-Swap/README.md)                         |
-| **#14** | [`Substrings`](./String-Algorithm/String-Manipulation/Substrings/README.md)                           |
-| **#15** | [`Can you count?`](./String-Algorithm/String-Manipulation/Can-You-Count/README.md)                    |
-| **#16** | [`Decode`](./String-Algorithm/String-Manipulation/Decode/README.md)                                   |
-| **#17** | [`Caesar's Cipher`](./String-Algorithm/String-Manipulation/Caesar's-Cipher/README.md)                 |
-| **#18** | [`Lexical Analyzer`](./String-Algorithm/String-Manipulation/Lexical-Analyzer/README.md)               |
-| **#19** | [`String Queries`](./String-Algorithm/String-Manipulation/String-Queries/README.md)                   |
-| **#20** | [`String Division`](./String-Algorithm/String-Manipulation/String-Division/README.md)                 |
-| **#21** | [`Xenny and Partially Sorted Strings`](./String-Algorithm/String-Manipulation/Xenny/README.md)        |
-| **#22** | [`UpUp`](./String-Algorithm/String-Manipulation/UpUp/README.md)                                       |
-| **#23** | [`Sumit And Rohil`](./String-Algorithm/String-Manipulation/Sumit-and-Rohil/README.md)                 |
-| **#24** | [`Marut and Strings`](./String-Algorithm/String-Manipulation/Marut-and-Strings/README.md)             |
-| **#25** | [`Terrible Chandu`](./String-Algorithm/String-Manipulation/Terrible-Chandu/README.md)                 |
-| **#26** | [`Palindromes`](./String-Algorithm/String-Manipulation/Palindromes/README.md)                         |
-| **#27** | [`Sorted String`](./String-Algorithm/String-Manipulation/Sorted-String/README.md)                     |
-| **#28** | [`Remove Duplicates`](./String-Algorithm/String-Manipulation/Remove-Duplicates/README.md)             |
+| N°      | Enunciado                                                                                               |
+| ------- | ------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Make Palindrome`](./String-Algorithm/String-Manipulation/Make-Palindrome/README.md)                   |
+| **#02** | [`Edge Letters`](./String-Algorithm/String-Manipulation/Edge-Letters/README.md)                         |
+| **#03** | [`Palindrome Swapping`](./String-Algorithm/String-Manipulation/Palindrome-Swapping/README.md)           |
+| **#04** | [`Unique substrings`](./String-Algorithm/String-Manipulation/Unique-Substrings/README.md)               |
+| **#05** | [`Alice and messages`](./String-Algorithm/String-Manipulation/Alice-and-Messages/README.md)             |
+| **#06** | [`Unique subsequences`](./String-Algorithm/String-Manipulation/Unique-Subsequences/README.md)           |
+| **#07** | [`Rotation`](./String-Algorithm/String-Manipulation/Rotation/README.md)                                 |
+| **#08** | [`Good Subsequences`](./String-Algorithm/String-Manipulation/Good-Subsequences/README.md)               |
+| **#09** | [`Alice and Strings`](./String-Algorithm/String-Manipulation/Alice-and-Strings/README.md)               |
+| **#10** | [`Harry and String`](./String-Algorithm/String-Manipulation/Harry-and-String/README.md)                 |
+| **#11** | [`Largest Balanced String`](./String-Algorithm/String-Manipulation/Largest-Balanced-String/README.md)   |
+| **#12** | [`Alex and his String`](./String-Algorithm/String-Manipulation/Alex-and-his-String/README.md)           |
+| **#13** | [`Binary Swap`](./String-Algorithm/String-Manipulation/Binary-Swap/README.md)                           |
+| **#14** | [`Substrings`](./String-Algorithm/String-Manipulation/Substrings/README.md)                             |
+| **#15** | [`Can you count?`](./String-Algorithm/String-Manipulation/Can-You-Count/README.md)                      |
+| **#16** | [`Decode`](./String-Algorithm/String-Manipulation/Decode/README.md)                                     |
+| **#17** | [`Caesar's Cipher`](./String-Algorithm/String-Manipulation/Caesar's-Cipher/README.md)                   |
+| **#18** | [`Lexical Analyzer`](./String-Algorithm/String-Manipulation/Lexical-Analyzer/README.md)                 |
+| **#19** | [`String Queries`](./String-Algorithm/String-Manipulation/String-Queries/README.md)                     |
+| **#20** | [`String Division`](./String-Algorithm/String-Manipulation/String-Division/README.md)                   |
+| **#21** | [`Xenny and Partially Sorted Strings`](./String-Algorithm/String-Manipulation/Xenny/README.md)          |
+| **#22** | [`UpUp`](./String-Algorithm/String-Manipulation/UpUp/README.md)                                         |
+| **#23** | [`Sumit And Rohil`](./String-Algorithm/String-Manipulation/Sumit-and-Rohil/README.md)                   |
+| **#24** | [`Marut and Strings`](./String-Algorithm/String-Manipulation/Marut-and-Strings/README.md)               |
+| **#25** | [`Terrible Chandu`](./String-Algorithm/String-Manipulation/Terrible-Chandu/README.md)                   |
+| **#26** | [`Palindromes`](./String-Algorithm/String-Manipulation/Palindromes/README.md)                           |
+| **#27** | [`Sorted String`](./String-Algorithm/String-Manipulation/Sorted-String/README.md)                       |
+| **#28** | [`Remove Duplicates`](./String-Algorithm/String-Manipulation/Remove-Duplicates/README.md)               |
+| **#29** | [`Ashish and Binary Matrix`](./String-Algorithm/String-Manipulation/Ashish-and-Binary-Matrix/README.md) |
