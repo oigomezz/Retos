@@ -814,3 +814,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#33** | [`Mirror of Mahatma Gandhi`](./String-Algorithm/String-Manipulation/Mirror-of-Mahatma-Gandhi/README.md) |
 | **#34** | [`Don't Jump`](./String-Algorithm/String-Manipulation/Don't-Jump/README.md)                             |
 | **#35** | [`Password`](./String-Algorithm/String-Manipulation/Password/README.md)                                 |
+| **#36** | [`Compiler Version`](./String-Algorithm/String-Manipulation/Compiler-Version/README.md)                 |
