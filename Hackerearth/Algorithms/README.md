@@ -809,3 +809,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#28** | [`Remove Duplicates`](./String-Algorithm/String-Manipulation/Remove-Duplicates/README.md)               |
 | **#29** | [`Ashish and Binary Matrix`](./String-Algorithm/String-Manipulation/Ashish-and-Binary-Matrix/README.md) |
 | **#30** | [`Nobita and String`](./String-Algorithm/String-Manipulation/Nobita-and-String/README.md)               |
+| **#31** | [`Swapping Game`](./String-Algorithm/String-Manipulation/Swapping-Game/README.md)                       |
