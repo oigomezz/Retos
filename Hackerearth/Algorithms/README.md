@@ -820,3 +820,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#39** | [`The Cheapest Palindrome`](./String-Algorithm/String-Manipulation/The-Cheapest-Palindrome/README.md)   |
 
 #### [String Searching](./String-Algorithm/String-Searching/README.md)
+
+| N°      | Enunciado                                                                            |
+| ------- | ------------------------------------------------------------------------------------ |
+| **#01** | [`Palindrome Split`](./String-Algorithm/String-Searching/Palindrome-Split/README.md) |
