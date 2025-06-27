@@ -830,3 +830,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Comment section`](./String-Algorithm/String-Searching/Comment-Section/README.md)   |
 | **#06** | [`Clean the string`](./String-Algorithm/String-Searching/Clean-the-String/README.md) |
 | **#07** | [`Random keyboard`](./String-Algorithm/String-Searching/Random-Keyboard/README.md)   |
+| **#08** | [`String Challenge`](./String-Algorithm/String-Searching/String-Challenge/README.md) |
