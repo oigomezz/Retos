@@ -824,3 +824,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                                            |
 | ------- | ------------------------------------------------------------------------------------ |
 | **#01** | [`Palindrome Split`](./String-Algorithm/String-Searching/Palindrome-Split/README.md) |
+| **#02** | [`Turn Off Lights`](./String-Algorithm/String-Searching/Turn-Off-Lights/README.md)   |
