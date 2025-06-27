@@ -1,9 +1,9 @@
-data = {
-    1: [4, 2, 1]
-}
+"""Generates the Collatz sequence for numbers from 1 to 1000 and saves it to a file."""
+data = {1: [4, 2, 1]}
 
 
-def collatz(n):
+def collatz(n: int) -> list[int]:
+    """Function to compute the Collatz sequence for a given number."""
     if n not in data:
         path = []
         next_n = n
@@ -17,15 +17,14 @@ def collatz(n):
 
 
 if __name__ == "__main__":
-    with open('collatz.txt', 'r') as archivo:
-        separador = ':'
+    with open('collatz.txt', 'r', encoding='utf-8') as archivo:
         for linea in archivo:
-            key, value = linea.split(separador)
+            key, value = linea.split(":")
             key = int(key.strip())
             value = value.replace("[", "").replace("]", "").strip()
             data[key] = [int(x) for x in value.split(",")]
 
-    for i in range(2, 31):
+    for i in range(2, 1001):
         collatz(i)
 
     ordenados = dict(sorted(data.items(), key=lambda item: int(item[0])))

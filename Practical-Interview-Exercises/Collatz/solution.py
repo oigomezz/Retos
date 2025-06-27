@@ -1,4 +1,8 @@
-def collatz(n):
+"""Module providing a function to compute the Collatz sequence for a given number."""
+
+
+def collatz(n: int) -> list[int]:
+    """Function computing the Collatz sequence for a given number."""
     if n == 1:
         return [4, 2, 1]
     path = []
@@ -10,5 +14,13 @@ def collatz(n):
 
 
 if __name__ == "__main__":
-    n = int(input("Ingrese numero a verificar: "))
-    print(n, ":", collatz(n))
+    data = {}
+    with open('collatz.txt', 'r', encoding='utf-8') as archivo:
+        for linea in archivo:
+            key, value = linea.split(":")
+            key = int(key.strip())
+            value = value.replace("[", "").replace("]", "").strip()
+            data[key] = [int(x) for x in value.split(",")]
+
+        for key, value in data.items():
+            print(f"{key}: {len(value)}")
