@@ -832,3 +832,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#07** | [`Random keyboard`](./String-Algorithm/String-Searching/Random-Keyboard/README.md)   |
 | **#08** | [`String Challenge`](./String-Algorithm/String-Searching/String-Challenge/README.md) |
 | **#09** | [`Minimum length`](./String-Algorithm/String-Searching/Minimum-Length/README.md)     |
+| **#10** | [`Bitwise OR`](./String-Algorithm/String-Searching/Bitwise-OR/README.md)             |
