@@ -818,3 +818,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#37** | [`Missing Alphabets`](./String-Algorithm/String-Manipulation/Missing-Alphabets/README.md)               |
 | **#38** | [`Find the substrings`](./String-Algorithm/String-Manipulation/Find-the-substrings/README.md)           |
 | **#39** | [`The Cheapest Palindrome`](./String-Algorithm/String-Manipulation/The-Cheapest-Palindrome/README.md)   |
+
+#### [String Searching](./String-Algorithm/String-Searching/README.md)
