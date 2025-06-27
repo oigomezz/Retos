@@ -827,3 +827,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`Turn Off Lights`](./String-Algorithm/String-Searching/Turn-Off-Lights/README.md)   |
 | **#03** | [`Find Set`](./String-Algorithm/String-Searching/Find-Set/README.md)                 |
 | **#04** | [`B from A`](./String-Algorithm/String-Searching/B-from-A/README.md)                 |
+| **#05** | [`Comment section`](./String-Algorithm/String-Searching/Comment-Section/README.md)   |
