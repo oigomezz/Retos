@@ -842,3 +842,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#17** | [`The maximum substring`](./String-Algorithm/String-Searching/The-Maximum-Substring/README.md)               |
 | **#18** | [`Rectangle matrices`](./String-Algorithm/String-Searching/Rectangle-Matrices/README.md)                     |
 | **#19** | [`Prefix and substring queries`](./String-Algorithm/String-Searching/Prefix-and-Substring-Queries/README.md) |
+| **#20** | [`Palindrome queries`](./String-Algorithm/String-Searching/Palindrome-Queries/README.md)                     |
