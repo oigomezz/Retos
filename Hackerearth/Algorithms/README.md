@@ -837,3 +837,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#12** | [`Make the strings equal`](./String-Algorithm/String-Searching/Make-the-Strings-Equal/README.md) |
 | **#13** | [`Replace the strings`](./String-Algorithm/String-Searching/Replace-the-Strings/README.md)       |
 | **#14** | [`Number of rotations`](./String-Algorithm/String-Searching/Number-of-Rotations/README.md)       |
+| **#15** | [`Letter most`](./String-Algorithm/String-Searching/Letter-Most/README.md)                       |
