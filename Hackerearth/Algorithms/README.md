@@ -843,3 +843,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#18** | [`Rectangle matrices`](./String-Algorithm/String-Searching/Rectangle-Matrices/README.md)                     |
 | **#19** | [`Prefix and substring queries`](./String-Algorithm/String-Searching/Prefix-and-Substring-Queries/README.md) |
 | **#20** | [`Palindrome queries`](./String-Algorithm/String-Searching/Palindrome-Queries/README.md)                     |
+| **#21** | [`Common Prime`](./String-Algorithm/String-Searching/Common-Prime/README.md)                                 |
