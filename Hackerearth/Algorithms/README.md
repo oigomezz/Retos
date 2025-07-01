@@ -840,3 +840,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#15** | [`Letter most`](./String-Algorithm/String-Searching/Letter-Most/README.md)                       |
 | **#16** | [`A strongest string`](./String-Algorithm/String-Searching/A-Strongest-String/README.md)         |
 | **#17** | [`The maximum substring`](./String-Algorithm/String-Searching/The-Maximum-Substring/README.md)   |
+| **#18** | [`Rectangle matrices`](./String-Algorithm/String-Searching/Rectangle-Matrices/README.md)         |
