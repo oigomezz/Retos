@@ -845,3 +845,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#20** | [`Palindrome queries`](./String-Algorithm/String-Searching/Palindrome-Queries/README.md)                     |
 | **#21** | [`Common Prime`](./String-Algorithm/String-Searching/Common-Prime/README.md)                                 |
 | **#22** | [`Lost in strings`](./String-Algorithm/String-Searching/Lost-in-Strings/README.md)                           |
+| **#23** | [`Minimum rotations`](./String-Algorithm/String-Searching/Minimum-Rotations/README.md)                       |
