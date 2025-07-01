@@ -821,23 +821,24 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [String Searching](./String-Algorithm/String-Searching/README.md)
 
-| N°      | Enunciado                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------------ |
-| **#01** | [`Palindrome Split`](./String-Algorithm/String-Searching/Palindrome-Split/README.md)             |
-| **#02** | [`Turn Off Lights`](./String-Algorithm/String-Searching/Turn-Off-Lights/README.md)               |
-| **#03** | [`Find Set`](./String-Algorithm/String-Searching/Find-Set/README.md)                             |
-| **#04** | [`B from A`](./String-Algorithm/String-Searching/B-from-A/README.md)                             |
-| **#05** | [`Comment section`](./String-Algorithm/String-Searching/Comment-Section/README.md)               |
-| **#06** | [`Clean the string`](./String-Algorithm/String-Searching/Clean-the-String/README.md)             |
-| **#07** | [`Random keyboard`](./String-Algorithm/String-Searching/Random-Keyboard/README.md)               |
-| **#08** | [`String Challenge`](./String-Algorithm/String-Searching/String-Challenge/README.md)             |
-| **#09** | [`Minimum length`](./String-Algorithm/String-Searching/Minimum-Length/README.md)                 |
-| **#10** | [`Bitwise OR`](./String-Algorithm/String-Searching/Bitwise-OR/README.md)                         |
-| **#11** | [`Special palindromes`](./String-Algorithm/String-Searching/Special-Palindromes/README.md)       |
-| **#12** | [`Make the strings equal`](./String-Algorithm/String-Searching/Make-the-Strings-Equal/README.md) |
-| **#13** | [`Replace the strings`](./String-Algorithm/String-Searching/Replace-the-Strings/README.md)       |
-| **#14** | [`Number of rotations`](./String-Algorithm/String-Searching/Number-of-Rotations/README.md)       |
-| **#15** | [`Letter most`](./String-Algorithm/String-Searching/Letter-Most/README.md)                       |
-| **#16** | [`A strongest string`](./String-Algorithm/String-Searching/A-Strongest-String/README.md)         |
-| **#17** | [`The maximum substring`](./String-Algorithm/String-Searching/The-Maximum-Substring/README.md)   |
-| **#18** | [`Rectangle matrices`](./String-Algorithm/String-Searching/Rectangle-Matrices/README.md)         |
+| N°      | Enunciado                                                                                                    |
+| ------- | ------------------------------------------------------------------------------------------------------------ |
+| **#01** | [`Palindrome Split`](./String-Algorithm/String-Searching/Palindrome-Split/README.md)                         |
+| **#02** | [`Turn Off Lights`](./String-Algorithm/String-Searching/Turn-Off-Lights/README.md)                           |
+| **#03** | [`Find Set`](./String-Algorithm/String-Searching/Find-Set/README.md)                                         |
+| **#04** | [`B from A`](./String-Algorithm/String-Searching/B-from-A/README.md)                                         |
+| **#05** | [`Comment section`](./String-Algorithm/String-Searching/Comment-Section/README.md)                           |
+| **#06** | [`Clean the string`](./String-Algorithm/String-Searching/Clean-the-String/README.md)                         |
+| **#07** | [`Random keyboard`](./String-Algorithm/String-Searching/Random-Keyboard/README.md)                           |
+| **#08** | [`String Challenge`](./String-Algorithm/String-Searching/String-Challenge/README.md)                         |
+| **#09** | [`Minimum length`](./String-Algorithm/String-Searching/Minimum-Length/README.md)                             |
+| **#10** | [`Bitwise OR`](./String-Algorithm/String-Searching/Bitwise-OR/README.md)                                     |
+| **#11** | [`Special palindromes`](./String-Algorithm/String-Searching/Special-Palindromes/README.md)                   |
+| **#12** | [`Make the strings equal`](./String-Algorithm/String-Searching/Make-the-Strings-Equal/README.md)             |
+| **#13** | [`Replace the strings`](./String-Algorithm/String-Searching/Replace-the-Strings/README.md)                   |
+| **#14** | [`Number of rotations`](./String-Algorithm/String-Searching/Number-of-Rotations/README.md)                   |
+| **#15** | [`Letter most`](./String-Algorithm/String-Searching/Letter-Most/README.md)                                   |
+| **#16** | [`A strongest string`](./String-Algorithm/String-Searching/A-Strongest-String/README.md)                     |
+| **#17** | [`The maximum substring`](./String-Algorithm/String-Searching/The-Maximum-Substring/README.md)               |
+| **#18** | [`Rectangle matrices`](./String-Algorithm/String-Searching/Rectangle-Matrices/README.md)                     |
+| **#19** | [`Prefix and substring queries`](./String-Algorithm/String-Searching/Prefix-and-Substring-Queries/README.md) |
