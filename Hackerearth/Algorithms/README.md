@@ -835,3 +835,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#10** | [`Bitwise OR`](./String-Algorithm/String-Searching/Bitwise-OR/README.md)                         |
 | **#11** | [`Special palindromes`](./String-Algorithm/String-Searching/Special-Palindromes/README.md)       |
 | **#12** | [`Make the strings equal`](./String-Algorithm/String-Searching/Make-the-Strings-Equal/README.md) |
+| **#13** | [`Replace the strings`](./String-Algorithm/String-Searching/Replace-the-Strings/README.md)       |
