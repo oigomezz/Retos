@@ -861,3 +861,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#36** | [`Playful Strings`](./String-Algorithm/String-Searching/Playful-Strings/README.md)                           |
 | **#37** | [`PrefPref`](./String-Algorithm/String-Searching/PrefPref/README.md)                                         |
 | **#38** | [`Where is Checkerboard`](./String-Algorithm/String-Searching/Where-is-Checkerboard/README.md)               |
+| **#39** | [`Game of Strings`](./String-Algorithm/String-Searching/Game-of-Strings/README.md)                           |
