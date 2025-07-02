@@ -859,3 +859,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#34** | [`Hamming`](./String-Algorithm/String-Searching/Hamming/README.md)                                           |
 | **#35** | [`Fun with strings`](./String-Algorithm/String-Searching/Fun-with-Strings/README.md)                         |
 | **#36** | [`Playful Strings`](./String-Algorithm/String-Searching/Playful-Strings/README.md)                           |
+| **#37** | [`PrefPref`](./String-Algorithm/String-Searching/PrefPref/README.md)                                         |
