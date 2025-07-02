@@ -857,3 +857,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#32** | [`String Fight`](./String-Algorithm/String-Searching/String-Fight/README.md)                                 |
 | **#33** | [`Playful String`](./String-Algorithm/String-Searching/Playful-String/README.md)                             |
 | **#34** | [`Hamming`](./String-Algorithm/String-Searching/Hamming/README.md)                                           |
+| **#35** | [`Fun with strings`](./String-Algorithm/String-Searching/Fun-with-Strings/README.md)                         |
