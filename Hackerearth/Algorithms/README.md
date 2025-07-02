@@ -862,3 +862,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#37** | [`PrefPref`](./String-Algorithm/String-Searching/PrefPref/README.md)                                         |
 | **#38** | [`Where is Checkerboard`](./String-Algorithm/String-Searching/Where-is-Checkerboard/README.md)               |
 | **#39** | [`Game of Strings`](./String-Algorithm/String-Searching/Game-of-Strings/README.md)                           |
+| **#40** | [`Largest Lexicographical Rotation II`](./String-Algorithm/String-Searching/Largest-Rotation-II/README.md)   |
