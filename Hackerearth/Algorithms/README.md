@@ -853,3 +853,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#28** | [`Monk And Monster`](./String-Algorithm/String-Searching/Monk-and-Monster/README.md)                         |
 | **#29** | [`Substring Queries`](./String-Algorithm/String-Searching/Substring-Queries/README.md)                       |
 | **#30** | [`Twitter Trends`](./String-Algorithm/String-Searching/Twitter-Trends/README.md)                             |
+| **#31** | [`Solitary String`](./String-Algorithm/String-Searching/Solitary-String/README.md)                           |
