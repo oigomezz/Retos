@@ -849,3 +849,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#24** | [`Missing String`](./String-Algorithm/String-Searching/Missing-String/README.md)                             |
 | **#25** | [`Flight Search`](./String-Algorithm/String-Searching/Flight-Search/README.md)                               |
 | **#26** | [`String`](./String-Algorithm/String-Searching/String/README.md)                                             |
+| **#27** | [`Almost Same String`](./String-Algorithm/String-Searching/Almost-Same-String/README.md)                     |
