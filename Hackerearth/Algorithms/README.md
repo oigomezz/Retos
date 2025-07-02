@@ -855,3 +855,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#30** | [`Twitter Trends`](./String-Algorithm/String-Searching/Twitter-Trends/README.md)                             |
 | **#31** | [`Solitary String`](./String-Algorithm/String-Searching/Solitary-String/README.md)                           |
 | **#32** | [`String Fight`](./String-Algorithm/String-Searching/String-Fight/README.md)                                 |
+| **#33** | [`Playful String`](./String-Algorithm/String-Searching/Playful-String/README.md)                             |
