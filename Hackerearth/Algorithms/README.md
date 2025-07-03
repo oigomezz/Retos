@@ -872,3 +872,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#01** | [`Prefix Number <Liv.ai>`](./String-Algorithm/Z-Algorithm/Prefix-Number/README.md)        |
 | **#02** | [`Statistics of strings`](./String-Algorithm/Z-Algorithm/Statistics-of-Strings/README.md) |
 | **#03** | [`Cyclic Permutations`](./String-Algorithm/Z-Algorithm/Cyclic-Permutations/README.md)     |
+| **#04** | [`Rhezo and Division`](./String-Algorithm/Z-Algorithm/Rhezo-and-Division/README.md)       |
