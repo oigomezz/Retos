@@ -1,0 +1,12 @@
+3
+delhi
+bengaluru
+hyderabad
+0 10 20
+10 0 55
+20 55 0
+4
+bengaluru
+delhi
+hyderabad
+bengaluru
