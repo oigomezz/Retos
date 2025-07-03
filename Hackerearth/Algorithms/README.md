@@ -875,3 +875,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Rhezo and Division`](./String-Algorithm/Z-Algorithm/Rhezo-and-Division/README.md)       |
 | **#05** | [`Omar And Strings`](./String-Algorithm/Z-Algorithm/Decode/README.md)                     |
 | **#06** | [`ASCII Value`](./String-Algorithm/Z-Algorithm/ASCII-Value/README.md)                     |
+| **#07** | [`Divide Array`](./String-Algorithm/Z-Algorithm/Divide-Array/README.md)                   |
