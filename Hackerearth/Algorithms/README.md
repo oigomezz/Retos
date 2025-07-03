@@ -874,3 +874,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#03** | [`Cyclic Permutations`](./String-Algorithm/Z-Algorithm/Cyclic-Permutations/README.md)     |
 | **#04** | [`Rhezo and Division`](./String-Algorithm/Z-Algorithm/Rhezo-and-Division/README.md)       |
 | **#05** | [`Omar And Strings`](./String-Algorithm/Z-Algorithm/Decode/README.md)                     |
+| **#06** | [`ASCII Value`](./String-Algorithm/Z-Algorithm/ASCII-Value/README.md)                     |
