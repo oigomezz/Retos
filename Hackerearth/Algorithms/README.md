@@ -880,7 +880,8 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Manachar’s Algorithm](./String-Algorithm/Manachar’s-Algorithm/README.md)
 
-| N°      | Enunciado                                                                            |
-| ------- | ------------------------------------------------------------------------------------ |
-| **#01** | [`EasyPalindrome`](./String-Algorithm/Manachar’s-Algorithm/EasyPalindrome/README.md) |
-| **#02** | [`Last Forever`](./String-Algorithm/Z-Algorithm/Last-Forever/README.md)              |
+| N°      | Enunciado                                                                                    |
+| ------- | -------------------------------------------------------------------------------------------- |
+| **#01** | [`EasyPalindrome`](./String-Algorithm/Manachar’s-Algorithm/EasyPalindrome/README.md)         |
+| **#02** | [`Last Forever`](./String-Algorithm/Manachar’s-Algorithm/Last-Forever/README.md)             |
+| **#03** | [`Longest Palindrome`](./String-Algorithm/Manachar’s-Algorithm/Longest-Palindrome/README.md) |
