@@ -877,3 +877,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#06** | [`ASCII Value`](./String-Algorithm/Z-Algorithm/ASCII-Value/README.md)                     |
 | **#07** | [`Divide Array`](./String-Algorithm/Z-Algorithm/Divide-Array/README.md)                   |
 | **#08** | [`Decode`](./String-Algorithm/Z-Algorithm/Decode/README.md)                               |
+
+#### [Manachar’s Algorithm](./String-Algorithm/Manachar’s-Algorithm/README.md)
