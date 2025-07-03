@@ -866,3 +866,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#41** | [`Arrange Brackets`](./String-Algorithm/String-Searching/Arrange-Brackets/README.md)                         |
 
 #### [Z Algorithm](./String-Algorithm/Z-Algorithm/README.md)
+
+| N°      | Enunciado                                                                          |
+| ------- | ---------------------------------------------------------------------------------- |
+| **#01** | [`Prefix Number <Liv.ai>`](./String-Algorithm/Z-Algorithm/Prefix-Number/README.md) |
