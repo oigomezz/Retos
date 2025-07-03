@@ -867,6 +867,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Z Algorithm](./String-Algorithm/Z-Algorithm/README.md)
 
-| N°      | Enunciado                                                                          |
-| ------- | ---------------------------------------------------------------------------------- |
-| **#01** | [`Prefix Number <Liv.ai>`](./String-Algorithm/Z-Algorithm/Prefix-Number/README.md) |
+| N°      | Enunciado                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------- |
+| **#01** | [`Prefix Number <Liv.ai>`](./String-Algorithm/Z-Algorithm/Prefix-Number/README.md)        |
+| **#02** | [`Statistics of strings`](./String-Algorithm/Z-Algorithm/Statistics-of-Strings/README.md) |
