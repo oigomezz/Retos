@@ -864,3 +864,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#39** | [`Game of Strings`](./String-Algorithm/String-Searching/Game-of-Strings/README.md)                           |
 | **#40** | [`Largest Lexicographical Rotation II`](./String-Algorithm/String-Searching/Largest-Rotation-II/README.md)   |
 | **#41** | [`Arrange Brackets`](./String-Algorithm/String-Searching/Arrange-Brackets/README.md)                         |
+
+#### [Z Algorithm](./String-Algorithm/Z-Algorithm/README.md)
