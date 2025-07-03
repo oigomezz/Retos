@@ -883,3 +883,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                                            |
 | ------- | ------------------------------------------------------------------------------------ |
 | **#01** | [`EasyPalindrome`](./String-Algorithm/Manachar’s-Algorithm/EasyPalindrome/README.md) |
+| **#02** | [`Last Forever`](./String-Algorithm/Z-Algorithm/Last-Forever/README.md)              |
