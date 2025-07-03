@@ -879,3 +879,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`Decode`](./String-Algorithm/Z-Algorithm/Decode/README.md)                               |
 
 #### [Manachar’s Algorithm](./String-Algorithm/Manachar’s-Algorithm/README.md)
+
+| N°      | Enunciado                                                                            |
+| ------- | ------------------------------------------------------------------------------------ |
+| **#01** | [`EasyPalindrome`](./String-Algorithm/Manachar’s-Algorithm/EasyPalindrome/README.md) |
