@@ -890,8 +890,9 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Introduction to Dynamic Programming](./Dynamic-Programming/Introduction/README.md)
 
-| N°      | Enunciado                                                                                    |
-| ------- | -------------------------------------------------------------------------------------------- |
-| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                |
-| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md) |
-| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                    |
+| N°      | Enunciado                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------- |
+| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                 |
+| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md)  |
+| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                     |
+| **#04** | [`Telephone connections`](./Dynamic-Programming/Introduction/Telephone-Connections/README.md) |
