@@ -890,6 +890,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Introduction to Dynamic Programming](./Dynamic-Programming/Introduction/README.md)
 
-| N°      | Enunciado                                                                     |
-| ------- | ----------------------------------------------------------------------------- |
-| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md) |
+| N°      | Enunciado                                                                                    |
+| ------- | -------------------------------------------------------------------------------------------- |
+| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                |
+| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md) |
