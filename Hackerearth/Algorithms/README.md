@@ -889,3 +889,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 ### Dynamic Programming
 
 #### [Introduction to Dynamic Programming](./Dynamic-Programming/Introduction/README.md)
+
+| N°      | Enunciado                                                                     |
+| ------- | ----------------------------------------------------------------------------- |
+| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md) |
