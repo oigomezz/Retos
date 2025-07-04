@@ -899,3 +899,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Prefix Minimum Query`](./Dynamic-Programming/Introduction/Prefix-Minimum-Query/README.md)   |
 | **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)             |
 | **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)     |
+| **#08** | [`Prefix XOR Sum`](./Dynamic-Programming/Introduction/Prefix-XOR-Sum/README.md)               |
