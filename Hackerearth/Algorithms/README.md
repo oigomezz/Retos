@@ -900,3 +900,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)             |
 | **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)     |
 | **#08** | [`Prefix XOR Sum`](./Dynamic-Programming/Introduction/Prefix-XOR-Sum/README.md)               |
+| **#09** | [`Positive Substring`](./Dynamic-Programming/Introduction/Positive-Substring/README.md)       |
