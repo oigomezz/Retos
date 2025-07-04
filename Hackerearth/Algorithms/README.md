@@ -898,3 +898,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Telephone connections`](./Dynamic-Programming/Introduction/Telephone-Connections/README.md) |
 | **#05** | [`Prefix Minimum Query`](./Dynamic-Programming/Introduction/Prefix-Minimum-Query/README.md)   |
 | **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)             |
+| **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)     |
