@@ -885,3 +885,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#01** | [`EasyPalindrome`](./String-Algorithm/Manachar’s-Algorithm/EasyPalindrome/README.md)         |
 | **#02** | [`Last Forever`](./String-Algorithm/Manachar’s-Algorithm/Last-Forever/README.md)             |
 | **#03** | [`Longest Palindrome`](./String-Algorithm/Manachar’s-Algorithm/Longest-Palindrome/README.md) |
+
+### Dynamic Programming
+
+#### [Introduction to Dynamic Programming](./Dynamic-Programming/Introduction/README.md)
