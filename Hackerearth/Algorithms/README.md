@@ -894,3 +894,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | ------- | -------------------------------------------------------------------------------------------- |
 | **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                |
 | **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md) |
+| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                    |
