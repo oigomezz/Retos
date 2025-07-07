@@ -890,15 +890,16 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Introduction to Dynamic Programming](./Dynamic-Programming/Introduction/README.md)
 
-| N°      | Enunciado                                                                                     |
-| ------- | --------------------------------------------------------------------------------------------- |
-| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                 |
-| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md)  |
-| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                     |
-| **#04** | [`Telephone connections`](./Dynamic-Programming/Introduction/Telephone-Connections/README.md) |
-| **#05** | [`Prefix Minimum Query`](./Dynamic-Programming/Introduction/Prefix-Minimum-Query/README.md)   |
-| **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)             |
-| **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)     |
-| **#08** | [`Prefix XOR Sum`](./Dynamic-Programming/Introduction/Prefix-XOR-Sum/README.md)               |
-| **#09** | [`Positive Substring`](./Dynamic-Programming/Introduction/Positive-Substring/README.md)       |
-| **#10** | [`Rohit and his brother`](./Dynamic-Programming/Introduction/Rohit-and-his-brother/README.md) |
+| N°      | Enunciado                                                                                                 |
+| ------- | --------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                             |
+| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md)              |
+| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                                 |
+| **#04** | [`Telephone connections`](./Dynamic-Programming/Introduction/Telephone-Connections/README.md)             |
+| **#05** | [`Prefix Minimum Query`](./Dynamic-Programming/Introduction/Prefix-Minimum-Query/README.md)               |
+| **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)                         |
+| **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)                 |
+| **#08** | [`Prefix XOR Sum`](./Dynamic-Programming/Introduction/Prefix-XOR-Sum/README.md)                           |
+| **#09** | [`Positive Substring`](./Dynamic-Programming/Introduction/Positive-Substring/README.md)                   |
+| **#10** | [`Rohit and his brother`](./Dynamic-Programming/Introduction/Rohit-and-his-brother/README.md)             |
+| **#11** | [`Minimum Adjacent Difference`](./Dynamic-Programming/Introduction/Minimum-Adjacent-Difference/README.md) |
