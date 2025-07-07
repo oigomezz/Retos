@@ -905,3 +905,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#11** | [`Minimum Adjacent Difference`](./Dynamic-Programming/Introduction/Minimum-Adjacent-Difference/README.md) |
 | **#12** | [`Even Array`](./Dynamic-Programming/Introduction/Even-Array/README.md)                                   |
 | **#13** | [`Memory Reader`](./Dynamic-Programming/Introduction/Memory-Reader/README.md)                             |
+| **#14** | [`Sequential tuples`](./Dynamic-Programming/Introduction/Sequential-Tuples/README.md)                     |
