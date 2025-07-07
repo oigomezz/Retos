@@ -903,3 +903,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#09** | [`Positive Substring`](./Dynamic-Programming/Introduction/Positive-Substring/README.md)                   |
 | **#10** | [`Rohit and his brother`](./Dynamic-Programming/Introduction/Rohit-and-his-brother/README.md)             |
 | **#11** | [`Minimum Adjacent Difference`](./Dynamic-Programming/Introduction/Minimum-Adjacent-Difference/README.md) |
+| **#12** | [`Even Array`](./Dynamic-Programming/Introduction/Even-Array/README.md) |
