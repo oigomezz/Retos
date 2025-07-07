@@ -910,3 +910,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#16** | [`Ternary palindromes`](./Dynamic-Programming/Introduction/Ternary-Palindromes/README.md)                 |
 | **#17** | [`Good strings`](./Dynamic-Programming/Introduction/Good-Strings/README.md)                               |
 | **#18** | [`Travel`](./Dynamic-Programming/Introduction/Travel/README.md)                                           |
+| **#19** | [`Bob and the apples`](./Dynamic-Programming/Introduction/Bob-and-the-apples/README.md)                   |
