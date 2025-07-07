@@ -907,3 +907,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#13** | [`Memory Reader`](./Dynamic-Programming/Introduction/Memory-Reader/README.md)                             |
 | **#14** | [`Sequential tuples`](./Dynamic-Programming/Introduction/Sequential-Tuples/README.md)                     |
 | **#15** | [`Sprinklers`](./Dynamic-Programming/Introduction/Sprinklers/README.md)                                   |
+| **#16** | [`Ternary palindromes`](./Dynamic-Programming/Introduction/Ternary-Palindromes/README.md)                 |
