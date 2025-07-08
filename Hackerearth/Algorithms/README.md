@@ -913,3 +913,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#19** | [`Bob and the apples`](./Dynamic-Programming/Introduction/Bob-and-the-apples/README.md)                   |
 | **#20** | [`The loop problem`](./Dynamic-Programming/Introduction/The-Loop-Problem/README.md)                       |
 | **#21** | [`Length of a valley`](./Dynamic-Programming/Introduction/Length-of-a-Valley/README.md)                   |
+| **#22** | [`The maximum set`](./Dynamic-Programming/Introduction/The-Maximum-Set/README.md)                         |
