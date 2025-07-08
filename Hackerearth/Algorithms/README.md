@@ -916,3 +916,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#22** | [`The maximum set`](./Dynamic-Programming/Introduction/The-Maximum-Set/README.md)                         |
 | **#23** | [`Array operations`](./Dynamic-Programming/Introduction/Array-Operations/README.md)                       |
 | **#24** | [`A matrix and XOR operation`](./Dynamic-Programming/Introduction/A-matrix-and-XOR-operation/README.md)   |
+| **#25** | [`Array modification`](./Dynamic-Programming/Introduction/Array-Modification/README.md)                   |
