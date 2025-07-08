@@ -919,3 +919,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#25** | [`Array modification`](./Dynamic-Programming/Introduction/Array-Modification/README.md)                   |
 | **#26** | [`Avoiding traps`](./Dynamic-Programming/Introduction/Avoiding-Traps/README.md)                           |
 | **#27** | [`Inversion graphs`](./Dynamic-Programming/Introduction/Inversion-Graphs/README.md)                       |
+| **#28** | [`Roses in a shop`](./Dynamic-Programming/Introduction/Roses-in-a-Shop/README.md) |
