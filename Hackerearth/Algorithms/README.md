@@ -915,3 +915,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#21** | [`Length of a valley`](./Dynamic-Programming/Introduction/Length-of-a-Valley/README.md)                   |
 | **#22** | [`The maximum set`](./Dynamic-Programming/Introduction/The-Maximum-Set/README.md)                         |
 | **#23** | [`Array operations`](./Dynamic-Programming/Introduction/Array-Operations/README.md)                       |
+| **#24** | [`A matrix and XOR operation`](./Dynamic-Programming/Introduction/A-matrix-and-XOR-operation/README.md)   |
