@@ -929,3 +929,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#35** | [`Palindromic game`](./Dynamic-Programming/Introduction/Palindromic-Game/README.md)                       |
 | **#36** | [`Xor Thingy <July Circuits '19>`](./Dynamic-Programming/Introduction/XOR-Thingy/README.md)               |
 | **#37** | [`Digit strings`](./Dynamic-Programming/Introduction/Digit-Strings/README.md)                             |
+| **#38** | [`Knapsacks`](./Dynamic-Programming/Introduction/Knapsacks/README.md)                                     |
