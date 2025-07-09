@@ -921,3 +921,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#27** | [`Inversion graphs`](./Dynamic-Programming/Introduction/Inversion-Graphs/README.md)                       |
 | **#28** | [`Roses in a shop`](./Dynamic-Programming/Introduction/Roses-in-a-Shop/README.md)                         |
 | **#29** | [`Subsequences`](./Dynamic-Programming/Introduction/Subsequences/README.md)                               |
+| **#30** | [`Shift and Replace`](./Dynamic-Programming/Introduction/Shift-and-Replace/README.md)                     |
