@@ -927,3 +927,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#33** | [`Grand sale`](./Dynamic-Programming/Introduction/Grand-Sale/README.md)                                   |
 | **#34** | [`Jumping stones`](./Dynamic-Programming/Introduction/Jumping-Stones/README.md)                           |
 | **#35** | [`Palindromic game`](./Dynamic-Programming/Introduction/Palindromic-Game/README.md)                       |
+| **#36** | [`Xor Thingy <July Circuits '19>`](./Dynamic-Programming/Introduction/XOR-Thingy/README.md)               |
