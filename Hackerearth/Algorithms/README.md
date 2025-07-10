@@ -939,3 +939,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#45** | [`Equal Array`](./Dynamic-Programming/Introduction/Equal-Array/README.md)                                 |
 | **#46** | [`Odd-Even Subarrays`](./Dynamic-Programming/Introduction/Odd-Even-Subarrays/README.md)                   |
 | **#47** | [`Zulu and Games`](./Dynamic-Programming/Introduction/Zulu-and-Games/README.md)                           |
+| **#48** | [`Accommodation`](./Dynamic-Programming/Introduction/Accommodation/README.md)                             |
