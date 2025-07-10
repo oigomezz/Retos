@@ -934,3 +934,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#40** | [`Analytically Stable`](./Dynamic-Programming/Introduction/Analytically-Stable/README.md)                 |
 | **#41** | [`Non-intersecting Segments`](./Dynamic-Programming/Introduction/Non-intersecting-Segments/README.md)     |
 | **#42** | [`Number Sum`](./Dynamic-Programming/Introduction/Number-Sum/README.md)                                   |
+| **#43** | [`Prize Money`](./Dynamic-Programming/Introduction/Prize-Money/README.md)                                 |
