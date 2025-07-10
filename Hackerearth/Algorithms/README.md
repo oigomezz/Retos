@@ -935,3 +935,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#41** | [`Non-intersecting Segments`](./Dynamic-Programming/Introduction/Non-intersecting-Segments/README.md)     |
 | **#42** | [`Number Sum`](./Dynamic-Programming/Introduction/Number-Sum/README.md)                                   |
 | **#43** | [`Prize Money`](./Dynamic-Programming/Introduction/Prize-Money/README.md)                                 |
+| **#44** | [`Tedious Work`](./Dynamic-Programming/Introduction/Tedious-Work/README.md) |
