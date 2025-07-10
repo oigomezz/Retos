@@ -938,3 +938,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#44** | [`Tedious Work`](./Dynamic-Programming/Introduction/Tedious-Work/README.md)                               |
 | **#45** | [`Equal Array`](./Dynamic-Programming/Introduction/Equal-Array/README.md)                                 |
 | **#46** | [`Odd-Even Subarrays`](./Dynamic-Programming/Introduction/Odd-Even-Subarrays/README.md)                   |
+| **#47** | [`Zulu and Games`](./Dynamic-Programming/Introduction/Zulu-and-Games/README.md)                           |
