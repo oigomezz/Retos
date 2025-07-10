@@ -932,3 +932,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#38** | [`Knapsacks`](./Dynamic-Programming/Introduction/Knapsacks/README.md)                                     |
 | **#39** | [`Minimum steps`](./Dynamic-Programming/Introduction/Minimum-Steps/README.md)                             |
 | **#40** | [`Analytically Stable`](./Dynamic-Programming/Introduction/Analytically-Stable/README.md)                 |
+| **#41** | [`Non-intersecting Segments`](./Dynamic-Programming/Introduction/Non-intersecting-Segments/README.md)     |
