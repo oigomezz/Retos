@@ -937,3 +937,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#43** | [`Prize Money`](./Dynamic-Programming/Introduction/Prize-Money/README.md)                                 |
 | **#44** | [`Tedious Work`](./Dynamic-Programming/Introduction/Tedious-Work/README.md)                               |
 | **#45** | [`Equal Array`](./Dynamic-Programming/Introduction/Equal-Array/README.md)                                 |
+| **#46** | [`Odd-Even Subarrays`](./Dynamic-Programming/Introduction/Odd-Even-Subarrays/README.md)                   |
