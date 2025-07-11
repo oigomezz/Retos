@@ -949,3 +949,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#55** | [`The Land of Mines`](./Dynamic-Programming/Introduction/The-Land-of-Mines/README.md)                     |
 | **#56** | [`Game of Colors`](./Dynamic-Programming/Introduction/Game-of-Colors/README.md)                           |
 | **#57** | [`Favorite Subsequence`](./Dynamic-Programming/Introduction/Favorite-Subsequence/README.md)               |
+| **#58** | [`Family competition`](./Dynamic-Programming/Introduction/Family-Competition/README.md)                   |
