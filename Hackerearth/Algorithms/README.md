@@ -943,3 +943,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#49** | [`Selection of Numbers`](./Dynamic-Programming/Introduction/Selection-of-Numbers/README.md)               |
 | **#50** | [`Fredo and Two Strings`](./Dynamic-Programming/Introduction/Fredo-and-Two-Strings/README.md)             |
 | **#51** | [`A Weird Game`](./Dynamic-Programming/Introduction/A-Weird-Game/README.md)                               |
+| **#52** | [`Counting Number of Ways`](./Dynamic-Programming/Introduction/Counting-Number-of-Ways/README.md)         |
