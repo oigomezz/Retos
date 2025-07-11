@@ -947,3 +947,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#53** | [`ALOVEG!! [Easy-Medium]`](./Dynamic-Programming/Introduction/ALOVEG/README.md)                           |
 | **#54** | [`Little Shino and Contests`](./Dynamic-Programming/Introduction/Little-Shino-and-Contests/README.md)     |
 | **#55** | [`The Land of Mines`](./Dynamic-Programming/Introduction/The-Land-of-Mines/README.md)                     |
+| **#56** | [`Game of Colors`](./Dynamic-Programming/Introduction/Game-of-Colors/README.md)                           |
