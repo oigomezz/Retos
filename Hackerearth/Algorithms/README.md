@@ -941,3 +941,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#47** | [`Zulu and Games`](./Dynamic-Programming/Introduction/Zulu-and-Games/README.md)                           |
 | **#48** | [`Accommodation`](./Dynamic-Programming/Introduction/Accommodation/README.md)                             |
 | **#49** | [`Selection of Numbers`](./Dynamic-Programming/Introduction/Selection-of-Numbers/README.md)               |
+| **#50** | [`Fredo and Two Strings`](./Dynamic-Programming/Introduction/Fredo-and-Two-Strings/README.md)             |
