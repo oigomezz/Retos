@@ -957,3 +957,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#63** | [`Shivam, Shantam and their Absolute Difference`](./Dynamic-Programming/Introduction/Absolute-Difference/README.md) |
 | **#64** | [`Hasan and Trip`](./Dynamic-Programming/Introduction/Hasan-and-Trip/README.md)                                     |
 | **#65** | [`Hasan and Trip`](./Dynamic-Programming/Introduction/Hasan-and-Trip-1/README.md)                                   |
+| **#66** | [`Hasan and Points Pairing`](./Dynamic-Programming/Introduction/Hasan-and-Points-Pairing/README.md)                 |
