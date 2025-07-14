@@ -890,67 +890,68 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [Introduction to Dynamic Programming](./Dynamic-Programming/Introduction/README.md)
 
-| N°      | Enunciado                                                                                                 |
-| ------- | --------------------------------------------------------------------------------------------------------- |
-| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                             |
-| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md)              |
-| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                                 |
-| **#04** | [`Telephone connections`](./Dynamic-Programming/Introduction/Telephone-Connections/README.md)             |
-| **#05** | [`Prefix Minimum Query`](./Dynamic-Programming/Introduction/Prefix-Minimum-Query/README.md)               |
-| **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)                         |
-| **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)                 |
-| **#08** | [`Prefix XOR Sum`](./Dynamic-Programming/Introduction/Prefix-XOR-Sum/README.md)                           |
-| **#09** | [`Positive Substring`](./Dynamic-Programming/Introduction/Positive-Substring/README.md)                   |
-| **#10** | [`Rohit and his brother`](./Dynamic-Programming/Introduction/Rohit-and-his-brother/README.md)             |
-| **#11** | [`Minimum Adjacent Difference`](./Dynamic-Programming/Introduction/Minimum-Adjacent-Difference/README.md) |
-| **#12** | [`Even Array`](./Dynamic-Programming/Introduction/Even-Array/README.md)                                   |
-| **#13** | [`Memory Reader`](./Dynamic-Programming/Introduction/Memory-Reader/README.md)                             |
-| **#14** | [`Sequential tuples`](./Dynamic-Programming/Introduction/Sequential-Tuples/README.md)                     |
-| **#15** | [`Sprinklers`](./Dynamic-Programming/Introduction/Sprinklers/README.md)                                   |
-| **#16** | [`Ternary palindromes`](./Dynamic-Programming/Introduction/Ternary-Palindromes/README.md)                 |
-| **#17** | [`Good strings`](./Dynamic-Programming/Introduction/Good-Strings/README.md)                               |
-| **#18** | [`Travel`](./Dynamic-Programming/Introduction/Travel/README.md)                                           |
-| **#19** | [`Bob and the apples`](./Dynamic-Programming/Introduction/Bob-and-the-apples/README.md)                   |
-| **#20** | [`The loop problem`](./Dynamic-Programming/Introduction/The-Loop-Problem/README.md)                       |
-| **#21** | [`Length of a valley`](./Dynamic-Programming/Introduction/Length-of-a-Valley/README.md)                   |
-| **#22** | [`The maximum set`](./Dynamic-Programming/Introduction/The-Maximum-Set/README.md)                         |
-| **#23** | [`Array operations`](./Dynamic-Programming/Introduction/Array-Operations/README.md)                       |
-| **#24** | [`A matrix and XOR operation`](./Dynamic-Programming/Introduction/A-matrix-and-XOR-operation/README.md)   |
-| **#25** | [`Array modification`](./Dynamic-Programming/Introduction/Array-Modification/README.md)                   |
-| **#26** | [`Avoiding traps`](./Dynamic-Programming/Introduction/Avoiding-Traps/README.md)                           |
-| **#27** | [`Inversion graphs`](./Dynamic-Programming/Introduction/Inversion-Graphs/README.md)                       |
-| **#28** | [`Roses in a shop`](./Dynamic-Programming/Introduction/Roses-in-a-Shop/README.md)                         |
-| **#29** | [`Subsequences`](./Dynamic-Programming/Introduction/Subsequences/README.md)                               |
-| **#30** | [`Shift and Replace`](./Dynamic-Programming/Introduction/Shift-and-Replace/README.md)                     |
-| **#31** | [`Digital string`](./Dynamic-Programming/Introduction/Digital-String/README.md)                           |
-| **#32** | [`Another substring`](./Dynamic-Programming/Introduction/Another-Substring/README.md)                     |
-| **#33** | [`Grand sale`](./Dynamic-Programming/Introduction/Grand-Sale/README.md)                                   |
-| **#34** | [`Jumping stones`](./Dynamic-Programming/Introduction/Jumping-Stones/README.md)                           |
-| **#35** | [`Palindromic game`](./Dynamic-Programming/Introduction/Palindromic-Game/README.md)                       |
-| **#36** | [`Xor Thingy <July Circuits '19>`](./Dynamic-Programming/Introduction/XOR-Thingy/README.md)               |
-| **#37** | [`Digit strings`](./Dynamic-Programming/Introduction/Digit-Strings/README.md)                             |
-| **#38** | [`Knapsacks`](./Dynamic-Programming/Introduction/Knapsacks/README.md)                                     |
-| **#39** | [`Minimum steps`](./Dynamic-Programming/Introduction/Minimum-Steps/README.md)                             |
-| **#40** | [`Analytically Stable`](./Dynamic-Programming/Introduction/Analytically-Stable/README.md)                 |
-| **#41** | [`Non-intersecting Segments`](./Dynamic-Programming/Introduction/Non-intersecting-Segments/README.md)     |
-| **#42** | [`Number Sum`](./Dynamic-Programming/Introduction/Number-Sum/README.md)                                   |
-| **#43** | [`Prize Money`](./Dynamic-Programming/Introduction/Prize-Money/README.md)                                 |
-| **#44** | [`Tedious Work`](./Dynamic-Programming/Introduction/Tedious-Work/README.md)                               |
-| **#45** | [`Equal Array`](./Dynamic-Programming/Introduction/Equal-Array/README.md)                                 |
-| **#46** | [`Odd-Even Subarrays`](./Dynamic-Programming/Introduction/Odd-Even-Subarrays/README.md)                   |
-| **#47** | [`Zulu and Games`](./Dynamic-Programming/Introduction/Zulu-and-Games/README.md)                           |
-| **#48** | [`Accommodation`](./Dynamic-Programming/Introduction/Accommodation/README.md)                             |
-| **#49** | [`Selection of Numbers`](./Dynamic-Programming/Introduction/Selection-of-Numbers/README.md)               |
-| **#50** | [`Fredo and Two Strings`](./Dynamic-Programming/Introduction/Fredo-and-Two-Strings/README.md)             |
-| **#51** | [`A Weird Game`](./Dynamic-Programming/Introduction/A-Weird-Game/README.md)                               |
-| **#52** | [`Counting Number of Ways`](./Dynamic-Programming/Introduction/Counting-Number-of-Ways/README.md)         |
-| **#53** | [`ALOVEG!! [Easy-Medium]`](./Dynamic-Programming/Introduction/ALOVEG/README.md)                           |
-| **#54** | [`Little Shino and Contests`](./Dynamic-Programming/Introduction/Little-Shino-and-Contests/README.md)     |
-| **#55** | [`The Land of Mines`](./Dynamic-Programming/Introduction/The-Land-of-Mines/README.md)                     |
-| **#56** | [`Game of Colors`](./Dynamic-Programming/Introduction/Game-of-Colors/README.md)                           |
-| **#57** | [`Favorite Subsequence`](./Dynamic-Programming/Introduction/Favorite-Subsequence/README.md)               |
-| **#58** | [`Family competition`](./Dynamic-Programming/Introduction/Family-Competition/README.md)                   |
-| **#59** | [`Maximum Chocolate`](./Dynamic-Programming/Introduction/Maximum-Chocolate/README.md)                     |
-| **#60** | [`Balanced Buildings`](./Dynamic-Programming/Introduction/Balanced-Buildings/README.md)                   |
-| **#61** | [`Rhezo and Prime Problems`](./Dynamic-Programming/Introduction/Rhezo-and-Prime-Problems/README.md)       |
-| **#62** | [`Prateek and theories`](./Dynamic-Programming/Introduction/Prateek-and-Theories/README.md)               |
+| N°      | Enunciado                                                                                                           |
+| ------- | ------------------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Lucky Numbers`](./Dynamic-Programming/Introduction/Lucky-Numbers/README.md)                                       |
+| **#02** | [`StellarSeating Maximization`](./Dynamic-Programming/Introduction/StellarSeating/README.md)                        |
+| **#03** | [`Optimal Way`](./Dynamic-Programming/Introduction/Optimal-Way/README.md)                                           |
+| **#04** | [`Telephone connections`](./Dynamic-Programming/Introduction/Telephone-Connections/README.md)                       |
+| **#05** | [`Prefix Minimum Query`](./Dynamic-Programming/Introduction/Prefix-Minimum-Query/README.md)                         |
+| **#06** | [`Max separations`](./Dynamic-Programming/Introduction/Max-Separations/README.md)                                   |
+| **#07** | [`Balanced Sub-Arrays`](./Dynamic-Programming/Introduction/Balanced-Sub-Arrays/README.md)                           |
+| **#08** | [`Prefix XOR Sum`](./Dynamic-Programming/Introduction/Prefix-XOR-Sum/README.md)                                     |
+| **#09** | [`Positive Substring`](./Dynamic-Programming/Introduction/Positive-Substring/README.md)                             |
+| **#10** | [`Rohit and his brother`](./Dynamic-Programming/Introduction/Rohit-and-his-brother/README.md)                       |
+| **#11** | [`Minimum Adjacent Difference`](./Dynamic-Programming/Introduction/Minimum-Adjacent-Difference/README.md)           |
+| **#12** | [`Even Array`](./Dynamic-Programming/Introduction/Even-Array/README.md)                                             |
+| **#13** | [`Memory Reader`](./Dynamic-Programming/Introduction/Memory-Reader/README.md)                                       |
+| **#14** | [`Sequential tuples`](./Dynamic-Programming/Introduction/Sequential-Tuples/README.md)                               |
+| **#15** | [`Sprinklers`](./Dynamic-Programming/Introduction/Sprinklers/README.md)                                             |
+| **#16** | [`Ternary palindromes`](./Dynamic-Programming/Introduction/Ternary-Palindromes/README.md)                           |
+| **#17** | [`Good strings`](./Dynamic-Programming/Introduction/Good-Strings/README.md)                                         |
+| **#18** | [`Travel`](./Dynamic-Programming/Introduction/Travel/README.md)                                                     |
+| **#19** | [`Bob and the apples`](./Dynamic-Programming/Introduction/Bob-and-the-apples/README.md)                             |
+| **#20** | [`The loop problem`](./Dynamic-Programming/Introduction/The-Loop-Problem/README.md)                                 |
+| **#21** | [`Length of a valley`](./Dynamic-Programming/Introduction/Length-of-a-Valley/README.md)                             |
+| **#22** | [`The maximum set`](./Dynamic-Programming/Introduction/The-Maximum-Set/README.md)                                   |
+| **#23** | [`Array operations`](./Dynamic-Programming/Introduction/Array-Operations/README.md)                                 |
+| **#24** | [`A matrix and XOR operation`](./Dynamic-Programming/Introduction/A-matrix-and-XOR-operation/README.md)             |
+| **#25** | [`Array modification`](./Dynamic-Programming/Introduction/Array-Modification/README.md)                             |
+| **#26** | [`Avoiding traps`](./Dynamic-Programming/Introduction/Avoiding-Traps/README.md)                                     |
+| **#27** | [`Inversion graphs`](./Dynamic-Programming/Introduction/Inversion-Graphs/README.md)                                 |
+| **#28** | [`Roses in a shop`](./Dynamic-Programming/Introduction/Roses-in-a-Shop/README.md)                                   |
+| **#29** | [`Subsequences`](./Dynamic-Programming/Introduction/Subsequences/README.md)                                         |
+| **#30** | [`Shift and Replace`](./Dynamic-Programming/Introduction/Shift-and-Replace/README.md)                               |
+| **#31** | [`Digital string`](./Dynamic-Programming/Introduction/Digital-String/README.md)                                     |
+| **#32** | [`Another substring`](./Dynamic-Programming/Introduction/Another-Substring/README.md)                               |
+| **#33** | [`Grand sale`](./Dynamic-Programming/Introduction/Grand-Sale/README.md)                                             |
+| **#34** | [`Jumping stones`](./Dynamic-Programming/Introduction/Jumping-Stones/README.md)                                     |
+| **#35** | [`Palindromic game`](./Dynamic-Programming/Introduction/Palindromic-Game/README.md)                                 |
+| **#36** | [`Xor Thingy <July Circuits '19>`](./Dynamic-Programming/Introduction/XOR-Thingy/README.md)                         |
+| **#37** | [`Digit strings`](./Dynamic-Programming/Introduction/Digit-Strings/README.md)                                       |
+| **#38** | [`Knapsacks`](./Dynamic-Programming/Introduction/Knapsacks/README.md)                                               |
+| **#39** | [`Minimum steps`](./Dynamic-Programming/Introduction/Minimum-Steps/README.md)                                       |
+| **#40** | [`Analytically Stable`](./Dynamic-Programming/Introduction/Analytically-Stable/README.md)                           |
+| **#41** | [`Non-intersecting Segments`](./Dynamic-Programming/Introduction/Non-intersecting-Segments/README.md)               |
+| **#42** | [`Number Sum`](./Dynamic-Programming/Introduction/Number-Sum/README.md)                                             |
+| **#43** | [`Prize Money`](./Dynamic-Programming/Introduction/Prize-Money/README.md)                                           |
+| **#44** | [`Tedious Work`](./Dynamic-Programming/Introduction/Tedious-Work/README.md)                                         |
+| **#45** | [`Equal Array`](./Dynamic-Programming/Introduction/Equal-Array/README.md)                                           |
+| **#46** | [`Odd-Even Subarrays`](./Dynamic-Programming/Introduction/Odd-Even-Subarrays/README.md)                             |
+| **#47** | [`Zulu and Games`](./Dynamic-Programming/Introduction/Zulu-and-Games/README.md)                                     |
+| **#48** | [`Accommodation`](./Dynamic-Programming/Introduction/Accommodation/README.md)                                       |
+| **#49** | [`Selection of Numbers`](./Dynamic-Programming/Introduction/Selection-of-Numbers/README.md)                         |
+| **#50** | [`Fredo and Two Strings`](./Dynamic-Programming/Introduction/Fredo-and-Two-Strings/README.md)                       |
+| **#51** | [`A Weird Game`](./Dynamic-Programming/Introduction/A-Weird-Game/README.md)                                         |
+| **#52** | [`Counting Number of Ways`](./Dynamic-Programming/Introduction/Counting-Number-of-Ways/README.md)                   |
+| **#53** | [`ALOVEG!! [Easy-Medium]`](./Dynamic-Programming/Introduction/ALOVEG/README.md)                                     |
+| **#54** | [`Little Shino and Contests`](./Dynamic-Programming/Introduction/Little-Shino-and-Contests/README.md)               |
+| **#55** | [`The Land of Mines`](./Dynamic-Programming/Introduction/The-Land-of-Mines/README.md)                               |
+| **#56** | [`Game of Colors`](./Dynamic-Programming/Introduction/Game-of-Colors/README.md)                                     |
+| **#57** | [`Favorite Subsequence`](./Dynamic-Programming/Introduction/Favorite-Subsequence/README.md)                         |
+| **#58** | [`Family competition`](./Dynamic-Programming/Introduction/Family-Competition/README.md)                             |
+| **#59** | [`Maximum Chocolate`](./Dynamic-Programming/Introduction/Maximum-Chocolate/README.md)                               |
+| **#60** | [`Balanced Buildings`](./Dynamic-Programming/Introduction/Balanced-Buildings/README.md)                             |
+| **#61** | [`Rhezo and Prime Problems`](./Dynamic-Programming/Introduction/Rhezo-and-Prime-Problems/README.md)                 |
+| **#62** | [`Prateek and theories`](./Dynamic-Programming/Introduction/Prateek-and-Theories/README.md)                         |
+| **#63** | [`Shivam, Shantam and their Absolute Difference`](./Dynamic-Programming/Introduction/Absolute-Difference/README.md) |
