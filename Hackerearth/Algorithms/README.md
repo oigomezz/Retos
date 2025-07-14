@@ -960,3 +960,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#66** | [`Hasan and Points Pairing`](./Dynamic-Programming/Introduction/Hasan-and-Points-Pairing/README.md)                 |
 | **#67** | [`Vibhu and his Mathematics`](./Dynamic-Programming/Introduction/Vibhu-and-his-Mathematics/README.md)               |
 | **#68** | [`Crazy Painter`](./Dynamic-Programming/Introduction/Crazy-Painter/README.md)                                       |
+| **#69** | [`Intelligent Girl`](./Dynamic-Programming/Introduction/Intelligent-Girl/README.md)                                 |
