@@ -955,3 +955,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#61** | [`Rhezo and Prime Problems`](./Dynamic-Programming/Introduction/Rhezo-and-Prime-Problems/README.md)                 |
 | **#62** | [`Prateek and theories`](./Dynamic-Programming/Introduction/Prateek-and-Theories/README.md)                         |
 | **#63** | [`Shivam, Shantam and their Absolute Difference`](./Dynamic-Programming/Introduction/Absolute-Difference/README.md) |
+| **#64** | [`Hasan and Trip`](./Dynamic-Programming/Introduction/Hasan-and-Trip/README.md)                                     |
