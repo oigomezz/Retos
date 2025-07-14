@@ -951,3 +951,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#57** | [`Favorite Subsequence`](./Dynamic-Programming/Introduction/Favorite-Subsequence/README.md)               |
 | **#58** | [`Family competition`](./Dynamic-Programming/Introduction/Family-Competition/README.md)                   |
 | **#59** | [`Maximum Chocolate`](./Dynamic-Programming/Introduction/Maximum-Chocolate/README.md)                     |
+| **#60** | [`Balanced Buildings`](./Dynamic-Programming/Introduction/Balanced-Buildings/README.md)                   |
