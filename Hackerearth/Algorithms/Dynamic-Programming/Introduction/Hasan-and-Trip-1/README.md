@@ -19,4 +19,4 @@ Help Hasan by choosing a sequence of cities to visit which maximizes his happine
 
 Output one number rounded to 6 digits after floating point, the maximum possible happiness Hasan can get.
 
-[link]: https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-trip/
+[link]: https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-trip-1/
