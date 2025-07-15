@@ -968,3 +968,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#74** | [`Xsquare And Chocolates Bars`](./Dynamic-Programming/Introduction/Xsquare-and-Chocolates-Bars/README.md)           |
 | **#75** | [`Xsquare And Two Arrays`](./Dynamic-Programming/Introduction/Xsquare-and-Two-Arrays/README.md)                     |
 | **#76** | [`Moody Numbers`](./Dynamic-Programming/Introduction/Moody-Numbers/README.md)                                       |
+| **#77** | [`Prime Numbers Again`](./Dynamic-Programming/Introduction/Prime-Numbers-Again/README.md)                           |
