@@ -962,3 +962,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#68** | [`Crazy Painter`](./Dynamic-Programming/Introduction/Crazy-Painter/README.md)                                       |
 | **#69** | [`Intelligent Girl`](./Dynamic-Programming/Introduction/Intelligent-Girl/README.md)                                 |
 | **#70** | [`Numerical Armageddon Round 1`](./Dynamic-Programming/Introduction/Numerical-Armageddon-Round-1/README.md)         |
+| **#71** | [`Tower of Hanoi`](./Dynamic-Programming/Introduction/Tower-of-Hanoi/README.md)                                     |
