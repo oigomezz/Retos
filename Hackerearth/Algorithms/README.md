@@ -965,3 +965,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#71** | [`Tower of Hanoi`](./Dynamic-Programming/Introduction/Tower-of-Hanoi/README.md)                                     |
 | **#72** | [`Panda and Numbers`](./Dynamic-Programming/Introduction/Panda-and-Numbers/README.md)                               |
 | **#73** | [`Phoebe's Melody`](./Dynamic-Programming/Introduction/Phoebe's-Melody/README.md)                                   |
+| **#74** | [`Xsquare And Chocolates Bars`](./Dynamic-Programming/Introduction/Xsquare-and-Chocolates-Bars/README.md)           |
