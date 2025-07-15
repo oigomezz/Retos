@@ -970,3 +970,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#76** | [`Moody Numbers`](./Dynamic-Programming/Introduction/Moody-Numbers/README.md)                                       |
 | **#77** | [`Prime Numbers Again`](./Dynamic-Programming/Introduction/Prime-Numbers-Again/README.md)                           |
 | **#78** | [`Xsquare And Coin Collection`](./Dynamic-Programming/Introduction/Xsquare-and-Coin-Collection/README.md)           |
+| **#79** | [`Roy and Coin Boxes`](./Dynamic-Programming/Introduction/Roy-and-Coin-Boxes/README.md)                             |
