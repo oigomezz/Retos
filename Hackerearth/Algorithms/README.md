@@ -966,3 +966,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#72** | [`Panda and Numbers`](./Dynamic-Programming/Introduction/Panda-and-Numbers/README.md)                               |
 | **#73** | [`Phoebe's Melody`](./Dynamic-Programming/Introduction/Phoebe's-Melody/README.md)                                   |
 | **#74** | [`Xsquare And Chocolates Bars`](./Dynamic-Programming/Introduction/Xsquare-and-Chocolates-Bars/README.md)           |
+| **#75** | [`Xsquare And Two Arrays`](./Dynamic-Programming/Introduction/Xsquare-and-Two-Arrays/README.md)                     |
