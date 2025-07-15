@@ -967,3 +967,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#73** | [`Phoebe's Melody`](./Dynamic-Programming/Introduction/Phoebe's-Melody/README.md)                                   |
 | **#74** | [`Xsquare And Chocolates Bars`](./Dynamic-Programming/Introduction/Xsquare-and-Chocolates-Bars/README.md)           |
 | **#75** | [`Xsquare And Two Arrays`](./Dynamic-Programming/Introduction/Xsquare-and-Two-Arrays/README.md)                     |
+| **#76** | [`Moody Numbers`](./Dynamic-Programming/Introduction/Moody-Numbers/README.md)                                       |
