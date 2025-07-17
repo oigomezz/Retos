@@ -978,3 +978,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#84** | [`Number of R's`](./Dynamic-Programming/Introduction/Number-of-R's/README.md)                                       |
 | **#85** | [`Ikshu and his new year matrix`](./Dynamic-Programming/Introduction/Ikshu-and-his-new-year-matrix/README.md)       |
 | **#86** | [`Dexter and Mandark`](./Dynamic-Programming/Introduction/Dexter-and-Mandark/README.md)                             |
+| **#87** | [`Amazing Test`](./Dynamic-Programming/Introduction/Amazing-Test/README.md)                                         |
