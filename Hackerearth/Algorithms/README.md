@@ -971,3 +971,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#77** | [`Prime Numbers Again`](./Dynamic-Programming/Introduction/Prime-Numbers-Again/README.md)                           |
 | **#78** | [`Xsquare And Coin Collection`](./Dynamic-Programming/Introduction/Xsquare-and-Coin-Collection/README.md)           |
 | **#79** | [`Roy and Coin Boxes`](./Dynamic-Programming/Introduction/Roy-and-Coin-Boxes/README.md)                             |
+| **#80** | [`Super Two Letter Strings`](./Dynamic-Programming/Introduction/Super-Two-Letter-Strings/README.md)                 |
