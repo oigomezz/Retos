@@ -972,4 +972,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#78** | [`Xsquare And Coin Collection`](./Dynamic-Programming/Introduction/Xsquare-and-Coin-Collection/README.md)           |
 | **#79** | [`Roy and Coin Boxes`](./Dynamic-Programming/Introduction/Roy-and-Coin-Boxes/README.md)                             |
 | **#80** | [`Super Two Letter Strings`](./Dynamic-Programming/Introduction/Super-Two-Letter-Strings/README.md)                 |
-| **#81** | [`Xsquare And Balanced Strings`](./Dynamic-Programming/Introduction/Xsquare-and-Balanced-Strings/README.md) |
+| **#81** | [`Xsquare And Balanced Strings`](./Dynamic-Programming/Introduction/Xsquare-and-Balanced-Strings/README.md)         |
+| **#82** | [`Let's Begin!`](./Dynamic-Programming/Introduction/Let's-Begin/README.md)                                          |
