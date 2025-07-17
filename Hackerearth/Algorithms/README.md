@@ -974,3 +974,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#80** | [`Super Two Letter Strings`](./Dynamic-Programming/Introduction/Super-Two-Letter-Strings/README.md)                 |
 | **#81** | [`Xsquare And Balanced Strings`](./Dynamic-Programming/Introduction/Xsquare-and-Balanced-Strings/README.md)         |
 | **#82** | [`Let's Begin!`](./Dynamic-Programming/Introduction/Let's-Begin/README.md)                                          |
+| **#83** | [`LADDER RIDE`](./Dynamic-Programming/Introduction/LADDER-RIDE/README.md)                                           |
