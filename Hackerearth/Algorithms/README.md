@@ -975,3 +975,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#81** | [`Xsquare And Balanced Strings`](./Dynamic-Programming/Introduction/Xsquare-and-Balanced-Strings/README.md)         |
 | **#82** | [`Let's Begin!`](./Dynamic-Programming/Introduction/Let's-Begin/README.md)                                          |
 | **#83** | [`LADDER RIDE`](./Dynamic-Programming/Introduction/LADDER-RIDE/README.md)                                           |
+| **#84** | [`Number of R's`](./Dynamic-Programming/Introduction/Number-of-R's/README.md)                                       |
