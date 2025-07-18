@@ -992,3 +992,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#098** | [`Roy and Sweets`](./Dynamic-Programming/Introduction/Roy-and-Sweets/README.md)                                     |
 | **#099** | [`Terminators`](./Dynamic-Programming/Introduction/Terminators/README.md)                                           |
 | **#100** | [`The colorful street`](./Dynamic-Programming/Introduction/The-Colorful-Street/README.md)                           |
+| **#101** | [`Beautiful Sequence`](./Dynamic-Programming/Introduction/Beautiful-Sequence/README.md)                             |
