@@ -990,3 +990,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#96** | [`Angles`](./Dynamic-Programming/Introduction/Angles/README.md)                                                     |
 | **#97** | [`Chang and the Mathematical Brainbuster`](./Dynamic-Programming/Introduction/Mathematical-Brainbuster/README.md)   |
 | **#98** | [`Roy and Sweets`](./Dynamic-Programming/Introduction/Roy-and-Sweets/README.md)                                     |
+| **#99** | [`Terminators`](./Dynamic-Programming/Introduction/Terminators/README.md)                                           |
