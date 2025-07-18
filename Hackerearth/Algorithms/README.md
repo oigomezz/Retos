@@ -985,3 +985,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#91** | [`Tablets`](./Dynamic-Programming/Introduction/Tablets/README.md)                                                   |
 | **#92** | [`Pankaj and his in-laws!`](./Dynamic-Programming/Introduction/Pankaj-and-his-in-laws/README.md)                    |
 | **#93** | [`Studious Little Jhool`](./Dynamic-Programming/Introduction/Studious-Little-Jhool/README.md)                       |
+| **#94** | [`Little Deepu and his Girlfriend`](./Dynamic-Programming/Introduction/Little-Deepu-and-his-Girlfriend/README.md)   |
