@@ -983,3 +983,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#89** | [`Choosing the Judges`](./Dynamic-Programming/Introduction/Choosing-the-Judges/README.md)                           |
 | **#90** | [`Winter is coming`](./Dynamic-Programming/Introduction/Winter-is-coming/README.md)                                 |
 | **#91** | [`Tablets`](./Dynamic-Programming/Introduction/Tablets/README.md)                                                   |
+| **#92** | [`Pankaj and his in-laws!`](./Dynamic-Programming/Introduction/Pankaj-and-his-in-laws/README.md)                    |
