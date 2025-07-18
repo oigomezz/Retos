@@ -988,3 +988,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#94** | [`Little Deepu and his Girlfriend`](./Dynamic-Programming/Introduction/Little-Deepu-and-his-Girlfriend/README.md)   |
 | **#95** | [`Once upon a time in Time-Land`](./Dynamic-Programming/Introduction/Once-upon-a-time-in-Time-Land/README.md)       |
 | **#96** | [`Angles`](./Dynamic-Programming/Introduction/Angles/README.md)                                                     |
+| **#97** | [`Chang and the Mathematical Brainbuster`](./Dynamic-Programming/Introduction/Mathematical-Brainbuster/README.md)   |
