@@ -995,3 +995,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#101** | [`Beautiful Sequence`](./Dynamic-Programming/Introduction/Beautiful-Sequence/README.md)                             |
 
 #### [2 Dimensional](./Dynamic-Programming/2-Dimensional/README.md)
+
+| N°      | Enunciado                                                                      |
+| ------- | ------------------------------------------------------------------------------ |
+| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md) |
