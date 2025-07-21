@@ -1004,4 +1004,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#04** | [`Xor Subsequences`](./Dynamic-Programming/2-Dimensional/XOR-Subsequences/README.md)             |
 | **#05** | [`Alice in the Hills`](./Dynamic-Programming/2-Dimensional/Alice-in-the-Hills/README.md)         |
 | **#06** | [`Incrementing Subarrays`](./Dynamic-Programming/2-Dimensional/Incrementing-Subarrays/README.md) |
-| **#07** | [`Winter Jump`](./Dynamic-Programming/2-Dimensional/Winter Jump/README.md) |
+| **#07** | [`Winter Jump`](./Dynamic-Programming/2-Dimensional/Winter-Jump/README.md)                       |
+| **#08** | [`Break the adjacency`](./Dynamic-Programming/2-Dimensional/Break-the-adjacency/README.md)       |
