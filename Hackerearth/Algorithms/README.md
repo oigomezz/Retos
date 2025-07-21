@@ -996,8 +996,9 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [2 Dimensional](./Dynamic-Programming/2-Dimensional/README.md)
 
-| N°      | Enunciado                                                                        |
-| ------- | -------------------------------------------------------------------------------- |
-| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md)   |
-| **#02** | [`Swapping Pairs`](./Dynamic-Programming/2-Dimensional/Swapping-Pairs/README.md) |
-| **#03** | [`Count Game`](./Dynamic-Programming/2-Dimensional/Count-Game/README.md)         |
+| N°      | Enunciado                                                                            |
+| ------- | ------------------------------------------------------------------------------------ |
+| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md)       |
+| **#02** | [`Swapping Pairs`](./Dynamic-Programming/2-Dimensional/Swapping-Pairs/README.md)     |
+| **#03** | [`Count Game`](./Dynamic-Programming/2-Dimensional/Count-Game/README.md)             |
+| **#04** | [`Xor Subsequences`](./Dynamic-Programming/2-Dimensional/XOR-Subsequences/README.md) |
