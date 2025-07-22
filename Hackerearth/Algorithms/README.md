@@ -1010,3 +1010,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#10** | [`Good strings`](./Dynamic-Programming/2-Dimensional/Good-Strings/README.md)                       |
 | **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                               |
 | **#12** | [`Maximize Array Function`](./Dynamic-Programming/2-Dimensional/Maximize-Array-Function/README.md) |
+| **#13** | [`The stock market`](./Dynamic-Programming/2-Dimensional/The-Stock-Market/README.md)               |
