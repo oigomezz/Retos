@@ -1014,3 +1014,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#14** | [`A good subset`](./Dynamic-Programming/2-Dimensional/A-Good-Subset/README.md)                     |
 | **#15** | [`Alien Attack`](./Dynamic-Programming/2-Dimensional/Alien-Attack/README.md)                       |
 | **#16** | [`Similar numbers`](./Dynamic-Programming/2-Dimensional/Similar-Numbers/README.md)                 |
+| **#17** | [`Probable winners`](./Dynamic-Programming/2-Dimensional/Probable-Winners/README.md)               |
