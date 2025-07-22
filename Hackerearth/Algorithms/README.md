@@ -1008,3 +1008,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`Break the adjacency`](./Dynamic-Programming/2-Dimensional/Break-the-adjacency/README.md)       |
 | **#09** | [`String Transformation`](./Dynamic-Programming/2-Dimensional/String-Transformation/README.md)   |
 | **#10** | [`Good strings`](./Dynamic-Programming/2-Dimensional/Good-Strings/README.md)                     |
+| **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                             |
