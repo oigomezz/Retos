@@ -1015,3 +1015,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#15** | [`Alien Attack`](./Dynamic-Programming/2-Dimensional/Alien-Attack/README.md)                       |
 | **#16** | [`Similar numbers`](./Dynamic-Programming/2-Dimensional/Similar-Numbers/README.md)                 |
 | **#17** | [`Probable winners`](./Dynamic-Programming/2-Dimensional/Probable-Winners/README.md)               |
+| **#18** | [`Number of RBS`](./Dynamic-Programming/2-Dimensional/Number-of-RBS/README.md)                     |
