@@ -996,16 +996,17 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [2 Dimensional](./Dynamic-Programming/2-Dimensional/README.md)
 
-| N°      | Enunciado                                                                                        |
-| ------- | ------------------------------------------------------------------------------------------------ |
-| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md)                   |
-| **#02** | [`Swapping Pairs`](./Dynamic-Programming/2-Dimensional/Swapping-Pairs/README.md)                 |
-| **#03** | [`Count Game`](./Dynamic-Programming/2-Dimensional/Count-Game/README.md)                         |
-| **#04** | [`Xor Subsequences`](./Dynamic-Programming/2-Dimensional/XOR-Subsequences/README.md)             |
-| **#05** | [`Alice in the Hills`](./Dynamic-Programming/2-Dimensional/Alice-in-the-Hills/README.md)         |
-| **#06** | [`Incrementing Subarrays`](./Dynamic-Programming/2-Dimensional/Incrementing-Subarrays/README.md) |
-| **#07** | [`Winter Jump`](./Dynamic-Programming/2-Dimensional/Winter-Jump/README.md)                       |
-| **#08** | [`Break the adjacency`](./Dynamic-Programming/2-Dimensional/Break-the-adjacency/README.md)       |
-| **#09** | [`String Transformation`](./Dynamic-Programming/2-Dimensional/String-Transformation/README.md)   |
-| **#10** | [`Good strings`](./Dynamic-Programming/2-Dimensional/Good-Strings/README.md)                     |
-| **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                             |
+| N°      | Enunciado                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------- |
+| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md)                     |
+| **#02** | [`Swapping Pairs`](./Dynamic-Programming/2-Dimensional/Swapping-Pairs/README.md)                   |
+| **#03** | [`Count Game`](./Dynamic-Programming/2-Dimensional/Count-Game/README.md)                           |
+| **#04** | [`Xor Subsequences`](./Dynamic-Programming/2-Dimensional/XOR-Subsequences/README.md)               |
+| **#05** | [`Alice in the Hills`](./Dynamic-Programming/2-Dimensional/Alice-in-the-Hills/README.md)           |
+| **#06** | [`Incrementing Subarrays`](./Dynamic-Programming/2-Dimensional/Incrementing-Subarrays/README.md)   |
+| **#07** | [`Winter Jump`](./Dynamic-Programming/2-Dimensional/Winter-Jump/README.md)                         |
+| **#08** | [`Break the adjacency`](./Dynamic-Programming/2-Dimensional/Break-the-adjacency/README.md)         |
+| **#09** | [`String Transformation`](./Dynamic-Programming/2-Dimensional/String-Transformation/README.md)     |
+| **#10** | [`Good strings`](./Dynamic-Programming/2-Dimensional/Good-Strings/README.md)                       |
+| **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                               |
+| **#12** | [`Maximize Array Function`](./Dynamic-Programming/2-Dimensional/Maximize-Array-Function/README.md) |
