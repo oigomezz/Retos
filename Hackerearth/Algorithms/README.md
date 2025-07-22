@@ -1017,3 +1017,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#17** | [`Probable winners`](./Dynamic-Programming/2-Dimensional/Probable-Winners/README.md)               |
 | **#18** | [`Number of RBS`](./Dynamic-Programming/2-Dimensional/Number-of-RBS/README.md)                     |
 | **#19** | [`Passing marks`](./Dynamic-Programming/2-Dimensional/Passing-Marks/README.md)                     |
+| **#20** | [`Chocolates`](./Dynamic-Programming/2-Dimensional/Chocolates/README.md)                           |
