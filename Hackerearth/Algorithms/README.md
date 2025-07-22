@@ -1011,3 +1011,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                               |
 | **#12** | [`Maximize Array Function`](./Dynamic-Programming/2-Dimensional/Maximize-Array-Function/README.md) |
 | **#13** | [`The stock market`](./Dynamic-Programming/2-Dimensional/The-Stock-Market/README.md)               |
+| **#14** | [`A good subset`](./Dynamic-Programming/2-Dimensional/A-Good-Subset/README.md)                     |
