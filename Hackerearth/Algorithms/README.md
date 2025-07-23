@@ -1019,3 +1019,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#19** | [`Passing marks`](./Dynamic-Programming/2-Dimensional/Passing-Marks/README.md)                     |
 | **#20** | [`Chocolates`](./Dynamic-Programming/2-Dimensional/Chocolates/README.md)                           |
 | **#21** | [`Superjump in a grid`](./Dynamic-Programming/2-Dimensional/Superjump-in-a-Grid/README.md)         |
+| **#22** | [`Cheapest items`](./Dynamic-Programming/2-Dimensional/Cheapest-Items/README.md)                   |
