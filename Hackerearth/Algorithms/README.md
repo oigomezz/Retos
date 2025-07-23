@@ -1025,3 +1025,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#25** | [`A maximum path`](./Dynamic-Programming/2-Dimensional/A-Maximum-Path/README.md)                   |
 | **#26** | [`Special sequences`](./Dynamic-Programming/2-Dimensional/Special-Sequences/README.md)             |
 | **#27** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game/README.md)         |
+| **#28** | [`A vertex set`](./Dynamic-Programming/2-Dimensional/A-Vertex-Set/README.md)                       |
