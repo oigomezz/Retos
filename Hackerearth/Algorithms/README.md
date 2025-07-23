@@ -1022,3 +1022,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#22** | [`Cheapest items`](./Dynamic-Programming/2-Dimensional/Cheapest-Items/README.md)                   |
 | **#23** | [`Odd subsequences`](./Dynamic-Programming/2-Dimensional/Odd-Subsequences/README.md)               |
 | **#24** | [`A sign of place`](./Dynamic-Programming/2-Dimensional/A-Sign-of-Place/README.md)                 |
+| **#25** | [`A maximum path`](./Dynamic-Programming/2-Dimensional/A-Maximum-Path/README.md)                   |
