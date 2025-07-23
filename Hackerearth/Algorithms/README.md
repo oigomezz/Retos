@@ -1018,3 +1018,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#18** | [`Number of RBS`](./Dynamic-Programming/2-Dimensional/Number-of-RBS/README.md)                     |
 | **#19** | [`Passing marks`](./Dynamic-Programming/2-Dimensional/Passing-Marks/README.md)                     |
 | **#20** | [`Chocolates`](./Dynamic-Programming/2-Dimensional/Chocolates/README.md)                           |
+| **#21** | [`Superjump in a grid`](./Dynamic-Programming/2-Dimensional/Superjump-in-a-Grid/README.md)         |
