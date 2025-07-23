@@ -1020,3 +1020,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#20** | [`Chocolates`](./Dynamic-Programming/2-Dimensional/Chocolates/README.md)                           |
 | **#21** | [`Superjump in a grid`](./Dynamic-Programming/2-Dimensional/Superjump-in-a-Grid/README.md)         |
 | **#22** | [`Cheapest items`](./Dynamic-Programming/2-Dimensional/Cheapest-Items/README.md)                   |
+| **#23** | [`Odd subsequences`](./Dynamic-Programming/2-Dimensional/Odd-Subsequences/README.md)               |
