@@ -1033,3 +1033,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#33** | [`Arrays and sums`](./Dynamic-Programming/2-Dimensional/Arrays-and-Sums/README.md)                         |
 | **#34** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game-2/README.md)               |
 | **#35** | [`Maximum beauty subsequences`](./Dynamic-Programming/2-Dimensional/Maximum-Beauty-Subsequences/README.md) |
+| **#36** | [`Circular equations`](./Dynamic-Programming/2-Dimensional/Circular-Equations/README.md)                   |
