@@ -1031,3 +1031,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#31** | [`Exponential subsets`](./Dynamic-Programming/2-Dimensional/Exponential-Subsets/README.md)               |
 | **#32** | [`Weird Sum`](./Dynamic-Programming/2-Dimensional/Weird-Sum/README.md)                                   |
 | **#33** | [`Arrays and sums`](./Dynamic-Programming/2-Dimensional/Arrays-and-Sums/README.md)                       |
+| **#34** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game-2/README.md)             |
