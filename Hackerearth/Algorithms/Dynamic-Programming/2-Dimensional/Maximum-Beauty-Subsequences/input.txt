@@ -1,0 +1,8 @@
+6
+abdbca
+5
+a b 2
+a b 3
+b c 10
+b a 6
+a c 8
