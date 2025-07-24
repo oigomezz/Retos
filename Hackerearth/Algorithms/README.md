@@ -1029,3 +1029,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#29** | [`The minimum cost of a path`](./Dynamic-Programming/2-Dimensional/The-Minimum-Cost-of-a-Path/README.md) |
 | **#30** | [`Number of ways`](./Dynamic-Programming/2-Dimensional/Number-of-ways/README.md)                         |
 | **#31** | [`Exponential subsets`](./Dynamic-Programming/2-Dimensional/Exponential-Subsets/README.md)               |
+| **#32** | [`Weird Sum`](./Dynamic-Programming/2-Dimensional/Weird-Sum/README.md)                                   |
