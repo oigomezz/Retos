@@ -1027,3 +1027,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#27** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game/README.md)               |
 | **#28** | [`A vertex set`](./Dynamic-Programming/2-Dimensional/A-Vertex-Set/README.md)                             |
 | **#29** | [`The minimum cost of a path`](./Dynamic-Programming/2-Dimensional/The-Minimum-Cost-of-a-Path/README.md) |
+| **#30** | [`Number of ways`](./Dynamic-Programming/2-Dimensional/Number-of-ways/README.md)                         |
