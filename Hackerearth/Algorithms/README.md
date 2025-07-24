@@ -1036,3 +1036,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#36** | [`Circular equations`](./Dynamic-Programming/2-Dimensional/Circular-Equations/README.md)                   |
 | **#37** | [`Scoring stores`](./Dynamic-Programming/2-Dimensional/Scoring-Stores/README.md)                           |
 | **#38** | [`Real estate agents`](./Dynamic-Programming/2-Dimensional/Real-Estate-Agents/README.md)                   |
+| **#39** | [`Partitioning binary strings`](./Dynamic-Programming/2-Dimensional/Partitioning-Binary-Strings/README.md) |
