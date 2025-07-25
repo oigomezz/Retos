@@ -1,4 +1,4 @@
-import { TreeNode } from "../../../tree-node";
+import { TreeNode } from "../../../utils/tree-node";
 
 function isValidBST(root: TreeNode | null): boolean {
   function valid(

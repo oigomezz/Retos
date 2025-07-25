@@ -1,4 +1,4 @@
-import { TreeNode } from "../../../tree-node";
+import { TreeNode } from "../../../utils/tree-node";
 
 function maxPathSum(root: TreeNode | null): number {
   let res = root ? root.val : 0;

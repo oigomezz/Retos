@@ -1,4 +1,4 @@
-import { ListNode } from "../../../list-node";
+import { ListNode } from "../../../utils/list-node";
 
 function partition(head: ListNode | null, x: number): ListNode | null {
   if (!head) {

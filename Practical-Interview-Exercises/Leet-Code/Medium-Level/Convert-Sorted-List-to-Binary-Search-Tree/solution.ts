@@ -1,5 +1,5 @@
-import { TreeNode } from "../../../tree-node";
-import { ListNode } from "../../../list-node";
+import { TreeNode } from "../../../utils/tree-node";
+import { ListNode } from "../../../utils/list-node";
 
 function sortedListToBST(head: ListNode | null): TreeNode | null {
   let curr: ListNode | null = head,

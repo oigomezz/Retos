@@ -1,4 +1,4 @@
-import { ListNode } from "../../../list-node";
+import { ListNode } from "../../../utils/list-node";
 
 function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
   let dummy = new ListNode(0);

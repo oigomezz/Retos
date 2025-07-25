@@ -1,4 +1,4 @@
-import { ListNode } from "../../../list-node";
+import { ListNode } from "../../../utils/list-node";
 
 function deleteDuplicates(head: ListNode | null): ListNode | null {
   const dummy = new ListNode(-1);

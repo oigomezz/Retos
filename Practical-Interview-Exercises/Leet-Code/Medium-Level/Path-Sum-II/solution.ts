@@ -1,4 +1,4 @@
-import { TreeNode } from "../../../tree-node";
+import { TreeNode } from "../../../utils/tree-node";
 
 function pathSum(root: TreeNode | null, targetSum: number): number[][] {
   const res: number[][] = [];

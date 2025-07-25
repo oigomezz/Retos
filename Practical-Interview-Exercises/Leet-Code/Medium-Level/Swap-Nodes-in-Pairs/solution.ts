@@ -1,4 +1,4 @@
-import { ListNode } from "../../../list-node";
+import { ListNode } from "../../../utils/list-node";
 
 function swapPairs(head: ListNode | null): ListNode | null {
   if (!head?.next) return head;

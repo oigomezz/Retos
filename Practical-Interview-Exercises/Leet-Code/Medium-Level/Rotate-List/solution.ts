@@ -1,4 +1,4 @@
-import { ListNode } from "../../../list-node";
+import { ListNode } from "../../../utils/list-node";
 
 function rotateRight(head: ListNode | null, k: number): ListNode | null {
   if (!head || k === 0) return head;

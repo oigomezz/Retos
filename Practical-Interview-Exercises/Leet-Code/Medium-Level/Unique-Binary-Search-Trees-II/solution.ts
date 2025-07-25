@@ -1,4 +1,4 @@
-import { TreeNode } from "../../../tree-node";
+import { TreeNode } from "../../../utils/tree-node";
 
 function generateTrees(n: number): Array<TreeNode | null> {
   if (n === 0) return [];

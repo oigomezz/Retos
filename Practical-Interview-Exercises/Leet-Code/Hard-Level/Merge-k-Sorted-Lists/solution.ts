@@ -1,4 +1,4 @@
-import { ListNode } from "../../../list-node";
+import { ListNode } from "../../../utils/list-node";
 
 const mergeKLists = function (lists: (ListNode | null)[]): ListNode | null {
   if (!lists || lists.length === 0) return null;

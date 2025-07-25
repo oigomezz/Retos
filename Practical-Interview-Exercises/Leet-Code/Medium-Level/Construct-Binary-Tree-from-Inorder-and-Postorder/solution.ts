@@ -1,4 +1,4 @@
-import { TreeNode } from "../../../tree-node";
+import { TreeNode } from "../../../utils/tree-node";
 
 function buildTree(inorder: number[], postorder: number[]): TreeNode | null {
   const inorderValToIdxMap: Record<number, number> = {};
