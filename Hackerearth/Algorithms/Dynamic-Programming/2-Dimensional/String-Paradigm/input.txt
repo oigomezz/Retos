@@ -1,0 +1,7 @@
+4
+abcd
+b
+ac
+abd
+ad
+3
