@@ -1046,3 +1046,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#46** | [`String Paradigm`](./Dynamic-Programming/2-Dimensional/String-Paradigm/README.md)                           |
 | **#47** | [`Number formation`](./Dynamic-Programming/2-Dimensional/Number-Formation/README.md)                         |
 | **#48** | [`( Problem B ) Prime Game`](./Dynamic-Programming/2-Dimensional/Prime-Game/README.md)                       |
+| **#49** | [`Bob and Forest`](./Dynamic-Programming/2-Dimensional/Bob-and-Forest/README.md)                             |
