@@ -1040,3 +1040,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#40** | [`Special sets`](./Dynamic-Programming/2-Dimensional/Special-Sets/README.md)                                 |
 | **#41** | [`Color the bricks`](./Dynamic-Programming/2-Dimensional/Color-the-Bricks/README.md)                         |
 | **#42** | [`Longest special subsequences`](./Dynamic-Programming/2-Dimensional/Longest-Special-Subsequences/README.md) |
+| **#43** | [`Palindromes Everywhere`](./Dynamic-Programming/2-Dimensional/Palindromes-Everywhere/README.md)             |
