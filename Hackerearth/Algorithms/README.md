@@ -1042,3 +1042,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#42** | [`Longest special subsequences`](./Dynamic-Programming/2-Dimensional/Longest-Special-Subsequences/README.md) |
 | **#43** | [`Palindromes Everywhere`](./Dynamic-Programming/2-Dimensional/Palindromes-Everywhere/README.md)             |
 | **#44** | [`Shift the letters`](./Dynamic-Programming/2-Dimensional/Shift-the-Letters/README.md)                       |
+| **#45** | [`K Cut and Product`](./Dynamic-Programming/2-Dimensional/K-Cut-and-Product/README.md)                       |
