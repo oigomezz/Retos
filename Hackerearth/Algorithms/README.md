@@ -1044,3 +1044,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#44** | [`Shift the letters`](./Dynamic-Programming/2-Dimensional/Shift-the-Letters/README.md)                       |
 | **#45** | [`K Cut and Product`](./Dynamic-Programming/2-Dimensional/K-Cut-and-Product/README.md)                       |
 | **#46** | [`String Paradigm`](./Dynamic-Programming/2-Dimensional/String-Paradigm/README.md)                           |
+| **#47** | [`Number formation`](./Dynamic-Programming/2-Dimensional/Number-Formation/README.md)                         |
