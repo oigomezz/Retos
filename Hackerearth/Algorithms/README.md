@@ -996,58 +996,59 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [2 Dimensional](./Dynamic-Programming/2-Dimensional/README.md)
 
-| N°      | Enunciado                                                                                                    |
-| ------- | ------------------------------------------------------------------------------------------------------------ |
-| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md)                               |
-| **#02** | [`Swapping Pairs`](./Dynamic-Programming/2-Dimensional/Swapping-Pairs/README.md)                             |
-| **#03** | [`Count Game`](./Dynamic-Programming/2-Dimensional/Count-Game/README.md)                                     |
-| **#04** | [`Xor Subsequences`](./Dynamic-Programming/2-Dimensional/XOR-Subsequences/README.md)                         |
-| **#05** | [`Alice in the Hills`](./Dynamic-Programming/2-Dimensional/Alice-in-the-Hills/README.md)                     |
-| **#06** | [`Incrementing Subarrays`](./Dynamic-Programming/2-Dimensional/Incrementing-Subarrays/README.md)             |
-| **#07** | [`Winter Jump`](./Dynamic-Programming/2-Dimensional/Winter-Jump/README.md)                                   |
-| **#08** | [`Break the adjacency`](./Dynamic-Programming/2-Dimensional/Break-the-adjacency/README.md)                   |
-| **#09** | [`String Transformation`](./Dynamic-Programming/2-Dimensional/String-Transformation/README.md)               |
-| **#10** | [`Good strings`](./Dynamic-Programming/2-Dimensional/Good-Strings/README.md)                                 |
-| **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                                         |
-| **#12** | [`Maximize Array Function`](./Dynamic-Programming/2-Dimensional/Maximize-Array-Function/README.md)           |
-| **#13** | [`The stock market`](./Dynamic-Programming/2-Dimensional/The-Stock-Market/README.md)                         |
-| **#14** | [`A good subset`](./Dynamic-Programming/2-Dimensional/A-Good-Subset/README.md)                               |
-| **#15** | [`Alien Attack`](./Dynamic-Programming/2-Dimensional/Alien-Attack/README.md)                                 |
-| **#16** | [`Similar numbers`](./Dynamic-Programming/2-Dimensional/Similar-Numbers/README.md)                           |
-| **#17** | [`Probable winners`](./Dynamic-Programming/2-Dimensional/Probable-Winners/README.md)                         |
-| **#18** | [`Number of RBS`](./Dynamic-Programming/2-Dimensional/Number-of-RBS/README.md)                               |
-| **#19** | [`Passing marks`](./Dynamic-Programming/2-Dimensional/Passing-Marks/README.md)                               |
-| **#20** | [`Chocolates`](./Dynamic-Programming/2-Dimensional/Chocolates/README.md)                                     |
-| **#21** | [`Superjump in a grid`](./Dynamic-Programming/2-Dimensional/Superjump-in-a-Grid/README.md)                   |
-| **#22** | [`Cheapest items`](./Dynamic-Programming/2-Dimensional/Cheapest-Items/README.md)                             |
-| **#23** | [`Odd subsequences`](./Dynamic-Programming/2-Dimensional/Odd-Subsequences/README.md)                         |
-| **#24** | [`A sign of place`](./Dynamic-Programming/2-Dimensional/A-Sign-of-Place/README.md)                           |
-| **#25** | [`A maximum path`](./Dynamic-Programming/2-Dimensional/A-Maximum-Path/README.md)                             |
-| **#26** | [`Special sequences`](./Dynamic-Programming/2-Dimensional/Special-Sequences/README.md)                       |
-| **#27** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game/README.md)                   |
-| **#28** | [`A vertex set`](./Dynamic-Programming/2-Dimensional/A-Vertex-Set/README.md)                                 |
-| **#29** | [`The minimum cost of a path`](./Dynamic-Programming/2-Dimensional/The-Minimum-Cost-of-a-Path/README.md)     |
-| **#30** | [`Number of ways`](./Dynamic-Programming/2-Dimensional/Number-of-ways/README.md)                             |
-| **#31** | [`Exponential subsets`](./Dynamic-Programming/2-Dimensional/Exponential-Subsets/README.md)                   |
-| **#32** | [`Weird Sum`](./Dynamic-Programming/2-Dimensional/Weird-Sum/README.md)                                       |
-| **#33** | [`Arrays and sums`](./Dynamic-Programming/2-Dimensional/Arrays-and-Sums/README.md)                           |
-| **#34** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game-2/README.md)                 |
-| **#35** | [`Maximum beauty subsequences`](./Dynamic-Programming/2-Dimensional/Maximum-Beauty-Subsequences/README.md)   |
-| **#36** | [`Circular equations`](./Dynamic-Programming/2-Dimensional/Circular-Equations/README.md)                     |
-| **#37** | [`Scoring stores`](./Dynamic-Programming/2-Dimensional/Scoring-Stores/README.md)                             |
-| **#38** | [`Real estate agents`](./Dynamic-Programming/2-Dimensional/Real-Estate-Agents/README.md)                     |
-| **#39** | [`Partitioning binary strings`](./Dynamic-Programming/2-Dimensional/Partitioning-Binary-Strings/README.md)   |
-| **#40** | [`Special sets`](./Dynamic-Programming/2-Dimensional/Special-Sets/README.md)                                 |
-| **#41** | [`Color the bricks`](./Dynamic-Programming/2-Dimensional/Color-the-Bricks/README.md)                         |
-| **#42** | [`Longest special subsequences`](./Dynamic-Programming/2-Dimensional/Longest-Special-Subsequences/README.md) |
-| **#43** | [`Palindromes Everywhere`](./Dynamic-Programming/2-Dimensional/Palindromes-Everywhere/README.md)             |
-| **#44** | [`Shift the letters`](./Dynamic-Programming/2-Dimensional/Shift-the-Letters/README.md)                       |
-| **#45** | [`K Cut and Product`](./Dynamic-Programming/2-Dimensional/K-Cut-and-Product/README.md)                       |
-| **#46** | [`String Paradigm`](./Dynamic-Programming/2-Dimensional/String-Paradigm/README.md)                           |
-| **#47** | [`Number formation`](./Dynamic-Programming/2-Dimensional/Number-Formation/README.md)                         |
-| **#48** | [`( Problem B ) Prime Game`](./Dynamic-Programming/2-Dimensional/Prime-Game/README.md)                       |
-| **#49** | [`Bob and Forest`](./Dynamic-Programming/2-Dimensional/Bob-and-Forest/README.md)                             |
-| **#50** | [`Rhezo and Special Gift`](./Dynamic-Programming/2-Dimensional/Rhezo-and-Special-Gift/README.md)             |
-| **#51** | [`Array conversion`](./Dynamic-Programming/2-Dimensional/Array-Conversion/README.md)                         |
-| **#52** | [`Laser Tanks`](./Dynamic-Programming/2-Dimensional/Laser-Tanks/README.md)                                   |
-| **#53** | [`Treasure island`](./Dynamic-Programming/2-Dimensional/Treasure-Island/README.md)                           |
+| N°      | Enunciado                                                                                                                |
+| ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **#01** | [`Odd Bit Array`](./Dynamic-Programming/2-Dimensional/Odd-Bit-Array/README.md)                                           |
+| **#02** | [`Swapping Pairs`](./Dynamic-Programming/2-Dimensional/Swapping-Pairs/README.md)                                         |
+| **#03** | [`Count Game`](./Dynamic-Programming/2-Dimensional/Count-Game/README.md)                                                 |
+| **#04** | [`Xor Subsequences`](./Dynamic-Programming/2-Dimensional/XOR-Subsequences/README.md)                                     |
+| **#05** | [`Alice in the Hills`](./Dynamic-Programming/2-Dimensional/Alice-in-the-Hills/README.md)                                 |
+| **#06** | [`Incrementing Subarrays`](./Dynamic-Programming/2-Dimensional/Incrementing-Subarrays/README.md)                         |
+| **#07** | [`Winter Jump`](./Dynamic-Programming/2-Dimensional/Winter-Jump/README.md)                                               |
+| **#08** | [`Break the adjacency`](./Dynamic-Programming/2-Dimensional/Break-the-adjacency/README.md)                               |
+| **#09** | [`String Transformation`](./Dynamic-Programming/2-Dimensional/String-Transformation/README.md)                           |
+| **#10** | [`Good strings`](./Dynamic-Programming/2-Dimensional/Good-Strings/README.md)                                             |
+| **#11** | [`Make Xor`](./Dynamic-Programming/2-Dimensional/Make-XOR/README.md)                                                     |
+| **#12** | [`Maximize Array Function`](./Dynamic-Programming/2-Dimensional/Maximize-Array-Function/README.md)                       |
+| **#13** | [`The stock market`](./Dynamic-Programming/2-Dimensional/The-Stock-Market/README.md)                                     |
+| **#14** | [`A good subset`](./Dynamic-Programming/2-Dimensional/A-Good-Subset/README.md)                                           |
+| **#15** | [`Alien Attack`](./Dynamic-Programming/2-Dimensional/Alien-Attack/README.md)                                             |
+| **#16** | [`Similar numbers`](./Dynamic-Programming/2-Dimensional/Similar-Numbers/README.md)                                       |
+| **#17** | [`Probable winners`](./Dynamic-Programming/2-Dimensional/Probable-Winners/README.md)                                     |
+| **#18** | [`Number of RBS`](./Dynamic-Programming/2-Dimensional/Number-of-RBS/README.md)                                           |
+| **#19** | [`Passing marks`](./Dynamic-Programming/2-Dimensional/Passing-Marks/README.md)                                           |
+| **#20** | [`Chocolates`](./Dynamic-Programming/2-Dimensional/Chocolates/README.md)                                                 |
+| **#21** | [`Superjump in a grid`](./Dynamic-Programming/2-Dimensional/Superjump-in-a-Grid/README.md)                               |
+| **#22** | [`Cheapest items`](./Dynamic-Programming/2-Dimensional/Cheapest-Items/README.md)                                         |
+| **#23** | [`Odd subsequences`](./Dynamic-Programming/2-Dimensional/Odd-Subsequences/README.md)                                     |
+| **#24** | [`A sign of place`](./Dynamic-Programming/2-Dimensional/A-Sign-of-Place/README.md)                                       |
+| **#25** | [`A maximum path`](./Dynamic-Programming/2-Dimensional/A-Maximum-Path/README.md)                                         |
+| **#26** | [`Special sequences`](./Dynamic-Programming/2-Dimensional/Special-Sequences/README.md)                                   |
+| **#27** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game/README.md)                               |
+| **#28** | [`A vertex set`](./Dynamic-Programming/2-Dimensional/A-Vertex-Set/README.md)                                             |
+| **#29** | [`The minimum cost of a path`](./Dynamic-Programming/2-Dimensional/The-Minimum-Cost-of-a-Path/README.md)                 |
+| **#30** | [`Number of ways`](./Dynamic-Programming/2-Dimensional/Number-of-ways/README.md)                                         |
+| **#31** | [`Exponential subsets`](./Dynamic-Programming/2-Dimensional/Exponential-Subsets/README.md)                               |
+| **#32** | [`Weird Sum`](./Dynamic-Programming/2-Dimensional/Weird-Sum/README.md)                                                   |
+| **#33** | [`Arrays and sums`](./Dynamic-Programming/2-Dimensional/Arrays-and-Sums/README.md)                                       |
+| **#34** | [`An interesting game`](./Dynamic-Programming/2-Dimensional/An-Interesting-Game-2/README.md)                             |
+| **#35** | [`Maximum beauty subsequences`](./Dynamic-Programming/2-Dimensional/Maximum-Beauty-Subsequences/README.md)               |
+| **#36** | [`Circular equations`](./Dynamic-Programming/2-Dimensional/Circular-Equations/README.md)                                 |
+| **#37** | [`Scoring stores`](./Dynamic-Programming/2-Dimensional/Scoring-Stores/README.md)                                         |
+| **#38** | [`Real estate agents`](./Dynamic-Programming/2-Dimensional/Real-Estate-Agents/README.md)                                 |
+| **#39** | [`Partitioning binary strings`](./Dynamic-Programming/2-Dimensional/Partitioning-Binary-Strings/README.md)               |
+| **#40** | [`Special sets`](./Dynamic-Programming/2-Dimensional/Special-Sets/README.md)                                             |
+| **#41** | [`Color the bricks`](./Dynamic-Programming/2-Dimensional/Color-the-Bricks/README.md)                                     |
+| **#42** | [`Longest special subsequences`](./Dynamic-Programming/2-Dimensional/Longest-Special-Subsequences/README.md)             |
+| **#43** | [`Palindromes Everywhere`](./Dynamic-Programming/2-Dimensional/Palindromes-Everywhere/README.md)                         |
+| **#44** | [`Shift the letters`](./Dynamic-Programming/2-Dimensional/Shift-the-Letters/README.md)                                   |
+| **#45** | [`K Cut and Product`](./Dynamic-Programming/2-Dimensional/K-Cut-and-Product/README.md)                                   |
+| **#46** | [`String Paradigm`](./Dynamic-Programming/2-Dimensional/String-Paradigm/README.md)                                       |
+| **#47** | [`Number formation`](./Dynamic-Programming/2-Dimensional/Number-Formation/README.md)                                     |
+| **#48** | [`( Problem B ) Prime Game`](./Dynamic-Programming/2-Dimensional/Prime-Game/README.md)                                   |
+| **#49** | [`Bob and Forest`](./Dynamic-Programming/2-Dimensional/Bob-and-Forest/README.md)                                         |
+| **#50** | [`Rhezo and Special Gift`](./Dynamic-Programming/2-Dimensional/Rhezo-and-Special-Gift/README.md)                         |
+| **#51** | [`Array conversion`](./Dynamic-Programming/2-Dimensional/Array-Conversion/README.md)                                     |
+| **#52** | [`Laser Tanks`](./Dynamic-Programming/2-Dimensional/Laser-Tanks/README.md)                                               |
+| **#53** | [`Treasure island`](./Dynamic-Programming/2-Dimensional/Treasure-Island/README.md)                                       |
+| **#54** | [`Array Splitting into two parts (P2SME)`](./Dynamic-Programming/2-Dimensional/Array-Splitting-into-Two-Parts/README.md) |
