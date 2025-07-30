@@ -1049,3 +1049,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#49** | [`Bob and Forest`](./Dynamic-Programming/2-Dimensional/Bob-and-Forest/README.md)                             |
 | **#50** | [`Rhezo and Special Gift`](./Dynamic-Programming/2-Dimensional/Rhezo-and-Special-Gift/README.md)             |
 | **#51** | [`Array conversion`](./Dynamic-Programming/2-Dimensional/Array-Conversion/README.md)                         |
+| **#52** | [`Laser Tanks`](./Dynamic-Programming/2-Dimensional/Laser-Tanks/README.md)                                   |
