@@ -1052,3 +1052,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#52** | [`Laser Tanks`](./Dynamic-Programming/2-Dimensional/Laser-Tanks/README.md)                                               |
 | **#53** | [`Treasure island`](./Dynamic-Programming/2-Dimensional/Treasure-Island/README.md)                                       |
 | **#54** | [`Array Splitting into two parts (P2SME)`](./Dynamic-Programming/2-Dimensional/Array-Splitting-into-Two-Parts/README.md) |
+| **#55** | [`Faceless Arya`](./Dynamic-Programming/2-Dimensional/Faceless-Arya/README.md)                                           |
