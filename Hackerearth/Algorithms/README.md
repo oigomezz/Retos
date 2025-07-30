@@ -1056,3 +1056,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#56** | [`Binomial Sum of Products`](./Dynamic-Programming/2-Dimensional/Binomial-Sum-of-Products/README.md)                     |
 | **#57** | [`Maximise Sum`](./Dynamic-Programming/2-Dimensional/Maximise-Sum/README.md)                                             |
 | **#58** | [`Killjee and subsets`](./Dynamic-Programming/2-Dimensional/Killjee-and-Subsets/README.md)                               |
+| **#59** | [`Dreamplay and Upside Down`](./Dynamic-Programming/2-Dimensional/Dreamplay-and-Upside-Down/README.md)                   |
