@@ -1053,3 +1053,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#53** | [`Treasure island`](./Dynamic-Programming/2-Dimensional/Treasure-Island/README.md)                                       |
 | **#54** | [`Array Splitting into two parts (P2SME)`](./Dynamic-Programming/2-Dimensional/Array-Splitting-into-Two-Parts/README.md) |
 | **#55** | [`Faceless Arya`](./Dynamic-Programming/2-Dimensional/Faceless-Arya/README.md)                                           |
+| **#56** | [`Binomial Sum of Products`](./Dynamic-Programming/2-Dimensional/Binomial-Sum-of-Products/README.md)                     |
