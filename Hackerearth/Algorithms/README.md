@@ -1058,3 +1058,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#58** | [`Killjee and subsets`](./Dynamic-Programming/2-Dimensional/Killjee-and-Subsets/README.md)                               |
 | **#59** | [`Dreamplay and Upside Down`](./Dynamic-Programming/2-Dimensional/Dreamplay-and-Upside-Down/README.md)                   |
 | **#60** | [`Count the permutation`](./Dynamic-Programming/2-Dimensional/Count-the-Permutation/README.md)                           |
+| **#61** | [`Killjee And Saraff`](./Dynamic-Programming/2-Dimensional/Killjee-and-Saraff/README.md)                                 |
