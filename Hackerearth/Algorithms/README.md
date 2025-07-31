@@ -1064,3 +1064,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#64** | [`Traditional Array`](./Dynamic-Programming/2-Dimensional/Traditional-Array/README.md)                                   |
 | **#65** | [`Micro and Matrix`](./Dynamic-Programming/2-Dimensional/Micro-and-Matrix/README.md)                                     |
 | **#66** | [`Collecting Apples`](./Dynamic-Programming/2-Dimensional/Collecting-Apples/README.md)                                   |
+| **#67** | [`Rhezo and Cinema Hall`](./Dynamic-Programming/2-Dimensional/Rhezo-and-Cinema-Hall/README.md)                           |
