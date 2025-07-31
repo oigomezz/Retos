@@ -1060,4 +1060,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#60** | [`Count the permutation`](./Dynamic-Programming/2-Dimensional/Count-the-Permutation/README.md)                           |
 | **#61** | [`Killjee And Saraff`](./Dynamic-Programming/2-Dimensional/Killjee-and-Saraff/README.md)                                 |
 | **#62** | [`Queensland and Schools`](./Dynamic-Programming/2-Dimensional/Queensland-and-Schools/README.md)                         |
-| **#63** | [`Turtle's Path`](./Dynamic-Programming/2-Dimensional/Turtle's-Path/README.md) |
+| **#63** | [`Turtle's Path`](./Dynamic-Programming/2-Dimensional/Turtle's-Path/README.md)                                           |
+| **#64** | [`Traditional Array`](./Dynamic-Programming/2-Dimensional/Traditional-Array/README.md)                                   |
