@@ -1063,3 +1063,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#63** | [`Turtle's Path`](./Dynamic-Programming/2-Dimensional/Turtle's-Path/README.md)                                           |
 | **#64** | [`Traditional Array`](./Dynamic-Programming/2-Dimensional/Traditional-Array/README.md)                                   |
 | **#65** | [`Micro and Matrix`](./Dynamic-Programming/2-Dimensional/Micro-and-Matrix/README.md)                                     |
+| **#66** | [`Collecting Apples`](./Dynamic-Programming/2-Dimensional/Collecting-Apples/README.md)                                   |
