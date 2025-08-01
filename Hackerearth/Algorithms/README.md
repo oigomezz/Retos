@@ -1075,3 +1075,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#75** | [`Decreasing Paths`](./Dynamic-Programming/2-Dimensional/Decreasing-Paths/README.md)                                     |
 | **#76** | [`Samu and Shooting Game`](./Dynamic-Programming/2-Dimensional/Samu-and-Shooting-Game/README.md)                         |
 | **#77** | [`Supernatural Squad [2]`](./Dynamic-Programming/2-Dimensional/Supernatural-Squad/README.md)                             |
+| **#78** | [`Class Homework`](./Dynamic-Programming/2-Dimensional/Class-Homework/README.md)                                         |
