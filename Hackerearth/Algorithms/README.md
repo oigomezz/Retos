@@ -1068,3 +1068,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#68** | [`Gudi and the Magical Orbs`](./Dynamic-Programming/2-Dimensional/Gudi-and-the-Magical-Orbs/README.md)                   |
 | **#69** | [`Vanya and GCD Array`](./Dynamic-Programming/2-Dimensional/Vanya-and-GCD-Array/README.md)                               |
 | **#70** | [`Shopping Spree!`](./Dynamic-Programming/2-Dimensional/Shopping-Spree/README.md)                                        |
+| **#71** | [`BooBoo the traveler`](./Dynamic-Programming/2-Dimensional/BooBoo-the-Traveler/README.md)                               |
