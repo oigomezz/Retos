@@ -1071,3 +1071,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#71** | [`BooBoo the traveler`](./Dynamic-Programming/2-Dimensional/BooBoo-the-Traveler/README.md)                               |
 | **#72** | [`E - World of Trains`](./Dynamic-Programming/2-Dimensional/E-World-of-Trains/README.md)                                 |
 | **#73** | [`Candy Distribution`](./Dynamic-Programming/2-Dimensional/Candy-Distribution/README.md)                                 |
+| **#74** | [`The Maze Runner`](./Dynamic-Programming/2-Dimensional/The-Maze-Runner/README.md)                                       |
