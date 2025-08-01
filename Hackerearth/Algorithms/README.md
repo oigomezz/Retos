@@ -1070,3 +1070,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#70** | [`Shopping Spree!`](./Dynamic-Programming/2-Dimensional/Shopping-Spree/README.md)                                        |
 | **#71** | [`BooBoo the traveler`](./Dynamic-Programming/2-Dimensional/BooBoo-the-Traveler/README.md)                               |
 | **#72** | [`E - World of Trains`](./Dynamic-Programming/2-Dimensional/E-World-of-Trains/README.md)                                 |
+| **#73** | [`Candy Distribution`](./Dynamic-Programming/2-Dimensional/Candy-Distribution/README.md)                                 |
