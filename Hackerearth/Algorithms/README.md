@@ -1079,3 +1079,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#79** | [`Next Lucky Number`](./Dynamic-Programming/2-Dimensional/Next-Lucky-Number/README.md)                                   |
 | **#80** | [`Game of Strings`](./Dynamic-Programming/2-Dimensional/Game-of-Strings/README.md)                                       |
 | **#81** | [`Roy and Flower Farm`](./Dynamic-Programming/2-Dimensional/Roy-and-Flower-Farm/README.md)                               |
+| **#82** | [`Matrix Dispute`](./Dynamic-Programming/2-Dimensional/Matrix-Dispute/README.md)                                         |
