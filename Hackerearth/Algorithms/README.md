@@ -1087,3 +1087,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#87** | [`Travelling Budget`](./Dynamic-Programming/2-Dimensional/Travelling-Budget/README.md)                                   |
 | **#88** | [`Packers N' Movers`](./Dynamic-Programming/2-Dimensional/Packers-N-Movers/README.md)                                    |
 | **#89** | [`GCD Game`](./Dynamic-Programming/2-Dimensional/GCD-Game/README.md)                                                     |
+| **#90** | [`Set Selection`](./Dynamic-Programming/2-Dimensional/Set-Selection/README.md)                                           |
