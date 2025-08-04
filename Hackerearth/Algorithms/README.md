@@ -1082,3 +1082,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#82** | [`Matrix Dispute`](./Dynamic-Programming/2-Dimensional/Matrix-Dispute/README.md)                                         |
 | **#83** | [`Panda and XOR`](./Dynamic-Programming/2-Dimensional/Panda-and-XOR/README.md)                                           |
 | **#84** | [`Ikshu's love for binary numbers`](./Dynamic-Programming/2-Dimensional/Ikshu's-love-for-binary-numbers/README.md)       |
+| **#85** | [`Boolean Expressions`](./Dynamic-Programming/2-Dimensional/Boolean-Expressions/README.md)                               |
