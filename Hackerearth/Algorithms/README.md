@@ -1080,3 +1080,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#80** | [`Game of Strings`](./Dynamic-Programming/2-Dimensional/Game-of-Strings/README.md)                                       |
 | **#81** | [`Roy and Flower Farm`](./Dynamic-Programming/2-Dimensional/Roy-and-Flower-Farm/README.md)                               |
 | **#82** | [`Matrix Dispute`](./Dynamic-Programming/2-Dimensional/Matrix-Dispute/README.md)                                         |
+| **#83** | [`Panda and XOR`](./Dynamic-Programming/2-Dimensional/Panda-and-XOR/README.md)                                           |
