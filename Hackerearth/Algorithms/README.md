@@ -1085,3 +1085,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#85** | [`Boolean Expressions`](./Dynamic-Programming/2-Dimensional/Boolean-Expressions/README.md)                               |
 | **#86** | [`Help Raj play Table Tennis`](./Dynamic-Programming/2-Dimensional/Help-Raj-play-Table-Tennis/README.md)                 |
 | **#87** | [`Travelling Budget`](./Dynamic-Programming/2-Dimensional/Travelling-Budget/README.md)                                   |
+| **#88** | [`Packers N' Movers`](./Dynamic-Programming/2-Dimensional/Packers-N-Movers/README.md)                                    |
