@@ -1084,3 +1084,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#84** | [`Ikshu's love for binary numbers`](./Dynamic-Programming/2-Dimensional/Ikshu's-love-for-binary-numbers/README.md)       |
 | **#85** | [`Boolean Expressions`](./Dynamic-Programming/2-Dimensional/Boolean-Expressions/README.md)                               |
 | **#86** | [`Help Raj play Table Tennis`](./Dynamic-Programming/2-Dimensional/Help-Raj-play-Table-Tennis/README.md)                 |
+| **#87** | [`Travelling Budget`](./Dynamic-Programming/2-Dimensional/Travelling-Budget/README.md)                                   |
