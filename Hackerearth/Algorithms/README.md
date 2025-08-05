@@ -1095,3 +1095,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#95** | [`Final voyage`](./Dynamic-Programming/2-Dimensional/Final-Voyage/README.md)                                             |
 | **#96** | [`Sherlock holmes and The temple Mystery`](./Dynamic-Programming/2-Dimensional/The-Temple-Mystery/README.md)             |
 | **#97** | [`Gold Mines`](./Dynamic-Programming/2-Dimensional/Gold-Mines/README.md)                                                 |
+| **#98** | [`Palindrome Count`](./Dynamic-Programming/2-Dimensional/Palindrome-Count/README.md)                                     |
