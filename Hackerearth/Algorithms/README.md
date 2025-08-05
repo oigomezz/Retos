@@ -1093,3 +1093,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#93** | [`The Final Confusion`](./Dynamic-Programming/2-Dimensional/The-Final-Confusion/README.md)                               |
 | **#94** | [`Bino-Sum`](./Dynamic-Programming/2-Dimensional/Bino-Sum/README.md)                                                     |
 | **#95** | [`Final voyage`](./Dynamic-Programming/2-Dimensional/Final-Voyage/README.md)                                             |
+| **#96** | [`Sherlock holmes and The temple Mystery`](./Dynamic-Programming/2-Dimensional/The-Temple-Mystery/README.md)             |
