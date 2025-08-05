@@ -1091,3 +1091,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#91** | [`Sherlock and Dice`](./Dynamic-Programming/2-Dimensional/Sherlock-and-Dice/README.md)                                   |
 | **#92** | [`Longest Increasing Path`](./Dynamic-Programming/2-Dimensional/Longest-Increasing-Path/README.md)                       |
 | **#93** | [`The Final Confusion`](./Dynamic-Programming/2-Dimensional/The-Final-Confusion/README.md)                               |
+| **#94** | [`Bino-Sum`](./Dynamic-Programming/2-Dimensional/Bino-Sum/README.md)                                                     |
