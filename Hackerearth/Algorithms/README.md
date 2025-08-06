@@ -1107,3 +1107,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#03** | [`Bytelandian Gold Coins`](./Dynamic-Programming/State-Space-Reduction/Bytelandian-Gold-Coins/README.md) |
 
 #### [Dynamic Programming and Bit Masking](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/README.md)
+
+| N°      | Enunciado                                                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **#01** | [`Help the King Maximize Profit`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Help-the-King-Maximize-Profit/README.md) |
