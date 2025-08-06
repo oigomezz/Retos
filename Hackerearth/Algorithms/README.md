@@ -1113,3 +1113,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#01** | [`Help the King Maximize Profit`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Help-the-King-Maximize-Profit/README.md) |
 | **#02** | [`Prefix GCD Maximization`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Prefix-GCD-Maximization/README.md)             |
 | **#03** | [`Alice and GCD`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Alice-and-GCD/README.md)                                 |
+| **#04** | [`Compatibility Queries`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Compatibility-Queries/README.md)                 |
