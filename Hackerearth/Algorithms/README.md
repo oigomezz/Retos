@@ -1099,3 +1099,7 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#99** | [`Possible Sums`](./Dynamic-Programming/2-Dimensional/Possible-Sums/README.md)                                           |
 
 #### [State Space Reduction](./Dynamic-Programming/State-Space-Reduction/README.md)
+
+| N°      | Enunciado                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------ |
+| **#01** | [`Aeroplanes Scheduling`](./Dynamic-Programming/State-Space-Reduction/Aeroplanes-Scheduling/README.md) |
