@@ -1114,3 +1114,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#02** | [`Prefix GCD Maximization`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Prefix-GCD-Maximization/README.md)             |
 | **#03** | [`Alice and GCD`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Alice-and-GCD/README.md)                                 |
 | **#04** | [`Compatibility Queries`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Compatibility-Queries/README.md)                 |
+| **#05** | [`Shift String`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Shift-String/README.md)                                   |
