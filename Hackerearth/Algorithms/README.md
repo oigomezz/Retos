@@ -1100,7 +1100,8 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 
 #### [State Space Reduction](./Dynamic-Programming/State-Space-Reduction/README.md)
 
-| N°      | Enunciado                                                                                              |
-| ------- | ------------------------------------------------------------------------------------------------------ |
-| **#01** | [`Aeroplanes Scheduling`](./Dynamic-Programming/State-Space-Reduction/Aeroplanes-Scheduling/README.md) |
-| **#02** | [`Coutinho !`](./Dynamic-Programming/State-Space-Reduction/Coutinho/README.md)                         |
+| N°      | Enunciado                                                                                                |
+| ------- | -------------------------------------------------------------------------------------------------------- |
+| **#01** | [`Aeroplanes Scheduling`](./Dynamic-Programming/State-Space-Reduction/Aeroplanes-Scheduling/README.md)   |
+| **#02** | [`Coutinho !`](./Dynamic-Programming/State-Space-Reduction/Coutinho/README.md)                           |
+| **#03** | [`Bytelandian Gold Coins`](./Dynamic-Programming/State-Space-Reduction/Bytelandian-Gold-Coins/README.md) |
