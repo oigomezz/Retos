@@ -1117,3 +1117,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#05** | [`Shift String`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Shift-String/README.md)                                   |
 | **#06** | [`Summer Vacation`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Summer-Vacation/README.md)                             |
 | **#07** | [`Splitting Candies`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Splitting-Candies/README.md)                         |
+| **#08** | [`A minimum sorting`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/A-Minimum-Sorting/README.md)                         |
