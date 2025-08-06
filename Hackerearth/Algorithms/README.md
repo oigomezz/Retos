@@ -1111,3 +1111,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                                                                                            |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **#01** | [`Help the King Maximize Profit`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Help-the-King-Maximize-Profit/README.md) |
+| **#02** | [`Prefix GCD Maximization`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Prefix-GCD-Maximization/README.md)             |
