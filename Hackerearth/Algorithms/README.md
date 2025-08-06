@@ -1103,3 +1103,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | N°      | Enunciado                                                                                              |
 | ------- | ------------------------------------------------------------------------------------------------------ |
 | **#01** | [`Aeroplanes Scheduling`](./Dynamic-Programming/State-Space-Reduction/Aeroplanes-Scheduling/README.md) |
+| **#02** | [`Coutinho !`](./Dynamic-Programming/State-Space-Reduction/Coutinho/README.md)                         |
