@@ -1134,3 +1134,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#22** | [`Xenny and Random Cubes`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Xenny-and-Random-Cubes/README.md)               |
 | **#23** | [`When the Integers got upset!`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/When-the-Integers-got-upset/README.md)    |
 | **#24** | [`Sherlock and Coprime Subset`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Sherlock-and-Coprime-Subset/README.md)     |
+| **#25** | [`Shil and New Year Gift`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Shil-and-New-Year-Gift/README.md)               |
