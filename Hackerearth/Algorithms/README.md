@@ -1126,3 +1126,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#14** | [`Arpa and choosing brother free subset`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Arpa/README.md)                  |
 | **#15** | [`Shubham and GCD`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Shubham-and-GCD/README.md)                             |
 | **#16** | [`String Matching`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/String-Matching/README.md)                             |
+| **#17** | [`Filler Game`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Filler-Game/README.md)                                     |
