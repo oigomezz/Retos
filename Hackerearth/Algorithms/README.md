@@ -1127,3 +1127,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#15** | [`Shubham and GCD`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Shubham-and-GCD/README.md)                             |
 | **#16** | [`String Matching`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/String-Matching/README.md)                             |
 | **#17** | [`Filler Game`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Filler-Game/README.md)                                     |
+| **#18** | [`Micro and Lucky Tree`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Micro-and-Lucky-Tree/README.md)                   |
