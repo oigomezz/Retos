@@ -1120,3 +1120,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#08** | [`A minimum sorting`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/A-Minimum-Sorting/README.md)                         |
 | **#09** | [`Expectation`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Expectation/README.md)                                     |
 | **#10** | [`Integer distribution`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Integer-Distribution/README.md)                   |
+| **#11** | [`Fancy That!`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Fancy-That/README.md)                                      |
