@@ -1124,3 +1124,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#12** | [`Balls in Boxes`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Balls-in-Boxes/README.md)                               |
 | **#13** | [`Nim game`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Nim-Game/README.md)                                           |
 | **#14** | [`Arpa and choosing brother free subset`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Arpa/README.md)                  |
+| **#15** | [`Shubham and GCD`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Shubham-and-GCD/README.md)                             |
