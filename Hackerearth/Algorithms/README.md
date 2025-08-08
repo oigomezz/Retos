@@ -1128,4 +1128,5 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#16** | [`String Matching`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/String-Matching/README.md)                             |
 | **#17** | [`Filler Game`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Filler-Game/README.md)                                     |
 | **#18** | [`Micro and Lucky Tree`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Micro-and-Lucky-Tree/README.md)                   |
-| **#19** | [`The Ghost Type`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/The-Ghost-Type/README.md) |
+| **#19** | [`The Ghost Type`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/The-Ghost-Type/README.md)                               |
+| **#20** | [`Akatsuki vs Leaf`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Akatsuki-vs-Leaf/README.md)                           |
