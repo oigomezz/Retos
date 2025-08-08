@@ -1123,3 +1123,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#11** | [`Fancy That!`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Fancy-That/README.md)                                      |
 | **#12** | [`Balls in Boxes`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Balls-in-Boxes/README.md)                               |
 | **#13** | [`Nim game`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Nim-Game/README.md)                                           |
+| **#14** | [`Arpa and choosing brother free subset`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Arpa/README.md)                  |
