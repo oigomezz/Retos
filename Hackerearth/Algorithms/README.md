@@ -1132,3 +1132,4 @@ Los retos no tienen relación entre ellos. Puedes resolverlos de manera totalmen
 | **#20** | [`Akatsuki vs Leaf`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Akatsuki-vs-Leaf/README.md)                           |
 | **#21** | [`Navi and his friend`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Navi-and-his-friend/README.md)                     |
 | **#22** | [`Xenny and Random Cubes`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/Xenny-and-Random-Cubes/README.md)               |
+| **#23** | [`When the Integers got upset!`](./Dynamic-Programming/Dynamic-Programming-and-Bit-Masking/When-the-Integers-got-upset/README.md)    |
